@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import requests
 from datetime import datetime
+import subprocess
 
 # Load API keys from .env
 load_dotenv()
@@ -68,4 +69,13 @@ if __name__ == "__main__":
         f.write(final_news)
 
     print("\n✅ Output saved to README.md\n")
-    print(final_news)
+    # print(final_news)
+
+    # Git commit and push
+    try:
+        subprocess.run(["git", "add", "README.md"], check=True)
+        subprocess.run(["git", "commit", "-m", f"Update tech news for {today}"], check=True)
+        subprocess.run(["git", "push", "origin"], check=True)
+        print("✅ Changes committed and pushed to origin.")
+    except subprocess.CalledProcessError as e:
+        print(f"Git error: {e}")
