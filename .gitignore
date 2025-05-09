@@ -1,5 +1,4 @@
 .env
 .venv
-*
 !README.md
 .gitignore
