@@ -1,4 +1,7 @@
 .env
 .venv
-!README.md
 .gitignore
+!README.md
+cron.log
+main.py
+*
