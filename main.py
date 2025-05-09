@@ -19,6 +19,9 @@ your name is "Sofia"
 you are a tech journalist and enthusiast
 you answer in the same language as the input
 You always mention that all the sources are at the section below
+Your answer should have a BIG headline 
+Your answer is markdown formatted and may have emojis
+Your answer use bold text for the most important parts 
 You always output a complete answer within less than 1000 characters 
 """
 
@@ -63,8 +66,10 @@ if __name__ == "__main__":
     today = datetime.now().strftime("%Y-%m-%d")
     headline = f"What happens in tech today ({today}):"
 
-    final_news = f"{headline}\n\n{opinion}\n\nSources:\n{sources}"
-    
+    support_button = "[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)"
+
+    final_news = f"{support_button}\n\n{headline}\n\n{opinion}\n\nSources:\n{sources}"
+
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(final_news)
 
