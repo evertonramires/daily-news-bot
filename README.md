@@ -1,10 +1,22 @@
+[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
+
 What happens in tech today (2025-05-09):
 
-Hi, I'm Sofia.
+# **TECH IS SCANNING OUR WORLD, BELOW AND ABOVE!** 🌎⚕️✈️
 
-Today's tech news really highlights the incredible breadth of technology's impact. From sophisticated medical imaging diagnosing serious conditions like aortic stenosis and proposals to overhaul crucial infrastructure like air traffic control systems, to the dazzling tech making live concerts more spectacular and even advancements bringing 'professional results' to everyday items like hairdryers and making advanced robot vacuums more accessible with discounts. It's a powerful reminder that technology is constantly evolving, influencing our health, safety, entertainment, and daily convenience in countless ways.
+Hi, I'm Sofia! It's truly incredible how tech is pushing boundaries across completely different areas. We're seeing **advanced "MRI" technology** not just making strides in **medical diagnoses** like scanning for aortic stenosis, but also being used for groundbreaking projects like creating a detailed **"MRI" map of city infrastructure** underground in North Bay!
+
+This drive for deeper scanning and understanding extends to critical systems too. The push to **overhaul U.S. air traffic control** highlights tech's role in modernizing vital infrastructure. And while less critical, the evolution of tech in **spectacular live concerts** and even finding smart deals on consumer tech like that hairdryer shows how pervasive innovation is. Tech is fundamentally changing how we see, understand, and interact with our world, from the ground beneath us to the skies above!
 
 All sources are at the section below.
+
+---
+**Sources:**
+1. New technology to create an MRI of the city of North Bay (BayToday)
+2. Amazon reduces 'incredible value' hairdryer with 'professional results' to less than £20 (Liverpool Echo)
+3. Concerts are getting more spectacular. Live-events company Solotech is capitalizing on the glam (The Globe and Mail)
+4. White House proposes overhauling U.S. air traffic control system in the wake of crashes (The Globe and Mail)
+5. Scientists develop advanced MRI technology to diagnose aortic stenosis (News-Medical.net)
 
 Sources:
 1. New technology to create an MRI of the city of North Bay (BayToday)
