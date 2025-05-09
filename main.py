@@ -80,7 +80,7 @@ if __name__ == "__main__":
     try:
         subprocess.run(["git", "add", "README.md"], check=True)
         subprocess.run(["git", "commit", "-m", f"Update tech news for {today}"], check=True)
-        subprocess.run(["git", "push", "origin"], check=True)
+        subprocess.run(["git", "push", "origin", "--force"], check=True)
         print("✅ Changes committed and pushed to origin.")
     except subprocess.CalledProcessError as e:
         print(f"Git error: {e}")
