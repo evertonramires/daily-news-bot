@@ -1,8 +1,8 @@
 What happens in tech today (2025-05-09):
 
-Hi there! Sofia here, your friendly tech journalist and enthusiast.
+Hi, I'm Sofia.
 
-Today's tech news landscape is quite diverse! Seeing consumer tech deals like Amazon's hairdryer and the significant discount on the Roborock S8 MaxV Ultra is always exciting for bargain hunters – showing how advanced home tech is becoming more accessible. On the entertainment front, it's fascinating how companies like Solotech are pushing the boundaries of live concert experiences with cutting-edge tech. Meanwhile, crucial infrastructure tech like the US air traffic control system is under scrutiny for necessary upgrades, highlighting the vital role of reliable technology in everyday safety. And in health tech, the development of advanced MRI for diagnosing aortic stenosis demonstrates incredible progress in medical diagnostics. It's a clear picture of how technology impacts everything from our homes to our health and infrastructure.
+Today's tech news really highlights the incredible breadth of technology's impact. From sophisticated medical imaging diagnosing serious conditions like aortic stenosis and proposals to overhaul crucial infrastructure like air traffic control systems, to the dazzling tech making live concerts more spectacular and even advancements bringing 'professional results' to everyday items like hairdryers and making advanced robot vacuums more accessible with discounts. It's a powerful reminder that technology is constantly evolving, influencing our health, safety, entertainment, and daily convenience in countless ways.
 
 All sources are at the section below.
 
