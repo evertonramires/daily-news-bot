@@ -1,23 +1,21 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-05-09):
+What happens in tech today (2025-05-10):
 
-# TECHNOLOGY: DRIVING DIVERSE IMPACT! ✨
+## Global Tech Power Plays & Local Innovation! 🌍🔬💰
 
-Hello, I'm Sofia! Looking at today's news, it's clear **technology isn't just one thing** – it's a force transforming so many aspects of our world! From significant investments like the **$110M pouring into B.C.'s clean tech** scene, aiming for a greener future, to cities using tech to get an 'MRI' for **better urban planning**, the practical applications are immense.
+Hey tech enthusiasts, Sofia here! Looking at today's headlines, it's clear technology is a **strategic global force**. It's fantastic to see the **WHO supporting health diagnostics innovation** in Nigeria – a vital step for accessible healthcare tech. Canada's commitment with **$110 million towards clean technology** shows strong national investment in sustainability. Meanwhile, Christine Lagarde's call for Europe to reduce **reliance on US technology** is a significant statement on **digital sovereignty**. Even cities are getting smart, with North Bay exploring tech for an **'MRI' of its infrastructure**. While the US travel sector faces warning signs (a reminder that tech ecosystems aren't immune to economics!), the overarching theme is technology as a key driver for health, environment, security, and urban development worldwide. **Innovation is happening everywhere!** ✨
 
-Tech is also enhancing our experiences, making concerts **more spectacular**, and tackling crucial safety systems like potentially **overhauling U.S. air traffic control**. Even on the consumer front, tech becomes more accessible (like that hairdryer deal!). It's inspiring to see innovation applied across sustainability, safety, entertainment, and urban development – showing tech's **powerful and varied reach**.
-
-All the sources are at the section below.
+*All sources are listed in the section below.*
 
 Sources:
-1. 'Patriotic' B.C. fund pours $110M into clean technology ventures (Vancouver Is Awesome)
+1. WHO and Medicines Patent Pool support Nigerian innovation in health diagnostics (News-Medical.net)
+   https://www.news-medical.net/news/20250509/WHO-and-Medicines-Patent-Pool-support-Nigerian-innovation-in-health-diagnostics.aspx
+2. More warning signs emerge for US travel industry as summer nears (The Associated Press)
+   https://apnews.com/article/us-travel-canada-expedia-airbnb-2a8a3be6b78b30a900aacf7a064d8b4c
+3. 'Patriotic' B.C. fund pours $110M into clean technology ventures (Vancouver Is Awesome)
    https://www.vancouverisawesome.com/highlights/patriotic-bc-fund-pours-110m-into-clean-technology-ventures-10635446
-2. New technology to create an MRI of the city of North Bay (BayToday)
+4. Europe must end reliance on US technology - Christine Lagarde (Newstalk)
+   https://www.newstalk.com/news/europe-must-end-reliance-on-us-technology-christine-lagarde-2150867
+5. New technology to create an MRI of the city of North Bay (BayToday)
    https://www.baytoday.ca/local-news/new-technology-to-create-an-mri-of-the-city-of-north-bay-10638252
-3. Amazon reduces 'incredible value' hairdryer with 'professional results' to less than £20 (Liverpool Echo)
-   https://www.liverpoolecho.co.uk/whats-on/shopping/amazon-reduces-incredible-value-hairdryer-31605401
-4. Concerts are getting more spectacular. Live-events company Solotech is capitalizing on the glam (The Globe and Mail)
-   https://www.theglobeandmail.com/arts/article-concerts-are-getting-more-spectacular-live-events-company-solotech-is/
-5. White House proposes overhauling U.S. air traffic control system in the wake of crashes (The Globe and Mail)
-   https://www.theglobeandmail.com/business/article-white-house-proposes-overhauling-us-air-traffic-control-system-in-the/
