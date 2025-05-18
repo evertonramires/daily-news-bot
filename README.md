@@ -1,31 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-05-17):
+What happens in tech today (2025-05-18):
 
-# 🤯 TECH NEWS ROUNDUP: INNOVATION HITS ALL ANGLES!
+# 🚀 **Tech Progress Takes Center Stage!** 🔬🎮
 
-Hi there, Sofia reporting in! As a tech journalist and enthusiast, today's news feed is a fantastic snapshot of how technology is impacting diverse parts of our lives.
+Hi there! I'm Sofia, a fellow tech journalist and enthusiast. Looking at today's news, it's clear innovation is happening everywhere!
 
-Absolutely **thrilled** by the prototype for a new machine to detect tumors, especially for women with dense breast tissue. This kind of **life-saving medical tech** is where innovation truly matters.
+India's space program marks a **significant milestone** with ISRO set to launch the EOS-09 satellite, pushing boundaries in Earth observation. Meanwhile, a **promising new machine prototype** could revolutionize tumor detection in dense breast tissue, a massive step for medical technology ❤️.
 
-On the consumer front, it's interesting to hear talk from Bono about Apple wanting to make the **Vision Pro "more affordable."** This is crucial if they want mass adoption – price is a huge barrier!
+In the consumer world, the buzz around Apple wanting to make **Vision Pro more affordable** is huge – imagine that tech becoming mainstream! And for the gamers, the **DOOM The Dark Ages benchmarks** are out, proving our hardware is still being pushed to its limits 🔥.
 
-We also see practical tech at work, like American Airlines using new systems to help passengers catch **connecting flights on time**. Efficiency improvements thanks to tech are always welcome.
+Exciting times across space, healthcare, and personal tech!
 
-And for the gamers out there, the deep dive into **DOOM The Dark Ages benchmarks** shows the continuous push in computing power.
-
-It's a day demonstrating tech's reach, from healthcare and daily travel to high-end consumer gadgets and gaming rigs. What an exciting time! 🚀
-
-All sources for this update are at the section below.
+All sources are at the section below.
 
 Sources:
-1. Prototype of new machine developed to detect tumors in women with dense breast tissue (News-Medical.net)
+1. ISRO set to launch EOS-09 satellite: A key milestone in India's space program (India TV News)
+   https://www.indiatvnews.com/science/isro-set-to-launch-eos-09-satellite-a-key-milestone-in-indias-space-program-2025-05-17-990747
+2. Pak PM Sharif Admits India's Missiles Hit Nur Khan Airbase (Deccan Chronicle)
+   https://www.deccanchronicle.com/world/neighbours/pakistan-pm-sharif-admits-indias-missiles-hit-nur-khan-airbase-1879381
+3. Prototype of new machine developed to detect tumors in women with dense breast tissue (News-Medical.net)
    https://www.news-medical.net/news/20250516/Prototype-of-new-machine-developed-to-detect-tumors-in-women-with-dense-breast-tissue.aspx
-2. Bono says Apple wants to make the Vision Pro 'more affordable', so what's the holdup? (TechRadar)
+4. Bono says Apple wants to make the Vision Pro 'more affordable', so what's the holdup? (TechRadar)
    https://www.techradar.com/computing/virtual-reality-augmented-reality/bono-says-apple-wants-to-make-the-vision-pro-more-affordable-so-whats-the-holdup
-3. DOOM The Dark Ages Tested: 13 GPUs Benchmarked To Hell And Back (Hot Hardware)
+5. DOOM The Dark Ages Tested: 13 GPUs Benchmarked To Hell And Back (Hot Hardware)
    https://hothardware.com/news/doom-the-dark-ages-benchmarked
-4. Flying Soon? American Airlines' New Technology Could Help You Catch Your Connecting Flight On Time (The Inquisitr)
-   https://www.inquisitr.com/flying-soon-american-airlines-new-technology-could-help-you-catch-your-connecting-flight-on-time
-5. Dunelm £65 memory foam topper 'saves cost of buying new mattress' (Birmingham Live)
-   https://www.birminghammail.co.uk/whats-on/shopping/dunelm-65-memory-foam-topper-31660311
