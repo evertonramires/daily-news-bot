@@ -1,25 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-05-22):
+What happens in tech today (2025-05-23):
 
-🚀 Tech's Double-Edged Sword: Progress & Pondering 🚀
+# Tech: Pushing Boundaries, Facing Realities 🚀🧬
 
-Hi, Sofia here! Wow, this week's tech news is a rollercoaster! From **mind-blowing CRISPR breakthroughs repairing brain cells** 🧠 and smarter protective masks, tech is clearly pushing the boundaries of health and safety.
+Hey there, I'm Sofia! Looking at today's headlines, it's wild how tech is shaping our world in so many ways. We're seeing **incredible strides like Anthropic's new AI model potentially coding for hours** – that's a game-changer for software development! Simultaneously, it's amazing to see the **Toronto Zoo proposing a vital biobank as a 'backup' for species at risk**, leveraging technology for critical conservation efforts, especially pertinent with Bill 5 discussions.
 
-Yet, it sparks big questions. AI chatbots as 'therapy' in Asia? 🤔 Powerful, but ethical? Facial recognition catching criminals 🚨 shows tech's surveillance power – great for safety here, but what about privacy? Even Turkey's nuclear energy talks with Candu highlight how **world-changing tech demands careful consideration**.
-
-Tech is an incredible force for good, tackling diseases and enhancing safety. But it also requires us to constantly debate its societal impact and ethical lines. It's a fascinating time!
+Yet, tech isn't without its hiccups. The questions surrounding **AFL's goal-line technology highlight that implementation and reliability** can still be challenging, even in sports. And hey, even everyday consumer tech like vacuums sparks debate! It's a fascinating time where innovation meets real-world application, sometimes perfectly, sometimes with bumps.
 
 All sources are at the section below.
 
 Sources:
-1. New CRISPR technology delivers RNA precisely to repair damaged brain cells (News-Medical.net)
-   https://www.news-medical.net/news/20250521/New-CRISPR-technology-delivers-RNA-precisely-to-repair-damaged-brain-cells.aspx
-2. New mask technology balances protection and comfort effectively (News-Medical.net)
-   https://www.news-medical.net/news/20250521/New-mask-technology-balances-protection-and-comfort-effectively.aspx
-3. In Taiwan and China, young people turn to AI chatbots for ‘cheaper, easier’ therapy (The Guardian)
-   https://www.theguardian.com/world/2025/may/22/ai-therapy-therapist-chatbot-taiwan-china-mental-health
-4. Turkey in nuclear plant talks with Candu, energy minister says (The Globe and Mail)
-   https://www.theglobeandmail.com/world/article-turkey-in-nuclear-plant-talks-with-candu-energy-minister-says/
-5. Sex offender found with six-year-old girl after facial recognition technology spots him (Sky News)
-   https://news.sky.com/story/sex-offender-found-with-six-year-old-girl-after-facial-recognition-technology-spots-him-13372194
+1. Toronto Zoo proposes biobank 'backup' for species at risk if Bill 5 passes (BayToday)
+   https://www.baytoday.ca/local-news/toronto-zoo-proposes-biobank-back-up-for-species-at-risk-if-bill-5-passes-10698590
+2. Toronto Zoo proposes biobank 'backup' for species at risk if Bill 5 passes (SooToday)
+   https://www.sootoday.com/local-news/toronto-zoo-proposes-biobank-back-up-for-species-at-risk-if-bill-5-passes-10698025
+3. Geelong coach Chris Scott questions AFL’s goal-line technology after controversial review (7NEWS.com.au)
+   https://7news.com.au/sport/afl/geelong-coach-chris-scott-questions-afls-goal-line-technology-after-controversial-review--c-18785558
+4. Startup Anthropic says its new AI model can code for hours at a time (Yahoo Singapore News)
+   https://sg.news.yahoo.com/startup-anthropic-says-ai-model-164821598.html
+5. My £219 Hoover is 'more effective' than a Dyson and reduced to £109 in Bank Holiday Sale (Manchester Evening News)
+   https://www.manchestereveningnews.co.uk/news/money-saving/hoover-cordless-vacuum-cleaner-dyson-31691441
