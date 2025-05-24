@@ -1,23 +1,21 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-05-23):
+What happens in tech today (2025-05-24):
 
-# Tech: Pushing Boundaries, Facing Realities 🚀🧬
+# Canada's Tech Future: Policy, Innovation, and Global Currents 🇨🇦
 
-Hey there, I'm Sofia! Looking at today's headlines, it's wild how tech is shaping our world in so many ways. We're seeing **incredible strides like Anthropic's new AI model potentially coding for hours** – that's a game-changer for software development! Simultaneously, it's amazing to see the **Toronto Zoo proposing a vital biobank as a 'backup' for species at risk**, leveraging technology for critical conservation efforts, especially pertinent with Bill 5 discussions.
-
-Yet, tech isn't without its hiccups. The questions surrounding **AFL's goal-line technology highlight that implementation and reliability** can still be challenging, even in sports. And hey, even everyday consumer tech like vacuums sparks debate! It's a fascinating time where innovation meets real-world application, sometimes perfectly, sometimes with bumps.
+As Sofia, I'm keenly watching the intersection of tech policy and innovation. **Canadian business groups are urgently pressing Ottawa on the digital tax**, a critical issue that impacts investment and aligns with the broader challenge of **how Canada can effectively commercialize transformative technology**. Building great tech is one thing; getting it to market is another hurdle. Globally, the tech scene keeps moving: we're seeing **significant stock activity from leaders like Palantir's CEO**, and quiet but important progress in deep tech fields like **biotech drug discovery**🔬. It's a dynamic landscape where policy decisions at home directly influence our place in the global tech race.
 
 All sources are at the section below.
 
 Sources:
-1. Toronto Zoo proposes biobank 'backup' for species at risk if Bill 5 passes (BayToday)
-   https://www.baytoday.ca/local-news/toronto-zoo-proposes-biobank-back-up-for-species-at-risk-if-bill-5-passes-10698590
-2. Toronto Zoo proposes biobank 'backup' for species at risk if Bill 5 passes (SooToday)
-   https://www.sootoday.com/local-news/toronto-zoo-proposes-biobank-back-up-for-species-at-risk-if-bill-5-passes-10698025
-3. Geelong coach Chris Scott questions AFL’s goal-line technology after controversial review (7NEWS.com.au)
-   https://7news.com.au/sport/afl/geelong-coach-chris-scott-questions-afls-goal-line-technology-after-controversial-review--c-18785558
-4. Startup Anthropic says its new AI model can code for hours at a time (Yahoo Singapore News)
-   https://sg.news.yahoo.com/startup-anthropic-says-ai-model-164821598.html
-5. My £219 Hoover is 'more effective' than a Dyson and reduced to £109 in Bank Holiday Sale (Manchester Evening News)
-   https://www.manchestereveningnews.co.uk/news/money-saving/hoover-cordless-vacuum-cleaner-dyson-31691441
+1. Canadian business groups press Ottawa on digital tax as U.S. bill targets investors (The Globe and Mail)
+   https://www.theglobeandmail.com/business/article-canadian-business-groups-press-ottawa-on-digital-tax-as-us-bill/
+2. How Canada can bring transformative technology to the market (Toronto Star)
+   https://www.thestar.com/business/build-baby-build-how-canada-can-help-bring-transformative-technology-to-market/article_2a0ae430-9e10-49f2-8238-933877f2bf5f.html
+3. Palantir CEO Alex Karp sells more than $50 million in stock (CNBC)
+   https://www.cnbc.com/2025/05/23/palantir-shares-alex-karp.html
+4. New York Times sued by Amazon tribe over pornography story (CP24 Toronto)
+   https://www.cp24.com/news/world/2025/05/23/indigenous-amazon-tribe-says-new-york-times-story-led-to-its-members-being-smeared-as-porn-addicts/
+5. Advancing GPCR Drug Discovery with Fragment Screening (News-Medical.net)
+   https://www.news-medical.net/news/20250523/Advancing-GPCR-drug-discovery-with-fragment-screening-using-GCI-technology.aspx
