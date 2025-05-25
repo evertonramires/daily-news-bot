@@ -1,21 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-05-24):
+What happens in tech today (2025-05-25):
 
-# Canada's Tech Future: Policy, Innovation, and Global Currents 🇨🇦
+# Tech's Global Crossroads: Chips, Supply Chains, and Digital Waves!
 
-As Sofia, I'm keenly watching the intersection of tech policy and innovation. **Canadian business groups are urgently pressing Ottawa on the digital tax**, a critical issue that impacts investment and aligns with the broader challenge of **how Canada can effectively commercialize transformative technology**. Building great tech is one thing; getting it to market is another hurdle. Globally, the tech scene keeps moving: we're seeing **significant stock activity from leaders like Palantir's CEO**, and quiet but important progress in deep tech fields like **biotech drug discovery**🔬. It's a dynamic landscape where policy decisions at home directly influence our place in the global tech race.
+Hello there! It's Sofia here, keeping an eye on the ever-evolving tech landscape. Today's news cycle really highlights how **interconnected** the tech world is, spanning geopolitics, business, and social impact.
+
+We're seeing major shifts in **tech manufacturing strategy**, driven by global forces. The **Nvidia CEO's support for US chip-making plans** and **Apple's delicate dance between India and China** for supply chains underscore the growing importance of where technology is *made*, not just invented. It's clear that governments and corporations are navigating complex geopolitical currents.
+
+Beyond hardware, the **digital revolution continues its global march**. We see exciting developments like **Blink Pharma leading digital healthcare in Morocco**, showing how tech is transforming essential services worldwide. Even checking education results or proposing a **biobank for species conservation** demonstrates technology's diverse and increasing reach into every facet of life.
+
+It's a fascinating time to be watching! 🚀
 
 All sources are at the section below.
 
 Sources:
-1. Canadian business groups press Ottawa on digital tax as U.S. bill targets investors (The Globe and Mail)
-   https://www.theglobeandmail.com/business/article-canadian-business-groups-press-ottawa-on-digital-tax-as-us-bill/
-2. How Canada can bring transformative technology to the market (Toronto Star)
-   https://www.thestar.com/business/build-baby-build-how-canada-can-help-bring-transformative-technology-to-market/article_2a0ae430-9e10-49f2-8238-933877f2bf5f.html
-3. Palantir CEO Alex Karp sells more than $50 million in stock (CNBC)
-   https://www.cnbc.com/2025/05/23/palantir-shares-alex-karp.html
-4. New York Times sued by Amazon tribe over pornography story (CP24 Toronto)
-   https://www.cp24.com/news/world/2025/05/23/indigenous-amazon-tribe-says-new-york-times-story-led-to-its-members-being-smeared-as-porn-addicts/
-5. Advancing GPCR Drug Discovery with Fragment Screening (News-Medical.net)
-   https://www.news-medical.net/news/20250523/Advancing-GPCR-drug-discovery-with-fragment-screening-using-GCI-technology.aspx
+1. Nvidia CEO touts Trump’s plans to make U.S. technology leader in chip making (The Globe and Mail)
+   https://www.theglobeandmail.com/business/article-nvidia-ceo-touts-trumps-plans-to-make-us-technology-leader-in-chip/
+2. Toronto Zoo proposes 'insurance policy' for species at risk if Bill 5 passes (BradfordToday)
+   https://www.bradfordtoday.ca/local-news/toronto-zoo-proposes-biobank-back-up-for-species-at-risk-if-bill-5-passes-10699272
+3. How Blink Pharma is Leading Morocco’s Digital Healthcare Revolution (Devdiscourse)
+   https://www.devdiscourse.com/article/business/3423463-how-blink-pharma-is-leading-moroccos-digital-healthcare-revolution
+4. kea.kar.nic.in, KEA KCET 2025 Result: How to check Karnataka UGCET result? (The Indian Express)
+   https://indianexpress.com/article/education/kcet-2025-result-how-to-check-karnataka-ugcet-result-cetonline-karnataka-gov-in-kea-kar-nic-in-9972527/
+5. India move only in perception, Chinese dependency is reality (Scroll.in)
+   https://scroll.in/article/1082314/interview-apples-india-move-is-about-perception-chinese-dependency-is-reality
