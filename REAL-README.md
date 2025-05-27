@@ -6,8 +6,8 @@ This project is a simple AI agent that fetches daily news from the internet and 
 
 - Python
 - [uv](https://github.com/astral-sh/uv)
-- Google Gemini API key
-- [gnews api key](https://gnews.io/)
+- [Google Gemini API key](https://aistudio.google.com/app/apikey)
+- [Gnews API Key](https://gnews.io/)
 
 ## Installation
 
