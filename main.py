@@ -39,6 +39,7 @@ def notify (message):
         try:
             response = requests.post(webhook_url, json=payload)
             response.raise_for_status()
+            print(f"✅Notification sent: {validNotification}")
         except requests.RequestException as e:
             print(f"Failed to send notification: {e}")
     else:
