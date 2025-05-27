@@ -46,17 +46,18 @@ def notify (message):
         print("No webhook URL configured for notifications.")
 
 # Function to evaluate text that will be sent to webhook
-def evaluate_notification(text):
+def evaluate_notification(notificationText):
     try:
         response = model.generate_content(
             f""" Evaluate the text bellow and IF it is greater than 140 characters, summarize it,
               your final answer is ONLY the original text if it is small enought OR a small summary you created. Go ahead, analyze this text:\n\n
             
-            {text}\n\n
+            {notificationText}\n\n
             
-            Remember, you can only answer with a text smaller than 140 characters. NOTHING ELSE.
+            Remember, your answer MUST have less than 140 characters. NOTHING ELSE.
             \n\nYour final answer is:"""
         )
+        print(f"Notification evaluation result: {response.text}")
         return response.text
     except Exception as e:
         print(f"Error: {e}")
@@ -78,6 +79,7 @@ def evaluate_opinion(opinion):
             Remember, you can only answer with a single number, either 0 for false or 1 for true. NOTHING ELSE.
             \n\nYour final answer is (0 or 1):"""
         )
+        print(f"Opinion evaluation result: {response.text}")
         return response.text
     except Exception as e:
         print(f"Error: {e}")
