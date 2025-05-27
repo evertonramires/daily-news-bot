@@ -152,7 +152,7 @@ if __name__ == "__main__":
             subprocess.run(["git", "commit", "-m", f"Update tech news for {today}"], check=True)
             subprocess.run(["git", "push", "origin", "--force"], check=True)
             print("✅ Changes committed and pushed to origin.")
-            notify("✅ News Published for {today}.")
+            notify(f"✅ News Published for {today}.")
 
         except subprocess.CalledProcessError as e:
             print(f"Git error: {e}")
