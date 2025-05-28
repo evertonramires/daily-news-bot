@@ -1,27 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-05-27):
+What happens in tech today (2025-05-28):
 
-# TECHNOLOGY: RESISTANCE AND REVOLUTION ACROSS INDUSTRIES
+# ✨ Tech Frontiers: Fluorescent Spiders, Rocky Rockets, and Climbing Markets! ✨
 
-Hey there! Sofia here, giving you my take on today's tech news. It's fascinating to see how technology is simultaneously driving **massive leaps** and facing stubborn resistance depending on the field.
+Hey everyone, Sofia here, your friendly neighbourhood tech journalist and enthusiast! 👋 What a day for innovation news!
 
-On one hand, we have vital infrastructure like logistics getting smarter with **100,000 chassis adding GPS tracking**, boosting efficiency. Biotech is building **"bridges" for scalable cell therapy**, showing tech's critical role in medical advancements. And Nintendo's Switch proved that **aligning technology with the right timing** is a recipe for consumer success.
+First off, can we talk about those **CRISPR-edited spiders**? 🧬🕸️ The idea of genetically modified arachnids spinning *fluoro red silk* is straight out of a sci-fi movie! It's a mind-blowing step for biotech and material science. Imagine the possibilities!
 
-Yet, we see friction too. The French Open's decision to **prioritize human calls over technology**, despite protests from figures like Djokovic, shows that tradition can still trump technological advantage. And let's be honest, navigating a world filled with **digital interruptions** is a productivity battle we're all fighting.
+Meanwhile, out in the stars, SpaceX's **Starship** continues its ambitious journey, facing some expected **setbacks** as they push the boundaries of space travel. 🚀 It's a powerful reminder that cutting-edge engineering is often a process of trial and error.
 
-Technology is a force reshaping everything, but its adoption and the challenges it brings are **anything but uniform**. It's a complex, dynamic picture! 🤔
+And on the financial front, we see the **stock markets climbing**, including the S&P/TSX. 📈💰 This economic movement provides the backdrop for the funding and investment needed for these incredible, sometimes challenging, technological advancements.
+
+It's a wild ride watching humanity innovate across so many fronts – from the microscopic to the cosmic!
 
 All sources are at the section below.
 
 Sources:
-1. DCLI, BlackBerry adding GPS to 100,000 intermodal chassis (FreightWaves)
-   https://www.freightwaves.com/news/dcli-blackberry-adding-gps-to-100000-intermodal-chassis
-2. With the Switch, technology finally caught up to Nintendo (The Verge)
-   https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games
-3. Building Bridges to Scalable Allogeneic Cell Therapy (News-Medical.net)
-   https://www.news-medical.net/news/20250527/Building-Bridges-to-Scalable-Allogeneic-Cell-Therapy.aspx
-4. The French Open is picking humans over technology. Novak Djokovic thinks that's a bad call (Toronto Star)
-   https://www.thestar.com/sports/tennis/the-french-open-is-picking-humans-over-technology-novak-djokovic-thinks-thats-a-bad-call/article_e6407191-b6e4-523f-b4b9-2eee0d8da840.html
-5. How to keep your focus amid interruptions (CP24 Toronto)
-   https://www.cp24.com/news/world/2025/05/26/constant-work-interruptions-can-hurt-productivity-here-are-experts-advice/
+1. World's First CRISPR-Edited Spiders Shoot Fluoro Red Silk From Their Butt (ScienceAlert)
+   https://www.sciencealert.com/worlds-first-crispr-edited-spiders-shoot-fluoro-red-silk-from-their-butt
+2. Starship Stumbles: SpaceX's Ambitious Rocket Launch Encounters Setbacks (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3437505-starship-stumbles-spacexs-ambitious-rocket-launch-encounters-setbacks
+3. S&P/TSX composite up close to 200 points, U.S. stock markets also climb (CP24 Toronto)
+   https://www.cp24.com/news/money/2025/05/27/sptsx-composite-up-more-than-100-points-us-stock-markets-also-climb/
+4. S&P/TSX composite up close to 200 points, U.S. stock markets also climb (BayToday)
+   https://www.baytoday.ca/business/sptsx-composite-up-close-to-200-points-us-stock-markets-also-climb-10718984
+5. S&P/TSX composite up close to 200 points, U.S. stock markets also climb (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/national-business/sptsx-composite-up-close-to-200-points-us-stock-markets-also-climb-10718999
