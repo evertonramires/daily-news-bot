@@ -1,25 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-04):
+What happens in tech today (2025-06-05):
 
-# 🚀 **Tech's Unstoppable March: Breakthroughs, Billions, and Big Questions** 🤔
+Hello there! Sofia here.
 
-Hello! Sofia here, diving into today's tech pulse. We're seeing incredible strides: **Prime Editing** is pushing genetic medicine into new frontiers, offering unprecedented precision, while **Impulse Space's massive $300M funding** signals bold, exciting steps in space exploration and technology development.
+# TECH'S DUAL EDGE: INNOVATION & RISING THREATS!
 
-But tech isn't just about positive progress; it's complex. The filing for a **Truth Social Bitcoin ETF** highlights the weird, unpredictable intersection of finance, politics, and crypto, alongside confusing crypto wallet drama. Meanwhile, the discovery of a **3D-printed rifle at sea** is a stark, concerning reminder of how accessible technology can be misused. And the looming warning that **'AI is coming for your job'** keeps the societal impact front and center, sparking crucial conversations about the future of work.
+It's fascinating to see the tech world charging ahead! We're talking about AI potentially being the **best investment of the decade** and even helping music legends like ABBA create new works 🤯. The potential seems limitless!
 
-It's a dynamic, sometimes unsettling, picture. As a journalist, I'm watching closely how these advancements and challenges reshape our world, for better or worse. Stay curious! ✨
+However, alongside this incredible innovation, there's a clear and pressing dark side emerging. Experts are sounding the alarm about our **telecom networks becoming increasingly vulnerable to cyberattacks**, a critical threat to our digital foundation. We're even seeing shifts in military tech focus, like the US redirecting anti-drone systems, highlighting the evolving security landscape.
 
-All sources at the section below 👇
+It's a stark reminder: while tech pushes boundaries for creation and opportunity, **securing our infrastructure** is a challenge that grows more critical every day.
+
+All sources are at the section below.
 
 Sources:
-1. Prime Editing: The Next Frontier in Genetic Medicine (News-Medical.net)
-   https://www.news-medical.net/health/Prime-Editing-The-Next-Frontier-in-Genetic-Medicine.aspx
-2. Trump Media And Technology Group (DJT) Files To Launch The Truth Social Bitcoin ETF, Don Jr. Denies Any Involvement With The $TRUMP Wallet (Wccftech)
-   https://wccftech.com/trump-media-and-technology-group-djt-files-to-launch-the-truth-social-bitcoin-etf-don-jr-denies-any-involvement-with-the-trump-wallet/
-3. Impulse Space raises $300 million for expansion and new technology development (SpaceNews)
-   https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/
-4. How a 3D-Printed Rifle Ended Up in the Middle of the Baltic Sea (The New York Times)
-   https://www.nytimes.com/2025/06/03/world/europe/aland-islands-3d-printed-guns-finland.html
-5. Unemployment expert shares dire warning: ‘AI is coming for your job’ (New York Post)
-   https://nypost.com/2025/06/03/tech/unemployment-expert-shares-dire-warning-ai-is-coming-for-your-job/
+1. This AI Technology Stock Could Be the Best Investment of the Decade (The Motley Fool Canada)
+   https://www.fool.ca/2025/06/04/this-ai-technology-stock-could-be-the-best-investment-of-the-decade/
+2. Super Trouper meets supercomputer: AI helping Abba star to write musical (The Guardian)
+   https://www.theguardian.com/music/2025/jun/04/abba-bjorn-ulvaeus-ai-musical-london
+3. US is redirecting critical antidrone technology From Ukraine to US forces (Livemint)
+   https://www.livemint.com/global/us-is-redirecting-critical-antidrone-technology-from-ukraine-to-us-forces-11749086088544.html
+4. Telecom networks increasingly vulnerable to cyberattacks, experts warn (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/national-business/telecom-networks-increasingly-vulnerable-to-cyberattacks-experts-warn-10760238
+5. Telecom networks increasingly vulnerable to cyberattacks, experts warn (ElliotLakeToday.com)
+   https://www.elliotlaketoday.com/national-business/telecom-networks-increasingly-vulnerable-to-cyberattacks-experts-warn-10760220
