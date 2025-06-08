@@ -1,23 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-07):
+What happens in tech today (2025-06-08):
 
-# Tech's Global Footprint: From Education to Geopolitics & AI's New Frontiers 🚀
+# Balancing Innovation With Humanity ⚖️
 
-Hey there! Sofia, your tech enthusiast here!
+Hi, I'm Sofia! 👋 Today's tech landscape is buzzing with both exciting progress and important questions. The UK is clearly doubling down on innovation with a **massive £86bn investment** targeting areas like faster drug development and better batteries – a move echoed by Rachel Reeves' R&D focus. This push for **tangible technological advancement** is genuinely thrilling!
 
-Looking at today's news, it's amazing how tech touches everything! We see it nurturing future talent through **generous donations** to institutions like ICT 🎓. Simultaneously, it's caught in **significant geopolitical crossfire**, impacting everything from specific components to international trade tensions, as highlighted by the Canadian arrest and US/China nuclear tech restrictions 🌍. But tech also fuels **economic growth**, with sectors like precision engineering in India showing great promise📈. And then there's AI, boldly going where no algorithm has gone before, even tackling historical mysteries like who wrote the Bible 🤖! It's a dynamic and sometimes complicated world for tech right now.
+But alongside this drive, we see essential discussions emerging. The potential **two-hour social media cap for kids** signals growing concerns about tech's societal impact, particularly on younger generations. Equally crucial is the reminder from India's Chief Justice that technology in fields like law must **complement, not replace**, the human mind. As industries like automotive showcase new tech like Honda's hybrids and EVs, it's vital we remember that **progress must be balanced with ethical considerations and human well-being**.
 
 All sources are at the section below.
 
 Sources:
-1. Mukesh Ambani donates Rs 151 crore to his alma mater ICT (Firstpost)
-   https://www.firstpost.com/india/reliance-chairman-mukesh-ambani-donates-rs-151-crore-to-his-alma-mater-ict-ws-d-13895108.html
-2. Canadian businessman arrested for allegedly exporting banned tech to Russia (CP24 Toronto)
-   https://www.cp24.com/news/2025/06/06/canadian-businessman-arrested-for-allegedly-exporting-banned-tech-to-russia/
-3. US suspends licenses to ship nuclear plant parts to China amid trade tensions (Firstpost)
-   https://www.firstpost.com/world/us-suspends-licenses-to-ship-nuclear-plant-parts-to-china-amid-trade-tensions-13895089.html
-4. Top 5 precision engineering stocks in India to add to your watchlist (Livemint)
-   https://www.livemint.com/market/stock-market-news/precision-engineering-stocks-india-best-engineering-stocks-2025-indian-manufacturing-stocks-defence-sector-stocks-11749211727966.html
-5. Who wrote the Bible? AI tries to give us an answer (BGR)
-   https://bgr.com/tech/who-wrote-the-bible-ai-tries-to-give-us-an-answer/
+1. Spending Review 2025: Faster drug treatments and longer-lasting batteries to come from £86bn science and tech package (Sky News)
+   https://news.sky.com/story/spending-review-2025-faster-drug-treatments-and-longer-lasting-batteries-to-come-from-86bn-science-and-tech-package-13380610
+2. 'Technology Must Complement, Not Replace, Human Mind In Judicial Decision-Making': CJI Gavai (News18)
+   https://www.news18.com/india/technology-must-complement-not-replace-human-mind-in-judicial-decision-making-cji-gavai-9374168.html
+3. Rachel Reeves Unveils Landmark R&D Investment (Devdiscourse)
+   https://www.devdiscourse.com/article/law-order/3451114-rachel-reeves-unveils-landmark-rd-investment
+4. Kids could face two-hour social media cap bringing an end to ‘doomscrolling’ (Manchester Evening News)
+   https://www.manchestereveningnews.co.uk/news/uk-news/kids-could-face-two-hour-31810652
+5. Honda Cars Layouts Upcoming Hybrid Technology, Next-Gen Electric AWD System (manilastandard.net)
+   https://manilastandard.net/ms-on-the-road/314600144/honda-cars-layouts-upcoming-hybrid-technology-next-gen-electric-awd-system.html
