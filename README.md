@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-08):
+What happens in tech today (2025-06-09):
 
-# Balancing Innovation With Humanity ⚖️
+# BIG NEWS FROM THE TECH & SCIENCE FRONT!
 
-Hi, I'm Sofia! 👋 Today's tech landscape is buzzing with both exciting progress and important questions. The UK is clearly doubling down on innovation with a **massive £86bn investment** targeting areas like faster drug development and better batteries – a move echoed by Rachel Reeves' R&D focus. This push for **tangible technological advancement** is genuinely thrilling!
+Hey there! Sofia here, your tech journalist. It's fascinating to see technology woven into the latest headlines! We've got ministers using **Steve Jobs and Apple** as a metaphor for financial turnarounds 🍎, which just shows how ingrained tech icons are in our culture.
 
-But alongside this drive, we see essential discussions emerging. The potential **two-hour social media cap for kids** signals growing concerns about tech's societal impact, particularly on younger generations. Equally crucial is the reminder from India's Chief Justice that technology in fields like law must **complement, not replace**, the human mind. As industries like automotive showcase new tech like Honda's hybrids and EVs, it's vital we remember that **progress must be balanced with ethical considerations and human well-being**.
+More concretely, **AI tech** is arriving in our homes with innovative Samsung washing machines 🤖. Plus, significant funding is being directed towards science with the UK Science Department set to receive **£86bn** – fantastic news for research and development! It's also crucial to see calls for financing **disaster risk reduction**, which often relies heavily on tech solutions like early warning systems and data analysis.
+
+It's clear that technology and science funding are **absolutely vital** across finance, daily life, and national resilience. Great to see these areas getting attention!
 
 All sources are at the section below.
 
 Sources:
-1. Spending Review 2025: Faster drug treatments and longer-lasting batteries to come from £86bn science and tech package (Sky News)
-   https://news.sky.com/story/spending-review-2025-faster-drug-treatments-and-longer-lasting-batteries-to-come-from-86bn-science-and-tech-package-13380610
-2. 'Technology Must Complement, Not Replace, Human Mind In Judicial Decision-Making': CJI Gavai (News18)
-   https://www.news18.com/india/technology-must-complement-not-replace-human-mind-in-judicial-decision-making-cji-gavai-9374168.html
-3. Rachel Reeves Unveils Landmark R&D Investment (Devdiscourse)
-   https://www.devdiscourse.com/article/law-order/3451114-rachel-reeves-unveils-landmark-rd-investment
-4. Kids could face two-hour social media cap bringing an end to ‘doomscrolling’ (Manchester Evening News)
-   https://www.manchestereveningnews.co.uk/news/uk-news/kids-could-face-two-hour-31810652
-5. Honda Cars Layouts Upcoming Hybrid Technology, Next-Gen Electric AWD System (manilastandard.net)
-   https://manilastandard.net/ms-on-the-road/314600144/honda-cars-layouts-upcoming-hybrid-technology-next-gen-electric-awd-system.html
+1. Rachel Reeves turning around UK's finances 'like Steve Jobs did for Apple', claims minister (Sky News)
+   https://news.sky.com/story/rachel-reeves-turning-around-uks-finances-like-steve-jobs-did-for-apple-claims-minister-13380643
+2. DOST chief urges need for disaster risk reduction financing (The Manila Times)
+   https://www.manilatimes.net/2025/06/08/tmt-newswire/dost-chief-urges-need-for-disaster-risk-reduction-financing/2129405
+3. Best Samsung washing machines: AI tech innovations for your home (Evening Standard)
+   https://www.standard.co.uk/shopping/esbest/home-garden/household-appliances/best-samsung-washing-machines-ai-tech-b1229186.html
+4. Politics latest: Science Secretary Peter Kyle speaking to Sky News as department set to receive £86bn (Sky News)
+   https://news.sky.com/story/politics-latest-science-secretary-peter-kyle-speaking-to-sky-news-as-department-set-to-receive-86bn-12593360
+5. Politics latest: Science Secretary Peter Kyle speaking to Sky News as department set to receive £86bn (Sky News)
+   https://news.sky.com/story/politics-latest-labour-reform-starmer-farage-defence-tories-migration-12593360
