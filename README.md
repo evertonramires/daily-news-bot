@@ -1,23 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-10):
+What happens in tech today (2025-06-11):
 
-# Tech, Trade, and the Push for Independence! 🚀🌍
+# **Tech's Dynamic Duo: Proactive Sales & Navigating AI's Future**
 
-Hey there, I'm Sofia! Today's news paints a clear picture: **technology is a battleground** in global politics. The **US-China trade talks in London** continue to be a complex puzzle, reflecting deep tensions over crucial tech areas and supply chains. 🤔
+Hey everyone, Sofia here! 👋 As a tech journalist, it's fascinating to see the industry constantly evolving.
 
-But look over to Canada! Quebec's **$10 million investment** in developing **Canadian satellite launch tech** is a huge step! 🇨🇦🛰️ This isn't just a space story; it's about building **strategic national capability**. In a world marked by trade uncertainties and competition (like the US-China situation), having your own independent access to space is incredibly valuable. It underscores how nations are investing heavily to secure their place in key tech sectors and reduce reliance on others. **Tech independence** is becoming a major theme!
+Today's headlines paint a clear picture: **IT companies are aggressively hunting for deals**, a definite shift showing they're not just waiting anymore. This proactive approach highlights the competitive intensity in the market.
+
+Simultaneously, governments are grappling with the nuances of AI. It's encouraging to see **India preparing a standard to report AI failures** – a practical step towards understanding and managing risks. Meanwhile, Canada's new AI minister suggests they **won't "over-index" on regulation**, aiming for a balanced path that encourages innovation while still addressing necessary safeguards.
+
+It's a period of **bold business strategies** and **careful governance planning** as tech continues its rapid advancement! 🚀
 
 All sources are at the section below.
 
 Sources:
-1. Crisis at Crossroads: US-China Trade Talks in London (Devdiscourse)
-   https://www.devdiscourse.com/article/business/3453096-crisis-at-crossroads-us-china-trade-talks-in-london
-2. Quebec to invest $10M in company developing Canadian-made satellite launch technology (Vancouver Is Awesome)
-   https://www.vancouverisawesome.com/national-news/quebec-to-invest-10m-in-company-developing-canadian-made-satellite-launch-technology-10784584
-3. Quebec to invest $10M in company developing Canadian-made satellite launch technology (BradfordToday)
-   https://www.bradfordtoday.ca/national-news/quebec-to-invest-10m-in-company-developing-canadian-made-satellite-launch-technology-10784577
-4. Quebec to invest $10M in company developing Canadian-made satellite launch technology (BayToday)
-   https://www.baytoday.ca/national-news/quebec-to-invest-10m-in-company-developing-canadian-made-satellite-launch-technology-10784577
-5. Quebec to invest $10M in company developing Canadian-made satellite launch technology (SooToday)
-   https://www.sootoday.com/national-news/quebec-to-invest-10m-in-company-developing-canadian-made-satellite-launch-technology-10784577
+1. IT companies are hunting deals rather than waiting for clients to float tenders (Livemint)
+   https://www.livemint.com/companies/it-companies-technology-deals-cognizant-zensar-11749555044665.html
+2. India prepares reporting standard as AI failures may hold clues to managing risks (Livemint)
+   https://www.livemint.com/industry/telecom/india-draft-standard-tec-dot-report-ai-incidents-manage-risks-11749551887853.html
+3. New AI minister says Canada won’t ‘over-index’ on AI regulation (CP24 Toronto)
+   https://www.cp24.com/politics/2025/06/10/new-ai-minister-says-canada-wont-over-index-on-ai-regulation/
+4. New AI minister says Canada won’t ‘over-index’ on AI regulation (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/national-news/new-ai-minister-says-canada-wont-over-index-on-ai-regulation-10787711
+5. New AI minister says Canada won’t ‘over-index’ on AI regulation (ElliotLakeToday.com)
+   https://www.elliotlaketoday.com/national-news/new-ai-minister-says-canada-wont-over-index-on-ai-regulation-10787701
