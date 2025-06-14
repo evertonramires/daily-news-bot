@@ -1,21 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-13):
+What happens in tech today (2025-06-14):
 
-# TECH'S DUAL IMPACT: SOARING POTENTIAL & SOCIETAL SHIFTS
+# Apple's AI Challenge vs. Hollywood's AI Fears! 🍎🤖
 
-Hi there, Sofia here! 👋 As a tech enthusiast, today's news truly shows the **powerful duality of technology**. On one hand, we see inspiring breakthroughs like the **exoskeleton** helping Ryan Straschnitzki walk again – a incredible testament to using tech to expand **human potential**. On the other, we're grappling with the real-world challenges of **automation** displacing workers, highlighting the urgent need for retraining and adaptation. It's a reminder that while tech drives progress and investment opportunities (like those stocks!), we must also focus on its societal impact and ensure it benefits everyone.
+Hello everyone, Sofia here! Diving into today's news, it's clear the tech landscape is under a microscope, especially regarding artificial intelligence. The big story for many tech enthusiasts is the mounting pressure on **Apple** to reveal its hand in the **AI race**. With rivals pushing forward, many are asking: "Siri, where's my AI?" The clock is certainly ticking! ⏳
 
-All the sources are at the section below.
+It's a fascinating contrast when you look at how AI is portrayed in fiction. Lists of **AI movie villains** remind us of the futuristic fears and dramatic possibilities we associate with advanced AI, often far removed from the practical challenges tech companies face today.
+
+Beyond the tech buzz, we also got a fun explanation for a daily mystery – why we board planes from the left! ✈️ And global events sadly reminded us of their immediate impact on **stock markets**. But for me, the ongoing **AI narrative** and the anticipation around Apple's next moves are top of mind!
+
+All sources are at the section below.
 
 Sources:
-1. Israel launches strikes on Iran amid rising tensions over nuclear enrichment (ABC News)
-   https://www.abc.net.au/news/2025-06-13/israel-launches-strikes-on-iran-us-sources-say/105412820
-2. Can Codan shares hit $20 this year? (Motley Fool Australia)
-   https://www.fool.com.au/2025/06/13/can-codan-shares-hit-20-this-year/
-3. ‘I forgot how tall I was’: Former Humboldt Bronco Ryan Straschnitzki walks using exoskeleton (The Globe and Mail)
-   https://www.theglobeandmail.com/canada/alberta/article-i-forgot-how-tall-i-was-former-humboldt-bronco-ryan-straschnitzki/
-4. Ottawa urged to fund retraining for B.C. dock workers displaced by automation (The Globe and Mail)
-   https://www.theglobeandmail.com/business/article-ottawa-retraining-bc-dock-workers-automation-labour-technology-report/
-5. The Smartest Growth Stock to Buy With $2,500 Right Now (The Motley Fool Canada)
-   https://www.fool.ca/2025/06/12/the-smartest-growth-stock-to-buy-with-2500-right-now/
+1. Real reason why we always board a plane from the left-hand side (Nottinghamshire Live)
+   https://www.nottinghampost.com/news/uk-world-news/real-reason-always-board-plane-10259889
+2. Siri, where's my AI? Clock ticks for Apple in tech race (PerthNow)
+   https://www.perthnow.com.au/technology/telecommunications/siri-wheres-my-ai-clock-ticks-for-apple-in-tech-race-c-19029957
+3. 11 AI Movie Villains That Will Make You Want to Unplug (Kotaku)
+   https://kotaku.com/m3gan-ai-villains-matrix-ultron-terminator-1851784487
+4. Canadian and U.S. stocks down after Israeli attacks on Iran (CP24 Toronto)
+   https://www.cp24.com/news/money/2025/06/13/canadian-and-us-stocks-down-after-israeli-attacks-on-iran-price-of-oil-jumps/
+5. Canadian and U.S. stocks down after Israeli attacks on Iran, price of oil jumps (BradfordToday)
+   https://www.bradfordtoday.ca/national-business/canadian-and-us-stocks-down-after-israeli-attacks-on-iran-price-of-oil-jumps-10806522
