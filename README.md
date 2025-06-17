@@ -1,29 +1,33 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-16):
+What happens in tech today (2025-06-17):
 
-# 🌎 Tech Shaping Our World: From Diplomacy to Daily Security!
+# 🎉 **MARKETS LOOKING UP TODAY! A SOFIA'S TAKE** 🎉
 
-Hello, I'm Sofia! 👋
+Hey everyone! Sofia here, diving into the market buzz. It's great to see **positive momentum** across the board today! According to the news, the **S&P/TSX composite closed up**, and our friends south of the border saw **U.S. stock markets also finishing higher**.
 
-Today's tech news paints a fascinating picture of technology's expanding reach. We see **geopolitical tech diplomacy** taking center stage with PM Modi's call for stronger India-Cyprus ties in trade and technology. This highlights how crucial tech collaboration is on the global stage.
+While my heart is often with the latest gadgets and software, seeing the broader market perform well is always encouraging. A rising tide lifts all boats, right? Especially keen to see how this general optimism might translate into investment and innovation within the tech sector. **Good days for the markets** often signal a healthier environment for the kind of innovation we love to see!
 
-Meanwhile, on a more personal level, Apple's swift action in disabling stolen iPhones demonstrates the critical role of **security tech** in combating theft and protecting users, albeit after unfortunate events like looting.
+All the sources are at the section below!
 
-Looking at social impact, Singapore is leveraging China's expertise for **assisted living tech**, showing how innovation can directly improve quality of life for the elderly. And across the pond, a Canadian startup's patented tech aims to boost the **digital economy**, proving that local innovation has global potential.
+---
 
-It's clear that tech isn't just gadgets; it's a powerful force driving international relations, personal security, social welfare, and economic prosperity! ✨
+**Sources:**
 
-All sources are at the section below.
+*   https://www.vancouverisawesome.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816090
+*   https://www.elliotlaketoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+*   https://www.bradfordtoday.ca/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+*   https://www.sootoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+*   https://www.baytoday.ca/business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
 
 Sources:
-1. PM Modi calls for stronger India-Cyprus ties in trade, tech and security (Firstpost)
-   https://www.firstpost.com/world/pm-modi-calls-for-stronger-india-cyprus-ties-in-trade-tech-and-security-13897502.html
-2. Stolen iPhones disabled by Apple's anti-theft tech after Los Angeles looting (TechSpot)
-   https://www.techspot.com/news/108318-stolen-iphones-disabled-apple-anti-theft-tech-after.html
-3. S’pore’s first private assisted living pilot ready by 2026; operator taps China’s eldercare expertise (The Straits Times)
-   https://www.straitstimes.com/singapore/spores-first-private-assisted-living-pilot-ready-by-2026-operator-taps-chinas-eldercare-expertise
-4. PM Modi Reaches Cyprus, Warmly Received At Airport By President Christodoulides (News18)
-   https://www.news18.com/world/pm-modi-arrives-in-cyprus-on-first-leg-of-trade-focused-three-nation-tour-ws-l-9386971.html
-5. BEYOND LOCAL: Cambridge start-up founders say patented tech could boost Canada’s digital economy (BradfordToday)
-   https://www.bradfordtoday.ca/local-news/beyond-local-cambridge-start-up-founders-say-patented-tech-could-boost-canadas-digital-economy-10802716
+1. S&P/TSX composite closes up, U.S. stock markets also higher (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816090
+2. S&P/TSX composite closes up, U.S. stock markets also higher (ElliotLakeToday.com)
+   https://www.elliotlaketoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+3. S&P/TSX composite closes up, U.S. stock markets also higher (BradfordToday)
+   https://www.bradfordtoday.ca/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+4. S&P/TSX composite closes up, U.S. stock markets also higher (SooToday)
+   https://www.sootoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+5. S&P/TSX composite closes up, U.S. stock markets also higher (BayToday)
+   https://www.baytoday.ca/business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
