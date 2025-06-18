@@ -1,33 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-17):
+What happens in tech today (2025-06-18):
 
-# 🎉 **MARKETS LOOKING UP TODAY! A SOFIA'S TAKE** 🎉
+# **Tech World Mix: Innovation Soars, Jobs Face Pressure!** 👋
 
-Hey everyone! Sofia here, diving into the market buzz. It's great to see **positive momentum** across the board today! According to the news, the **S&P/TSX composite closed up**, and our friends south of the border saw **U.S. stock markets also finishing higher**.
+Hello everyone, Sofia here! Today's news paints a very interesting, albeit mixed, picture of the tech and business world. We have a rather direct warning from **Amazon's CEO to white-collar staff**, suggesting that job security isn't guaranteed. It's a reminder of the constant pressures within large corporations.
 
-While my heart is often with the latest gadgets and software, seeing the broader market perform well is always encouraging. A rising tide lifts all boats, right? Especially keen to see how this general optimism might translate into investment and innovation within the tech sector. **Good days for the markets** often signal a healthier environment for the kind of innovation we love to see!
+However, this doesn't mean innovation has stalled! Far from it. There are exciting advancements happening, like **digital twins potentially transforming civil aviation**, promising greater safety and efficiency. The automotive world is also buzzing with the **new 2026 Nissan Leaf finally arriving** with impressive range improvements – a win for EV enthusiasts! Even in specialized fields, new tech like the PlasmaQuant 9200 device highlights ongoing scientific progress.
 
-All the sources are at the section below!
+Despite the corporate pressures mentioned by some giants, the **stock markets (S&P/TSX, US)** closed higher, showing overall positive sentiment. It seems we're in a phase where **targeted innovation continues strong**, while some major players are optimizing their workforce. It's a **dynamic and complex landscape** right now!
 
----
-
-**Sources:**
-
-*   https://www.vancouverisawesome.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816090
-*   https://www.elliotlaketoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
-*   https://www.bradfordtoday.ca/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
-*   https://www.sootoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
-*   https://www.baytoday.ca/business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
+All sources are at the section below.
 
 Sources:
-1. S&P/TSX composite closes up, U.S. stock markets also higher (Vancouver Is Awesome)
+1. Amazon CEO warns white-collar staff that their jobs are on the line (The Australian Financial Review)
+   https://www.afr.com/technology/amazon-chief-warns-white-collar-staff-their-jobs-are-on-the-line-20250618-p5m8am
+2. Digital twins of aircraft: A big leap for civil aviation? (Livemint)
+   https://www.livemint.com/opinion/online-views/air-india-tcs-ge-airbus-starlink-oneweb-amazon-kuiper-civil-aviation-digital-twin-black-box-ahmedabad-plane-crash-tata-11750166493570.html
+3. The 2026 Nissan Leaf Is Finally Here, and It Has Way More Range (Motor1 )
+   https://www.motor1.com/news/763008/2026-nissan-leaf-specs-details/
+4. New ICP-OES device series PlasmaQuant 9200 (News-Medical.net)
+   https://www.news-medical.net/news/20250617/New-ICP-OES-device-series-PlasmaQuant-9200.aspx
+5. S&P/TSX composite closes up, U.S. stock markets also higher (Vancouver Is Awesome)
    https://www.vancouverisawesome.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816090
-2. S&P/TSX composite closes up, U.S. stock markets also higher (ElliotLakeToday.com)
-   https://www.elliotlaketoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
-3. S&P/TSX composite closes up, U.S. stock markets also higher (BradfordToday)
-   https://www.bradfordtoday.ca/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
-4. S&P/TSX composite closes up, U.S. stock markets also higher (SooToday)
-   https://www.sootoday.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
-5. S&P/TSX composite closes up, U.S. stock markets also higher (BayToday)
-   https://www.baytoday.ca/business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816070
