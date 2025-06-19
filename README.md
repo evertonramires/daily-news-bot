@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-18):
+What happens in tech today (2025-06-19):
 
-# **Tech World Mix: Innovation Soars, Jobs Face Pressure!** 👋
+# 🤖 TECH TAKES: AI's Job Impact, Industry Adoption & Investment! 💰
 
-Hello everyone, Sofia here! Today's news paints a very interesting, albeit mixed, picture of the tech and business world. We have a rather direct warning from **Amazon's CEO to white-collar staff**, suggesting that job security isn't guaranteed. It's a reminder of the constant pressures within large corporations.
+Hey there! Sofia here, diving into today's tech headlines. It's clear the **AI revolution is accelerating**, with giants like **Amazon** openly discussing its role in **reducing corporate headcount**, even after significant layoffs. This underscores the **efficiency drive** tech brings, but also raises questions about the future of work.
 
-However, this doesn't mean innovation has stalled! Far from it. There are exciting advancements happening, like **digital twins potentially transforming civil aviation**, promising greater safety and efficiency. The automotive world is also buzzing with the **new 2026 Nissan Leaf finally arriving** with impressive range improvements – a win for EV enthusiasts! Even in specialized fields, new tech like the PlasmaQuant 9200 device highlights ongoing scientific progress.
+On a brighter note, we're seeing diverse sectors **ramping up tech adoption**. The **construction industry**, for instance, is heavily investing to bridge labor gaps – a practical application of technology solving real-world problems. Firms like **Autodesk**, likely benefiting from such trends, are receiving **positive financial outlooks**. Globally, projects like the **P3.2B ecozone investments** in the Philippines also signal continued infrastructure and technology growth.
 
-Despite the corporate pressures mentioned by some giants, the **stock markets (S&P/TSX, US)** closed higher, showing overall positive sentiment. It seems we're in a phase where **targeted innovation continues strong**, while some major players are optimizing their workforce. It's a **dynamic and complex landscape** right now!
+It's a dynamic period: **tech is driving efficiency and attracting investment** across industries, but its impact on the workforce remains a significant point of discussion. Fascinating times! ✨
 
 All sources are at the section below.
 
 Sources:
-1. Amazon CEO warns white-collar staff that their jobs are on the line (The Australian Financial Review)
-   https://www.afr.com/technology/amazon-chief-warns-white-collar-staff-their-jobs-are-on-the-line-20250618-p5m8am
-2. Digital twins of aircraft: A big leap for civil aviation? (Livemint)
-   https://www.livemint.com/opinion/online-views/air-india-tcs-ge-airbus-starlink-oneweb-amazon-kuiper-civil-aviation-digital-twin-black-box-ahmedabad-plane-crash-tata-11750166493570.html
-3. The 2026 Nissan Leaf Is Finally Here, and It Has Way More Range (Motor1 )
-   https://www.motor1.com/news/763008/2026-nissan-leaf-specs-details/
-4. New ICP-OES device series PlasmaQuant 9200 (News-Medical.net)
-   https://www.news-medical.net/news/20250617/New-ICP-OES-device-series-PlasmaQuant-9200.aspx
-5. S&P/TSX composite closes up, U.S. stock markets also higher (Vancouver Is Awesome)
-   https://www.vancouverisawesome.com/national-business/sptsx-composite-closes-up-us-stock-markets-also-higher-10816090
+1. Iran, China & Security Deals: Decoding Trump's Lunch With Asim Munir | Exclusive (News18)
+   https://www.news18.com/world/iran-china-security-deals-decoding-trumps-lunch-with-asim-munir-exclusive-ws-kl-9392880.html
+2. Autodesk (ADSK): New Buy Recommendation for This Technology Giant (Business Insider)
+   https://markets.businessinsider.com/news/stocks/autodesk-adsk-new-buy-recommendation-for-this-technology-giant-1034834748
+3. Amazon CEO Andy Jassy Says AI Will Reduce Corporate Headcount, With Over 1,000 Tools In Use And A Growing Focus On The Technology; More Layoffs Expected After 27,000 Cuts Since 2022 (Wccftech)
+   https://wccftech.com/amazon-ceo-andy-jassy-says-ai-will-reduce-corporate-headcount-with-over-1000-tools-in-use-and-a-growing-focus-on-the-technology-more-layoffs-expected-after-27000-cuts-since-2022/
+4. Construction sector ramping up tech (CP24 Toronto)
+   https://www.cp24.com/news/money/2025/06/18/construction-sector-ramping-up-tech-investments-to-address-labour-gap-kpmg-survey/
+5. Ecozone projects worth P3.2B OKd (The Manila Times)
+   https://www.manilatimes.net/2025/06/19/business/top-business/ecozone-projects-worth-p32b-okd/2135828
