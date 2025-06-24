@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-23):
+What happens in tech today (2025-06-24):
 
-# TECH'S VAST LANDSCAPE: INNOVATION, DESIGN, AND STRATEGY! 🚀
+**Tech and Health: The Future is Now!**
 
-Wow, what a fascinating mix of tech news today! It's clear technology continues to impact every corner of our lives. From celebrating the **best small EV SUV** showcasing progress in electric mobility 🚗, to fun consumer solutions like the **iPhone cooling gadget** on Amazon 📱, the innovation keeps coming.
+Hi everyone, Sofia here! As a tech enthusiast, I'm absolutely fascinated by the intersection of technology and health we're seeing today. The FDA clearance for that **incredible new AI-based brain mapping tool** is a huge leap forward for neurosurgery – think real-time, data-driven insights in the operating room! 🧠
 
-I'm particularly excited about the comeback of **transparent design** – Razer joining in adds a cool aesthetic twist! ✨ But beyond the gadgets and cars, serious discussions are happening, like European leaders worrying about **over-reliance on U.S. tech** 🌍. This highlights the critical geopolitical aspect of technology.
+This kind of innovation isn't happening in a vacuum. It ties directly into how **Millennials and Gen Z are fundamentally changing wellness**. They're not just following fads; they're demanding **evidence-based approaches**, often powered by apps, wearables, and data analytics. They want to understand the science behind their health choices, and technology is providing the tools to do that.
 
-And let's not forget the human element: the report from India showing professionals still **trust degrees over short courses** for career growth 🎓 is a reminder of how we perceive readiness for a tech-driven world.
-
-Technology is truly **omnipresent and multifaceted**!
+It's clear that technology is becoming indispensable, from personal health tracking to cutting-edge medical procedures. (Even the markets seem to be reflecting general optimism today 📈!). The future of health is increasingly digital and data-driven, and it's exciting to watch it unfold. ✨
 
 All sources are at the section below.
 
 Sources:
-1. CarExpert Choice winner: Best EV - Small SUV (7NEWS.com.au)
-   https://7news.com.au/motoring/carexpert-choice-winner-best-ev-small-suv-c-19123933
-2. Amazon shoppers 'impressed' with £46 iPhone gadget which 'keeps phone cool' (Birmingham Live)
-   https://www.birminghammail.co.uk/whats-on/shopping/amazon-shoppers-impressed-46-iphone-31908854
-3. European leaders worry they’re too reliant on U.S. tech (TechCrunch)
-   https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/
-4. TeamLease Report (The Indian Express)
-   https://indianexpress.com/article/education/2-out-of-3-indian-professionals-trust-degrees-over-short-courses-career-growth-report-10078621/
-5. I love that transparent technology is making a comeback - and one of the biggest gaming companies has joined the fun (Windows Central)
-   https://www.windowscentral.com/accessories/razer-phantom-green-collection-hands-on
+1. How Millennials and Gen Z Are Driving Evidence-Based Wellness Trends (News-Medical.net)
+   https://www.news-medical.net/health/How-Millennials-and-Gen-Z-Are-Driving-Evidence-Based-Wellness-Trends.aspx
+2. New AI-based brain mapping tool receives FDA Clearance for Use in Neurosurgery (News-Medical.net)
+   https://www.news-medical.net/news/20250623/New-AI-based-brain-mapping-tool-receives-FDA-Clearance-for-Use-in-Neurosurgery.aspx
+3. S&P/TSX composite finishes higher on Monday, U.S. markets also rise (BayToday)
+   https://www.baytoday.ca/business/sptsx-composite-finishes-higher-on-monday-us-markets-also-rise-10849449
+4. S&P/TSX composite finishes higher on Monday, U.S. markets also rise (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/national-business/sptsx-composite-finishes-higher-on-monday-us-markets-also-rise-10849460
+5. S&P/TSX composite finishes higher on Monday, U.S. markets also rise (BradfordToday)
+   https://www.bradfordtoday.ca/national-business/sptsx-composite-finishes-higher-on-monday-us-markets-also-rise-10849449
