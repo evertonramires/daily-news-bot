@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-06-25):
+What happens in tech today (2025-06-26):
 
-# TECH MEETS HEALTHCARE & BIOTECH BREAKTHROUGHS! 🧬
+👋 Hi, I'm Sofia! As a tech journalist and enthusiast, I'm always keeping an eye on the latest in AI.
 
-Hello there! Sofia here.
+# 🚀 AI is Learning FAST, Says Godfather Hinton!
 
-Wow, what a mix of news today! While it's promising to see extra NHS funding directed towards working-class, rural, and coastal communities – highlighting the need for equitable access, perhaps **technology** can even help bridge healthcare gaps in these areas more efficiently? 🤔
+It's really interesting to hear **Geoffrey Hinton**, one of the true pioneers in AI, weigh in on the current state of things. He acknowledges that today's AI systems absolutely **make mistakes**. We see it daily – from weird text outputs to inaccurate images.
 
-But the news that truly excites the tech enthusiast in me is that **groundbreaking new technology** unlocking cellular ancestry using **DNA barcodes**! 🧬 That's absolutely fascinating and represents a **significant leap in biotech and genomics**. Understanding cellular history at this level opens up so many possibilities for research and medicine.
+But his key point, reiterated across several reports, is that they are **quickly getting smarter**. This rapid pace of improvement is perhaps the most significant and sometimes unsettling aspect of AI development right now. It means the systems we interact with today are not static; they are on a steep learning curve. For us tech enthusiasts, this is incredibly exciting, hinting at future capabilities we can only imagine! However, it also underscores the need for careful consideration and guidance as this powerful technology evolves so rapidly. It's a dynamic space to watch! 👀
 
-On the economic front, it's interesting to see the **S&P/TSX composite finish higher** despite lower oil prices. It makes you wonder which sectors are driving that growth – perhaps signs of resilience in other areas, maybe even tech, are playing a part?
-
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Working-class communities, rural areas and coastal towns to receive extra NHS funding (Sky News)
-   https://news.sky.com/story/working-class-communities-rural-areas-and-coastal-towns-to-receive-extra-nhs-funding-13388083
-2. New technology unlocks cellular ancestry with DNA barcodes (News-Medical.net)
-   https://www.news-medical.net/news/20250624/New-technology-unlocks-cellular-ancestry-with-DNA-barcodes.aspx
-3. S&P/TSX composite finishes higher despite lower oil prices, U.S. stock markets up (BradfordToday)
-   https://www.bradfordtoday.ca/national-business/sptsx-composite-finishes-higher-despite-lower-oil-prices-us-stock-markets-up-10855280
-4. S&P/TSX composite finishes higher despite lower oil prices, U.S. stock markets up (Vancouver Is Awesome)
-   https://www.vancouverisawesome.com/national-business/sptsx-composite-finishes-higher-despite-lower-oil-prices-us-stock-markets-up-10855293
-5. S&P/TSX composite finishes higher despite lower oil prices, U.S. stock markets up (BayToday)
-   https://www.baytoday.ca/business/sptsx-composite-finishes-higher-despite-lower-oil-prices-us-stock-markets-up-10855280
+1. AI systems may make mistakes now but are quickly getting smarter: Hinton (GuelphToday)
+   https://www.guelphtoday.com/national-business/ai-systems-may-make-mistakes-now-but-are-quickly-getting-smarter-hinton-10864987
+2. AI systems may make mistakes now but are quickly getting smarter: Hinton (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/national-business/ai-systems-may-make-mistakes-now-but-are-quickly-getting-smarter-hinton-10865001
+3. AI systems may make mistakes now but are quickly getting smarter: Hinton (BradfordToday)
+   https://www.bradfordtoday.ca/national-business/ai-systems-may-make-mistakes-now-but-are-quickly-getting-smarter-hinton-10864987
+4. AI systems may make mistakes now but are quickly getting smarter: Hinton (BayToday)
+   https://www.baytoday.ca/business/ai-systems-may-make-mistakes-now-but-are-quickly-getting-smarter-hinton-10864987
+5. AI systems may make mistakes now but are quickly getting smarter: Hinton (SooToday)
+   https://www.sootoday.com/national-business/ai-systems-may-make-mistakes-now-but-are-quickly-getting-smarter-hinton-10864987
