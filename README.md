@@ -1,29 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-07-01):
+What happens in tech today (2025-07-02):
 
-# THE DIVERSE LANDSCAPE OF TECH TODAY ✨
+# **TECH'S RAPID ADVANCE: FROM COLD CASES TO CONNECTED CARS!**
 
-Ciao! Sofia here, taking a look at the latest in the tech world. It's truly fascinating how technology impacts our lives in such varied ways, from groundbreaking health advancements to financial trends and geopolitical challenges.
+Hello! Sofia here, diving into the latest tech news shaping our world. It's fascinating how technology is pushing boundaries everywhere!
 
-On the incredibly positive side, the news about **ETRI's innovative technology for early autism screening** is simply amazing. This is the kind of **life-changing technology** we dream of – using tech for real societal good, helping families and children.
+We're seeing incredible advancements in forensic science, like the breakthrough identifying remains after **12 long years** 🕵️‍♀️ – a true testament to how tech helps solve complex human problems. Environmental tech is also quietly making strides, with **carbon capture taking off at Dublin Airport** 🌱, a positive step for green innovation.
 
-Financially, it seems the tech sector continues its powerful trajectory. Reports still point towards certain **tech stocks creating millionaires** and promising continued **growth potential**. The industry's economic engine is clearly still running strong.
+On the industry side, the joint venture between **VW, BMW, and Mercedes** for connected vehicle software is a significant move, showing collaboration is key for future mobility tech 🚗.
 
-However, not all tech news is bright. We're seeing the darker side, like the concerning reports linking **North Korean remote worker schemes** to funding their weapons programs. This highlights the critical issue of **tech misuse** and the global need for better cybersecurity and oversight. Plus, regulatory friction, like the recent **US/Canada digital tax issue** impacting trade talks, shows how digital policy and **regulation** are becoming major points of international negotiation for the industry.
+However, we *must* approach new tech with caution. Plans for **AI cost-cutting in Whitehall are fraught with risk** 📉 – data privacy and ethical implications are paramount. And claims about futuristic 'Cognify' tech for prisoners? That sounds straight out of science fiction and absolutely demands **intense scrutiny and fact-checking** (kudos to Snopes for looking into it!).
 
-Technology is a powerful tool with immense potential, but its development and deployment require careful consideration of both its incredible benefits and the significant challenges it presents.
+Tech holds immense promise but also requires vigilance and careful implementation.
 
-All sources for this opinion are listed in the section below.
+All sources are at the section below.
 
 Sources:
-1. ETRI develops innovative technology for early autism screening in young children (News-Medical.net)
-   https://www.news-medical.net/news/20250630/ETRI-develops-innovative-technology-for-early-autism-screening-in-young-children.aspx
-2. PM Modi heading to BRICS, declaration on terror to factor in Pahalgam (The Indian Express)
-   https://indianexpress.com/article/india/pm-modi-heading-to-brics-declaration-on-terror-to-factor-in-pahalgam-10098399/
-3. North Korean remote worker scheme funds weapons program: U.S. (CP24 Toronto)
-   https://www.cp24.com/news/world/2025/06/30/us-brings-charges-in-north-korean-remote-worker-scheme-that-officials-say-funds-weapons-program/
-4. 1 Tech Stock That Has Created Millionaires and Will Continue to Make More (The Motley Fool Canada)
-   https://www.fool.ca/2025/06/30/1-tech-stock-that-has-created-millionaires-and-will-continue-to-make-more-5/
-5. U.S., Canada to resume trade talks after Ottawa drops digital tax (CP24 Toronto)
-   https://www.cp24.com/news/canada/2025/06/30/us-canada-to-resume-trade-talks-after-ottawa-drops-digital-tax/
+1. Remains of Brit found dead 12 years ago finally identified in 'historic milestone' (Manchester Evening News)
+   https://www.manchestereveningnews.co.uk/news/uk-news/remains-brit-found-dead-12-31972231
+2. Carbon capture technology takes off at Dublin Airport (The Irish Times)
+   https://www.irishtimes.com/environment/climate-crisis/2025/07/01/carbon-dioxide-capture-airin-motion-dublin-airport-tcd/
+3. Does new 'Cognify' tech allow prisoners to complete years of social rehabilitation in minutes? (Snopes.com)
+   https://www.snopes.com/news/2025/07/01/new-tech-implant-prisoners-memories/
+4. Whitehall’s ambition to cut costs using AI is fraught with risk (The Guardian)
+   https://www.theguardian.com/technology/2025/jul/01/whitehall-ambition-to-cut-costs-using-ai-is-fraught-with-risk
+5. Volkswagen, BMW and Mercedes-Benz team up to develop connected vehicle software (7NEWS.com.au)
+   https://7news.com.au/motoring/volkswagen-bmw-and-mercedes-benz-team-up-to-develop-connected-vehicle-software-c-19210621
