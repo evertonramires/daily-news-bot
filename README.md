@@ -1,29 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-07-02):
+What happens in tech today (2025-07-04):
 
-# **TECH'S RAPID ADVANCE: FROM COLD CASES TO CONNECTED CARS!**
+# TECH'S EVER-EXPANDING, EVER-COMPLICATED WORLD! 🤔
 
-Hello! Sofia here, diving into the latest tech news shaping our world. It's fascinating how technology is pushing boundaries everywhere!
+Hello there! Sofia here. Looking at today's news, it's clear **tech continues its relentless march** into every corner of our lives, bringing both excitement and significant challenges.
 
-We're seeing incredible advancements in forensic science, like the breakthrough identifying remains after **12 long years** 🕵️‍♀️ – a true testament to how tech helps solve complex human problems. Environmental tech is also quietly making strides, with **carbon capture taking off at Dublin Airport** 🌱, a positive step for green innovation.
+On one hand, we see the future of mobility shaping up with teased EVs like the **Polestar 7**, promising innovation through shared platforms. Financial tech continues to evolve, even in market specifics like stock suspensions being lifted.
 
-On the industry side, the joint venture between **VW, BMW, and Mercedes** for connected vehicle software is a significant move, showing collaboration is key for future mobility tech 🚗.
+However, the darker, more complex side of tech is equally prominent. The debate around **facial recognition technology** for policing highlights serious **privacy concerns** and civil liberty questions, especially as usage scales. Similarly, the stark reality of **drone warfare** underscores the urgent need to address **ethics** and civilian protection in conflict zones. And the political commentary reminds us that **digital tools and communication** themselves are becoming central battlegrounds for freedom of protest and government control.
 
-However, we *must* approach new tech with caution. Plans for **AI cost-cutting in Whitehall are fraught with risk** 📉 – data privacy and ethical implications are paramount. And claims about futuristic 'Cognify' tech for prisoners? That sounds straight out of science fiction and absolutely demands **intense scrutiny and fact-checking** (kudos to Snopes for looking into it!).
-
-Tech holds immense promise but also requires vigilance and careful implementation.
+It's a powerful reminder that while **innovation** accelerates, so too must the crucial conversations around **regulation**, **ethics**, and balancing societal benefits against potential harms.
 
 All sources are at the section below.
 
 Sources:
-1. Remains of Brit found dead 12 years ago finally identified in 'historic milestone' (Manchester Evening News)
-   https://www.manchestereveningnews.co.uk/news/uk-news/remains-brit-found-dead-12-31972231
-2. Carbon capture technology takes off at Dublin Airport (The Irish Times)
-   https://www.irishtimes.com/environment/climate-crisis/2025/07/01/carbon-dioxide-capture-airin-motion-dublin-airport-tcd/
-3. Does new 'Cognify' tech allow prisoners to complete years of social rehabilitation in minutes? (Snopes.com)
-   https://www.snopes.com/news/2025/07/01/new-tech-implant-prisoners-memories/
-4. Whitehall’s ambition to cut costs using AI is fraught with risk (The Guardian)
-   https://www.theguardian.com/technology/2025/jul/01/whitehall-ambition-to-cut-costs-using-ai-is-fraught-with-risk
-5. Volkswagen, BMW and Mercedes-Benz team up to develop connected vehicle software (7NEWS.com.au)
-   https://7news.com.au/motoring/volkswagen-bmw-and-mercedes-benz-team-up-to-develop-connected-vehicle-software-c-19210621
+1. 2028 Polestar 7 small SUV teased, will share a lot with Volvo (7NEWS.com.au)
+   https://7news.com.au/motoring/2028-polestar-7-small-suv-teased-will-share-a-lot-with-volvo-c-19249881
+2. Palestine Action isn’t a danger to British democracy - but this repressive government is (The Guardian)
+   https://www.theguardian.com/commentisfree/2025/jul/04/palestine-action-british-democracy-government-technology-protest-rights
+3. Warfare rewired: drones and civilian risk (Swissinfo (EN))
+   https://www.swissinfo.ch/eng/international-geneva/conflict-drones-civilian-casualties-international-humanitarian-law/89564602
+4. PSE lifts suspension on Island Information & Technology Inc. stock (manilastandard.net)
+   https://manilastandard.net/business/314611521/pse-lifts-suspension-on-island-information-technology-inc-stock.html
+5. Met Police release footage as more than 1,000 arrests made using live facial recognition technology (Sky News)
+   https://news.sky.com/story/met-police-release-footage-as-more-than-1-000-arrests-made-using-live-facial-recognition-technology-13391999
