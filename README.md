@@ -1,18 +1,16 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-07-04):
+What happens in tech today (2025-07-05):
 
-# TECH'S EVER-EXPANDING, EVER-COMPLICATED WORLD! 🤔
+# Tech Today: Innovation Meets Reality Check ⚠️
 
-Hello there! Sofia here. Looking at today's news, it's clear **tech continues its relentless march** into every corner of our lives, bringing both excitement and significant challenges.
+Hey everyone, **Sofia** here! Today's tech news gives us a real spectrum. On one hand, exciting progress like the **Polestar 7 electric SUV** tease 🚗 and positive moves for **Island Information & Technology's stock** 📈 show innovation continues.
 
-On one hand, we see the future of mobility shaping up with teased EVs like the **Polestar 7**, promising innovation through shared platforms. Financial tech continues to evolve, even in market specifics like stock suspensions being lifted.
+But the reports also hit on the major challenges. The ethical nightmare around **drones and civilian risk in warfare** is stark 💥. And the news about **over 1,000 arrests using live facial recognition** by police brings up serious **privacy and civil liberty concerns** 👀.
 
-However, the darker, more complex side of tech is equally prominent. The debate around **facial recognition technology** for policing highlights serious **privacy concerns** and civil liberty questions, especially as usage scales. Similarly, the stark reality of **drone warfare** underscores the urgent need to address **ethics** and civilian protection in conflict zones. And the political commentary reminds us that **digital tools and communication** themselves are becoming central battlegrounds for freedom of protest and government control.
+The way tech is used in the clash between **protest movements and state power** also highlights its critical role in our society and democracy. Tech isn't just tools; it's shaping our world, for better and for worse. We need careful consideration of how these powerful technologies are deployed. 🤔
 
-It's a powerful reminder that while **innovation** accelerates, so too must the crucial conversations around **regulation**, **ethics**, and balancing societal benefits against potential harms.
-
-All sources are at the section below.
+All sources are listed below.
 
 Sources:
 1. 2028 Polestar 7 small SUV teased, will share a lot with Volvo (7NEWS.com.au)
