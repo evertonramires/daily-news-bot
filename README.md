@@ -1,25 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-07-05):
+What happens in tech today (2025-08-07):
 
-# Tech Today: Innovation Meets Reality Check ⚠️
+## 🚀 TECH TAKES CENTER STAGE WITH GPT-5'S ARRIVAL! 🤖
 
-Hey everyone, **Sofia** here! Today's tech news gives us a real spectrum. On one hand, exciting progress like the **Polestar 7 electric SUV** tease 🚗 and positive moves for **Island Information & Technology's stock** 📈 show innovation continues.
+Hello everyone, I'm Sofia! While news cycles buzz with **Kennedy's decision to cancel vaccine funding** and the fascinating development of **stronger India-Brazil ties** amidst rising US tariffs, my focus, as always, is on the cutting edge of technology.
 
-But the reports also hit on the major challenges. The ethical nightmare around **drones and civilian risk in warfare** is stark 💥. And the news about **over 1,000 arrests using live facial recognition** by police brings up serious **privacy and civil liberty concerns** 👀.
+The tech world is alight with the monumental news: **OpenAI has officially released GPT-5!** 🚀 This isn't just an upgrade; it's a significant leap forward that further intensifies the already blazing **AI race**. Many are calling GPT-5 a **crucial barometer** to finally measure if the immense artificial intelligence hype is genuinely warranted. As a tech journalist and enthusiast, I'm beyond thrilled to witness what this new iteration will bring. Will it truly redefine our interactions with AI? The potential for **transformative applications** is immense, and I believe we're on the cusp of something truly extraordinary. Get ready for impact! ✨
 
-The way tech is used in the clash between **protest movements and state power** also highlights its critical role in our society and democracy. Tech isn't just tools; it's shaping our world, for better and for worse. We need careful consideration of how these powerful technologies are deployed. 🤔
-
-All sources are listed below.
+All sources are available at the section below.
 
 Sources:
-1. 2028 Polestar 7 small SUV teased, will share a lot with Volvo (7NEWS.com.au)
-   https://7news.com.au/motoring/2028-polestar-7-small-suv-teased-will-share-a-lot-with-volvo-c-19249881
-2. Palestine Action isn’t a danger to British democracy - but this repressive government is (The Guardian)
-   https://www.theguardian.com/commentisfree/2025/jul/04/palestine-action-british-democracy-government-technology-protest-rights
-3. Warfare rewired: drones and civilian risk (Swissinfo (EN))
-   https://www.swissinfo.ch/eng/international-geneva/conflict-drones-civilian-casualties-international-humanitarian-law/89564602
-4. PSE lifts suspension on Island Information & Technology Inc. stock (manilastandard.net)
-   https://manilastandard.net/business/314611521/pse-lifts-suspension-on-island-information-technology-inc-stock.html
-5. Met Police release footage as more than 1,000 arrests made using live facial recognition technology (Sky News)
-   https://news.sky.com/story/met-police-release-footage-as-more-than-1-000-arrests-made-using-live-facial-recognition-technology-13391999
+1. KFF Health News' 'What the Health?': Kennedy cancels vaccine funding (News-Medical.net)
+   https://www.news-medical.net/news/20250807/KFF-Health-News-What-the-Health-Kennedy-cancels-vaccine-funding.aspx
+2. Modi and Lula Pledge Stronger India-Brazil Ties Amid Rising US Tariffs (Devdiscourse)
+   https://www.devdiscourse.com/article/international/3533884-modi-and-lula-pledge-stronger-india-brazil-ties-amid-rising-us-tariffs
+3. Kennedy Cancels Vaccine Funding (KFF Health News)
+   https://kffhealthnews.org/news/podcast/what-the-health-409-rfk-jr-mrna-vaccine-funding-august-7-2025/
+4. OpenAI releases ChatGPT-5 as AI race accelerates (Yahoo Singapore News)
+   https://sg.news.yahoo.com/openai-releases-chatgpt-5-ai-172747043.html
+5. OpenAI releases GPT-5, a potential barometer for whether artificial intelligence hype is justified (Toronto Star)
+   https://www.thestar.com/news/world/united-states/openai-releases-gpt-5-a-potential-barometer-for-whether-artificial-intelligence-hype-is-justified/article_c8ad63f8-8561-5f5b-83a8-6a836a6b514e.html
