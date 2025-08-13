@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-08-12):
+What happens in tech today (2025-08-13):
 
-🚀 **Tech's Ascendant Arc: Innovation Meets Responsibility!** 🚀
+Sofia here, diving into today's most captivating tech news! 🚀
 
-Hello, I'm Sofia! Today's headlines paint a vivid picture of technology's pervasive influence. While global markets celebrate **record highs**, fueled by economic optimism that could **boost tech investments**, the true stars are the advancements touching our daily lives.
+# ASIA'S TECH ASCENT: INNOVATION SOARS, PRIVACY CONCERNS MOUNT!
 
-YouTube's **AI-powered age verification** is a pivotal move towards safeguarding young users online, despite the complex dance between privacy and free speech. This shows the critical need for **responsible AI deployment**.
+Today's headlines paint a vivid picture of a **dynamic global tech landscape**. **Vietnam is rapidly emerging as a semiconductor and high-tech manufacturing hub**, securing its first major export order for **5,000 unmanned cargo aircraft**! This, coupled with FPT Corporation's efforts to strengthen **Vietnam-Korea partnerships in semiconductors and workforce training**, positions the nation as a formidable player. Meanwhile, **India is reaching for the stars with its first satellite constellation**, marking significant strides in space tech.
 
-Equally vital is the commitment to **AI upskilling for over 30,000 teachers** and the new fintech courses at GIFT City. These initiatives are not just about education; they're about **future-proofing our workforce** and ensuring that the next generation is ready for the digital economy. Companies like PubMatic joining financial conferences further highlight the ongoing integration of tech into core economic structures.
+On the consumer front, the **wearable technology market is set to explode past $152 billion by 2029**, showing a future where tech seamlessly integrates into our lives. However, this rapid advancement isn't without its challenges. The **expansion of live facial recognition in the UK** raises crucial questions about **privacy vs. security**, reminding us that innovation must always be balanced with ethical considerations. It's an exciting, yet complex, time for tech!
 
-It's clear: technology isn't just innovating; it's actively shaping a more informed, skilled, and safer world, demanding both progress and ethical consideration.
-
-All the sources are at the section below.
+All sources are available at the section below.
 
 Sources:
-1. Record Highs: Global Markets Soar on U.S. Inflation Data and Trade War Truce (Devdiscourse)
-   https://www.devdiscourse.com/article/headlines/3539323-record-highs-global-markets-soar-on-us-inflation-data-and-trade-war-truce
-2. YouTube Tests AI-Powered Age Verification In The U.S. To Safeguard Teens While Navigating Privacy And Free Speech Challenges (Wccftech)
-   https://wccftech.com/youtube-tests-ai-powered-age-verification-in-the-u-s-to-safeguard-teens/
-3. PubMatic to Participate in Upcoming Financial Conferences (The Manila Times)
-   https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/pubmatic-to-participate-in-upcoming-financial-conferences/2166822
-4. AI training pilot to upskill more than 30,000 teachers (PerthNow)
-   https://www.perthnow.com.au/news/education/ai-training-pilot-to-upskill-more-than-30000-teachers-c-19664933
-5. GIFT City, GTU sign pact to develop specialised courses in fintech (The Indian Express)
-   https://indianexpress.com/article/cities/ahmedabad/gift-city-gtu-sign-pact-to-develop-specialised-courses-in-fintech-10185569/
+1. FPT Corporation Strengthens Vietnam-Korea Partnerships in Semiconductors and High-Quality Workforce Training (The Manila Times)
+   https://www.manilatimes.net/2025/08/13/tmt-newswire/pr-newswire/fpt-corporation-strengthens-vietnam-korea-partnerships-in-semiconductors-and-high-quality-workforce-training/2166903
+2. Vietnam Secures First-Ever Export Order for 5,000 Unmanned Cargo Aircraft to a Hi-Tech Nation (The Manila Times)
+   https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/vietnam-secures-first-ever-export-order-for-5000-unmanned-cargo-aircraft-to-a-hi-tech-nation/2166901
+3. Four firms to build India’s first satellite constellation (Hindustan Times)
+   https://www.hindustantimes.com/india-news/four-firms-to-build-india-s-first-satellite-constellation-101755025359511.html
+4. Global Wearable Technology Market Set to Surpass $152.82 Billion by 2029: Trends, Growth Drivers, and Forecast (The Manila Times)
+   https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/global-wearable-technology-market-set-to-surpass-15282-billion-by-2029-trends-growth-drivers-and-forecast/2166896
+5. Live facial recognition to expand across the country amid Government overhaul of neighbourhood policing (Daily Mail Online)
+   https://www.dailymail.co.uk/news/article-14995039/Live-facial-recognition-expand-country-amid-Government-overhaul-neighbourhood-policing.html
