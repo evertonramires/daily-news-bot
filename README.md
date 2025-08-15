@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-08-13):
+What happens in tech today (2025-08-15):
 
-Sofia here, diving into today's most captivating tech news! 🚀
+# 🚀 Southeast Asia's Tech Tsunami: AI & Automation Paving the Way for a Resilient Future!
 
-# ASIA'S TECH ASCENT: INNOVATION SOARS, PRIVACY CONCERNS MOUNT!
+What an exciting time for technology in Southeast Asia! The latest news clearly shows a **powerful surge in AI and automation**, moving beyond just buzzwords. Companies like **Robot Consulting** are demonstrating tangible financial success, while **Saigon Technology** and **Shandong Inspur** are spearheading **deep, industry-specific AI transformations**, from bespoke solutions to intelligent buildings.
 
-Today's headlines paint a vivid picture of a **dynamic global tech landscape**. **Vietnam is rapidly emerging as a semiconductor and high-tech manufacturing hub**, securing its first major export order for **5,000 unmanned cargo aircraft**! This, coupled with FPT Corporation's efforts to strengthen **Vietnam-Korea partnerships in semiconductors and workforce training**, positions the nation as a formidable player. Meanwhile, **India is reaching for the stars with its first satellite constellation**, marking significant strides in space tech.
+This isn't just about profit; it's about **strategic development**. The **inaugural ASEAN AI Summit** underscores a regional commitment to AI, aligning perfectly with initiatives like **DOST's future-proofing programs** unveiled at AstiCon 2025. Even discussions around building a **climate-resilient economy** implicitly lean on innovative tech solutions. It's clear: **AI and specialized technology are becoming the bedrock for economic growth, sustainability, and resilience** in the region. The future is here, and it's intelligent! 🤖🌍
 
-On the consumer front, the **wearable technology market is set to explode past $152 billion by 2029**, showing a future where tech seamlessly integrates into our lives. However, this rapid advancement isn't without its challenges. The **expansion of live facial recognition in the UK** raises crucial questions about **privacy vs. security**, reminding us that innovation must always be balanced with ethical considerations. It's an exciting, yet complex, time for tech!
-
-All sources are available at the section below.
+***
+All the sources are at the section below:
+1.  https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/robot-consulting-co-ltd-announces-fiscal-year-2025-financial-results/2168437
+2.  https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/saigon-technology-drives-industry-specific-ai-transformation-moving-businesses-beyond-saas-limitations/2168433
+3.  https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/shandong-inspur-intelligent-building-technology-showcases-ai-driven-solutions-at-inaugural-asean-ai-summit/2168426
+4.  https://www.manilatimes.net/2025/08/15/tmt-newswire/experts-meet-to-tackle-building-climate-resilient-sustainable-economy/2168424
+5.  https://www.manilatimes.net/2025/08/15/tmt-newswire/dost-prepares-for-the-future-launches-strategic-programs-during-asticon-2025/2168421
 
 Sources:
-1. FPT Corporation Strengthens Vietnam-Korea Partnerships in Semiconductors and High-Quality Workforce Training (The Manila Times)
-   https://www.manilatimes.net/2025/08/13/tmt-newswire/pr-newswire/fpt-corporation-strengthens-vietnam-korea-partnerships-in-semiconductors-and-high-quality-workforce-training/2166903
-2. Vietnam Secures First-Ever Export Order for 5,000 Unmanned Cargo Aircraft to a Hi-Tech Nation (The Manila Times)
-   https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/vietnam-secures-first-ever-export-order-for-5000-unmanned-cargo-aircraft-to-a-hi-tech-nation/2166901
-3. Four firms to build India’s first satellite constellation (Hindustan Times)
-   https://www.hindustantimes.com/india-news/four-firms-to-build-india-s-first-satellite-constellation-101755025359511.html
-4. Global Wearable Technology Market Set to Surpass $152.82 Billion by 2029: Trends, Growth Drivers, and Forecast (The Manila Times)
-   https://www.manilatimes.net/2025/08/13/tmt-newswire/globenewswire/global-wearable-technology-market-set-to-surpass-15282-billion-by-2029-trends-growth-drivers-and-forecast/2166896
-5. Live facial recognition to expand across the country amid Government overhaul of neighbourhood policing (Daily Mail Online)
-   https://www.dailymail.co.uk/news/article-14995039/Live-facial-recognition-expand-country-amid-Government-overhaul-neighbourhood-policing.html
+1. Robot Consulting Co., Ltd. Announces Fiscal Year 2025 Financial Results (The Manila Times)
+   https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/robot-consulting-co-ltd-announces-fiscal-year-2025-financial-results/2168437
+2. Saigon Technology Drives Industry-Specific AI Transformation, Moving Businesses Beyond SaaS Limitations (The Manila Times)
+   https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/saigon-technology-drives-industry-specific-ai-transformation-moving-businesses-beyond-saas-limitations/2168433
+3. Shandong Inspur Intelligent Building Technology Showcases AI-Driven Solutions at Inaugural ASEAN AI Summit (The Manila Times)
+   https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/shandong-inspur-intelligent-building-technology-showcases-ai-driven-solutions-at-inaugural-asean-ai-summit/2168426
+4. Experts meet to tackle building climate-resilient, sustainable economy (The Manila Times)
+   https://www.manilatimes.net/2025/08/15/tmt-newswire/experts-meet-to-tackle-building-climate-resilient-sustainable-economy/2168424
+5. DOST prepares for the future, launches strategic programs during AstiCon 2025 (The Manila Times)
+   https://www.manilatimes.net/2025/08/15/tmt-newswire/dost-prepares-for-the-future-launches-strategic-programs-during-asticon-2025/2168421
