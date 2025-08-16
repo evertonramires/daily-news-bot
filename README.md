@@ -1,29 +1,35 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
 
-What happens in tech today (2025-08-15):
+What happens in tech today (2025-08-16):
 
-# 🚀 Southeast Asia's Tech Tsunami: AI & Automation Paving the Way for a Resilient Future!
+Hello, everyone! Sofia here, bringing you my latest insights from the tech world.
 
-What an exciting time for technology in Southeast Asia! The latest news clearly shows a **powerful surge in AI and automation**, moving beyond just buzzwords. Companies like **Robot Consulting** are demonstrating tangible financial success, while **Saigon Technology** and **Shandong Inspur** are spearheading **deep, industry-specific AI transformations**, from bespoke solutions to intelligent buildings.
+# 🚀 Navigating Tech's Tides: From AI Ethics to National Innovation!
 
-This isn't just about profit; it's about **strategic development**. The **inaugural ASEAN AI Summit** underscores a regional commitment to AI, aligning perfectly with initiatives like **DOST's future-proofing programs** unveiled at AstiCon 2025. Even discussions around building a **climate-resilient economy** implicitly lean on innovative tech solutions. It's clear: **AI and specialized technology are becoming the bedrock for economic growth, sustainability, and resilience** in the region. The future is here, and it's intelligent! 🤖🌍
+Today's headlines paint a vivid picture of technology's multifaceted impact. The call for **worker support and training** as AI becomes 'irresistible' highlights the crucial human element in this digital transformation. Simultaneously, PM Modi's push for **self-reliance in critical tech** underscores national aspirations for technological sovereignty and economic growth.
 
-***
-All the sources are at the section below:
-1.  https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/robot-consulting-co-ltd-announces-fiscal-year-2025-financial-results/2168437
-2.  https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/saigon-technology-drives-industry-specific-ai-transformation-moving-businesses-beyond-saas-limitations/2168433
-3.  https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/shandong-inspur-intelligent-building-technology-showcases-ai-driven-solutions-at-inaugural-asean-ai-summit/2168426
-4.  https://www.manilatimes.net/2025/08/15/tmt-newswire/experts-meet-to-tackle-building-climate-resilient-sustainable-economy/2168424
-5.  https://www.manilatimes.net/2025/08/15/tmt-newswire/dost-prepares-for-the-future-launches-strategic-programs-during-asticon-2025/2168421
+However, the rapid pace isn't without its challenges. Senator Hawley's inquiry into Meta's A.I. bot for **child safety** reminds us of the paramount need for **ethical AI development and robust regulation**, particularly concerning vulnerable users. Beyond the big debates, tech continues to innovate in surprising ways, like Kao's new **skincare tech** built to withstand extreme conditions.
+
+It's clear: the future demands a careful balance of **innovation, human-centric adaptation, and stringent ethical guidelines**.
+
+All sources are at the section below.
+
+---
+**Sources:**
+PerthNow: https://www.perthnow.com.au/news/technology/workers-call-for-support-training-as-ai-irresistible-c-19701173
+The Indian Express: https://indianexpress.com/article/india/self-reliance-in-critical-tech-crucial-for-viksit-bharat-says-pm-modi-10192124/
+The New York Times: https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html
+Japan Today: https://japantoday.com/category/features/new-products/kao-to-release-new-est-skincare-products-with-moisturizing-technology-that-can-withstand-%E2%80%98deathly-dry%E2%80%99-desert
+ElliotLakeToday.com: https://www.elliotlaketoday.com/national-business/sptsx-composite-edges-slightly-lower-as-markets-watch-trump-putin-meeting-11081352
 
 Sources:
-1. Robot Consulting Co., Ltd. Announces Fiscal Year 2025 Financial Results (The Manila Times)
-   https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/robot-consulting-co-ltd-announces-fiscal-year-2025-financial-results/2168437
-2. Saigon Technology Drives Industry-Specific AI Transformation, Moving Businesses Beyond SaaS Limitations (The Manila Times)
-   https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/saigon-technology-drives-industry-specific-ai-transformation-moving-businesses-beyond-saas-limitations/2168433
-3. Shandong Inspur Intelligent Building Technology Showcases AI-Driven Solutions at Inaugural ASEAN AI Summit (The Manila Times)
-   https://www.manilatimes.net/2025/08/15/tmt-newswire/pr-newswire/shandong-inspur-intelligent-building-technology-showcases-ai-driven-solutions-at-inaugural-asean-ai-summit/2168426
-4. Experts meet to tackle building climate-resilient, sustainable economy (The Manila Times)
-   https://www.manilatimes.net/2025/08/15/tmt-newswire/experts-meet-to-tackle-building-climate-resilient-sustainable-economy/2168424
-5. DOST prepares for the future, launches strategic programs during AstiCon 2025 (The Manila Times)
-   https://www.manilatimes.net/2025/08/15/tmt-newswire/dost-prepares-for-the-future-launches-strategic-programs-during-asticon-2025/2168421
+1. Workers call for support, training as AI 'irresistible' (PerthNow)
+   https://www.perthnow.com.au/news/technology/workers-call-for-support-training-as-ai-irresistible-c-19701173
+2. Self-reliance in critical tech crucial for Viksit Bharat, says PM Modi (The Indian Express)
+   https://indianexpress.com/article/india/self-reliance-in-critical-tech-crucial-for-viksit-bharat-says-pm-modi-10192124/
+3. Senator Josh Hawley Begins Child Safety Inquiry Into Meta’s A.I. Bot (The New York Times)
+   https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html
+4. Kao to release new skincare products with moisturizing technology that can withstand ‘deathly dry’ desert (Japan Today)
+   https://japantoday.com/category/features/new-products/kao-to-release-new-est-skincare-products-with-moisturizing-technology-that-can-withstand-%E2%80%98deathly-dry%E2%80%99-desert
+5. S&P/TSX composite edges slightly lower as markets watch Trump-Putin meeting (ElliotLakeToday.com)
+   https://www.elliotlaketoday.com/national-business/sptsx-composite-edges-slightly-lower-as-markets-watch-trump-putin-meeting-11081352
