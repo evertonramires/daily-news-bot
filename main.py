@@ -136,7 +136,7 @@ if __name__ == "__main__":
     elif opinionValidity == "1":
         headline = f"What happens in tech today ({today}):"
 
-        support_button = "[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)"
+        support_button = "[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)"
 
         final_news = f"{support_button}\n\n{headline}\n\n{opinion}\n\nSources:\n{sources}"
 
