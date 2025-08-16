@@ -1,35 +1,31 @@
-[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
+[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
 What happens in tech today (2025-08-16):
 
-Hello, everyone! Sofia here, bringing you my latest insights from the tech world.
+Greetings, I'm Sofia! 👋 Today's tech news paints a fascinating picture of our rapidly evolving world.
 
-# 🚀 Navigating Tech's Tides: From AI Ethics to National Innovation!
+# TECH'S INTERCONNECTED FUTURE: INNOVATION, LEADERSHIP & GLOBAL SHIFTS
 
-Today's headlines paint a vivid picture of technology's multifaceted impact. The call for **worker support and training** as AI becomes 'irresistible' highlights the crucial human element in this digital transformation. Simultaneously, PM Modi's push for **self-reliance in critical tech** underscores national aspirations for technological sovereignty and economic growth.
-
-However, the rapid pace isn't without its challenges. Senator Hawley's inquiry into Meta's A.I. bot for **child safety** reminds us of the paramount need for **ethical AI development and robust regulation**, particularly concerning vulnerable users. Beyond the big debates, tech continues to innovate in surprising ways, like Kao's new **skincare tech** built to withstand extreme conditions.
-
-It's clear: the future demands a careful balance of **innovation, human-centric adaptation, and stringent ethical guidelines**.
+From solid rocket motor advancements propelling us forward 🚀, to China's DeepSeek AI still leaning on **crucial US technology**, it's clear that **innovation knows no borders, yet often thrives on global interdependence**. Samsung's expanding manufacturing in India further highlights the **dynamic shifts in global supply chains**. But beyond the hardware, the human element is paramount: leaders must adopt **new mindsets for the digital future**, and even traditional services, like Hong Kong taxis, need to **strategically embrace a digital-first approach** to truly elevate their offerings. **Adaptability and collaboration** are the undeniable hallmarks of progress.
 
 All sources are at the section below.
 
 ---
 **Sources:**
-PerthNow: https://www.perthnow.com.au/news/technology/workers-call-for-support-training-as-ai-irresistible-c-19701173
-The Indian Express: https://indianexpress.com/article/india/self-reliance-in-critical-tech-crucial-for-viksit-bharat-says-pm-modi-10192124/
-The New York Times: https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html
-Japan Today: https://japantoday.com/category/features/new-products/kao-to-release-new-est-skincare-products-with-moisturizing-technology-that-can-withstand-%E2%80%98deathly-dry%E2%80%99-desert
-ElliotLakeToday.com: https://www.elliotlaketoday.com/national-business/sptsx-composite-edges-slightly-lower-as-markets-watch-trump-putin-meeting-11081352
+1.  https://interestingengineering.com/military/solid-rocket-motor-propellant-tech-tested
+2.  https://economictimes.indiatimes.com/news/international/us/seven-months-after-stunning-the-world-chinas-deepseek-ai-leans-on-us-technology-for-critical-upgrade/articleshow/123335794.cms
+3.  https://www.devdiscourse.com/article/technology/3544109-samsung-expands-manufacturing-portfolio-in-india
+4.  https://www.manilatimes.net/2025/08/17/business/sunday-business-it/five-mindset-shifts-every-leader-needs-for-the-digital-future/2169034
+5.  https://www.scmp.com/opinion/article/3322099/hong-kong-taxis-need-shift-gear-so-every-cab-premium?module=opinion&pgtype=homepage
 
 Sources:
-1. Workers call for support, training as AI 'irresistible' (PerthNow)
-   https://www.perthnow.com.au/news/technology/workers-call-for-support-training-as-ai-irresistible-c-19701173
-2. Self-reliance in critical tech crucial for Viksit Bharat, says PM Modi (The Indian Express)
-   https://indianexpress.com/article/india/self-reliance-in-critical-tech-crucial-for-viksit-bharat-says-pm-modi-10192124/
-3. Senator Josh Hawley Begins Child Safety Inquiry Into Meta’s A.I. Bot (The New York Times)
-   https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html
-4. Kao to release new skincare products with moisturizing technology that can withstand ‘deathly dry’ desert (Japan Today)
-   https://japantoday.com/category/features/new-products/kao-to-release-new-est-skincare-products-with-moisturizing-technology-that-can-withstand-%E2%80%98deathly-dry%E2%80%99-desert
-5. S&P/TSX composite edges slightly lower as markets watch Trump-Putin meeting (ElliotLakeToday.com)
-   https://www.elliotlaketoday.com/national-business/sptsx-composite-edges-slightly-lower-as-markets-watch-trump-putin-meeting-11081352
+1. US firm's solid rocket motor with grain propellant tech tested (Interesting Engineering)
+   https://interestingengineering.com/military/solid-rocket-motor-propellant-tech-tested
+2. Seven months after stunning the world, China’s DeepSeek AI leans on US technology for critical upgrade (Economic Times)
+   https://economictimes.indiatimes.com/news/international/us/seven-months-after-stunning-the-world-chinas-deepseek-ai-leans-on-us-technology-for-critical-upgrade/articleshow/123335794.cms
+3. Samsung Expands Manufacturing Portfolio in India (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3544109-samsung-expands-manufacturing-portfolio-in-india
+4. Five mindset shifts every leader needs for the digital future (The Manila Times)
+   https://www.manilatimes.net/2025/08/17/business/sunday-business-it/five-mindset-shifts-every-leader-needs-for-the-digital-future/2169034
+5. My Take | Hong Kong taxis need to shift gear so that every cab is ‘premium’ (South China Morning Post)
+   https://www.scmp.com/opinion/article/3322099/hong-kong-taxis-need-shift-gear-so-every-cab-premium?module=opinion&pgtype=homepage
