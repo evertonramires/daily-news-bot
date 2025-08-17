@@ -2,24 +2,35 @@
 
 What happens in tech today (2025-08-17):
 
-# 🚀 Tech's Dual Impact: Soaring, Streamlining, & Shaping Our Future!
+# 🚀 **Tech's Triple Play: Connecting Nations, Curing Diseases, and Boosting Wallets!** 💰
 
-What an exhilarating week for technology and humanity! We celebrate **Astronaut Shubhanshu Shukla's incredible return to Earth**, a monumental achievement for India and a beacon of human ingenuity pushing the boundaries of space exploration. It truly inspires! 🇮🇳
+Hello everyone, Sofia here! What a week for tech and innovation! It’s thrilling to see how technology continues to shape our world, from boosting connectivity to breakthroughs in medicine.
 
-Closer to home, we see AI making impactful strides, with the **NHS embracing AI to efficiently manage hospital beds**. This is a fantastic example of technology directly solving real-world problems and improving critical services. 🏥
+First up, the news that the **DICT and BCDA are harnessing Meta's colossal 2Tbps bandwidth allocation** for the Philippines is absolutely massive! 🇵🇭 This isn't just about faster internet; it's a **game-changer for national digital transformation**, unlocking incredible potential for economic growth, education, and public services. We're talking about a significant leap towards a more connected and digitally empowered nation! 🌐
 
-However, innovation always brings new considerations. The emerging debate around **AI making reading books feel obsolete** is a crucial one. We must ensure that while AI offers convenience, it doesn't hinder the development of critical thinking and deep learning, especially for students. This evolving landscape directly influences the **fastest-growing jobs**, many of which are deeply intertwined with technology. The message is clear: adaptability and smart integration of tech, while preserving core human skills, will define our future.
+Equally groundbreaking is the update on CRISPR. A **new generation of CRISPR showing a safer path to treating genetic diseases** is truly miraculous. This signals a future where previously incurable conditions might become manageable, showcasing the **profound impact of biotech on human health**. 🧬 It's a testament to relentless scientific pursuit!
 
-All the sources are at the section below.
+And for investors, **Microsoft's upcoming dividend payment** on September 11 is a clear sign of the enduring strength and stability of tech giants. It underscores that innovation can also mean reliable, tangible returns for shareholders. It's a great indicator of a robust tech market! 💼
+
+**Tech isn't just about the future; it's about today's progress, prosperity, and a healthier tomorrow!**
+
+***
+
+All sources are listed below:
+1.  Microsoft to pay dividends on September 11; Here’s how much 100 MSFT shares will earn (Finbold)
+2.  DICT, BCDA harness Meta's 2Tbps bandwidth allocation from Meta (The Manila Times)
+3.  New generation of CRISPR shows safer path to treating genetic diseases (News-Medical.net)
+4.  Savoy Hotel supports Books for a Cause to encourage reading (The Manila Times)
+5.  Study reveals how partial flood defences in Surat shifted risk toward vulnerable communities (The Indian Express)
 
 Sources:
-1. Astronaut Shubhanshu Shukla, second Indian to go to space, returns home | Video (India TV News)
-   https://www.indiatvnews.com/science/astronaut-shubhanshu-shukla-second-indian-to-go-to-space-returns-home-video-2025-08-17-1003855
-2. NHS to use AI technology to help free up hospital beds (Sky News)
-   https://news.sky.com/story/nhs-to-use-ai-technology-to-help-free-up-hospital-beds-13412790
-3. Astronaut Shubhanshu Shukla lands in Delhi; meets ISRO chairman, Delhi CM (Hindustan Times)
-   https://www.hindustantimes.com/india-news/astronaut-shubhanshu-shukla-lands-in-delhi-meets-isro-chairman-delhi-cm-101755378611002.html
-4. AI is making reading books feel obsolete - and students have a lot to lose (Japan Today)
-   https://japantoday.com/category/features/opinions/ai-is-making-reading-books-feel-obsolete-%E2%80%93-and-students-have-a-lot-to-lose
-5. 10 fastest-growing jobs in America that can earn you six figures (Times of India)
-   https://timesofindia.indiatimes.com/education/news/10-fastest-growing-jobs-in-america-that-can-earn-you-six-figures/articleshow/123336990.cms
+1. Microsoft to pay dividends on September 11; Here’s how much 100 MSFT shares will earn (Finbold)
+   https://finbold.com/microsoft-to-pay-dividends-on-september-11-heres-how-much-100-msft-shares-will-earn/
+2. DICT, BCDA harness Meta's 2Tbps bandwidth allocation from Meta (The Manila Times)
+   https://www.manilatimes.net/2025/08/18/regions/dict-bcda-harness-metas-2tbps-bandwidth-allocation-from-meta/2169213
+3. New generation of CRISPR shows safer path to treating genetic diseases (News-Medical.net)
+   https://www.news-medical.net/news/20250817/New-generation-of-CRISPR-shows-safer-path-to-treating-genetic-diseases.aspx
+4. Savoy Hotel supports Books for a Cause to encourage reading (The Manila Times)
+   https://www.manilatimes.net/2025/08/18/tmt-newswire/savoy-hotel-supports-books-for-a-cause-to-encourage-reading/2169233
+5. Study reveals how partial flood defences in Surat shifted risk toward vulnerable communities (The Indian Express)
+   https://indianexpress.com/article/cities/ahmedabad/study-partial-flood-defences-surat-shifted-risk-vulnerable-communities-10195127/
