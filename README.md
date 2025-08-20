@@ -1,33 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-08-19):
+What happens in tech today (2025-08-20):
 
-# 💡 Innovation & Resilience: Tech's Dual Path to Our Future! 🚀
+# ROBOTICS SOARS AMIDST MARKET JITTERS AND ELECTRIC DOUBTS! 🤖💡
 
-As a tech enthusiast, I'm thrilled by today's news! The **wireless audio market's projected $70.9 billion boom by 2029** isn't just about cool gadgets; it reflects technology's pervasive integration into our daily lives, making convenience a priority.
+Hello there, Sofia here! What a day for tech news! Foxconn is making a **brilliant strategic move**, investing US$30 million in Robocore. This expansion into **medical and elderly care robotics** isn't just about diversification; it's about leveraging technology to address critical societal needs. It's truly inspiring to see a giant like Foxconn pushing the boundaries of what's possible, moving beyond traditional manufacturing into **impactful, intelligent automation**. 🚀
 
-More profoundly, we're seeing technology as a cornerstone for societal resilience. The **DOST's focus on weather, earthquake, and space tech R&D**, coupled with experts emphasizing **multi-level collaboration for disaster risk reduction**, shows a critical investment in our collective safety. This proactive approach is vital for a more resilient future.
+On the flip side, we saw SoftBank Group shares take a significant dip, reflecting broader **Asian tech market anxieties**. It's a stark reminder that even in the most innovative sectors, **market volatility is ever-present**. This isn't necessarily a sign of fundamental weakness, but rather a typical **ebb and flow of investor sentiment**.
 
-And then there's **AI, poised to fundamentally reshape even our concept of money**—a truly revolutionary thought! To harness these immense shifts, foundational efforts are key. The **opening of robotics labs for civic school students** is a brilliant step, empowering the next generation to innovate and lead us through these exciting, yet complex, technological tides.
+And speaking of contrasts, NASCAR's latest stance on electric vehicles for their Gen-8 car shows that even as some industries embrace advanced tech, others are charting a more traditional course. It highlights the diverse pathways of **technological adoption** across different sectors. Overall, a day of exciting leaps and cautious steps in the tech world!
 
-All sources are at the section below.
-
----
-**Sources:**
-*   https://www.manilatimes.net/2025/08/19/tmt-newswire/globenewswire/wireless-audio-devices-industry-poised-for-709-billion-market-boom-by-2029/2169910
-*   https://www.manilatimes.net/2025/08/19/tmt-newswire/dost-joins-space-week-showcases-weather-earthquake-and-space-technology-advanced-manufacturing-rd/2169906
-*   https://www.manilatimes.net/2025/08/19/tmt-newswire/experts-reiterate-the-role-of-rd-in-drr-says-multi-level-collaboration-is-crucial-for-more-resilient-ph/2169901
-*   https://www.sciencealert.com/ai-revolution-could-require-us-to-re-think-money-entirely
-*   https://www.hindustantimes.com/cities/pune-news/pcmc-science-park-opens-robotics-lab-for-civic-schools-students-101755544255811.html
+All the sources are at the section below.
 
 Sources:
-1. Wireless Audio Devices Industry Poised for $70.9 Billion Market Boom by 2029 (The Manila Times)
-   https://www.manilatimes.net/2025/08/19/tmt-newswire/globenewswire/wireless-audio-devices-industry-poised-for-709-billion-market-boom-by-2029/2169910
-2. DOST joins Space Week, showcases weather, earthquake, and space technology advanced manufacturing R&D (The Manila Times)
-   https://www.manilatimes.net/2025/08/19/tmt-newswire/dost-joins-space-week-showcases-weather-earthquake-and-space-technology-advanced-manufacturing-rd/2169906
-3. Experts reiterate the role of R&D in DRR, says multi-level collaboration is crucial for more resilient PH (The Manila Times)
-   https://www.manilatimes.net/2025/08/19/tmt-newswire/experts-reiterate-the-role-of-rd-in-drr-says-multi-level-collaboration-is-crucial-for-more-resilient-ph/2169901
-4. AI Revolution Could Require Us to Re-Think Money Entirely (ScienceAlert)
-   https://www.sciencealert.com/ai-revolution-could-require-us-to-re-think-money-entirely
-5. PCMC Science Park opens robotics lab for civic schools students (Hindustan Times)
-   https://www.hindustantimes.com/cities/pune-news/pcmc-science-park-opens-robotics-lab-for-civic-schools-students-101755544255811.html
+1. SoftBank Group shares plunge over 9% as Asian tech stocks decline (CNBC)
+   https://www.cnbc.com/2025/08/20/softbank-group-shares-plunge-over-9percent-as-asian-tech-stocks-decline-.html
+2. Foxconn Technology Invests US$30 Million in Robocore to Expand into Medical and Elderly Care Robotics Market (The Manila Times)
+   https://www.manilatimes.net/2025/08/20/tmt-newswire/media-outreach-newswire/foxconn-technology-invests-us30-million-in-robocore-to-expand-into-medical-and-elderly-care-robotics-market/2170700
+3. 28 new initiatives launched says ECI; backs actions amid Bihar row (Hindustan Times)
+   https://www.hindustantimes.com/india-news/28-new-initiatives-launched-says-eci-backs-actions-amid-bihar-row-101755633142475.html
+4. A Silent Witness: The Rapid Melting of Italy's Ventina Glacier (Devdiscourse)
+   https://www.devdiscourse.com/article/science-environment/3547072-a-silent-witness-the-rapid-melting-of-italys-ventina-glacier
+5. NASCAR President Drops Bombshell on Gen-8 Car Confirming Final Stance on Electrics (Essentially Sports)
+   https://www.essentiallysports.com/nascar-news-steve-odonnell-nascar-president-drops-bombshell-on-gen-eight-car-confirming-final-stance-on-electrics/
