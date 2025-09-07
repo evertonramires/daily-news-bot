@@ -1,29 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-09-06):
+What happens in tech today (2025-09-07):
 
-# TECH'S DUAL FRONTIER: FROM AI IN GOVERNANCE TO LIFE-SAVING SYSTEMS! 🚀
+# SOARING TECH: THRILLS, TRIALS, AND THE STARTUP SOLUTION! 🚀
 
-Hello there! Sofia here, and what a fascinating mix of news we're seeing today. While the incredible story of the teen's **sheer resilience** against adversity is truly powerful, my tech-enthusiast mind is buzzing with the advancements shaping our future.
+Hello everyone! Sofia here, buzzing about the latest in tech. The announcement of **AIR RACE X** truly excites me! 🤩 It's a fantastic showcase of how **cutting-edge technology** is pushing the boundaries of aerial motorsport, promising a thrilling future in 2025. It reminds us of the incredible innovation humanity is capable of.
 
-The Philippines' move to dedicate its 2025 Development Policy Research Month to **AI in governance** is a monumental step! It underscores a serious global commitment to leveraging artificial intelligence for **smarter, more efficient public services**. This forward-thinking policy discussion is vital as nations navigate the digital age. 🤖
+However, amidst this excitement, we can't ignore the vital warnings from tech giants like Geoffrey Hinton. His concerns about **AI potentially triggering massive unemployment** and widening inequality under capitalism are profound. It's a stark reminder that technology, while enabling incredible feats, also presents **significant societal challenges** we must proactively address.
 
-Equally critical are innovations like **NEC's earthquake early warning system** set for testing in Colombia. This is a brilliant example of technology directly impacting safety, using advanced sensors and data analysis to **protect lives and communities** from natural disasters. It showcases tech's incredible potential for proactive prevention. 🌍
+This is where initiatives like Chandigarh University's 'Campus Tank,' emphasizing a **'Startup linked economy,'** become absolutely crucial. Fostering entrepreneurship and innovation is key to creating new opportunities and mitigating the negative impacts of automation. We need to ensure that as technology evolves, our societal structures and educational frameworks adapt to empower individuals, not displace them. The future demands both innovation and responsible stewardship. 💡
 
-And let's not forget the consumer tech space! TESSAN's "Berlin Castle Night" at IFA 2025 promises to unveil new brand experiences, reminding us that innovation continues to push boundaries in how we interact with technology daily.
-
-From enhancing how our governments operate to safeguarding citizens and enriching our daily lives, technology is truly at the forefront of global progress. We're living in exciting times where innovation is not just about gadgets, but about **building a better, safer, and smarter world**. ✨
-
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Teen chewed through ropes to escape suspected serial killer Warren Forrest (Fox News)
-   https://www.foxnews.com/us/suspected-serial-killer-abducted-teen-who-chewed-through-bindings-to-escape
-2. TESSAN Debuts "Berlin Castle Night" to Unveil New Brand Experience at IFA 2025 (The Manila Times)
-   https://www.manilatimes.net/2025/09/07/tmt-newswire/pr-newswire/tessan-debuts-berlin-castle-night-to-unveil-new-brand-experience-at-ifa-2025/2180200
-3. Ganesh immersion in Hyderabad continues peacefully (The Hindu)
-   https://www.thehindu.com/news/national/telangana/ganesh-immersion-in-hyderabad-continues-peacefully/article70020325.ece
-4. NEC to test earthquake early warning system in Colombia (The Manila Times)
-   https://www.manilatimes.net/2025/09/07/business/sunday-business-it/nec-to-test-earthquake-early-warning-system-in-colombia/2180094
-5. PH kicks off 2025 Development Policy Research Month on AI in governance (The Manila Times)
-   https://www.manilatimes.net/2025/09/07/tmt-newswire/ph-kicks-off-2025-development-policy-research-month-on-ai-in-governance/2180108
+1. AIR RACE X - A New Era of Aerial Motorsport, Powered by Cutting-Edge Technology - 2025 Series Finale Decided in Osaka! (The Manila Times)
+   https://www.manilatimes.net/2025/09/07/tmt-newswire/pr-newswire/air-race-x-a-new-era-of-aerial-motorsport-powered-by-cutting-edge-technology-2025-series-finale-decided-in-osaka/2180232
+2. AIR RACE X - A New Era of Aerial Motorsport, Powered by Cutting-Edge Technology - 2025 Series Finale Decided in Osaka! (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/air-race-x--a-new-era-of-aerial-motorsport-powered-by-cutting-edge-technology--2025-series-finale-decided-in-osaka-302548438.html
+3. AI could trigger “massive unemployment”: Geoffrey Hinton warns capitalism will widen inequality (Times of India)
+   https://timesofindia.indiatimes.com/education/news/ai-could-trigger-massive-unemployment-geoffrey-hinton-warns-capitalism-will-widen-inequality/articleshow/123742137.cms
+4. 13th annual convocation held at VIT Chennai (Daily Excelsior)
+   https://www.dailyexcelsior.com/13th-annual-convocation-held-at-vit-chennai/
+5. Dr Jitendra launches Chandigarh University ‘Campus Tank’, underscores ‘StartUp linked economy’ (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-launches-chandigarh-university-campus-tank-underscores-startup-linked-economy-2/
