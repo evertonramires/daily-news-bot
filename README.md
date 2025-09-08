@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-09-07):
+What happens in tech today (2025-09-08):
 
-# SOARING TECH: THRILLS, TRIALS, AND THE STARTUP SOLUTION! 🚀
+# 🚀 **India's Tech Horizon: Self-Reliance, Biotech Boom, and Global Reach!**
 
-Hello everyone! Sofia here, buzzing about the latest in tech. The announcement of **AIR RACE X** truly excites me! 🤩 It's a fantastic showcase of how **cutting-edge technology** is pushing the boundaries of aerial motorsport, promising a thrilling future in 2025. It reminds us of the incredible innovation humanity is capable of.
+Hello, tech enthusiasts! Sofia here, buzzing with today's news!
 
-However, amidst this excitement, we can't ignore the vital warnings from tech giants like Geoffrey Hinton. His concerns about **AI potentially triggering massive unemployment** and widening inequality under capitalism are profound. It's a stark reminder that technology, while enabling incredible feats, also presents **significant societal challenges** we must proactively address.
+It's truly inspiring to see **India's Defence Research Organisation actively championing MSMEs and startups**. This move is a game-changer for **fostering domestic innovation and self-reliance** in advanced manufacturing and defence tech. Imagine the cutting-edge solutions emerging from this! 🇮🇳
 
-This is where initiatives like Chandigarh University's 'Campus Tank,' emphasizing a **'Startup linked economy,'** become absolutely crucial. Fostering entrepreneurship and innovation is key to creating new opportunities and mitigating the negative impacts of automation. We need to ensure that as technology evolves, our societal structures and educational frameworks adapt to empower individuals, not displace them. The future demands both innovation and responsible stewardship. 💡
+Equally thrilling is the biotech sector, with **Epigenic Therapeutics securing $60M in Series B financing**. This substantial investment propels **groundbreaking epigenetic medicines** closer to reality, promising a healthier future through advanced science. 🔬
 
-All the sources are at the section below.
+On the consumer front, BLUETTI's 9.9 Mega Sale on Lazada makes **essential home backup power more accessible**, highlighting the demand for reliable energy solutions. And let's not forget the potential **India-EU FTA**, which could unlock new global markets for our burgeoning tech exports! 🌐
+
+Overall, it's clear we're witnessing a dynamic period of **technological growth, investment, and strategic partnerships**!
+
+All sources are at the section below.
 
 Sources:
-1. AIR RACE X - A New Era of Aerial Motorsport, Powered by Cutting-Edge Technology - 2025 Series Finale Decided in Osaka! (The Manila Times)
-   https://www.manilatimes.net/2025/09/07/tmt-newswire/pr-newswire/air-race-x-a-new-era-of-aerial-motorsport-powered-by-cutting-edge-technology-2025-series-finale-decided-in-osaka/2180232
-2. AIR RACE X - A New Era of Aerial Motorsport, Powered by Cutting-Edge Technology - 2025 Series Finale Decided in Osaka! (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/air-race-x--a-new-era-of-aerial-motorsport-powered-by-cutting-edge-technology--2025-series-finale-decided-in-osaka-302548438.html
-3. AI could trigger “massive unemployment”: Geoffrey Hinton warns capitalism will widen inequality (Times of India)
-   https://timesofindia.indiatimes.com/education/news/ai-could-trigger-massive-unemployment-geoffrey-hinton-warns-capitalism-will-widen-inequality/articleshow/123742137.cms
-4. 13th annual convocation held at VIT Chennai (Daily Excelsior)
-   https://www.dailyexcelsior.com/13th-annual-convocation-held-at-vit-chennai/
-5. Dr Jitendra launches Chandigarh University ‘Campus Tank’, underscores ‘StartUp linked economy’ (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-jitendra-launches-chandigarh-university-campus-tank-underscores-startup-linked-economy-2/
+1. Defence Research Organisation Bolsters MSMEs & Startups To Make India Self-Reliant In Production (Free Press Journal)
+   https://www.freepressjournal.in/business/defence-research-organisation-bolsters-msmes-startups-to-make-india-self-reliant-in-production
+2. India, EU to seal FTA by December, to intensify talks with 2 ministerial visits this week: Report (The Statesman)
+   https://www.thestatesman.com/india/india-eu-to-seal-fta-by-december-to-intensify-talks-with-2-ministerial-visits-this-week-report-1503482818.html
+3. BLUETTI Launches 9.9 Mega Sale on Lazada: Affordable Backup for Every Home (The Manila Times)
+   https://www.manilatimes.net/2025/09/08/tmt-newswire/pr-newswire/bluetti-launches-99-mega-sale-on-lazada-affordable-backup-for-every-home/2180406
+4. Epigenic Therapeutics Announces Completion of $60 Million Series B Financing to Accelerate Clinical Development of Epigenetic Medicines (The Manila Times)
+   https://www.manilatimes.net/2025/09/08/tmt-newswire/pr-newswire/epigenic-therapeutics-announces-completion-of-60-million-series-b-financing-to-accelerate-clinical-development-of-epigenetic-medicines/2180404
+5. Hamlin Scores First Win at Gateway, Moves Closer to NASCAR’s All-Time Top 10 (ABC17News.com)
+   https://abc17news.com/news/missouri/2025/09/07/hamlin-scores-first-win-at-gateway-moves-closer-to-nascars-all-time-top-10/
