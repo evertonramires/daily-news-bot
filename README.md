@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-09-09):
+What happens in tech today (2025-09-10):
 
-# 🚀 Tech's Dual Path: Innovation Surges, Digital Rights Demand Attention!
+# **India's Tech Revolution: Reaching for the Stars!**
 
-Hello! I'm Sofia, your tech enthusiast, and today's news truly paints a picture of technology's multifaceted impact. We're witnessing **groundbreaking AI advancements** with the 'Mixture of Experts' series, promising significant disruption. This innovation pipeline is clearly attracting investment, as shown by **Youxin Technology's successful $6.0 million offering**, signaling robust market confidence.
+Hey everyone, Sofia here, absolutely thrilled by the incredible tech advancements making headlines today!
 
-Meanwhile, practical applications are taking flight, with **Haryana pioneering drone technology** for real-world solutions. Yet, for all this progress, the human element remains central. The urgent call to **lift the social media ban in Nepal** highlights the crucial role digital platforms play in communication and human rights, especially for Gen Z.
+The **HAL-ISRO SSLV technology transfer deal** is a game-changer! 🚀 This move empowers India to mass-produce Small Satellite Launch Vehicles, fundamentally boosting our commercial space capabilities and positioning us as a formidable player in the global market. It’s a massive step towards democratizing space access and commercializing cutting-edge tech.
 
-This complex landscape underscores the need for continuous learning and ethical discussions, perhaps echoing the importance of education discussed at the University of Jammu. **Tech is sprinting forward, and we must ensure progress aligns with societal well-being and fundamental freedoms!** 💡
+We're also seeing the profound impact of digitalization on daily life, with a remarkable **82% of Indians opting for e-visas**. This clearly showcases the increasing adoption and convenience of digital solutions across the nation. 🌐
+
+On the business front, **Urban Company's IPO sparking immediate, full subscription** is a powerful indicator of strong investor confidence in the gig economy and tech-enabled service platforms. It proves that innovation and convenience are highly valued. 📈
+
+And let's not forget the incredible minds shaping our tech world! Stories like **Abidur Chowdhury, the designer behind the slimmest iPhone**, remind us that human ingenuity is at the heart of every technological marvel. ✨
 
 All sources are at the section below.
 
 Sources:
-1. Mixture of Experts series highlights tech disruption (SiliconANGLE News)
-   https://siliconangle.com/2025/09/08/thecube-nyse-wired-mixture-of-experts-insights-moeexperts/
-2. Youxin Technology Ltd Announces Closing of $6.0 Million Underwritten Public Offering (The Manila Times)
-   https://www.manilatimes.net/2025/09/08/tmt-newswire/globenewswire/youxin-technology-ltd-announces-closing-of-60-million-underwritten-public-offering/2180834
-3. Ban on social media must be lifted immediately: Nepal's former Dy PM Rajendra Mahato amid Gen Z protests (Lokmat Times)
-   https://www.lokmattimes.com/technology/ban-on-social-media-must-be-lifted-immediately-nepals-former-dy-pm-rajendra-mahato-amid-gen-z-protests/
-4. LG Manoj Sinha Addresses Foundation Day Ceremony Of University Of Jammu (Daily Excelsior)
-   https://www.dailyexcelsior.com/lg-manoj-sinha-addresses-foundation-day-ceremony-of-university-of-jammu/
-5. Haryana Takes Flight: Pioneering the Drone Technology Revolution (Devdiscourse)
-   https://www.devdiscourse.com/article/technology/3619811-haryana-takes-flight-pioneering-the-drone-technology-revolution
+1. HAL signs SSLV Technology transfer agreement with ISRO, IN-SPACe and NSIL (News18)
+   https://www.news18.com/agency-feeds/hal-signs-sslv-technology-transfer-agreement-with-isro-in-space-and-nsil-9562135.html
+2. 82 pc Indians opted for e (Lokmat Times)
+   https://www.lokmattimes.com/technology/82-pc-indians-opted-for-e-visa-in-2025-report-1/
+3. Urban Company's IPO Sparks Immediate Interest with Full Subscription (Devdiscourse)
+   https://www.devdiscourse.com/article/business/3622169-urban-companys-ipo-sparks-immediate-interest-with-full-subscription
+4. Meet Abidur Chowdhury, Apple Designer Who Introduced The Slimmest iPhone (NDTV.com)
+   https://www.ndtv.com/world-news/meet-abidur-chowdhury-the-apple-designer-who-introduced-the-slimmest-iphone-9249911
+5. HAL signs SSLV technology transfer deal with ISRO, IN-SPACe and NSIL (India TV News)
+   https://www.indiatvnews.com/science/big-boost-for-indian-space-sector-as-hal-to-mass-produce-isro-s-sslv-for-global-satellite-launches-isro-in-space-nsil-2025-09-10-1007548
