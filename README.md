@@ -1,37 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-09-15):
+What happens in tech today (2025-09-16):
 
-# **Tech's Twin Paths: Innovation and Regulation Define Our Future!** 🚀
+# 🚀 AI: Reshaping Our Work & Ensuring Safe Innovation!
 
-Hello everyone, Sofia here! Today's headlines truly showcase the dual nature of our evolving tech landscape: **innovation meeting oversight**.
+What an insightful day for tech! The resounding chorus from titans like Bill Gates, Jensen Huang, Jamie Dimon, and now Zoom's Eric Yuan, predicting a **3-day workweek** thanks to **AI automation**, is truly captivating. This isn't just a fantasy; it highlights the profound societal shift AI is bringing, moving beyond just efficiency to fundamentally redefine our professional lives. It's a future that's rapidly approaching, demanding we rethink productivity and leisure.
 
-**MyPustak.com** is a shining example of technology democratizing knowledge, turning donated books into affordable reads and fostering vibrant communities. It's fantastic **tech for social good**, making literacy accessible.
+Amidst this exciting evolution, it's crucial to address the implications. India's forward-thinking **"techno-legal approach" for AI safety** is a vital step. As AI becomes more ubiquitous, establishing robust ethical and legal frameworks is paramount to ensure **responsible innovation** and prevent potential misuse. It's a powerful reminder that while AI promises immense progress, guided development is non-negotiable for a better, safer future.
 
-Conversely, the parliamentary panel's suggestion for **licensing AI content creators** reminds us of responsibility. This is crucial for addressing ethical concerns, IP, and accountability in the rapidly expanding AI realm. It's a delicate balance between fostering innovation and sensible guardrails.
-
-Further, **IIM Jammu's efforts to strengthen industry-academia ties** are key to nurturing future tech talent. The strong performance of tech giants like **Oracle and Micron Technology** signals continued confidence in the sector. Even celebrating **Hindi Diwas** highlights language's importance in a digitally connected world, hinting at vast potential for localized tech.
-
-It's clear: tech isn't just about what's new, but how we wisely integrate it.
-
-All the sources are at the section below.
-
----
-**Sources:**
-1.  Kolkata’s MyPustak.com turns donated books into affordable reads, builds vibrant reader community (The Economic Times) - https://economictimes.indiatimes.com/news/india/kolkatas-mypustak-com-turns-donated-books-into-affordable-reads-builds-vibrant-reader-community/articleshow/123883354.cms
-2.  Parliamentary panel suggests licensing requirements for AI content creators (The Hindu) - https://www.thehindu.com/news/national/parliamentary-panel-suggests-licensing-requirements-for-ai-content-creators/article70049384.ece
-3.  Strengthening Industry-Academia Ties at IIM Jammu's Roundtable in Pune (Devdiscourse) - https://www.devdiscourse.com/article/education/3627660-strengthening-industry-academia-ties-at-iim-jammus-roundtable-in-pune
-4.  Celebrating Hindi Diwas: Unity in Diversity Through Language (Devdiscourse) - https://www.devdiscourse.com/article/entertainment/3627659-celebrating-hindi-diwas-unity-in-diversity-through-language
-5.  Warner Bros, Oracle, And Micron Technology Are Among The Top 10 Large-Cap Gainers Last Week (Sep. 8 - Sep. 12): Are The Others In Your Portfolio? (Benzinga) - https://www.benzinga.com/markets/equities/25/09/47658589/warner-bros-oracle-and-micron-technology-are-among-the-top-10-large-cap-gainers-last-week-sep-8-sep-12-are-the-others-in-your-portfolio
+All sources are at the section below.
 
 Sources:
-1. Kolkata’s MyPustak.com turns donated books into affordable reads, builds vibrant reader community (The Economic Times)
-   https://economictimes.indiatimes.com/news/india/kolkatas-mypustak-com-turns-donated-books-into-affordable-reads-builds-vibrant-reader-community/articleshow/123883354.cms
-2. Parliamentary panel suggests licensing requirements for AI content creators (The Hindu)
-   https://www.thehindu.com/news/national/parliamentary-panel-suggests-licensing-requirements-for-ai-content-creators/article70049384.ece
-3. Strengthening Industry-Academia Ties at IIM Jammu's Roundtable in Pune (Devdiscourse)
-   https://www.devdiscourse.com/article/education/3627660-strengthening-industry-academia-ties-at-iim-jammus-roundtable-in-pune
-4. Celebrating Hindi Diwas: Unity in Diversity Through Language (Devdiscourse)
-   https://www.devdiscourse.com/article/entertainment/3627659-celebrating-hindi-diwas-unity-in-diversity-through-language
-5. Warner Bros, Oracle, And Micron Technology Are Among The Top 10 Large-Cap Gainers Last Week (Sep. 8 - Sep. 12): Are The Others In Your Portfolio? (Benzinga)
-   https://www.benzinga.com/markets/equities/25/09/47658589/warner-bros-oracle-and-micron-technology-are-among-the-top-10-large-cap-gainers-last-week-sep-8-sep-12-are-the-others-in-your-portfolio
+1. Zoom’s CEO agrees with Bill Gates, Jensen Huang, and Jamie Dimon: A 3-day workweek is coming soon thanks to AI (Fortune)
+   https://fortune.com/2025/09/15/zoom-ceo-eric-yuan-three-day-workweek-ai-automation-human-jobs-replaced-future-of-work/
+2. Why Sidus Space (SIDU) Stock Hit A New 52-Week Low Today (Benzinga)
+   https://www.benzinga.com/trading-ideas/movers/25/09/47670304/why-sidus-space-sidu-stock-hit-a-new-52-week-low-today
+3. India adopts techno legal approach for AI safety: Vaishnaw (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3628811-india-adopts-techno-legal-approach-for-ai-safety-vaishnaw
+4. PM launches development projects worth around Rs 40,000 cr in Bihar (Devdiscourse)
+   https://www.devdiscourse.com/article/science-environment/3628794-pm-launches-development-projects-worth-around-rs-40000-cr-in-bihar
+5. Odisha CM lays foundation of Rs 200 crore SUM life science project (The Statesman)
+   https://www.thestatesman.com/india/odisha-cm-lays-foundation-of-rs-200-crore-sum-life-science-project-1503486722.html
