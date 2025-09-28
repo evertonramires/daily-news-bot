@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-09-27):
+What happens in tech today (2025-09-28):
 
-# 🚀 **Tech Takes Center Stage: From Coffee to EVs, Innovation Drives Tomorrow!**
+# 🚀 **Global Tech Talent Shifts: Canada's Strategic Play & Asia's Innovation Drive!** 🇨🇦🇵🇭
 
-Hello! Sofia here, buzzing about today's tech landscape! 💡
+Hello tech enthusiasts! Sofia here, absolutely thrilled by the evolving global tech landscape. The standout news is **Canada's brilliant initiative to attract tech workers** facing hurdles with US H-1B visas. This isn't just about immigration; it's a strategic masterstroke to *supercharge Canada's tech sector* with world-class talent, making it a new beacon for innovation! This move perfectly illustrates the dynamic flow of skilled professionals and fierce competition for the brightest minds. 💡
 
-Starbucks' move to appoint **Ningyu Chen as interim CTO** amidst a "tech-focused turnaround" is a **powerful signal**: every industry, even coffee, is now a tech industry. This strategic shift underscores the critical role of technology in enhancing customer experience and operational efficiency.
+Equally exciting is the upcoming **Regional Science and Technology Week 2025** in Oroquieta City, Philippines. This event is a clear sign of *growing local innovation and scientific commitment* in emerging tech markets.
 
-Meanwhile, the **LEAD solvent-free battery breakthrough**, slashing costs by over 15% and paving the way for solid-state battery mass production, is a **game-changer for sustainable energy**. This innovation directly fuels the global **EV push**, exemplified by Volkswagen's reshuffle in India, highlighting the automotive sector's unwavering commitment to electrification despite hurdles.
+Together, these stories show a vibrant, **decentralized tech future**, where diverse regions are stepping up to foster their own vibrant ecosystems. What an incredibly exciting time for tech!
 
-It's also fantastic to see companies like Invisors recognized as "Best Workplaces in Technology," reminding us that a thriving culture is fundamental to innovation. The synergy between strategic tech leadership, groundbreaking R&D, and strong workplace environments is rapidly **reshaping our world**!
-
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Starbucks Appoints Ningyu Chen as Interim CTO Amid Tech-Focused Turnaround (Devdiscourse)
-   https://www.devdiscourse.com/article/technology/3642972-starbucks-appoints-ningyu-chen-as-interim-cto-amid-tech-focused-turnaround
-2. Exclusive: Starbucks CTO resigned Monday, interim named (Reuters)
-   https://www.reuters.com/business/retail-consumer/starbucks-cto-resigned-monday-interim-named-2025-09-26/
-3. Fortune Media and Great Place To Work name Invisors to 2025 Best Workplaces in Technology lists in the US and UK (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/fortune-media-and-great-place-to-work-name-invisors-to-2025-best-workplaces-in-technology-lists-in-the-us-and-uk-302568304.html
-4. Solvent-Free Breakthrough: LEAD Slashes Costs 15%+ and Paves the Way for Solid-State Battery Mass Production (The Manila Times)
-   https://www.manilatimes.net/2025/09/26/tmt-newswire/globenewswire/solvent-free-breakthrough-lead-slashes-costs-15-and-paves-the-way-for-solid-state-battery-mass-production/2191218
-5. Volkswagen Reshuffles India Operations Amid $1.4 Billion Tax Dispute and EV Push (Republic World)
-   https://www.republicworld.com/business/volkswagen-reshuffles-india-operations-amid-14-billion-tax-dispute-and-ev-push
+1. Canada Wants To Lure Tech Workers Who Won’t Get US H-1B Visas (NDTV Profit)
+   https://www.ndtvprofit.com/world/canada-wants-to-lure-tech-workers-who-wont-get-us-h-1b-visas
+2. GST without ITC hits affordability and accessibility in India’s tourism sector: FHRAI (Lokmat Times)
+   https://www.lokmattimes.com/technology/gst-without-itc-hits-affordability-and-accessibility-in-indias-tourism-sector-fhrai-1/
+3. Persistent back pain could signal risk of major diseases, new study finds: How to manage this common ache? (The Economic Times)
+   https://economictimes.indiatimes.com/magazines/panache/persistent-back-pain-could-signal-risk-of-major-diseases-diabetes-heart-ailments-arthritis-new-study-finds-how-to-manage-this-common-ache/articleshow/124183157.cms
+4. Sports on TV for Sunday, Sept. 28 (WTOP)
+   https://wtop.com/nfl/2025/09/sports-on-tv-for-sunday-sept-28/
+5. Regional Science and Technology Week 2025 set in Bayfront Arena in Oroquieta City (The Manila Times)
+   https://www.manilatimes.net/2025/09/27/tmt-newswire/regional-science-and-technology-week-2025-set-in-bayfront-arena-in-oroquieta-city/2191496
