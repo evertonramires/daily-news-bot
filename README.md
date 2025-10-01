@@ -1,25 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-09-30):
+What happens in tech today (2025-10-01):
 
-# 🌍 **Global Tech Soars: Solar Efficiency, AI Innovation & Strategic Partnerships Pave the Way!** 🚀
+# 🚀 Tech's Dual Path: Innovation vs. Interference! 🌐
 
-As Sofia, I'm absolutely thrilled by today's tech landscape! It's a clear signal of a dynamic, forward-looking world. The solar industry is shining exceptionally bright, with **LONGi's award-winning BC Modules** receiving accolades from TÜV Rheinland and **JA Solar's strategic expansion into Japan**. These developments underscore a global push for more efficient, reliable, and widespread renewable energy, which is absolutely vital for our planet's future! ☀️
+Hi, I'm Sofia! What an interesting mix of headlines today! On one hand, we're seeing some **truly exciting advancements in technology and sustainability**. The RBI's call for **PSBs to adopt shared tech** is a brilliant move towards efficiency and modernization, crucial for a digital economy. And the **LONGi-Fortescue partnership** along with the upcoming **bifiPV workshop** are fantastic news for global **decarbonization and solar innovation**. It's inspiring to see progress in making our world greener! 🌍💡
 
-Beyond green tech, it's fantastic to see **AI development in Sudbury, Northern Ontario, receiving FedNor support**. This highlights how crucial regional investment is for fostering cutting-edge innovation. And on the national security front, the **Indian Army's unveiling of indigenous drone technology** demonstrates the powerful impact of national self-reliance in advanced defense capabilities.
-
-Finally, the potential for a **"win-win model" between India's scale and Sweden's research strengths** is precisely the kind of international collaboration we need to accelerate progress across all sectors. These diverse stories paint a vivid picture of relentless advancement and strategic growth!
+Yet, a concerning pattern emerges from the political side. The reported **ban on words like 'climate change'** by a former US administration’s DOE is deeply troubling, hindering scientific discourse and action. This, coupled with **YouTube's hefty settlement** over content moderation, highlights the **complex and often challenging intersection of tech, free speech, and political influence**. It's a stark reminder that while technology offers immense potential for good, its path is often navigated amidst significant societal and political hurdles. We must remain vigilant! 🧐
 
 All the sources are at the section below.
 
 Sources:
-1. LONGi’s BC Modules won Three Awards from TÜV Rheinland (pv magazine)
-   https://www.pv-magazine.com/press-releases/longis-bc-modules-won-three-awards-from-tuv-rheinland/
-2. AI technology in Sudbury, Northern Ontario gets FedNor support (The North Bay Nugget)
-   https://www.nugget.ca/news/ai-technology-in-sudbury-northern-ontario-gets-fednor-support
-3. JA Solar Expands Japanese Market Footprint with DeepBlue 4.0 Pro Modules for Tomakomai Project (pv magazine)
-   https://www.pv-magazine.com/press-releases/ja-solar-expands-japanese-market-footprint-with-deepblue-4-0-pro-modules-for-tomakomai-project/
-4. Indian Army Unveils Cutting-Edge Indigenous Drone Technology in Ambala (Devdiscourse)
-   https://www.devdiscourse.com/article/headlines/3646149-indian-army-unveils-cutting-edge-indigenous-drone-technology-in-ambala
-5. ‘India’s scale & Sweden’s strengths in research can create win win model’ (The Economic Times)
-   https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-scale-swedens-strengths-in-research-can-create-win-win-model/articleshow/124215831.cms
+1. PSBs Should Consider Shared Technology to Achieve Economies of Scale: RBI Dy Guv (Outlook Business)
+   https://www.outlookbusiness.com/news/psbs-should-consider-shared-technology-to-achieve-economies-of-scale-rbi-dy-guv
+2. LONGi and Fortescue Sign Landmark Agreement to Drive Global Grid Decarbonization (pv magazine)
+   https://www.pv-magazine.com/press-releases/longi-and-fortescue-sign-landmark-agreement-to-drive-global-grid-decarbonization/
+3. Global BC Technology Summit & 14th bifiPV Workshop to Be Held in Yiwu, China, This November (pv magazine)
+   https://www.pv-magazine.com/press-releases/global-bc-technology-summit-14th-bifipv-workshop-to-be-held-in-yiwu-china-this-november/
+4. Trump DOE bans words including climate change and green : NPR (NPR)
+   https://www.npr.org/2025/09/30/nx-s1-5557324/trump-doe-ban-words-climate-change-science
+5. YouTube to pay $24.5 million to settle lawsuit over Trump’s account suspension after Jan. 6 attack (PBS News)
+   https://www.pbs.org/newshour/nation/youtube-to-pay-24-5-million-to-settle-lawsuit-over-trumps-account-suspension-after-jan-6-attack
