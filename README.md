@@ -1,27 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-03):
+What happens in tech today (2025-10-04):
 
-# 🚀📈 **AI, Biotech, & Defense: Tech's Triple Threat Reshaping Our World!**
+# 🚀 Tech's Tectonic Shifts: From AI Stars to Green Energy Giants! 🌟
 
-Hello everyone, Sofia here! What a week for tech! The **S&P 500 hit record highs**, spectacularly driven by the **unstoppable AI frenzy**. Companies like **Nvidia, AMD, and SK Hynix are soaring**, proving AI is a colossal economic force, not just hype! It's truly the new gold rush.
+As Sofia, a tech enthusiast, I'm thrilled by today's diverse headlines! We're witnessing **AI's incredible reach**, challenging the very definition of creativity as "Tilly Norwood" spooks Hollywood. Simultaneously, a monumental shift towards **sustainable energy** is underway, with giants like Adani and Ambani investing heavily in Small Modular Reactors (SMRs) and Envision Energy powering massive wind projects in Central Asia.
 
-Beyond silicon, **HKUST scientists made a groundbreaking stride in Alzheimer's research**, identifying a critical Chinese genetic risk factor. This is huge for personalized medicine and offers immense hope for future breakthroughs. 🧬
+The optimistic climate on Wall Street, fueled by rate cut hopes, indirectly paves the way for further **tech investment and growth** 💡. And let's not forget the vital role of everyday innovation, with Cronometer's nutrition app showing how **data-driven health tech** continues to enhance our lives. It's clear: **tech isn't just advancing; it's fundamentally transforming our world.**
 
-Even in military tech, we see rapid evolution, with **Russian missiles adapting to challenge Patriot defenses**. It highlights tech's relentless pace across all sectors.
+All sources are at the section below.
 
-From market highs to life-changing medical discoveries and evolving defense strategies, technology is undeniably shaping our future at lightning speed! What an exciting time to be a tech enthusiast! ✨
-
-All the sources are at the section below.
+---
+**Sources:**
+1.  The Sunday Times: "And the Oscar goes to Tilly Norwood? AI’s leading lady spooks Hollywood"
+2.  India.com: "Adani and Ambani to install modular reactors, other big names are…"
+3.  Devdiscourse: "Wall Street Hits Record Highs Amid Rate Cut Optimism and Federal Shutdown"
+4.  PR Newswire UK: "Envision Energy Powers Central Asia's Green Future with Landmark 1 GW Mirny Wind Project in Kazakhstan"
+5.  Caledonia Courier: "Revelstoke's Cronometer nutrition app snags Canadian food technology award"
 
 Sources:
-1. HKUST Scientists Reveal Critical Impacts of a Chinese Genetic Risk Factor in Alzheimer's Disease (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/hkust-scientists-reveal-critical-impacts-of-a-chinese-genetic-risk-factor-in-alzheimers-disease-302573876.html
-2. How evolving Russian missiles are 'confusing and avoiding' Patriot defences in Ukraine (Firstpost)
-   https://www.firstpost.com/world/how-evolving-russian-missiles-are-confusing-and-avoiding-patriot-defences-in-ukraine-13938797.html
-3. Mumbai: 22-Yr-Old Housekeeping Staff Takes Objectionable Photos Of Female Employee Inside Washroom Of Mahim IT Firm; Arrested (Free Press Journal)
-   https://www.freepressjournal.in/mumbai/mumbai-22-yr-old-housekeeping-staff-takes-objectionable-photos-of-female-employee-inside-washroom-of-mahim-it-firm-arrested
-4. ΝΑΤΟ allies pressure Greece to transfer mirage jets to Ukraine (Euractiv)
-   https://www.euractiv.com/news/%ce%bd%ce%b1%cf%84%ce%bf-allies-pressure-greece-to-transfer-mirage-jets-to-ukraine/
-5. S&P 500 hits record high despite government shutdown: Nvidia shares reach all-time high; Magnificent Seven including AMD, SK Hynix soar on AI frenzy while Tesla falters — what’s driving Wall Street to (The Economic Times)
-   https://economictimes.indiatimes.com/news/international/us/sp-500-hits-record-high-despite-government-shutdown-nvidia-shares-reach-all-time-high-magnificent-seven-including-amd-sk-hynix-soar-on-ai-frenzy-while-tesla-falters-whats-driving-wall-street-today/articleshow/124275488.cms
+1. And the Oscar goes to Tilly Norwood? AI’s leading lady spooks Hollywood (The Sunday Times)
+   https://www.thetimes.com/uk/technology-uk/article/ai-actress-tilly-norwood-news-cfw5wnft9
+2. Adani and Ambani to install modular reactors, other big names are… (India.com)
+   https://www.india.com/business/adani-ambani-to-install-modular-reactors-other-big-names-are-reliance-industries-adani-power-bsmr-npcil-tata-power-hindalco-jsw-energy-gujarat-madhya-pradesh-odisha-8112391/
+3. Wall Street Hits Record Highs Amid Rate Cut Optimism and Federal Shutdown (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3651575-wall-street-hits-record-highs-amid-rate-cut-optimism-and-federal-shutdown
+4. Envision Energy Powers Central Asia's Green Future with Landmark 1 GW Mirny Wind Project in Kazakhstan (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/envision-energy-powers-central-asias-green-future-with-landmark-1-gw-mirny-wind-project-in-kazakhstan-302574830.html
+5. Revelstoke's Cronometer nutrition app snags Canadian food technology award (Caledonia Courier)
+   https://www.caledoniacourier.com/business/revelstokes-cronometer-snags-canadian-food-technology-award-in-vancouver-8287564
