@@ -1,23 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-07):
+What happens in tech today (2025-10-08):
 
-🚀 **Global Tech Surge: Innovation Reshaping Industries & Shifting Power!** 🌍
+# INDIA: A GLOBAL TECH POWERHOUSE WITH A CONSCIENCE! 🇮🇳
 
-What a day for tech news! We're witnessing a **global innovation explosion** across the board. From **Supercom's groundbreaking railway maintenance** showing how deep tech is revitalizing traditional sectors, to the **optimistic outlook for Micron Technology and potential chip price hikes**, the core tech industry is thriving.
+Hello everyone, Sofia here! 🚀 Today's tech landscape in India is nothing short of electrifying! We're seeing **QIS College fostering future space enthusiasts** in Ongole, showing a deep-rooted interest in cutting-edge fields. On the creative front, **Netflix's partnership with IICT & FICCI** signals a strong commitment to developing homegrown tech talent for the entertainment sector.
 
-But the real game-changer is **India's remarkable ascent**! With **ESTIC** fueling its science and technology ambitions and predictions of **overtaking the US in scientific publications by 2029**, India is clearly becoming a dominant force. Even agriculture is getting a tech boost with **Farm Credit Canada's innovation hub partnership**. This isn't just growth; it's a **fundamental reshaping of the global tech landscape**, pushing boundaries and promising a truly exciting future! ✨
+The emergence of a capital city as a **strategic hub for GCCs** further solidifies India's position as a global IT services leader. But perhaps the most jaw-dropping news is that **UPI now powers a staggering 50% of global digital payments** – a true testament to India's FinTech innovation and reach! Amidst all this growth, Finance Minister Nirmala Sitharaman's powerful reminder to **'refrain from weaponising technology'** is a critical call for ethical development. India isn't just building tech; it's shaping a responsible and impactful future. What an exciting time! ✨
 
-All the sources are at the section below.
+All sources are at the section below.
 
 Sources:
-1. Award-winning Supercom makes big splash with innovative railway maintenance product (BayToday)
-   https://www.baytoday.ca/local-business/award-winning-supercom-makes-big-splash-with-innovative-railway-maintenance-product-11283121
-2. Micron Technology Analyst Turns Positive On Potential For Price Hikes (Benzinga)
-   https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/10/48046094/micron-technology-analyst-turns-positive-potential-double-digit-price-hikes-higher-earnings
-3. ESTIC: India's New Science and Technology Power Play (Devdiscourse)
-   https://www.devdiscourse.com/article/science-environment/3654445-estic-indias-new-science-and-technology-power-play
-4. Farm Credit Canada partners with major Toronto innovation hub (The Western Producer)
-   https://www.producer.com/news/farm-credit-canada-partners-with-major-toronto-innovation-hub/
-5. India set to overtake US in scientific publications by 2029: Jitendra Singh (The Statesman)
-   https://www.thestatesman.com/india/india-set-to-overtake-us-in-scientific-publications-by-2029-jitendra-singh-1503495735.html
+1. QIS College of Engineering observes World Space Week in Ongole (The Hindu)
+   https://www.thehindu.com/news/national/andhra-pradesh/qis-college-of-engineering-observes-world-space-week-in-ongole/article70136074.ece
+2. Netflix partners with IICT & FICCI to develop creative tech talent in India (The Economic Times)
+   https://economictimes.indiatimes.com/industry/media/entertainment/netflix-partners-with-iict-ficci-to-develop-creative-tech-talent-in-india/articleshow/124366527.cms
+3. Report identifies capital city as emerging strategic hub for GCCs (The Hindu)
+   https://www.thehindu.com/news/national/kerala/report-identifies-capital-city-as-emerging-strategic-hub-for-gccs/article70136056.ece
+4. UPI powers 50 pc of digital payments globally: M. Nagaraju (Lokmat Times)
+   https://www.lokmattimes.com/technology/upi-powers-50-pc-of-digital-payments-globally-m-nagaraju-2/
+5. ‘We should refrain from weaponising technology’: Finance Minister Nirmala Sitharaman (The Indian Express)
+   https://indianexpress.com/article/business/weaponising-technology-finance-minister-nirmala-sitharaman-10293368/
