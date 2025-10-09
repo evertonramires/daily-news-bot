@@ -1,23 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-08):
+What happens in tech today (2025-10-09):
 
-# INDIA: A GLOBAL TECH POWERHOUSE WITH A CONSCIENCE! 🇮🇳
+# INDIA'S TECH RENAISSANCE: FROM SPACE TO SUSTAINABILITY! 🚀
 
-Hello everyone, Sofia here! 🚀 Today's tech landscape in India is nothing short of electrifying! We're seeing **QIS College fostering future space enthusiasts** in Ongole, showing a deep-rooted interest in cutting-edge fields. On the creative front, **Netflix's partnership with IICT & FICCI** signals a strong commitment to developing homegrown tech talent for the entertainment sector.
+As Sofia, a tech enthusiast, I'm thrilled by the buzz surrounding **India's technological leap**. We're seeing a clear, ambitious strategy unfold! The unveiling of **Mangalyaan 2** solidifies India's prowess in advanced space tech, pushing scientific exploration. Simultaneously, leaders like Akash Ambani commit to keeping India at the **forefront of the digital revolution**, driving cutting-edge solutions like AI and 5G.
 
-The emergence of a capital city as a **strategic hub for GCCs** further solidifies India's position as a global IT services leader. But perhaps the most jaw-dropping news is that **UPI now powers a staggering 50% of global digital payments** – a true testament to India's FinTech innovation and reach! Amidst all this growth, Finance Minister Nirmala Sitharaman's powerful reminder to **'refrain from weaponising technology'** is a critical call for ethical development. India isn't just building tech; it's shaping a responsible and impactful future. What an exciting time! ✨
+What truly excites me is the dual focus: innovation *and* sustainability. The **International Solar Alliance** assembly, coupled with the India-UK S&T partnership, showcases a powerful push towards **sustainable innovation**. This isn't just about adopting technology; it's about leading with purpose. The underlying enabler for much of this will be robust infrastructure, mirroring BDStar's strategic move towards **chip-cloud integration**, vital for scalable digital transformation and advanced computing across all sectors. India is rapidly positioning itself for **global leadership** in an interconnected, tech-driven future! 🌍✨
 
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. QIS College of Engineering observes World Space Week in Ongole (The Hindu)
-   https://www.thehindu.com/news/national/andhra-pradesh/qis-college-of-engineering-observes-world-space-week-in-ongole/article70136074.ece
-2. Netflix partners with IICT & FICCI to develop creative tech talent in India (The Economic Times)
-   https://economictimes.indiatimes.com/industry/media/entertainment/netflix-partners-with-iict-ficci-to-develop-creative-tech-talent-in-india/articleshow/124366527.cms
-3. Report identifies capital city as emerging strategic hub for GCCs (The Hindu)
-   https://www.thehindu.com/news/national/kerala/report-identifies-capital-city-as-emerging-strategic-hub-for-gccs/article70136056.ece
-4. UPI powers 50 pc of digital payments globally: M. Nagaraju (Lokmat Times)
-   https://www.lokmattimes.com/technology/upi-powers-50-pc-of-digital-payments-globally-m-nagaraju-2/
-5. ‘We should refrain from weaponising technology’: Finance Minister Nirmala Sitharaman (The Indian Express)
-   https://indianexpress.com/article/business/weaponising-technology-finance-minister-nirmala-sitharaman-10293368/
+1. BDStar Unveils Chip-Cloud Integrated Business Strategy (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/bdstar-unveils-chip-cloud-integrated-business-strategy-302578498.html
+2. Global Ministers Unite: Eighth International Solar Alliance Assembly in New Delhi (Devdiscourse)
+   https://www.devdiscourse.com/article/headlines/3656785-global-ministers-unite-eighth-international-solar-alliance-assembly-in-new-delhi
+3. India Eyes Mars: Mangalyaan 2 Project Timeline Unveiled (Devdiscourse)
+   https://www.devdiscourse.com/article/headlines/3656781-india-eyes-mars-mangalyaan-2-project-timeline-unveiled
+4. Will keep India at forefront of digital revolution: Akash Ambani (The Financial Express)
+   https://www.financialexpress.com/business/will-keep-india-at-forefront-of-digital-revolution-akash-ambani-4003804/
+5. Leveraging the India-UK partnership in S&T for sustainable development (Hindustan Times)
+   https://www.hindustantimes.com/opinion/leveraging-the-india-uk-partnership-in-s-t-for-sustainable-development-101759934377293.html
