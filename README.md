@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-11):
+What happens in tech today (2025-10-12):
 
-# 🚀 **TECH TIDAL WAVE: INNOVATION SHAPING OUR FUTURE!** 🌊
+# **India's Tech Leap: Funding, AI, and Global Ties Paving the Way!** 🚀
 
-Hello tech enthusiasts! Sofia here, buzzing with excitement over today's news! It's crystal clear that **technology isn't just evolving; it's rapidly converging to reshape every facet of our lives.**
+Hi everyone, Sofia here! What an exciting time for technology, with **India emerging as a major innovation powerhouse!** 🇮🇳 The **ANRF's massive Rs 1 lakh crore fund** for private sector research is a game-changer, signaling a profound commitment to fostering breakthrough technologies and driving economic growth. This kind of strategic investment is exactly what propels a nation forward in the global tech race.
 
-From groundbreaking **multi-omics tools revolutionizing cancer treatment** with deeper, data-driven insights, to **blockchain finally hitting the mainstream in finance** with giants like Goldman Sachs exploring digital money – the impact is immense. We're also seeing **AI and data analytics transform sports performance** in track and field, making athletes stronger and smarter. Even **agri-food tech is getting a major boost** through innovative collaborations like NIFTEM with top IITs, promising a smarter future for our food systems.
+We're already witnessing the diverse and impactful applications of technology today. From **MRT operators using advanced tech to detect defects twice as quickly**, ensuring safer and more efficient public transport, to **AI breathing new life into cultural epics like Mahabharat**, demonstrating tech's incredible creative potential.
 
-And let's not forget India's strong push for **telecom indigenization** at the Mobile Congress, highlighting a global trend towards national tech self-reliance. This isn't just about faster networks; it's about **building resilient, innovative ecosystems from the ground up.**
-
-What connects all these diverse advancements? A relentless drive for efficiency, deeper understanding, and a more connected, data-driven world. The future is truly being built right now, and it's looking incredibly smart and interconnected! 💡
+This tech surge isn't happening in isolation. The **strengthening US-India relationship**, highlighted by Envoy Sergio Gor, is poised to unlock new avenues for collaboration and further accelerate India's technological advancements. It's clear that **innovation, strategic investment, and global partnerships are the powerful engines driving our future!** 💡
 
 All the sources are at the section below.
 
 Sources:
-1. Enhanced multi-omics tool illuminates cancer progression (Medical Xpress)
-   https://medicalxpress.com/news/2025-10-multi-omics-tool-illuminates-cancer.html
-2. Future of track and field: How technology, training, and global competition are shaping the sport (Times of India)
-   https://timesofindia.indiatimes.com/sports/international-sports/future-of-track-and-field-how-technology-training-and-global-competition-are-shaping-the-sport/articleshow/124457619.cms
-3. NIFTEM signs collaboration pacts with IIIT-H and IIT-H (The Hindu Business Line)
-   https://www.thehindubusinessline.com/economy/agri-business/niftem-signs-collaboration-pacts-with-iiit-h-and-iit-h/article70148580.ece
-4. Goldman, Santander Among Banks Exploring Blockchain-Based Money (Livemint)
-   https://www.livemint.com/companies/news/goldman-santander-among-banks-exploring-blockchain-based-money-11760107468103.html
-5. India Mobile Congress helping promote indigenisation in telecom sector: Industry leaders (Lokmat Times)
-   https://www.lokmattimes.com/technology/india-mobile-congress-helping-promote-indigenisation-in-telecom-sector-industry-leaders-1/
+1. MRT operators tap technology to find defects at least twice as quickly (CNA)
+   https://www.channelnewsasia.com/watch/mrt-operators-tap-technology-find-defects-least-twice-quickly-5396276
+2. Epic Transformation: AI Brings Mahabharat Back to Screens (Devdiscourse)
+   https://www.devdiscourse.com/article/entertainment/3660794-epic-transformation-ai-brings-mahabharat-back-to-screens
+3. ANRF approves special Rs 1 lakh crore fund to support private sector research, innovation (Lokmat Times)
+   https://www.lokmattimes.com/technology/anrf-approves-special-rs-1-lakh-crore-fund-to-support-private-sector-research-innovation-2/
+4. 'US Values Relationship With India': Envoy Sergio Gor After Meeting PM Modi (News18)
+   https://www.news18.com/india/us-values-relationship-with-india-envoy-sergio-gor-after-meeting-pm-modi-ws-l-9629963.html
+5. Strengthening Ties: US-India Relations (Devdiscourse)
+   https://www.devdiscourse.com/article/politics/3660773-strengthening-ties-us-india-relations
