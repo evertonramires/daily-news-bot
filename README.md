@@ -1,25 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-12):
+What happens in tech today (2025-10-13):
 
-# **India's Tech Leap: Funding, AI, and Global Ties Paving the Way!** 🚀
+# ⚡️Tech's Shifting Sands: From Green Energy to Global Geopolitics!⚡️
 
-Hi everyone, Sofia here! What an exciting time for technology, with **India emerging as a major innovation powerhouse!** 🇮🇳 The **ANRF's massive Rs 1 lakh crore fund** for private sector research is a game-changer, signaling a profound commitment to fostering breakthrough technologies and driving economic growth. This kind of strategic investment is exactly what propels a nation forward in the global tech race.
+Hello everyone, **Sofia** here! Today's news paints a fascinating, complex picture of technology's impact. The potential political push for **geothermal energy** is a welcome step towards **stable, baseload clean power**, often overshadowed but truly powerful. Meanwhile, **AI's role as a "second pair of eyes" for breast cancer detection** is a phenomenal example of how technology can genuinely **save lives and enhance human expertise**.
 
-We're already witnessing the diverse and impactful applications of technology today. From **MRT operators using advanced tech to detect defects twice as quickly**, ensuring safer and more efficient public transport, to **AI breathing new life into cultural epics like Mahabharat**, demonstrating tech's incredible creative potential.
+However, we can't ignore the geopolitical chessboard: **China's weaponization of rare earths** is a stark reminder of our **vulnerable tech supply chains**. This calls for innovation in new materials and diversified sourcing. On a brighter note, events like the **Kerala Women Entrepreneurs’ Conclave 2025** are vital for **fostering innovation and diversity** within the tech landscape. And Philips' strategic market expansion into India highlights the ongoing drive to **localize and adapt tech for diverse global needs**. Technology truly is a powerful force, shaping everything from our health to global power dynamics!
 
-This tech surge isn't happening in isolation. The **strengthening US-India relationship**, highlighted by Envoy Sergio Gor, is poised to unlock new avenues for collaboration and further accelerate India's technological advancements. It's clear that **innovation, strategic investment, and global partnerships are the powerful engines driving our future!** 💡
-
-All the sources are at the section below.
+All sources are at the section below.
 
 Sources:
-1. MRT operators tap technology to find defects at least twice as quickly (CNA)
-   https://www.channelnewsasia.com/watch/mrt-operators-tap-technology-find-defects-least-twice-quickly-5396276
-2. Epic Transformation: AI Brings Mahabharat Back to Screens (Devdiscourse)
-   https://www.devdiscourse.com/article/entertainment/3660794-epic-transformation-ai-brings-mahabharat-back-to-screens
-3. ANRF approves special Rs 1 lakh crore fund to support private sector research, innovation (Lokmat Times)
-   https://www.lokmattimes.com/technology/anrf-approves-special-rs-1-lakh-crore-fund-to-support-private-sector-research-innovation-2/
-4. 'US Values Relationship With India': Envoy Sergio Gor After Meeting PM Modi (News18)
-   https://www.news18.com/india/us-values-relationship-with-india-envoy-sergio-gor-after-meeting-pm-modi-ws-l-9629963.html
-5. Strengthening Ties: US-India Relations (Devdiscourse)
-   https://www.devdiscourse.com/article/politics/3660773-strengthening-ties-us-india-relations
+1. Geothermal Power Emerges as Trump’s Favorite Clean Energy (OilPrice)
+   https://oilprice.com/Energy/Energy-General/Geothermal-Power-Emerges-as-Trumps-Favorite-Clean-Energy.html
+2. Using AI as a 'second pair of eyes' to detect breast cancer earlier and more accurately (CNA)
+   https://www.channelnewsasia.com/watch/using-ai-second-pair-eyes-detect-breast-cancer-earlier-and-more-accurately-5397236
+3. China weaponises rare earths, risks global tech stability (Lokmat Times)
+   https://www.lokmattimes.com/international/china-weaponises-rare-earths-risks-global-tech-stability/
+4. Kerala Women Entrepreneurs’ Conclave 2025 to be held (The Hindu)
+   https://www.thehindu.com/news/national/kerala/kerala-women-entrepreneurs-conclave-2025-to-be-held/article70155554.ece
+5. Philips To Bring Global Products To India, Strengthen Male Grooming, Mother, Child-Care Range (NDTV Profit)
+   https://www.ndtvprofit.com/business/philips-to-bring-global-products-to-india-strengthen-male-grooming-mother-child-care-range
