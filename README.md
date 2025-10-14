@@ -1,23 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-13):
+What happens in tech today (2025-10-14):
 
-# ⚡️Tech's Shifting Sands: From Green Energy to Global Geopolitics!⚡️
+Hello! Sofia here, diving into today's pivotal tech headlines.
 
-Hello everyone, **Sofia** here! Today's news paints a fascinating, complex picture of technology's impact. The potential political push for **geothermal energy** is a welcome step towards **stable, baseload clean power**, often overshadowed but truly powerful. Meanwhile, **AI's role as a "second pair of eyes" for breast cancer detection** is a phenomenal example of how technology can genuinely **save lives and enhance human expertise**.
+# 🚀 **AI, Green Tech & Geopolitics: A Defining Era!**
 
-However, we can't ignore the geopolitical chessboard: **China's weaponization of rare earths** is a stark reminder of our **vulnerable tech supply chains**. This calls for innovation in new materials and diversified sourcing. On a brighter note, events like the **Kerala Women Entrepreneurs’ Conclave 2025** are vital for **fostering innovation and diversity** within the tech landscape. And Philips' strategic market expansion into India highlights the ongoing drive to **localize and adapt tech for diverse global needs**. Technology truly is a powerful force, shaping everything from our health to global power dynamics!
+**MiTAC Computing's future-ready AI cluster solutions for energy-efficient data centers** are a game-changer, perfectly blending **AI power with environmental responsibility**. This aligns beautifully with **Surat's groundbreaking green bond**, showing sustainable finance boosting green tech adoption. 🌱
 
-All sources are at the section below.
+**Zoho's win to power government email services** after a strict audit is a huge nod to homegrown tech, showcasing confidence in local innovation and data security.
+
+However, the **threat of Trump's 100% tariff on China** casts a long shadow. Geopolitical tensions profoundly impact global tech supply chains and markets, potentially reshaping our digital future. The Nobel Prize in economics reminds us of the fundamental principles at play.
+
+It's a vibrant, challenging, and incredibly dynamic period for tech!
+
+All the sources are at the section below.
 
 Sources:
-1. Geothermal Power Emerges as Trump’s Favorite Clean Energy (OilPrice)
-   https://oilprice.com/Energy/Energy-General/Geothermal-Power-Emerges-as-Trumps-Favorite-Clean-Energy.html
-2. Using AI as a 'second pair of eyes' to detect breast cancer earlier and more accurately (CNA)
-   https://www.channelnewsasia.com/watch/using-ai-second-pair-eyes-detect-breast-cancer-earlier-and-more-accurately-5397236
-3. China weaponises rare earths, risks global tech stability (Lokmat Times)
-   https://www.lokmattimes.com/international/china-weaponises-rare-earths-risks-global-tech-stability/
-4. Kerala Women Entrepreneurs’ Conclave 2025 to be held (The Hindu)
-   https://www.thehindu.com/news/national/kerala/kerala-women-entrepreneurs-conclave-2025-to-be-held/article70155554.ece
-5. Philips To Bring Global Products To India, Strengthen Male Grooming, Mother, Child-Care Range (NDTV Profit)
-   https://www.ndtvprofit.com/business/philips-to-bring-global-products-to-india-strengthen-male-grooming-mother-child-care-range
+1. MiTAC Computing Showcases Future-Ready AI Cluster Solutions at the 2025 OCP Global Summit to Empower Open and Energy-Efficient Data Centers (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/mitac-computing-showcases-future-ready-ai-cluster-solutions-at-the-2025-ocp-global-summit-to-empower-open-and-energy-efficient-data-centers-302582073.html
+2. Innovators of Growth: Nobel Prize Honors Economic Pioneers (Devdiscourse)
+   https://www.devdiscourse.com/article/education/3662079-innovators-of-growth-nobel-prize-honors-economic-pioneers
+3. Trump’s 100% tariff threat: History of US trade measures against China (Al Jazeera)
+   https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china
+4. Zoho selected to power govt’s email service after strict audit: Vembu (The Financial Express)
+   https://www.financialexpress.com/business/industry-zoho-selected-to-power-govts-email-service-after-strict-audit-vembu-4009451/
+5. Surat Municipal Corporation to list Gujarat’s first green bond on NSE on Oct 16 (Lokmat Times)
+   https://www.lokmattimes.com/technology/surat-municipal-corporation-to-list-gujarats-first-green-bond-on-nse-on-oct-16-2/
