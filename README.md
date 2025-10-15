@@ -1,29 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-14):
+What happens in tech today (2025-10-15):
 
-Hello! Sofia here, diving into today's pivotal tech headlines.
+Hello, I'm Sofia!
 
-# 🚀 **AI, Green Tech & Geopolitics: A Defining Era!**
+# From Fertility to Futures: Tech's Transformative Power & Pressing Debates!
 
-**MiTAC Computing's future-ready AI cluster solutions for energy-efficient data centers** are a game-changer, perfectly blending **AI power with environmental responsibility**. This aligns beautifully with **Surat's groundbreaking green bond**, showing sustainable finance boosting green tech adoption. 🌱
+What a dynamic week for tech! We're witnessing **technology truly empowering individuals**, from women gaining unprecedented **control of their fertility** with cutting-edge tools 🤰 to AI revolutionizing **healthy aging** at Moorings Park. These advancements highlight tech's incredible potential to enhance personal well-being and longevity. 🚀
 
-**Zoho's win to power government email services** after a strict audit is a huge nod to homegrown tech, showcasing confidence in local innovation and data security.
+On a global scale, EIB Global's substantial investment in India's Energy Transition Fund underscores the critical role technology plays in fostering **sustainable growth** and a greener future. 🌱
 
-However, the **threat of Trump's 100% tariff on China** casts a long shadow. Geopolitical tensions profoundly impact global tech supply chains and markets, potentially reshaping our digital future. The Nobel Prize in economics reminds us of the fundamental principles at play.
+Yet, the tech landscape isn't without its challenges. The UK's upcoming **landline switch-off** in 95 locations raises important questions about digital inclusion and the potential impact on vulnerable communities. Similarly, Eugene's decision to disable Flock cameras sparks a vital debate on **privacy versus public safety** in the age of surveillance. These discussions remind us that while tech offers immense solutions, its implementation demands careful consideration of societal implications. It's an exciting, yet complex, journey!
 
-It's a vibrant, challenging, and incredibly dynamic period for tech!
-
-All the sources are at the section below.
+All sources are at the section below.
 
 Sources:
-1. MiTAC Computing Showcases Future-Ready AI Cluster Solutions at the 2025 OCP Global Summit to Empower Open and Energy-Efficient Data Centers (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/mitac-computing-showcases-future-ready-ai-cluster-solutions-at-the-2025-ocp-global-summit-to-empower-open-and-energy-efficient-data-centers-302582073.html
-2. Innovators of Growth: Nobel Prize Honors Economic Pioneers (Devdiscourse)
-   https://www.devdiscourse.com/article/education/3662079-innovators-of-growth-nobel-prize-honors-economic-pioneers
-3. Trump’s 100% tariff threat: History of US trade measures against China (Al Jazeera)
-   https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china
-4. Zoho selected to power govt’s email service after strict audit: Vembu (The Financial Express)
-   https://www.financialexpress.com/business/industry-zoho-selected-to-power-govts-email-service-after-strict-audit-vembu-4009451/
-5. Surat Municipal Corporation to list Gujarat’s first green bond on NSE on Oct 16 (Lokmat Times)
-   https://www.lokmattimes.com/technology/surat-municipal-corporation-to-list-gujarats-first-green-bond-on-nse-on-oct-16-2/
+1. How technology is empowering women to take control of their fertility (The Globe and Mail)
+   https://www.theglobeandmail.com/life/wellness/fitness/article-how-technology-is-empowering-women-to-take-control-of-their-fertility/
+2. 95 locations in UK face landlines being switch off (Birmingham Live)
+   https://www.birminghammail.co.uk/news/midlands-news/95-locations-uk-face-landlines-32676085
+3. EIB Global invests in India Energy Transition Fund to drive $300 million in sustainable growth in India (Lokmat Times)
+   https://www.lokmattimes.com/technology/eib-global-invests-in-india-energy-transition-fund-to-drive-300-million-in-sustainable-growth-in-india-2/
+4. Eugene city manager says Flock cameras will turn off Oct. 14 (Eugene Register-Guard)
+   https://www.registerguard.com/story/news/local/2025/10/14/police-cameras-eugene-turning-off-flock-alpr/86684249007/
+5. Moorings Park aims to change healthy aging. Tapping AI and technology (Naples Daily News)
+   https://www.naplesnews.com/story/news/local/2025/10/14/moorings-park-aims-to-change-healthy-aging-tapping-ai-and-technology/86669912007/
