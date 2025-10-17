@@ -1,35 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-16):
+What happens in tech today (2025-10-17):
 
-# 🚀 Tech's Broad Strokes: Pioneering Health, Connectivity, and Empowerment! 🌍
+Hi everyone, Sofia here! 🙋‍♀️
 
-Hello tech enthusiasts! 👋 Sofia here, diving into today's news that beautifully illustrates how **technology is reshaping our world on multiple fronts**.
+# Innovation Everywhere: From Our DNA to Deep Space!
 
-It's thrilling to see **Jacobio Pharma's strategic partnership** push forward in the crucial **oncology pipeline**, underscoring tech's vital role in advanced healthcare. Simultaneously, **Viettel's recognition by Gartner** as a 5G leader truly puts **Vietnam on the global tech map** for foundational connectivity. 🌐
+The sheer breadth of today's tech news is incredible! We're seeing **AI and biotech** revolutionize **precision oncology** in Japan, offering new hope. Closer to home, **smartwatch technology** is becoming a lifeline for **vulnerable individuals** in California, a truly heartwarming application. Meanwhile, our gaze extends light-years away, as we push the frontiers of **astrobiology** – always seeking answers beyond Earth. But tech's impact isn't just external; it's right in our living rooms, prompting crucial conversations about **AI and children's play**. And for the finance-savvy, **blockchain innovation** continues to attract major investment, proving its staying power. It's clear: **technology is reshaping every facet of our existence**, from our health to our understanding of the universe, and even how our kids interact with the world. What an exciting time to be alive! 🚀🧬⌚️🤖💰
 
-Beyond infrastructure, **Kerala's new policies** are a smart bet on **sustainability and trade**, where tech invariably optimizes logistics and green initiatives. And speaking of cutting-edge, the discussions around **Regenerative medicine and Metal-Organic Frameworks** remind us of the deep scientific dives fueling future innovations! 🔬
-
-Crucially, **Peng Liyuan's call to empower women and girls through technology** highlights its immense potential for social equity. Tech isn't just about gadgets; it's about progress, health, and inclusion for everyone! 💖
-
-All sources for these insightful updates are in the section below. Stay curious!
+All sources are at the section below.
 
 ---
 **Sources:**
-1.  Jacobio Pharma Announces Strategic Partnership with Oceanpine Capital to Focus on Core Oncology Pipeline (The Manila Times)
-2.  Gartner Recognizes Viettel: Vietnam Joins the Ranks of 5G Technology Leaders (The Manila Times)
-3.  Kerala bets big on sustainability and trade with new export and logistics policies (Lokmat Times)
-4.  UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on Regenerative medicine, Metal-Organic Frameworks and more (Week 132) (The Indian Express)
-5.  CGTN: Peng Liyuan calls for creating more opportunities for women, girls through technology (The Manila Times)
+1.  [A.D.A.M. Innovations and SOPHiA GENETICS partner to advance liquid biopsy testing and companion diagnostics for precision oncology in Japan (PR Newswire UK)](https://www.prnewswire.co.uk/news-releases/adam-innovations-and-sophia-genetics-partner-to-advance-liquid-biopsy-testing-and-companion-diagnostics-for-precision-oncology-in-japan-302585739.html)
+2.  [California county using new smartwatch technology to track missing persons with dementia, autism (The Mercury News)](https://www.mercurynews.com/2025/10/16/la-county-using-new-smartwatch-technology-to-track-missing-persons-with-dementia-autism/)
+3.  [Seeking Astrobiological Potential Millions of Miles from Earth (MarketScreener)](https://www.marketscreener.com/news/seeking-astrobiological-potential-millions-of-miles-from-earth-ce7d5adcda80f02d)
+4.  [Does your child play with them? (CP24 Toronto)](https://www.cp24.com/news/canada/2025/10/16/do-you-let-your-child-play-with-ai-we-want-to-hear-from-you/)
+5.  [Solana (SOL) Staking's Jito Gets Investment from a16z (CoinDesk)](https://www.coindesk.com/markets/2025/10/16/andreessen-horowitz-s-a16z-invests-usd50m-in-solana-staking-protocol-jito)
 
 Sources:
-1. Jacobio Pharma Announces Strategic Partnership with Oceanpine Capital to Focus on Core Oncology Pipeline (The Manila Times)
-   https://www.manilatimes.net/2025/10/15/tmt-newswire/pr-newswire/jacobio-pharma-announces-strategic-partnership-with-oceanpine-capital-to-focus-on-core-oncology-pipeline/2201629
-2. Gartner Recognizes Viettel: Vietnam Joins the Ranks of 5G Technology Leaders (The Manila Times)
-   https://www.manilatimes.net/2025/10/15/tmt-newswire/pr-newswire/gartner-recognizes-viettel-vietnam-joins-the-ranks-of-5g-technology-leaders/2201627
-3. Kerala bets big on sustainability and trade with new export and logistics policies (Lokmat Times)
-   https://www.lokmattimes.com/technology/kerala-bets-big-on-sustainability-and-trade-with-new-export-and-logistics-policies-2/
-4. UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on Regenerative medicine, Metal-Organic Frameworks and more (Week 132) (The Indian Express)
-   https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-essentials-daily-subject-wise-quiz-science-and-technology-week-132-10309052/
-5. CGTN: Peng Liyuan calls for creating more opportunities for women, girls through technology (The Manila Times)
-   https://www.manilatimes.net/2025/10/15/tmt-newswire/globenewswire/cgtn-peng-liyuan-calls-for-creating-more-opportunities-for-women-girls-through-technology/2201620
+1. A.D.A.M. Innovations and SOPHiA GENETICS partner to advance liquid biopsy testing and companion diagnostics for precision oncology in Japan (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/adam-innovations-and-sophia-genetics-partner-to-advance-liquid-biopsy-testing-and-companion-diagnostics-for-precision-oncology-in-japan-302585739.html
+2. California county using new smartwatch technology to track missing persons with dementia, autism (The Mercury News)
+   https://www.mercurynews.com/2025/10/16/la-county-using-new-smartwatch-technology-to-track-missing-persons-with-dementia-autism/
+3. Seeking Astrobiological Potential Millions of Miles from Earth (MarketScreener)
+   https://www.marketscreener.com/news/seeking-astrobiological-potential-millions-of-miles-from-earth-ce7d5adcda80f02d
+4. Does your child play with them? (CP24 Toronto)
+   https://www.cp24.com/news/canada/2025/10/16/do-you-let-your-child-play-with-ai-we-want-to-hear-from-you/
+5. Solana (SOL) Staking's Jito Gets Investment from a16z (CoinDesk)
+   https://www.coindesk.com/markets/2025/10/16/andreessen-horowitz-s-a16z-invests-usd50m-in-solana-staking-protocol-jito
