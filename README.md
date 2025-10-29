@@ -1,42 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-28):
+What happens in tech today (2025-10-29):
 
-# TECH: DRIVING GROWTH, UNEARTHING THE PAST, AND ENHANCING LIVES! 🚀
+🎉 **Tech's Rollercoaster: Innovation Soars Amidst Geopolitical & Market Shifts!** 🎉
 
-Hello, I'm Sofia, and what a fascinating day for tech enthusiasts! The air is buzzing with news showing technology's pervasive influence across every facet of our world.
+Hey everyone, it's Sofia, your tech enthusiast! 🤓
 
-First off, the potential **US-China trade deal** is sending stock markets soaring, a clear signal that stability in global relations can only benefit the incredibly interconnected tech supply chains and innovation. This bodes well for companies like **Huaqin Technology Co., Ltd., whose solid earnings** demonstrate the underlying strength and demand in the device manufacturing sector.
+Today's news paints a vivid picture of tech's dynamic landscape. We celebrate **ideaForge Technology's impressive 41% Q2 profit jump**, showcasing robust growth in drone innovation! 🚀 This positive momentum contrasts sharply with the news of **Idox, a UK tech firm, cutting jobs** post-takeover, a stark reminder of M&A's tough realities. 📉
 
-But tech's impact isn't just financial. We're seeing groundbreaking social applications: a new study highlights **technology's profound impact on social health for older Americans**, linking its use and workforce engagement to better well-being. This is a game-changer, demonstrating tech's capacity to build connections and community.
+Globally, geopolitics intertwine with tech. **Putin's strategic use of old missile tech** sends a clear message, illustrating the enduring relevance of various technological capacities. Concurrently, China's financial forum signals a continued commitment to reform, potentially fostering new tech opportunities. 🇨🇳
 
-Furthermore, **advanced medical technology, exemplified by Smith+Nephew's PICO sNPWT system**, continues to revolutionize healthcare. Its superior performance in wound care not only delivers better patient outcomes but also significantly reduces costs.
+Despite the **TSX composite index being up**, the tech world remains a complex mix of soaring innovation, market adjustments, and global strategic plays. It’s never dull! ✨
 
-And even a mystery lost city, older than the pyramids, makes us ponder **past human ingenuity** and how technology, in its earliest forms, shaped civilizations.
-
-All sources for these insights are detailed below!
-
----
-**Sources:**
-1.  Stocks Surge as U.S.-China Trade Deal Looms (Devdiscourse)
-    https://www.devdiscourse.com/article/headlines/3674904-stocks-surge-as-us-china-trade-deal-looms
-2.  Mystery lost city 'older than the pyramids' could 'predate human architecture' (The daily Star)
-    https://www.dailystar.co.uk/news/world-news/mystery-lost-city-older-pyramids-36141145
-3.  Huaqin Technology Co., Ltd. Reports Earnings Results for the Nine Months Ended September 30, 2025 (MarketScreener)
-    https://www.marketscreener.com/news/huaqin-technology-co-ltd-reports-earnings-results-for-the-nine-months-ended-september-30-2025-ce7d5ddfdb8ff025
-4.  Technology use, work force engagement linked to better social health among older Americans (Medical Xpress)
-    https://medicalxpress.com/news/2025-10-technology-engagement-linked-social-health.html
-5.  Smith+Nephew comparative study1 shows PICO◊ sNPWT (-80 mmHg) delivers superior performance in relation to wound dehiscence and reduces healthcare costs across cardiovascular and orthopedic surgery ver (The Manila Times)
-    https://www.manilatimes.net/2025/10/27/tmt-newswire/globenewswire/smithnephew-comparative-study1-shows-pico-snpwt-80-mmhg-delivers-superior-performance-in-relation-to-wound-dehiscence-and-reduces-healthcare-costs-across-cardiovascular-and-orthopedic-surgery-versus-prevenatm-125-mmhg-snpwt/2209378
+All the sources are at the section below.
 
 Sources:
-1. Stocks Surge as U.S.-China Trade Deal Looms (Devdiscourse)
-   https://www.devdiscourse.com/article/headlines/3674904-stocks-surge-as-us-china-trade-deal-looms
-2. Mystery lost city 'older than the pyramids' could 'predate human architecture' (The daily Star)
-   https://www.dailystar.co.uk/news/world-news/mystery-lost-city-older-pyramids-36141145
-3. Huaqin Technology Co., Ltd. Reports Earnings Results for the Nine Months Ended September 30, 2025 (MarketScreener)
-   https://www.marketscreener.com/news/huaqin-technology-co-ltd-reports-earnings-results-for-the-nine-months-ended-september-30-2025-ce7d5ddfdb8ff025
-4. Technology use, work force engagement linked to better social health among older Americans (Medical Xpress)
-   https://medicalxpress.com/news/2025-10-technology-engagement-linked-social-health.html
-5. Smith+Nephew comparative study1 shows PICO◊ sNPWT (-80 mmHg) delivers superior performance in relation to wound dehiscence and reduces healthcare costs across cardiovascular and orthopedic surgery ver (The Manila Times)
-   https://www.manilatimes.net/2025/10/27/tmt-newswire/globenewswire/smithnephew-comparative-study1-shows-pico-snpwt-80-mmhg-delivers-superior-performance-in-relation-to-wound-dehiscence-and-reduces-healthcare-costs-across-cardiovascular-and-orthopedic-surgery-versus-prevenatm-125-mmhg-snpwt/2209378
+1. Putin uses old missile technology to send a new message to the West (Livemint)
+   https://www.livemint.com/global/putin-uses-old-missile-technology-to-send-a-new-message-to-the-west-11761666681246.html
+2. ideaForge Technology Q2 net profit jumps 41% to ₹20 crore on higher revenue (CNBC TV18)
+   https://www.cnbctv18.com/market/stocks/ideaforge-technology-share-price-q2-net-profit-jumps-41-to-rs-20-crore-on-higher-revenue-19730374.htm
+3. Tech firm Idox to cut jobs after US takeover agreed (LBC)
+   https://www.lbc.co.uk/article/df82e5ec3eb64bf5bdf26b7ad4a3fc7e-5HjdG5P_2/
+4. Global Times: Major financial forum kicks off in Beijing, underscoring China's commitment to reform and opening-up (The Manila Times)
+   https://www.manilatimes.net/2025/10/28/tmt-newswire/pr-newswire/global-times-major-financial-forum-kicks-off-in-beijing-underscoring-chinas-commitment-to-reform-and-opening-up/2210420
+5. TSX composite index up more than 100 points (CP24 Toronto)
+   https://www.cp24.com/news/money/2025/10/28/sptsx-composite-index-up-more-than-100-points-us-stocks-also-higher/
