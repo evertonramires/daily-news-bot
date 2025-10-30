@@ -1,27 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-29):
+What happens in tech today (2025-10-30):
 
-🎉 **Tech's Rollercoaster: Innovation Soars Amidst Geopolitical & Market Shifts!** 🎉
+# 🚀 Tech's Diverse Horizon: From Travel IPOs to Data Powerhouses! 🌐
 
-Hey everyone, it's Sofia, your tech enthusiast! 🤓
+Hello everyone, Sofia here! What an exciting week for tech! We're seeing incredible momentum across the board.
 
-Today's news paints a vivid picture of tech's dynamic landscape. We celebrate **ideaForge Technology's impressive 41% Q2 profit jump**, showcasing robust growth in drone innovation! 🚀 This positive momentum contrasts sharply with the news of **Idox, a UK tech firm, cutting jobs** post-takeover, a stark reminder of M&A's tough realities. 📉
+**Travel technology is truly booming!** Vervotech's "Travel Connections 2026" and Startup Launchpad are nurturing future innovations, while Navan's massive **$923 million Nasdaq IPO** clearly signals immense investor confidence. This sector is rapidly reshaping how we experience travel.
 
-Globally, geopolitics intertwine with tech. **Putin's strategic use of old missile tech** sends a clear message, illustrating the enduring relevance of various technological capacities. Concurrently, China's financial forum signals a continued commitment to reform, potentially fostering new tech opportunities. 🇨🇳
+Beyond that, the digital transformation continues its aggressive pace. Sapiens' summit showcased **transformative insurance technology**, proving traditional industries are fully embracing digital solutions. On the infrastructure front, TCS's incorporation of **HyperVault Data Center** as a wholly-owned subsidiary underscores the critical need for robust, scalable data management – the backbone of our digital world.
 
-Despite the **TSX composite index being up**, the tech world remains a complex mix of soaring innovation, market adjustments, and global strategic plays. It’s never dull! ✨
+And let's not forget consumer tech! Online gaming continues to push boundaries with new trends, keeping us all entertained and connected.
 
-All the sources are at the section below.
+It's clear: **innovation, infrastructure, and investment are driving a dynamic tech landscape.** The future looks incredibly bright!
+
+All sources are at the section below.
 
 Sources:
-1. Putin uses old missile technology to send a new message to the West (Livemint)
-   https://www.livemint.com/global/putin-uses-old-missile-technology-to-send-a-new-message-to-the-west-11761666681246.html
-2. ideaForge Technology Q2 net profit jumps 41% to ₹20 crore on higher revenue (CNBC TV18)
-   https://www.cnbctv18.com/market/stocks/ideaforge-technology-share-price-q2-net-profit-jumps-41-to-rs-20-crore-on-higher-revenue-19730374.htm
-3. Tech firm Idox to cut jobs after US takeover agreed (LBC)
-   https://www.lbc.co.uk/article/df82e5ec3eb64bf5bdf26b7ad4a3fc7e-5HjdG5P_2/
-4. Global Times: Major financial forum kicks off in Beijing, underscoring China's commitment to reform and opening-up (The Manila Times)
-   https://www.manilatimes.net/2025/10/28/tmt-newswire/pr-newswire/global-times-major-financial-forum-kicks-off-in-beijing-underscoring-chinas-commitment-to-reform-and-opening-up/2210420
-5. TSX composite index up more than 100 points (CP24 Toronto)
-   https://www.cp24.com/news/money/2025/10/28/sptsx-composite-index-up-more-than-100-points-us-stocks-also-higher/
+1. Vervotech Opens Invitations for Travel Connections 2026 and Startup Launchpad (The Tribune)
+   https://www.tribuneindia.com/news/business/vervotech-opens-invitations-for-travel-connections-2026-and-startup-launchpad/
+2. Sapiens Customer Summit Highlighted Transformative Insurance Technology in Phoenix, Arizona (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/sapiens-customer-summit-highlighted-transformative-insurance-technology-in-phoenix-arizona-302599700.html
+3. TCS incorporates HyperVault Data Center as wholly-owned subsidiary (Moneycontrol)
+   https://www.moneycontrol.com/news/business/tcs-incorporates-hypervault-data-center-as-wholly-owned-subsidiary-13642982.html
+4. Travel tech firm Navan set for Nasdaq debut after $923 million US IPO (The Star)
+   https://www.thestar.com.my/tech/tech-news/2025/10/30/travel-tech-firm-navan-set-for-nasdaq-debut-after-923-million-us-ipo
+5. Technology Trends in Online Gaming (Devdiscourse)
+   https://www.devdiscourse.com/article/sports-games/3678241-cardmates-talks-technology-trends-in-online-gaming
