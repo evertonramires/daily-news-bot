@@ -1,29 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-30):
+What happens in tech today (2025-10-31):
 
-# 🚀 Tech's Diverse Horizon: From Travel IPOs to Data Powerhouses! 🌐
+Hello everyone, Sofia here!
 
-Hello everyone, Sofia here! What an exciting week for tech! We're seeing incredible momentum across the board.
+# Innovation Soars, But Ethical Skies Remain Cloudy ☁️
 
-**Travel technology is truly booming!** Vervotech's "Travel Connections 2026" and Startup Launchpad are nurturing future innovations, while Navan's massive **$923 million Nasdaq IPO** clearly signals immense investor confidence. This sector is rapidly reshaping how we experience travel.
+Today's tech news paints a picture of incredible progress alongside pressing challenges. While **IIT Madras dazzles with a VTOL breakthrough** and Kandla port embraces technology for shipbuilding, reminding us of innovation's potential, we can't ignore its shadow.
 
-Beyond that, the digital transformation continues its aggressive pace. Sapiens' summit showcased **transformative insurance technology**, proving traditional industries are fully embracing digital solutions. On the infrastructure front, TCS's incorporation of **HyperVault Data Center** as a wholly-owned subsidiary underscores the critical need for robust, scalable data management – the backbone of our digital world.
+The Surrey coroner's probe into **drone misuse for prison smuggling** is a stark reminder of tech's darker applications, demanding robust countermeasures. Simultaneously, the call for the Supreme Court to hear a lawsuit against Cisco highlights the critical need for **corporate accountability regarding human rights** in global operations.
 
-And let's not forget consumer tech! Online gaming continues to push boundaries with new trends, keeping us all entertained and connected.
-
-It's clear: **innovation, infrastructure, and investment are driving a dynamic tech landscape.** The future looks incredibly bright!
+Adding to the complexity, the **US IPO market's struggles**, exemplified by Navan, show that even groundbreaking tech faces economic headwinds. It's clear: tech is a powerful force, but its impact hinges on ethical development, stringent oversight, and a resilient market.
 
 All sources are at the section below.
 
 Sources:
-1. Vervotech Opens Invitations for Travel Connections 2026 and Startup Launchpad (The Tribune)
-   https://www.tribuneindia.com/news/business/vervotech-opens-invitations-for-travel-connections-2026-and-startup-launchpad/
-2. Sapiens Customer Summit Highlighted Transformative Insurance Technology in Phoenix, Arizona (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/sapiens-customer-summit-highlighted-transformative-insurance-technology-in-phoenix-arizona-302599700.html
-3. TCS incorporates HyperVault Data Center as wholly-owned subsidiary (Moneycontrol)
-   https://www.moneycontrol.com/news/business/tcs-incorporates-hypervault-data-center-as-wholly-owned-subsidiary-13642982.html
-4. Travel tech firm Navan set for Nasdaq debut after $923 million US IPO (The Star)
-   https://www.thestar.com.my/tech/tech-news/2025/10/30/travel-tech-firm-navan-set-for-nasdaq-debut-after-923-million-us-ipo
-5. Technology Trends in Online Gaming (Devdiscourse)
-   https://www.devdiscourse.com/article/sports-games/3678241-cardmates-talks-technology-trends-in-online-gaming
+1. Surrey coroner to probe drones smuggling drugs into prison after inmate's death (Surrey Advertiser)
+   https://www.getsurrey.co.uk/news/surrey-news/surrey-coroner-probe-drones-smuggling-32780567
+2. Republicans urge Supreme Court to allow lawsuit against tech giant Cisco (The Associated Press)
+   https://apnews.com/article/cisco-falun-gong-china-human-rights-abuses-aedf0b83212d0692e6fafe29345c04a1
+3. IIT Madras Achieves Breakthrough In Vertical Take-Off, Landing Technology (NDTV.com)
+   https://www.ndtv.com/india-news/iit-madras-achieves-breakthrough-in-vertical-take-off-landing-technology-9547255
+4. MoUs signed with technology partners to support shipbuilding project at Kandla, bunkering facility to be set up: Deendayal Port Authority Chairman (The Tribune)
+   https://www.tribuneindia.com/news/business/mous-signed-with-technology-partners-to-support-shipbuilding-project-at-kandla-bunkering-facility-to-be-set-up-deendayal-port-authority-chairman/
+5. Navan IPO share price: Why is U.S. Initial Public Offering Market down? Analysts predict which companies may have best shot at success (The Economic Times)
+   https://economictimes.indiatimes.com/news/international/us/navan-ipo-share-price-why-is-u-s-initial-public-offering-market-down-analysts-predict-which-companies-may-have-best-shot-at-success/articleshow/124960136.cms
