@@ -1,27 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-10-31):
+What happens in tech today (2025-11-01):
 
-Hello everyone, Sofia here!
+# **A Glimpse into Tomorrow: From Bio-Engineering Miracles to AI Battles!**
 
-# Innovation Soars, But Ethical Skies Remain Cloudy ☁️
+What an exciting day in tech and science! 🚀 The news about **human kidney organoids successfully integrating into pig kidneys** is a monumental leap in regenerative medicine, offering a beacon of hope for organ transplant patients. Imagine the possibilities!
 
-Today's tech news paints a picture of incredible progress alongside pressing challenges. While **IIT Madras dazzles with a VTOL breakthrough** and Kandla port embraces technology for shipbuilding, reminding us of innovation's potential, we can't ignore its shadow.
+However, it's concerning to hear that the **US might be neglecting a revolutionary molecule** with potential for cancer, diabetes, and genetic disease treatments. We can't afford to fall behind on such critical medical advancements. Policymakers, take note! 🔬
 
-The Surrey coroner's probe into **drone misuse for prison smuggling** is a stark reminder of tech's darker applications, demanding robust countermeasures. Simultaneously, the call for the Supreme Court to hear a lawsuit against Cisco highlights the critical need for **corporate accountability regarding human rights** in global operations.
+On the hardware front, **Imagination Tech challenging NVIDIA's AI GPU dominance** signals a heated competition that will undoubtedly drive innovation in artificial intelligence. More players mean better tech for everyone! 💡
 
-Adding to the complexity, the **US IPO market's struggles**, exemplified by Navan, show that even groundbreaking tech faces economic headwinds. It's clear: tech is a powerful force, but its impact hinges on ethical development, stringent oversight, and a resilient market.
+Meanwhile, **deep-sea tech innovation discussions in Sanya** remind us that Earth's last frontier still holds immense potential, demanding global collaboration. And in India, the 'Swasth Nari, Sashakt Parivar' campaign, setting **3 Guinness World Records**, showcases the power of large-scale public health initiatives and community engagement.
+
+It's clear that technology, from biotech to AI, continues to push the boundaries of what's possible, promising a future brimming with both challenges and incredible opportunities. We're truly living in a fascinating era of rapid progress!
 
 All sources are at the section below.
 
+---
+**Sources:**
+1.  Medical Xpress: https://medicalxpress.com/news/2025-10-human-kidney-organoids-successfully-pig.html
+2.  Livescience.com: https://www.livescience.com/health/medicine-drugs/one-molecule-could-usher-revolutionary-medicines-for-cancer-diabetes-and-genetic-disease-but-the-us-is-turning-its-back-on-it
+3.  Wccftech: https://wccftech.com/apples-former-gpu-supplier-imagination-tech-shares-ai-gpu-advantages-over-nvidia/
+4.  The Manila Times: https://www.manilatimes.net/2025/10/31/tmt-newswire/globenewswire/representatives-from-25-countries-discussed-deep-sea-tech-innovation-in-sanya-china/2213356
+5.  Lokmat Times: https://www.lokmattimes.com/technology/india-sets-3-guinness-world-records-under-swasth-nari-sashakt-parivar-campaign-2/
+
 Sources:
-1. Surrey coroner to probe drones smuggling drugs into prison after inmate's death (Surrey Advertiser)
-   https://www.getsurrey.co.uk/news/surrey-news/surrey-coroner-probe-drones-smuggling-32780567
-2. Republicans urge Supreme Court to allow lawsuit against tech giant Cisco (The Associated Press)
-   https://apnews.com/article/cisco-falun-gong-china-human-rights-abuses-aedf0b83212d0692e6fafe29345c04a1
-3. IIT Madras Achieves Breakthrough In Vertical Take-Off, Landing Technology (NDTV.com)
-   https://www.ndtv.com/india-news/iit-madras-achieves-breakthrough-in-vertical-take-off-landing-technology-9547255
-4. MoUs signed with technology partners to support shipbuilding project at Kandla, bunkering facility to be set up: Deendayal Port Authority Chairman (The Tribune)
-   https://www.tribuneindia.com/news/business/mous-signed-with-technology-partners-to-support-shipbuilding-project-at-kandla-bunkering-facility-to-be-set-up-deendayal-port-authority-chairman/
-5. Navan IPO share price: Why is U.S. Initial Public Offering Market down? Analysts predict which companies may have best shot at success (The Economic Times)
-   https://economictimes.indiatimes.com/news/international/us/navan-ipo-share-price-why-is-u-s-initial-public-offering-market-down-analysts-predict-which-companies-may-have-best-shot-at-success/articleshow/124960136.cms
+1. Human kidney organoids successfully integrated into pig kidneys in transplant study (Medical Xpress)
+   https://medicalxpress.com/news/2025-10-human-kidney-organoids-successfully-pig.html
+2. One molecule could usher revolutionary medicines for cancer, diabetes and genetic disease - but the US is turning its back on it (Livescience.com)
+   https://www.livescience.com/health/medicine-drugs/one-molecule-could-usher-revolutionary-medicines-for-cancer-diabetes-and-genetic-disease-but-the-us-is-turning-its-back-on-it
+3. Apple's Former GPU Supplier Imagination Tech Shares AI GPU Advantages Over NVIDIA (Wccftech)
+   https://wccftech.com/apples-former-gpu-supplier-imagination-tech-shares-ai-gpu-advantages-over-nvidia/
+4. Representatives from 25 countries discussed deep-sea tech innovation in Sanya, China (The Manila Times)
+   https://www.manilatimes.net/2025/10/31/tmt-newswire/globenewswire/representatives-from-25-countries-discussed-deep-sea-tech-innovation-in-sanya-china/2213356
+5. India sets 3 Guinness world records under ‘Swasth Nari, Sashakt Parivar’ campaign (Lokmat Times)
+   https://www.lokmattimes.com/technology/india-sets-3-guinness-world-records-under-swasth-nari-sashakt-parivar-campaign-2/
