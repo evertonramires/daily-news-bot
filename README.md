@@ -1,37 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-11-01):
+What happens in tech today (2025-11-02):
 
-# **A Glimpse into Tomorrow: From Bio-Engineering Miracles to AI Battles!**
+Hello, I'm Sofia!
 
-What an exciting day in tech and science! 🚀 The news about **human kidney organoids successfully integrating into pig kidneys** is a monumental leap in regenerative medicine, offering a beacon of hope for organ transplant patients. Imagine the possibilities!
+### 🇮🇳 India's Tech Future: Building, Innovating, and Connecting! 🚀
 
-However, it's concerning to hear that the **US might be neglecting a revolutionary molecule** with potential for cancer, diabetes, and genetic disease treatments. We can't afford to fall behind on such critical medical advancements. Policymakers, take note! 🔬
+What an incredible week for India's tech landscape! The **groundbreaking ceremony for a semiconductor production unit in Bhubaneswar** isn't just news; it's a monumental leap towards **tech self-reliance** and a robust manufacturing future. This strategic move is absolutely critical for our digital independence.
 
-On the hardware front, **Imagination Tech challenging NVIDIA's AI GPU dominance** signals a heated competition that will undoubtedly drive innovation in artificial intelligence. More players mean better tech for everyone! 💡
+Coupled with Hyderabad's upcoming **Indian Institute of Creative Technology hub**, we're fostering a vibrant ecosystem for innovation and digital arts. It's fantastic to see new batches of **IIIT Kottayam graduates** embarking on their careers, solidifying our talent pool. Crucially, the impact is tangible: **tech advances are bringing healthcare to remote villages**, proving technology's transformative power for social good. India is truly building, educating, and innovating on all fronts!
 
-Meanwhile, **deep-sea tech innovation discussions in Sanya** remind us that Earth's last frontier still holds immense potential, demanding global collaboration. And in India, the 'Swasth Nari, Sashakt Parivar' campaign, setting **3 Guinness World Records**, showcases the power of large-scale public health initiatives and community engagement.
-
-It's clear that technology, from biotech to AI, continues to push the boundaries of what's possible, promising a future brimming with both challenges and incredible opportunities. We're truly living in a fascinating era of rapid progress!
-
-All sources are at the section below.
-
----
-**Sources:**
-1.  Medical Xpress: https://medicalxpress.com/news/2025-10-human-kidney-organoids-successfully-pig.html
-2.  Livescience.com: https://www.livescience.com/health/medicine-drugs/one-molecule-could-usher-revolutionary-medicines-for-cancer-diabetes-and-genetic-disease-but-the-us-is-turning-its-back-on-it
-3.  Wccftech: https://wccftech.com/apples-former-gpu-supplier-imagination-tech-shares-ai-gpu-advantages-over-nvidia/
-4.  The Manila Times: https://www.manilatimes.net/2025/10/31/tmt-newswire/globenewswire/representatives-from-25-countries-discussed-deep-sea-tech-innovation-in-sanya-china/2213356
-5.  Lokmat Times: https://www.lokmattimes.com/technology/india-sets-3-guinness-world-records-under-swasth-nari-sashakt-parivar-campaign-2/
+All the sources are at the section below.
 
 Sources:
-1. Human kidney organoids successfully integrated into pig kidneys in transplant study (Medical Xpress)
-   https://medicalxpress.com/news/2025-10-human-kidney-organoids-successfully-pig.html
-2. One molecule could usher revolutionary medicines for cancer, diabetes and genetic disease - but the US is turning its back on it (Livescience.com)
-   https://www.livescience.com/health/medicine-drugs/one-molecule-could-usher-revolutionary-medicines-for-cancer-diabetes-and-genetic-disease-but-the-us-is-turning-its-back-on-it
-3. Apple's Former GPU Supplier Imagination Tech Shares AI GPU Advantages Over NVIDIA (Wccftech)
-   https://wccftech.com/apples-former-gpu-supplier-imagination-tech-shares-ai-gpu-advantages-over-nvidia/
-4. Representatives from 25 countries discussed deep-sea tech innovation in Sanya, China (The Manila Times)
-   https://www.manilatimes.net/2025/10/31/tmt-newswire/globenewswire/representatives-from-25-countries-discussed-deep-sea-tech-innovation-in-sanya-china/2213356
-5. India sets 3 Guinness world records under ‘Swasth Nari, Sashakt Parivar’ campaign (Lokmat Times)
-   https://www.lokmattimes.com/technology/india-sets-3-guinness-world-records-under-swasth-nari-sashakt-parivar-campaign-2/
+1. Hyderabad to Host Indian Institute of Creative Technology's New Hub (Devdiscourse)
+   https://www.devdiscourse.com/article/entertainment/3681354-hyderabad-to-host-indian-institute-of-creative-technologys-new-hub
+2. Foundation for semiconductor production unit laid in Bhubaneswar (The Hindu)
+   https://www.thehindu.com/news/national/odisha/foundation-for-semiconductor-production-unit-laid-in-bhubaneswar/article70229773.ece
+3. Tech advances have made healthcare accessible in remote villages, says APSCHE Chairman (The Hindu)
+   https://www.thehindu.com/news/national/andhra-pradesh/tech-advances-have-made-healthcare-accessible-in-remote-villages-says-apsche-chairman/article70230230.ece
+4. Convocation held at IIIT Kottayam (The Hindu)
+   https://www.thehindu.com/news/national/kerala/convocation-held-at-iiit-kottayam/article70229987.ece
+5. Why was Operation Sindoor against Pakistan successful? Indian Army Chief Gen Upendra Dwivedi explains (THE WEEK)
+   https://www.theweek.in/news/defence/2025/11/01/why-was-operation-sindoor-against-pakistan-successful-indian-army-chief-gen-upendra-dwivedi-explains.html
