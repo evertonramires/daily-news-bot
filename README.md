@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-11-04):
+What happens in tech today (2025-11-05):
 
-Hello everyone, I'm Sofia!
+# 🚀 **Tech's Tectonic Shifts: 6G, AI, and a New Way to Work!** 🌍
 
-🚀 **The AI Revolution: Powering Progress from Resources to Cooling!** 💡
+Hello, I'm Sofia! Today's news paints a vivid picture of a world rapidly embracing the future. The **Keysight and MediaTek collaboration on Pre-6G** is a game-changer, promising integrated sensing and communication that will redefine everything from autonomous systems to AR. This isn't just faster internet; it's a foundation for a truly connected, intelligent world!
 
-Today's headlines paint a clear picture: the global tech landscape is undergoing a **profound transformation**, with **Artificial Intelligence (AI)** as its undeniable engine. We're seeing major players like SLB launching new AI products, signaling a powerful shift towards **digital sales growth** and AI-driven operations. But it's not just about the software; the physical infrastructure is equally crucial. Eaton's massive **$9.5 billion acquisition** in AI cooling technology with Boyd Thermal underscores the critical importance of **thermal management** for scalable AI. This shows that the foundational elements, often unseen, are vital for the future of AI.
+Meanwhile, **IBM's CEO embracing tech in meetings** against JPMorgan's stance isn't just about texting; it's about acknowledging how work evolves. **Technology is ingrained in our lives**, and expecting people to switch it off during critical discussions seems counterproductive in an era of digital collaboration. It's about leveraging tools smartly, not shunning them.
 
-Furthermore, access to **critical raw materials**, like Malaysia's Rare Earth Elements (REE) headstart, gives nations a significant boon in this tech race. It highlights that controlling resources is key to manufacturing the components powering this revolution. As nations like India position themselves as "future-ready" and global protagonists, it's clear that the path to technological leadership is multifaceted, combining **innovation, robust infrastructure, and strategic resource control.** The future is here, and it's being built on a complex interplay of cutting-edge AI and foundational capabilities!
+And speaking of smart, the report on **India's potential as an AI powerhouse** isn't surprising. AI's global impact is undeniable, and diverse perspectives are crucial for its responsible development. Even industrial giants like Caterpillar are looking at **tech-driven sales growth**, showing how deep innovation runs across sectors. The C-suite summits further emphasize the critical need for leaders to navigate these exciting, complex tech landscapes. The future isn't just coming; it's already here, demanding we adapt and innovate!
 
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Malaysia’s REE headstart a boon for us, says Chang (The Star)
-   https://www.thestar.com.my/news/nation/2025/11/04/malaysias-ree-headstart-a-boon-for-us-says-chang
-2. SLB launches new AI product as it focuses on digital sales growth (Reuters)
-   https://www.reuters.com/business/energy/slb-launches-new-ai-product-it-focuses-digital-sales-growth-2025-11-03/
-3. Modi's India Future Ready, Emerging As Global Protagonist: Jitendra Singh (Daily Excelsior)
-   https://www.dailyexcelsior.com/modis-india-future-ready-emerging-as-global-protagonist-jitendra-singh/
-4. Eaton Makes $9.5 Billion Move Into AI Cooling Technology With Boyd Thermal Acquisition (Benzinga)
-   https://www.benzinga.com/m-a/25/11/48594525/eaton-makes-9-5-billion-move-into-ai-cooling-technology-with-boyd-thermal-acquisition
-5. SLB launches new AI product as it focuses on digital sales growth (MarketScreener)
-   https://www.marketscreener.com/news/slb-launches-new-ai-product-as-it-focuses-on-digital-sales-growth-ce7d5cd9de8df62c
+1. Keysight and MediaTek Collaborate to Advance Pre-6G Integrated Sensing and Communication Technology (Business Wire)
+   https://www.businesswire.com/news/home/20251104411123/en/Keysight-and-MediaTek-Collaborate-to-Advance-Pre-6G-Integrated-Sensing-and-Communication-Technology
+2. Two Days Left to Register! Charlotte C-suite executives invited to HMG Strategy’s 11th Annual C-Level Technology Leadership Summit on November 6, 2025 (The Manila Times)
+   https://www.manilatimes.net/2025/11/04/tmt-newswire/globenewswire/two-days-left-to-register-charlotte-c-suite-executives-invited-to-hmg-strategys-11th-annual-c-level-technology-leadership-summit-on-november-6-2025/2215832
+3. Caterpillar Targets Bigger Sales Growth Through 2030 (MarketScreener)
+   https://www.marketscreener.com/news/caterpillar-targets-bigger-sales-growth-through-2030-ce7d5cdfdb8df222
+4. IBM’s CEO disagrees with JPMorgan CEO Jamie Dimon’s disdain for texting in meetings: ‘Telling people they can't use their technology would be weird’ (Fortune)
+   https://fortune.com/2025/11/04/ibm-ceo-arvind-krishna-meeting-etiquette-disagree-jpmorgan-chase-ceo-jamie-dimon-texting-devices-phones-disrespectful/
+5. When AI takes over, India will emerge as most influential civilisation: Report (Lokmat Times)
+   https://www.lokmattimes.com/technology/when-ai-takes-over-india-will-emerge-as-most-influential-civilisation-report-1/
