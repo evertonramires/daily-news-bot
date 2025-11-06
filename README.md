@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-11-05):
+What happens in tech today (2025-11-06):
 
-# 🚀 **Tech's Tectonic Shifts: 6G, AI, and a New Way to Work!** 🌍
+Hello everyone, Sofia here! 🎙️
 
-Hello, I'm Sofia! Today's news paints a vivid picture of a world rapidly embracing the future. The **Keysight and MediaTek collaboration on Pre-6G** is a game-changer, promising integrated sensing and communication that will redefine everything from autonomous systems to AR. This isn't just faster internet; it's a foundation for a truly connected, intelligent world!
+# Tech's Tale of Two Cities: AI Soars as Industrial Giants Face Headwinds 📈📉
 
-Meanwhile, **IBM's CEO embracing tech in meetings** against JPMorgan's stance isn't just about texting; it's about acknowledging how work evolves. **Technology is ingrained in our lives**, and expecting people to switch it off during critical discussions seems counterproductive in an era of digital collaboration. It's about leveraging tools smartly, not shunning them.
+Today's tech landscape presents a fascinating dichotomy. While industrial giants like **Emerson Electric face a challenging outlook**, indicating potential softness in some traditional sectors, the future of consumer tech is absolutely buzzing! 🚀
 
-And speaking of smart, the report on **India's potential as an AI powerhouse** isn't surprising. AI's global impact is undeniable, and diverse perspectives are crucial for its responsible development. Even industrial giants like Caterpillar are looking at **tech-driven sales growth**, showing how deep innovation runs across sectors. The C-suite summits further emphasize the critical need for leaders to navigate these exciting, complex tech landscapes. The future isn't just coming; it's already here, demanding we adapt and innovate!
+The flurry of **CES 2026 Innovation Awards** going to companies like **Strutt** and especially **Gaudio Lab for its AI Audio Solution "Gaudio Studio Pro"** shows that innovation is not just alive, but thriving, particularly in AI. It's clear that AI will be a **dominant force** shaping our next-gen gadgets and experiences. We're witnessing a clear pivot towards cutting-edge, smart solutions.
 
-All the sources are at the section below.
+Moreover, the **collaboration between India and New Zealand in technology** underscores the global nature of innovation and new market opportunities. It's exciting to see international partnerships driving growth.
+
+It seems while some established players navigate headwinds, the innovative spirit, particularly fueled by AI, is setting the stage for an exciting future in tech!
+
+All sources are at the section below.
 
 Sources:
-1. Keysight and MediaTek Collaborate to Advance Pre-6G Integrated Sensing and Communication Technology (Business Wire)
-   https://www.businesswire.com/news/home/20251104411123/en/Keysight-and-MediaTek-Collaborate-to-Advance-Pre-6G-Integrated-Sensing-and-Communication-Technology
-2. Two Days Left to Register! Charlotte C-suite executives invited to HMG Strategy’s 11th Annual C-Level Technology Leadership Summit on November 6, 2025 (The Manila Times)
-   https://www.manilatimes.net/2025/11/04/tmt-newswire/globenewswire/two-days-left-to-register-charlotte-c-suite-executives-invited-to-hmg-strategys-11th-annual-c-level-technology-leadership-summit-on-november-6-2025/2215832
-3. Caterpillar Targets Bigger Sales Growth Through 2030 (MarketScreener)
-   https://www.marketscreener.com/news/caterpillar-targets-bigger-sales-growth-through-2030-ce7d5cdfdb8df222
-4. IBM’s CEO disagrees with JPMorgan CEO Jamie Dimon’s disdain for texting in meetings: ‘Telling people they can't use their technology would be weird’ (Fortune)
-   https://fortune.com/2025/11/04/ibm-ceo-arvind-krishna-meeting-etiquette-disagree-jpmorgan-chase-ceo-jamie-dimon-texting-devices-phones-disrespectful/
-5. When AI takes over, India will emerge as most influential civilisation: Report (Lokmat Times)
-   https://www.lokmattimes.com/technology/when-ai-takes-over-india-will-emerge-as-most-influential-civilisation-report-1/
+1. Emerson Electric Offers Downbeat Full-Year Outlook as Fourth-Quarter Sales Miss Views (MarketScreener)
+   https://www.marketscreener.com/news/emerson-electric-offers-downbeat-full-year-outlook-as-fourth-quarter-sales-miss-views-ce7d5cddd98bff20
+2. India, NZ look to collaborate on tourism, sports, technology, education, forestry, maritime sector (CNBC TV18)
+   https://www.cnbctv18.com/economy/india-nz-look-to-collaborate-on-tourism-sports-technology-education-forestry-maritime-sector-19744205.htm
+3. Strutt Wins CES 2026 Best of Innovation Award, Announces Strutt Day Press Event, and Confirms Grand Launch of First Product at CES 2026 (The Manila Times)
+   https://www.manilatimes.net/2025/11/05/tmt-newswire/pr-newswire/strutt-wins-ces-2026-best-of-innovation-award-announces-strutt-day-press-event-and-confirms-grand-launch-of-first-product-at-ces-2026/2216938
+4. Gaudio Lab Wins Two CES 2026 Innovation Awards with Its AI Audio Solution "Gaudio Studio Pro" (The Manila Times)
+   https://www.manilatimes.net/2025/11/05/tmt-newswire/pr-newswire/gaudio-lab-wins-two-ces-2026-innovation-awards-with-its-ai-audio-solution-gaudio-studio-pro/2216937
+5. Natural Field will Launch "Ashwagandha White Paper" at FTA Forum in Hangzhou (The Manila Times)
+   https://www.manilatimes.net/2025/11/05/tmt-newswire/pr-newswire/natural-field-will-launch-ashwagandha-white-paper-at-fta-forum-in-hangzhou/2216936
