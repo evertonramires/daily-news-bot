@@ -1,25 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-11-10):
+What happens in tech today (2025-11-12):
 
-# 🚀🛰️ **THE DIGITAL FRONTIER: SECURING E-GOVERNANCE AMIDST GLOBAL TECH LEAPS!** 🇮🇳
+# 🚀 Tech's Rollercoaster: Market Jitters, Enterprise Wins & The Human Factor!
 
-As Sofia, a tech enthusiast, I'm thrilled by the relentless pace of innovation! **China's record-breaking VLEO launches** are a testament to the exciting advancements in space technology, opening new frontiers for communication and observation. It's truly inspiring to see the boundaries of what's possible constantly pushed.
+What a day in tech! While the Dow soared, the **Nasdaq felt the pinch as Nvidia slid**, showing that even market giants face turbulence. This contrasts with robust **enterprise tech deals**, like Accenture and Apptio partnering with PPL, proving digital transformation is relentless across industries. And in sports, **Personar's link with Football Australia** highlights tech's growing presence in entertainment.
 
-Closer to home, the focus on building a robust digital India is paramount. **DigiLocker's evolution into a vital "trust layer"** connecting citizens and government is a monumental step towards seamless e-governance. It underpins our digital identity and simplifies access to essential services – a cornerstone of a digitally empowered nation.
-
-However, with great digital power comes great responsibility. The urgent call for a **national cybersecurity certification council** by a Delhi MP highlights the critical need to safeguard this burgeoning digital ecosystem. As we embrace more digital services and expand our technological capabilities, ensuring **unwavering cybersecurity** isn't just an option; it's an absolute necessity to protect citizen data and maintain trust. It's clear that while we reach for the stars, we must also secure our digital ground.
+However, the most insightful piece for me today reminds us that **tech isn't a magic bullet**. Forbes correctly points out that **failing asynchronous collaboration isn't the platform's fault, but the culture's**. This underscores a vital truth: **great tech thrives with great people and processes**. Meanwhile, keep an eye out for those **solar bursts** – a powerful reminder of nature's impact, potentially even on our tech infrastructure! 🛰️
 
 All the sources are at the section below.
 
 Sources:
-1. China breaks annual launch record with VLEO Chutian and Shiyan technology test launches (SpaceNews)
-   https://spacenews.com/china-breaks-annual-launch-record-with-vleo-chutian-and-shiyan-technology-test-launches/
-2. Rs 4,085 Cr Earned Through Disposal Of Office Scrap: Dr Jitendra (Daily Excelsior)
-   https://www.dailyexcelsior.com/rs-4085-cr-earned-through-disposal-of-office-scrap-dr-jitendra/
-3. Seamus Power seeks hot final round as he continues card chase in Mexico (Independent.ie)
-   https://www.independent.ie/sport/golf/seamus-power-seeks-hot-final-round-as-he-continues-card-chase-in-mexico/a505989005.html
-4. DigiLocker serves as the trust layer connecting citizens, ministries, and departments: MeitY Secretary (The Economic Times)
-   https://economictimes.indiatimes.com/tech/technology/digilocker-serves-as-the-trust-layer-connecting-citizens-ministries-and-departments-meity-secretary/articleshow/125201096.cms
-5. Delhi MP urges creation of national cybersecurity certification council (Lokmat Times)
-   https://www.lokmattimes.com/technology/delhi-mp-urges-creation-of-national-cybersecurity-certification-council-1/
+1. Dow Hit New High as Shutdown Nears End; Nasdaq Falls as Nvidia Slides (MarketScreener)
+   https://www.marketscreener.com/news/dow-hit-new-high-as-shutdown-nears-end-nasdaq-falls-as-nvidia-slides-ce7d5fdedb8df221
+2. Solar bursts heading toward Earth, aurora displays expected nationwide (syracuse.com)
+   https://www.syracuse.com/weather/2025/11/solar-bursts-heading-toward-earth-aurora-displays-expected-nationwide.html
+3. Failing At Asynchronous Collaboration? The Platform Is Not The Problem (Forbes)
+   https://www.forbes.com/sites/harmoncullinan/2025/11/11/failing-at-asynchronous-collaboration-the-platform-is-not-the-problem/
+4. Accenture and Apptio Announce Working with Ppl Corporation (MarketScreener)
+   https://www.marketscreener.com/news/accenture-and-apptio-announce-working-with-ppl-corporation-ce7d5fdedb8bf424
+5. PERSONAR ANNOUNCED AS PARTNER OF FOOTBALL AUSTRALIA AND THE A-LEAGUES (The Manila Times)
+   https://www.manilatimes.net/2025/11/12/tmt-newswire/pr-newswire/personar-announced-as-partner-of-football-australia-and-the-a-leagues/2221424
