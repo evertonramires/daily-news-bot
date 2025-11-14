@@ -1,25 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-11-13):
+What happens in tech today (2025-11-14):
 
-# 🚀 **Tech's Unstoppable March: Revolutionizing Learning & Boosting Productivity!** 📚
+# Tech's Global Stage: From Health Data to Green Energy's Financial Pulse! 💡
 
-Hello everyone, Sofia here! What an exciting day for tech enthusiasts! The most captivating news today highlights how **emerging technologies are truly transforming our lives**.
+Hello, I'm Sofia! Today's news paints a fascinating picture of technology's multifaceted impact globally. India's **massive 'Phenome Study'** is a game-changer, demonstrating how **big data and advanced analytics** are revolutionizing healthcare and personalized medicine. This is a monumental step towards understanding and combating diseases like diabetes with precision.
 
-First off, Google Drive's new feature allowing **long PDFs to become podcast-style audio summaries** is a game-changer! 🎧 This exemplifies how AI is making information incredibly accessible and learning **easier and faster**, a trend beautifully echoed by insights on personalized learning and VR/AR in education. It's about empowering users with **unprecedented efficiency**.
+On the environmental front, the discourse around **COP30 highlights the urgent need for global collaboration in green tech**, especially with the US's stance. This makes China's continued push in areas like EV batteries, exemplified by JPMorgan's bullish call on **CATL's Shenzhen stock**, even more significant. It underscores **Asia's leadership in sustainable technology and manufacturing**.
 
-While the Indian equity markets show a cautious mood ahead of poll results, and even a nuclear medicine center faces construction delays, these remind us of the real-world complexities. However, the consistent innovation from companies like Aurora Mobile (reporting Q3 results) and the broader push towards tech-driven solutions underline the **resilience and forward momentum of the tech industry**. We're witnessing a future where **intelligent automation enhances every aspect of our lives**, from education to daily tasks. The potential is immense!
+Meanwhile, the ITD's review of TACs indicates a commitment to **robust digital infrastructure and governance**. Even with Wall Street's recent volatility, these strategic tech advancements in health, climate, and public services remain **critical drivers of progress and innovation**. Technology isn't just a sector; it's the **foundation for our collective future**.
 
-All sources are at the section below.
+---
+all the sources are at the section below
+*   Dr Jitendra launches India’s largest ‘Phenome Study’ on ‘World Diabetes Day’ eve (Daily Excelsior)
+*   Secretary ITD reviews functioning of TACs (Daily Excelsior)
+*   Editorial | As the US sits out Cop30, China and others must pick up the slack (South China Morning Post)
+*   U.S. stocks fall as volatility picks up on Wall Street (The Star)
+*   Buy CATL’s Shenzhen Stock and Sell Hong Kong Peer, JPMorgan Says (Bloomberg)
 
 Sources:
-1. Indian equity indices close flat amid profit booking ahead of Bihar poll results (Lokmat Times)
-   https://www.lokmattimes.com/technology/indian-equity-indices-close-flat-amid-profit-booking-ahead-of-bihar-poll-results-2/
-2. How Emerging Tech Is Making Learning Easier and Faster (TechBullion)
-   https://techbullion.com/how-emerging-tech-is-making-learning-easier-and-faster/
-3. Google Drive can now turn your long PDFs into podcast-style audio summaries: Here’s how (Hindustan Times)
-   https://www.hindustantimes.com/technology/google-drive-can-now-turn-your-long-pdfs-into-podcast-style-audio-summaries-here-s-how-101763029701061.html
-4. Construction of Nuclear Medicine Center faces delays (The Manila Times)
-   https://www.manilatimes.net/2025/11/13/news/construction-of-nuclear-medicine-center-faces-delays/2222984
-5. Aurora Mobile Limited Announces Third Quarter 2025 Unaudited Financial Results (MarketScreener)
-   https://www.marketscreener.com/news/aurora-mobile-limited-announces-third-quarter-2025-unaudited-financial-results-ce7d5fdcdc8af521
+1. Dr Jitendra launches India’s largest ‘Phenome Study’ on ‘World Diabetes Day’ eve (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-launches-indias-largest-phenome-study-on-world-diabetes-day-eve/
+2. Secretary ITD reviews functioning of TACs (Daily Excelsior)
+   https://www.dailyexcelsior.com/secretary-itd-reviews-functioning-of-tacs/
+3. Editorial | As the US sits out Cop30, China and others must pick up the slack (South China Morning Post)
+   https://www.scmp.com/opinion/comment/article/3332620/us-sits-out-cop30-china-and-others-must-pick-slack
+4. U.S. stocks fall as volatility picks up on Wall Street (The Star)
+   https://www.thestar.com.my/news/world/2025/11/14/us-stocks-fall-as-volatility-picks-up-on-wall-street
+5. Buy CATL’s Shenzhen Stock and Sell Hong Kong Peer, JPMorgan Says (Bloomberg)
+   https://www.bloomberg.com/news/articles/2025-11-13/buy-catl-s-shenzhen-stock-and-sell-hong-kong-peer-jpmorgan-says
