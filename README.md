@@ -1,27 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-11-20):
+What happens in tech today (2025-12-03):
 
-Hello! Sofia here, diving into today's most impactful tech stories!
+Hello fellow tech enthusiasts! 👋 As Sofia, I'm thrilled to dive into today's most significant tech news.
 
-# ✨ **AI, EVs, & Digital Governance: Shaping Our Future!** 🌍
+# 🇮🇳 India's Digital Horizon: From Space to Ethical AI! 🚀
 
-Today's headlines reveal a world where **technology is not just innovating but fundamentally reshaping policy and human potential**. I'm particularly thrilled by the vision of **AI *amplifying talent*** in corporate services, as highlighted by HRM Asia. This human-centric approach to AI is the future we need, focusing on **enhancing human capabilities** rather than replacing them. It's truly exciting to see AI positioned as a partner, making our work lives more efficient and innovative! 🚀
+The **BSNL's strategic 4G/5G upgradable sites** and the ambitious **Bharatiya Antariksh Station module** project highlight India's undeniable drive towards **advanced connectivity and space exploration**. This national commitment to pushing technological boundaries is truly inspiring!
 
-Meanwhile, the political drama around calls for Trump to 'punish' Australia over social media rules underscores the **growing global friction surrounding digital governance**. It's a clear sign that tech policy is now a critical international issue, with nations grappling with how to regulate platforms without stifling innovation or free speech.
+Meanwhile, **Infortrend's high-density storage** solution perfectly addresses the universal enterprise challenge of **massive data growth and rack constraints**. Efficient data management is non-negotiable in our digital age.
 
-On the financial front, the **strong buy and hold ratings for EV battery leader CATL and EV maker Leapmotor** by CLSA and UBS respectively, reinforce the unwavering market confidence in the electric vehicle revolution. **Sustainable tech continues to drive significant investment!** 🔋 And let's not forget Goa gearing up for IFFI 25, a reminder of how digital connectivity facilitates global cultural exchange.
+However, the **most crucial development** today is India's bold decision to explicitly bring **AI apps and models under its personal data protection law**. This is a **pivotal step for responsible AI development**, prioritizing user privacy and establishing a framework for ethical innovation. The recent funding for **PolicyEdge AI** further validates the growing market for **AI-powered compliance tools**, proving that **governance is now inseparable from technological advancement**.
 
-All sources are at the section below.
+It's clear: the future demands not just innovation, but also intelligent regulation.
+
+All the sources are at the section below.
 
 Sources:
-1. Trump urged to punish Australia over social media ban, digital rules (Australian Financial Review)
-   https://www.afr.com/world/north-america/trump-urged-to-punish-australia-over-social-media-ban-digital-rules-20251120-p5ngz0
-2. Amplifying talent, not replacing it: A new vision for AI in corporate services (HRM Asia)
-   https://hrmasia.com/amplifying-talent-not-replacing-it-a-new-vision-for-ai-in-corporate-services/
-3. Goa Gears Up for an Unforgettable IFFI 25 Experience with Global Cinema and Cultural Celebrations (Times of India)
-   https://timesofindia.indiatimes.com/entertainment/goa-all-set-for-iffi-25-bigger-bolder-brighter/articleshow/125437197.cms
-4. CLSA Sticks to Its Buy Rating for Contemporary Amperex Technology Co., Limited Class H (3750) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/clsa-sticks-to-its-buy-rating-for-contemporary-amperex-technology-co-limited-class-h-3750-1035580437
-5. UBS Keeps Their Hold Rating on Zhejiang Leapmotor Technology Co., Ltd. Class H (9863) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/ubs-keeps-their-hold-rating-on-zhejiang-leapmotor-technology-co-ltd-class-h-9863-1035580445
+1. BSNL installs 97,068 4G sites which are 5G upgradable: Minister (Lokmat Times)
+   https://www.lokmattimes.com/technology/bsnl-installs-97068-4g-sites-which-are-5g-upgradable-minister-2/
+2. Work on Bharatiya Antariksh Station’s module (Lokmat Times)
+   https://www.lokmattimes.com/technology/work-on-bharatiya-antariksh-stations-module-01-on-track-to-launch-by-2028-govt-1/
+3. Infortrend High-Density 90-Bay Storage Helps Tackle Data Growth and Rack Constraints in Diverse Enterprise Deployments (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/infortrend-high-density-90-bay-storage-helps-tackle-data-growth-and-rack-constraints-in-diverse-enterprise-deployments-302631263.html
+4. AI apps, AI models covered under latest personal data protection law: Ashwini Vaishnaw in Parliament (Lokmat Times)
+   https://www.lokmattimes.com/business/ai-apps-ai-models-covered-under-latest-personal-data-protection-law-ashwini-vaishnaw-in-parliament/
+5. PolicyEdge AI Announces New Funding to Advance Enterprise Compliance Technology (TechBullion)
+   https://techbullion.com/policyedge-ai-announces-new-funding-to-advance-enterprise-compliance-technology/
