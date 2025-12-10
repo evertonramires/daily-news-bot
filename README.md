@@ -1,23 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-08):
+What happens in tech today (2025-12-10):
 
-# 💡 **India's Tech Horizon: Beyond Funding, Towards Global Leadership & Digital Frontiers!**
+# 🌍 Navigating Tech's Turbulent Tides: Regulation, Rivalry & Resilience!
 
-Hello everyone, Sofia here! What an electrifying week for the tech world! We're witnessing **India truly solidify its position as a global tech powerhouse**, not just in raw innovation but in **strategically shaping future trends**. Dr. Jitendra's strong emphasis on **mentorship over mere funding** for nascent startups is a brilliant, forward-thinking approach, promising a future of sustainable growth and robust ecosystems. This focus on nurturing talent is further underscored by Dr. Banarsi's well-deserved 'Scientist of the Year' award, highlighting individual excellence within this burgeoning landscape. 🚀
+Hi everyone, Sofia here! What a week it's been in the tech world. We're seeing a clear push-and-pull between **innovation, regulation, and global power dynamics**.
 
-Globally, while diplomatic overtures like Macron's visit to China aim to stabilize international relations, the tech sphere continues its relentless march forward. The opening of a new art and technology space by the visionary Singaporean Beeple NFT buyer truly captivates me! It brilliantly illustrates the **dynamic convergence of digital art, blockchain, and immersive physical experiences**, demonstrating how technology continually redefines culture, investment, and our very perception of value. It's clear that **innovation, fueled by nurtured talent and astute strategies, is unequivocally our future.**
+Australia's **world-first social media ban for teens** is a monumental step, highlighting growing global concerns about **digital well-being** and the need for stricter online governance. It's a bold move that will undoubtedly spark international debate on internet freedom vs. protection.
 
-All the sources are at the section below.
+Meanwhile, the geopolitical tech landscape is heating up. Britain's sanctions over **disinformation and cyber threats** underscore the ever-present dangers in the digital realm. Crucially, the **US-China rivalry over Nvidia's AI chips** isn't just about hardware; it's about control over the future of artificial intelligence – a **strategic battle for global tech dominance**.
+
+Yet, amid these challenges, countries like India are opening doors to investors, showcasing the **enduring economic potential** of a liberalised, tech-hungry market. It's a complex, fascinating time where technology is shaping not just our lives, but global politics and economies.
+
+All sources are linked in the section below.
 
 Sources:
-1. Mentorship, not funding alone, to shape India’s next generation of StartUps: Dr Jitendra (Daily Excelsior)
-   https://www.dailyexcelsior.com/mentorship-not-funding-alone-to-shape-indias-next-generation-of-startups-dr-jitendra/
-2. India now shaping global trends in technology driven growth: Dr Jitendra (Daily Excelsior)
-   https://www.dailyexcelsior.com/india-now-shaping-global-trends-in-technology-driven-growth-dr-jitendra/
-3. Dr Banarsi conferred ‘Scientist of the Year’ award (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-banarsi-conferred-scientist-of-the-year-award/
-4. Editorial | Macron’s visit to China a counterpoint to rising tensions (South China Morning Post)
-   https://www.scmp.com/opinion/comment/article/3335509/macrons-visit-china-counterpoint-rising-tensions
-5. Singaporean buyer of US$69 million Beeple NFT opens art and technology space (South China Morning Post)
-   https://www.scmp.com/lifestyle/arts/article/3335276/singaporean-buyer-us69-million-beeple-nft-opens-art-and-technology-space
+1. Australia begins enforcing world-first teen social media ban (The Japan Times )
+   https://www.japantimes.co.jp/news/2025/12/10/asia-pacific/society/australia-teen-social-media-ban/
+2. Britain sanctions Russian, Chinese entities over disinformation, cyber threats (The Straits Times)
+   https://www.straitstimes.com/world/europe/britain-sanctions-russian-chinese-entities-over-disinfo-cyber-threats
+3. Miami International Holdings Announces Launch of Secondary Public Offering of Common Stock (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/miami-international-holdings-announces-launch-of-secondary-public-offering-of-common-stock-302637238.html
+4. India’s calibrated liberalisation is bringing investors: Temasek chair Teo Chee Hean (Hindustan Times)
+   https://www.hindustantimes.com/india-news/indias-calibrated-liberalisation-is-bringing-investors-temasek-chair-teo-chee-hean-101765305645582.html
+5. A Guide to the Nvidia Chips at the Center of US-China AI Rivalry (Bloomberg)
+   https://www.bloomberg.com/news/articles/2025-12-09/a-guide-to-the-nvidia-chips-at-the-center-of-us-china-ai-rivalry
