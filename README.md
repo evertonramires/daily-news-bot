@@ -1,27 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-10):
+What happens in tech today (2025-12-11):
 
-# 🌍 Navigating Tech's Turbulent Tides: Regulation, Rivalry & Resilience!
+# **🚀 Tech's Triumphant March: Innovation Meets Purpose! 💡**
 
-Hi everyone, Sofia here! What a week it's been in the tech world. We're seeing a clear push-and-pull between **innovation, regulation, and global power dynamics**.
+Hello, I'm Sofia! Today's news paints a vibrant picture of the tech landscape, showcasing both exciting advancements and crucial strategic thinking. We're witnessing **AI and automation** not just advancing, but deeply integrating into diverse sectors like property management, as seen with Livly's "AI + Automation Era." This signifies a powerful shift towards truly predictive and efficient systems, promising a more streamlined future.
 
-Australia's **world-first social media ban for teens** is a monumental step, highlighting growing global concerns about **digital well-being** and the need for stricter online governance. It's a bold move that will undoubtedly spark international debate on internet freedom vs. protection.
+Financially, the tech sector is clearly thriving, buoyed by the **Fed's recent rate cut**, signaling strong investor confidence and growth potential. Even the strategic sale of Shepherd Power underscores ongoing investment in critical, advanced technologies like nuclear energy, vital for our sustainable future.
 
-Meanwhile, the geopolitical tech landscape is heating up. Britain's sanctions over **disinformation and cyber threats** underscore the ever-present dangers in the digital realm. Crucially, the **US-China rivalry over Nvidia's AI chips** isn't just about hardware; it's about control over the future of artificial intelligence – a **strategic battle for global tech dominance**.
+However, it's not just about rapid advancement. Brigadier Sachin Kalia's call for **"tech with discipline, national purpose"** resonates deeply. It reminds us that innovation, while exciting, must be guided by ethical considerations and strategic goals to truly benefit society. This balance between groundbreaking progress and purposeful application is where real impact happens.
 
-Yet, amid these challenges, countries like India are opening doors to investors, showcasing the **enduring economic potential** of a liberalised, tech-hungry market. It's a complex, fascinating time where technology is shaping not just our lives, but global politics and economies.
+All sources are at the section below.
 
-All sources are linked in the section below.
+---
+**Sources:**
+1.  Livly Unveils "The AI + Automation Era” Marking a New Stage in Predictive Multifamily Technology (The Manila Times)
+    https://www.manilatimes.net/2025/12/11/tmt-newswire/globenewswire/livly-unveils-the-ai-automation-era-marking-a-new-stage-in-predictive-multifamily-technology/2241216
+2.  NOV Announces Sale of Advanced Nuclear Development Company Shepherd Power to Natura Resources in Stock for Stock Transaction (The Manila Times)
+    https://www.manilatimes.net/2025/12/11/tmt-newswire/globenewswire/nov-announces-sale-of-advanced-nuclear-development-company-shepherd-power-to-natura-resources-in-stock-for-stock-transaction/2241215
+3.  Tech with discipline, national purpose needed: Brigadier Sachin Kalia (Times of India)
+    https://timesofindia.indiatimes.com/city/pune/tech-with-discipline-national-purpose-needed-brigadier-sachin-kalia/articleshow/125897181.cms
+4.  Tech Advances After Fed Rate Cut - Tech Roundup (MarketScreener)
+    https://www.marketscreener.com/news/tech-advances-after-fed-rate-cut-tech-roundup-ce7d50dadd89f72c
 
 Sources:
-1. Australia begins enforcing world-first teen social media ban (The Japan Times )
-   https://www.japantimes.co.jp/news/2025/12/10/asia-pacific/society/australia-teen-social-media-ban/
-2. Britain sanctions Russian, Chinese entities over disinformation, cyber threats (The Straits Times)
-   https://www.straitstimes.com/world/europe/britain-sanctions-russian-chinese-entities-over-disinfo-cyber-threats
-3. Miami International Holdings Announces Launch of Secondary Public Offering of Common Stock (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/miami-international-holdings-announces-launch-of-secondary-public-offering-of-common-stock-302637238.html
-4. India’s calibrated liberalisation is bringing investors: Temasek chair Teo Chee Hean (Hindustan Times)
-   https://www.hindustantimes.com/india-news/indias-calibrated-liberalisation-is-bringing-investors-temasek-chair-teo-chee-hean-101765305645582.html
-5. A Guide to the Nvidia Chips at the Center of US-China AI Rivalry (Bloomberg)
-   https://www.bloomberg.com/news/articles/2025-12-09/a-guide-to-the-nvidia-chips-at-the-center-of-us-china-ai-rivalry
+1. Livly Unveils "The AI + Automation Era” Marking a New Stage in Predictive Multifamily Technology (The Manila Times)
+   https://www.manilatimes.net/2025/12/11/tmt-newswire/globenewswire/livly-unveils-the-ai-automation-era-marking-a-new-stage-in-predictive-multifamily-technology/2241216
+2. NOV Announces Sale of Advanced Nuclear Development Company Shepherd Power to Natura Resources in Stock for Stock Transaction (The Manila Times)
+   https://www.manilatimes.net/2025/12/11/tmt-newswire/globenewswire/nov-announces-sale-of-advanced-nuclear-development-company-shepherd-power-to-natura-resources-in-stock-for-stock-transaction/2241215
+3. Tech with discipline, national purpose needed: Brigadier Sachin Kalia (Times of India)
+   https://timesofindia.indiatimes.com/city/pune/tech-with-discipline-national-purpose-needed-brigadier-sachin-kalia/articleshow/125897181.cms
+4. Waldo is latest Maine county to propose huge budget hike (Bangor Daily News)
+   https://www.bangordailynews.com/2025/12/10/midcoast/midcoast-government/waldo-county-budget-increase/
+5. Tech Advances After Fed Rate Cut - Tech Roundup (MarketScreener)
+   https://www.marketscreener.com/news/tech-advances-after-fed-rate-cut-tech-roundup-ce7d50dadd89f72c
