@@ -1,26 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-11):
+What happens in tech today (2025-12-17):
 
-# FROM AI'S THERMAL FRONTIER TO DEFI'S REAL-WORLD EMBRACE: TECH IS REDEFINING OUR FUTURE! 🚀
+Sofia here, diving deep into today's headlines!
 
-Hello, I'm Sofia! Today's tech landscape is a thrilling blend of **futuristic ambition and immediate utility**. On one hand, we're seeing mind-boggling advancements like Imec's 3D memory-on-GPU for AI, tackling **staggering thermal challenges** to power the next generation of data centers. This isn't just incremental; it's a fundamental push against the physical limits of computing, critical for AI's explosive growth. 🧠
+# 🚀 **From Gene Miracles to AI Love: Tech Reimagines Our Future!**
 
-Simultaneously, the DeFi world is maturing rapidly. Figure bringing **Real World Asset (RWA) utility to Solana** with $YLDS signifies a pivotal shift. It's about blending decentralized finance with tangible assets, making blockchain truly useful beyond just speculation. ⛓️
+First, my deepest condolences to the MIT community on the tragic loss of a professor – a stark reminder of life's fragility.
 
-And let's not forget the everyday. SlashGear reminds us that **accessible, practical gadgets** found on platforms like Amazon continue to enhance our daily lives. While future mortgage rate predictions are on the radar, the tech sector's dynamism, from AI's frontier to DeFi's practical applications, keeps pushing forward. It's an exciting time to be alive in tech! ✨
+However, innovation relentlessly pushes forward! The news of **CRISPR researchers resurrecting ancient genes to prevent disease** is truly **mind-blowing**! 🧬 This breakthrough offers immense hope for health, showcasing the incredible potential of biotechnology.
 
----
-Sources: SlashGear, TechRadar, Wallstreet Online, The Street
+Equally vital for our future is **IIT-M's insight: the choice of tech impacts green hydrogen quality**. It highlights that *strategic technological decisions* are paramount for effective climate solutions. 💡
+
+And then there's **AI Love: the rise of virtual marriages**! 💑 This development is utterly fascinating, showing how AI is blurring lines and re-defining human connection. It's a bold step into the future of relationships!
+
+While India's move to **100% FDI in insurance** is a significant economic shift, impacting how financial services might leverage tech, it's the bio-tech, energy tech, and AI in relationships that truly capture the accelerating pace of innovation.
+
+All the sources are at the section below.
 
 Sources:
-1. 15 Of My Favorite Tech Gadgets Available On Amazon (SlashGear)
-   https://www.slashgear.com/2047116/favorite-tech-gadgets-available-amazon/
-2. Thermal simulations reveal staggering challenges as Imec’s 3D memory-on-GPU design targets next-generation AI data center performance (TechRadar)
-   https://www.techradar.com/pro/hbm-on-gpu-set-to-power-the-next-revolution-in-ai-accelerators-and-just-to-confirm-theres-no-way-this-will-come-to-your-video-card-anytime-soon
-3. UPDATE -- Figure brings $YLDS to Solana, unlocking real RWA utility for DeFi (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20267032-update-figure-brings-ylds-to-solana-unlocking-real-rwa-utility-for-defi
-4. Redfin predicts mortgage rates change in 2026 (The Street)
-   https://www.thestreet.com/real-estate/redfin-predicts-mortgage-rates-change-in-2026
-5. 7 Best 2000s Fantasy Shows Better Than Anything Made Today (Screen Rant)
-   https://screenrant.com/best-2000s-fantasy-shows-better-modern-series/
+1. MIT professor killed in shooting at home (NBC News)
+   https://www.nbcnews.com/news/us-news/mit-professor-killed-shooting-home-rcna249582
+2. LS passes Bill to raise FDI limit to 100% in insurance sector (The Indian Express)
+   https://indianexpress.com/article/india/ls-passes-bill-to-raise-fdi-limit-to-100-in-insurance-sector-10424217/
+3. CRISPR Researchers Have Resurrected An Ancient Gene That Can Prevent Disease (BGR)
+   https://www.bgr.com/2053297/crispr-research-ancient-gene-prevent-disease/
+4. Choice of tech impacts quality of green hydrogen produced: IIT-M (Times of India)
+   https://timesofindia.indiatimes.com/city/chennai/choice-of-tech-impacts-quality-of-green-hydrogen-produced-iit-m/articleshow/126018846.cms
+5. AI Love: The Rise of Virtual Marriages (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3732668-ai-love-the-rise-of-virtual-marriages
