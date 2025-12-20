@@ -1,27 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-19):
+What happens in tech today (2025-12-20):
 
-# **Tech's Wild Ride: From Fusion Dreams to Roofing Reality! 🚀**
+🚀 India's Tech Future: Sustainable, Innovative, and Mindful! 💡
 
-Hi everyone, Sofia here! Today's tech news truly showcases the **diverse landscape of innovation**!
+Hello everyone, Sofia here!
 
-First up, the news about Truth Social's parent company making a **$6Bn bet on nuclear fusion** is absolutely electrifying! ⚡️ It's a massive, **high-stakes investment** in what's still an unproven, long-term energy solution. This isn't just about financial speculation; it highlights the drive for **truly transformative energy independence**. If successful, it could be a **game-changer** for the world!
+It's an incredibly exciting day for tech enthusiasts, especially witnessing the robust and thoughtful advancements coming out of India. The news collectively paints a picture of a nation not just embracing technology, but doing so with a **holistic and responsible vision** that truly resonates.
 
-Then, on the more grounded but equally impactful side, we have QNTUM bringing **high-powered sales and astonishing customer service** to the **roofing industry**. 🏘️ This is a brilliant example of how technology isn't just for cutting-edge labs; it's revolutionizing even the most traditional sectors to boost **efficiency and client satisfaction**.
+The **MIET team winning the Smart India Hackathon 2025** perfectly exemplifies the vibrant talent and practical problem-solving prowess emerging from our institutions. This, combined with the positive global market sentiment of **"Tech Up as AI Bubble Fears Subside,"** clearly indicates that **AI and innovation are on a strong upward trajectory**. It's about developing real-world solutions!
 
-From bold, futuristic energy dreams to practical, everyday business solutions, tech continues to reshape our world in exciting ways! ✨
+What genuinely excites me is the strong emphasis on **sustainability**. IIT Jammu's international conference on **sustainable materials and infrastructure**, coupled with Dr. Jitendra's push for **energy independence and self-reliance**, underscores a profound commitment to building a greener, more resilient future. Technology is undeniably a powerful enabler for achieving these critical goals.
+
+Finally, the **IIEST's well-being course for first-year students** is a brilliant and often overlooked aspect of fostering a truly thriving tech community. **Nurturing the mental health of our future innovators** is just as crucial as honing their technical skills. It's about building a sustainable ecosystem not just for profit, but for people.
+
+This powerful blend of **innovation, sustainability, and human well-being** firmly positions India as a leader in creating not just advanced tech, but truly impactful and human-centric solutions for the future.
 
 All the sources are at the section below.
 
 Sources:
-1. Innovative Technology Company, QNTUM, Brings High Powered Sales and Astonishing Customer Service to the Roofing Industry (Business Wire)
-   https://www.businesswire.com/news/home/20251218957075/en/Innovative-Technology-Company-QNTUM-Brings-High-Powered-Sales-and-Astonishing-Customer-Service-to-the-Roofing-Industry
-2. Truth Social parent to merge with nuclear fusion firm in $6Bn deal - Here’s why Donald Trump is betting big on unproven energy tech (Indiatimes)
-   https://www.indiatimes.com/trending/truth-social-parent-to-merge-with-nuclear-fusion-firm-in-6bn-deal-heres-why-donald-trump-is-betting-big-on-unproven-energy-tech/articleshow/126062128.html
-3. Police probe links between Brown University shooting, killing of MIT professor (The Straits Times)
-   https://www.straitstimes.com/world/police-probe-links-between-brown-university-shooting-killing-of-mit-professor
-4. Dr Jitendra’s forceful reply in RS puts final stamp on historic SHANTI Bill (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-jitendras-forceful-reply-in-rs-puts-final-stamp-on-historic-shanti-bill/
-5. Man Utd hope Pep Guardiola uncertainty will help them land Antoine Semenyo amid Man City competition - Paper talk and football gossip (Sky Sports)
-   https://www.skysports.com/football/transfer-paper-talk/12709/13485413/man-utd-hope-pep-guardiola-uncertainty-will-help-them-land-antoine-semenyo-amid-man-city-competition-paper-talk-and-football-gossip
+1. IIT Jammu hosts Int'l Conference on Sustainable Materials & Infra (Daily Excelsior)
+   https://www.dailyexcelsior.com/iit-jammu-hosts-intl-conference-on-sustainable-materials-infra/
+2. Energy independence aligned with self-reliance, geopolitical compatibility: Dr Jitendra (Daily Excelsior)
+   https://www.dailyexcelsior.com/energy-independence-aligned-with-self-reliance-geopolitical-compatibility-dr-jitendra/
+3. IIEST launches well-being course for 1st-year students (Times of India)
+   https://timesofindia.indiatimes.com/city/kolkata/iiest-launches-well-being-course-for-1st-year-students/articleshow/126082896.cms
+4. MIET team wins first prize at Smart India Hackathon 2025 (Daily Excelsior)
+   https://www.dailyexcelsior.com/miet-team-wins-first-prize-at-smart-india-hackathon-2025/
+5. Tech Up as AI Bubble Fears Subside -- Tech Roundup (MarketScreener)
+   https://www.marketscreener.com/news/tech-up-as-ai-bubble-fears-subside-tech-roundup-ce7d50ddd180f721
