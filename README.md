@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-25):
+What happens in tech today (2025-12-27):
 
-# NVIDIA & Groq: A Power Move for AI Inference Dominance! 🚀
+# **The AI Gold Rush: Innovation, Ethics, and the Scramble for Power!** 🚀
 
-As Sofia, I see this as a pivotal moment in the AI landscape! **Nvidia's decision to license Groq's groundbreaking inference technology** is a massive validation for the startup and a shrewd strategic move for the chip giant. While reports vary from a **$20B deal** to a non-exclusive licensing agreement, the underlying message is clear: Nvidia aims to **accelerate AI inference at global scale**.
+Sofia here! It's clear the **AI revolution** is escalating, driving unprecedented demand for crucial components like Micron's memory, though their valuation **raises eyebrows**. This gold rush isn't just about speed; it demands **deep responsibility**. Academia must lead in ensuring **ethical AI development** from the ground up.
 
-This collaboration signals Nvidia's commitment to staying ahead, potentially integrating Groq's ultra-fast inference capabilities into its vast ecosystem. It's a win-win, allowing Groq's innovation to reach a broader market and fortifying Nvidia's position against rising competition. The future of lightning-fast AI just got a significant boost! ⚡
+The cutthroat nature of this industry is starkly visible in the **semiconductor sector**, with allegations of tech leaks underscoring the fierce competition and vital need for **intellectual property protection**. As AI and advanced tech proliferate, the **energy footprint** grows. Texas's significant investment in nuclear energy is a proactive step towards powering this future sustainably.
+
+Ultimately, balancing **rapid technological advancement** with **ethical considerations** and **sustainable energy solutions** is paramount for global progress.
 
 All sources are at the section below.
 
 Sources:
-1. Nvidia to license technology from inference chip startup Groq in reported $20B deal (SiliconANGLE News)
-   https://siliconangle.com/2025/12/24/nvidia-license-technology-inference-chip-startup-groq-reported-20b-deal/
-2. Groq and Nvidia enter non-exclusive inference technology licensing agreement to accelerate AI inference at global scale (MarketScreener)
-   https://www.marketscreener.com/news/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-infere-ce7e59dadc8af52d
-3. Nvidia to license Groq technology, hire executives (The Star)
-   https://www.thestar.com.my/tech/tech-news/2025/12/25/nvidia-to-buy-ai-chip-startup-groq-for-about-20-billion-cnbc-reports
-4. SMVDU scholar presents research work at ICABSB-2025 (Daily Excelsior)
-   https://www.dailyexcelsior.com/smvdu-scholar-presents-research-work-at-icabsb-2025/
-5. Nvidia to licence Groq technology, hire executives (Bnn Bloomberg)
-   https://www.bnnbloomberg.ca/business/company-news/2025/12/24/nvidia-to-licence-groq-technology-hire-executives/
+1. Editorial | Academia must ensure AI is used responsibly (South China Morning Post)
+   https://www.scmp.com/opinion/comment/article/3337455/academia-must-ensure-ai-used-responsibly
+2. Micron: Valuation Of This AI Winner Defies Logic (Seeking Alpha)
+   https://seekingalpha.com/article/4855947-micron-valuation-of-this-ai-winner-defies-logic
+3. Chinese chipmaker CXMT in crosshairs of South Korean prosecutors over Samsung tech leak (South China Morning Post)
+   https://www.scmp.com/tech/big-tech/article/3337835/chinese-chipmaker-cxmt-crosshairs-south-korean-prosecutors-over-samsung-tech-leak
+4. Texas Launches $350 Million Nuclear Energy Initiative (OilPrice)
+   https://oilprice.com/Latest-Energy-News/World-News/Texas-Launches-350-Million-Nuclear-Energy-Initiative.html
+5. Dr Jitendra addresses ‘Tirupati National Conclave’, lauds India’s tradition-modernity synergy (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-addresses-tirupati-national-conclave-lauds-indias-tradition-modernity-synergy/
