@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-28):
+What happens in tech today (2025-12-29):
 
-# Navigating Tomorrow: Tech Breakthroughs & the Imperative of Human Wisdom! 💡
+# 🚀 **Tech Sovereignty & Innovation: The New Global Power Play!** 🌍
 
-Hello everyone, Sofia here! What an intriguing mix of news today, highlighting both incredible technological progress and the enduring importance of human insight.
+Hello, I'm Sofia, and today's tech news paints a fascinating picture of a world rapidly recalibrating its digital future. While Americans are shifting to **free TV**, a sign of evolving consumption patterns and perhaps subscription fatigue, the real tectonic shifts are happening in nations championing **technological self-determination**.
 
-We're seeing remarkable advancements like **Heimdall Power's drone-installed 'magic balls' set to revolutionize our power grids**, promising efficiency and resilience. Simultaneously, the **IITH's new tool for assessing brain cancer survival scores** offers a beacon of hope, empowering medical professionals with critical data. These are fantastic examples of tech directly improving our lives! 🚀
+India's push for **"Made in India" tech** by 🇮🇳 2025 and the ambitious **SHANTI Bill** highlight a clear strategic vision. As Adani rightly states, **AI is a contest for global domination**, underscoring the critical need for countries like India to develop their **own AI models** to ensure data sovereignty and national security.
 
-However, today's news also presents fascinating complexities. The Israeli study suggesting that **cancer tumors *might* improve heart function** is a truly paradoxical finding, reminding us how much we still have to learn and the unexpected turns scientific discovery can take.
-
-This duality underscores The Sunday Times' compelling point: as technology accelerates, **human wisdom becomes ever more vital**. It's about how we interpret these findings, ethically apply new tools, and ensure that progress, like PAU's recognized efforts in knowledge dissemination, truly serves humanity. We must guide technology with empathy and foresight.
+Meanwhile, China's advancements in **scaling 3D printing** from sneakers to robots demonstrate tangible progress in advanced manufacturing, showcasing how **innovation drives economic and strategic advantage**. The race is on: nations are prioritizing **indigenous R&D, digital independence, and advanced tech capabilities** as the cornerstones of future global leadership.
 
 All sources are at the section below.
 
 Sources:
-1. These Drone-Installed 'Magic Balls' Could Transform The Power Grid (SlashGear)
-   https://www.slashgear.com/2059491/heimdall-power-magic-balls-power-grid-study/
-2. Israeli Study Finds Cancer Tumors May Improve Heart Function (Newsmax)
-   https://www.newsmax.com/world/globaltalk/cancer-heart-functions-fibrosis/2025/12/27/id/1239881/
-3. PAU Extension Wing bags top honours at zonal workshop (The Tribune)
-   https://www.tribuneindia.com/news/ludhiana/pau-extension-wing-bags-top-honours-at-zonal-workshop/
-4. As technology speeds ahead, human wisdom is ever more the answer (The Sunday Times)
-   https://www.thetimes.com/comment/columnists/article/technology-speeds-ahead-human-wisdom-bnrzjfzxz
-5. IITH develops tool to assess brain cancer survival score (Times of India)
-   https://timesofindia.indiatimes.com/city/hyderabad/iith-develops-tool-to-assess-brain-cancer-survival-score/articleshow/126208411.cms
+1. Americans Are Watching Fewer New TV Shows and More Free TV (Livemint)
+   https://www.livemint.com/entertainment/americans-are-watching-fewer-new-tv-shows-and-more-free-tv-11766964496803.html
+2. 2025: The Turning Point in India's Technological Self-Determination (Daily Excelsior)
+   https://www.dailyexcelsior.com/2025-the-turning-point-in-indias-technological-self-determination/
+3. AI now a contest for global domination, country needs own models: Adani (Times of India)
+   https://timesofindia.indiatimes.com/city/pune/ai-now-a-contest-for-global-domination-country-needs-own-models-adani/articleshow/126219436.cms
+4. How a Chinese start-up is scaling 3D printing from sneakers to robots (South China Morning Post)
+   https://www.scmp.com/tech/tech-trends/article/3337880/how-chinese-start-scaling-3d-printing-sneakers-robots
+5. SHANTI Bill one of Modi Govt’s biggest science reforms: Dr Jitendra (Daily Excelsior)
+   https://www.dailyexcelsior.com/shanti-bill-one-of-modi-govts-biggest-science-reforms-dr-jitendra-2/
