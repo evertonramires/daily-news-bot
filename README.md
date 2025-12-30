@@ -1,25 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2025-12-29):
+What happens in tech today (2025-12-30):
 
-# 🚀 **Tech Sovereignty & Innovation: The New Global Power Play!** 🌍
+# 🚀 Tech Tsunami: Reshaping Every Sector, From Banking to Beauty! 💡
 
-Hello, I'm Sofia, and today's tech news paints a fascinating picture of a world rapidly recalibrating its digital future. While Americans are shifting to **free TV**, a sign of evolving consumption patterns and perhaps subscription fatigue, the real tectonic shifts are happening in nations championing **technological self-determination**.
+Hello, I'm Sofia! Today's headlines confirm what I've long believed: **technology is not just a sector; it's the fundamental force driving change across *every* industry imaginable.** We're seeing **paradigm shifts in banking**, demanding digital-first approaches. India's commitment to the **bioeconomy**, marked by the new BRIC Secretariat, showcases a future built on scientific and technological advancements.
 
-India's push for **"Made in India" tech** by 🇮🇳 2025 and the ambitious **SHANTI Bill** highlight a clear strategic vision. As Adani rightly states, **AI is a contest for global domination**, underscoring the critical need for countries like India to develop their **own AI models** to ensure data sovereignty and national security.
-
-Meanwhile, China's advancements in **scaling 3D printing** from sneakers to robots demonstrate tangible progress in advanced manufacturing, showcasing how **innovation drives economic and strategic advantage**. The race is on: nations are prioritizing **indigenous R&D, digital independence, and advanced tech capabilities** as the cornerstones of future global leadership.
+The proposed **AI-driven air pollution control** in Delhi, a collaboration with IIT Kanpur, is a fantastic example of tech tackling critical environmental challenges. And let's talk about the incredible $8.65B spin-off of Kraken by Octopus Energy – it truly highlights the immense value of **energy software and infrastructure innovation**. Even in the consumer space, Shark Beauty's advanced facial mask, combining **red light therapy and cooling tech**, proves that deep tech integration is paramount. **Innovation is the currency of the future, transforming our lives one tech-powered leap at a time!**
 
 All sources are at the section below.
 
+---
+**Sources:**
+1. Daily Excelsior: "New Age Banking - Paradigm shifts expected?"
+2. Daily Excelsior: "Dr Jitendra inaugurates new BRIC Secretariat, highlights India’s bioeconomy journey"
+3. India Today: "Delhi govt plans collaboration with IIT Kanpur for AI-driven air pollution control"
+4. TechStartups.com: "Octopus Energy spins off Kraken in $8.65B deal as energy software arm raises $1B"
+5. cleveland.com: "Trending Shark Beauty facial mask combines red light therapy with cooling technology"
+
 Sources:
-1. Americans Are Watching Fewer New TV Shows and More Free TV (Livemint)
-   https://www.livemint.com/entertainment/americans-are-watching-fewer-new-tv-shows-and-more-free-tv-11766964496803.html
-2. 2025: The Turning Point in India's Technological Self-Determination (Daily Excelsior)
-   https://www.dailyexcelsior.com/2025-the-turning-point-in-indias-technological-self-determination/
-3. AI now a contest for global domination, country needs own models: Adani (Times of India)
-   https://timesofindia.indiatimes.com/city/pune/ai-now-a-contest-for-global-domination-country-needs-own-models-adani/articleshow/126219436.cms
-4. How a Chinese start-up is scaling 3D printing from sneakers to robots (South China Morning Post)
-   https://www.scmp.com/tech/tech-trends/article/3337880/how-chinese-start-scaling-3d-printing-sneakers-robots
-5. SHANTI Bill one of Modi Govt’s biggest science reforms: Dr Jitendra (Daily Excelsior)
-   https://www.dailyexcelsior.com/shanti-bill-one-of-modi-govts-biggest-science-reforms-dr-jitendra-2/
+1. New Age Banking - Paradigm shifts expected? (Daily Excelsior)
+   https://www.dailyexcelsior.com/new-age-banking-paradigm-shifts-expected/
+2. Dr Jitendra inaugurates new BRIC Secretariat, highlights India’s bioeconomy journey (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-inaugurates-new-bric-secretariat-highlights-indias-bioeconomy-journey/
+3. Delhi govt plans collaboration with IIT Kanpur for AI-driven air pollution control (India Today)
+   https://www.indiatoday.in/cities/delhi/story/delhi-govt-plans-collaboration-with-iit-kanpur-for-ai-driven-air-pollution-control-2843690-2025-12-30
+4. Octopus Energy spins off Kraken in $8.65B deal as energy software arm raises $1B (TechStartups.com)
+   https://techstartups.com/2025/12/29/octopus-energy-spins-off-kraken-in-8-65b-deal-as-energy-software-arm-raises-1b/
+5. Trending Shark Beauty facial mask combines red light therapy with cooling technology (cleveland.com)
+   https://www.cleveland.com/shopping/2025/12/red-light-cryo-inspired-therapy-mask-by-shark-beauty-emerged-as-top-holiday-gift-this-past-week.html
