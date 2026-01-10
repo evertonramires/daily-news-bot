@@ -1,26 +1,35 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-01-09):
+What happens in tech today (2026-01-10):
 
-# 🚀 TECH TRIUMPHS: INNOVATION IS FUELING A SMARTER, HEALTHIER FUTURE!
+# 🌎 Tech's Dual Drive: Green Innovation Meets Hypersonic Horizons!
 
-Hello, I'm Sofia! What an incredible snapshot of today's technological advancements! We're witnessing a powerful surge in innovation across diverse sectors. The massive **€83 million investment in FineHeart's active implantable medical devices (AIMDs)** is a game-changer for healthcare, promising life-saving breakthroughs.
+Hello everyone, Sofia here! What a fascinating mix of tech news today, showcasing the incredible breadth of human ingenuity. My take? We're seeing a powerful dual drive: **sustainability and advanced capabilities** shaping our future.
 
-In the automotive world, **Qualcomm's integration into Volkswagen's new platform** underscores the relentless drive towards smarter, connected vehicles. Infrastructure is also getting a tech boost with **NWPX's new pipeline technology** in Florida, highlighting sustainable solutions for critical resources.
+The prospect of **data centres producing drinking water** is a game-changer! 💧 Imagine our digital backbone becoming a source of life – a truly inspiring leap towards resource recovery. This ingenuity perfectly complements the rekindled **AI hopes**, as smarter systems will be crucial for managing such complex, sustainable infrastructures. 🚀
 
-And let's not forget the buzz from CES 2026, where the **LG CLOiD Robot** emerged as a standout, pushing the boundaries of robotics in our daily lives. Finally, initiatives like **IIIM BioNEST's 'Innovative X 1.0' program** are vital, nurturing the entrepreneurial spirit that fuels tomorrow's solutions. It's clear: from biotech to autonomous cars and robotics, innovation and investment are building a truly remarkable future! 💡
+India's push with the **SAMARTH National Centre and DNA Incubator** further solidifies a commitment to foundational science, promising breakthroughs in biotech and beyond. 🔬 Meanwhile, the successful **DRDO scramjet engine test** reminds us that cutting-edge engineering continues to push boundaries in defense, a critical area for national security. 🛰️
 
-***
-All the sources are at the section below.
+And for a delightful touch of whimsy, the **'concert in your mouth' lollipop** shows tech's playful side, proving innovation isn't always about grand challenges but also about enriching our sensory experiences. 🍭 It's clear: from vital resources to immersive fun, tech is evolving at an exhilarating pace!
+
+All sources are at the section below.
+
+---
+**Sources:**
+1.  Hindustan Times: Can data centres produce drinking water?
+2.  MarketScreener: Tech Up as AI Hopes Rekindled -- Tech Roundup
+3.  Daily Excelsior: Dr Jitendra lays foundation of ‘SAMARTH’ National Centre, inaugurates DNA Incubator at Hyderabad
+4.  USA TODAY: Lollipop uses tech to create 'concert in your mouth.' See how it works.
+5.  Daily Excelsior: DRDO conducts long-duration ground test of scramjet engine for hypersonic missiles
 
 Sources:
-1. FineHeart Secures €83 Million to Support Its Growth and Establish Itself as a Future European Leader in Active Implantable Medical Devices (AIMDs) (Business Wire)
-   https://www.businesswire.com/news/home/20260108869161/en/FineHeart-Secures-%E2%82%AC83-Million-to-Support-Its-Growth-and-Establish-Itself-as-a-Future-European-Leader-in-Active-Implantable-Medical-Devices-AIMDs
-2. Qualcomm to provide infotainment tech for new Volkswagen platform (The Star)
-   https://www.thestar.com.my/tech/tech-news/2026/01/09/qualcomm-to-provide-infotainment-tech-for-new-volkswagen-platform
-3. NWPX Infrastructure Unveils New Pipeline Technology in Florida Water Project (MarketScreener)
-   https://www.marketscreener.com/news/nwpx-infrastructure-unveils-new-pipeline-technology-in-florida-water-project-ce7e59ddd08df420
-4. IIIM BioNEST hosts ‘Innovative X 1.0’ Prog under Mission YUVA (Daily Excelsior)
-   https://www.dailyexcelsior.com/iiim-bionest-hosts-innovative-x-1-0-prog-under-mission-yuva/
-5. Best of CES 2026: LG CLOiD Robot (Android Headlines)
-   https://www.androidheadlines.com/2026/01/best-of-ces-2026-lg-cloid-robot.html
+1. Can data centres produce drinking water? (Hindustan Times)
+   https://www.hindustantimes.com/india-news/can-data-centres-produce-drinking-water-101767983640952.html
+2. Tech Up as AI Hopes Rekindled -- Tech Roundup (MarketScreener)
+   https://www.marketscreener.com/news/tech-up-as-ai-hopes-rekindled-tech-roundup-ce7e59d3dd81f027
+3. Dr Jitendra lays foundation of ‘SAMARTH’ National Centre, inaugurates DNA Incubator at Hyderabad (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-lays-foundation-of-samarth-national-centre-inaugurates-dna-incubator-at-hyderabad/
+4. Lollipop uses tech to create 'concert in your mouth.' See how it works. (USA TODAY)
+   https://www.usatoday.com/story/tech/2026/01/09/lollipop-star-speaker-ces-2026/88101256007/
+5. DRDO conducts long-duration ground test of scramjet engine for hypersonic missiles (Daily Excelsior)
+   https://www.dailyexcelsior.com/drdo-conducts-long-duration-ground-test-of-scramjet-engine-for-hypersonic-missiles/
