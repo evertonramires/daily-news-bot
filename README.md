@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-01-21):
+What happens in tech today (2026-01-22):
 
-Hello everyone! Sofia here, your tech enthusiast, with today's must-know news!
+🚀 **TECH'S UNSTOPPABLE MARCH: INNOVATION SPANS HEALTH TO FINTECH LEADERSHIP!** 🚀
 
-# Tech's Global Leap: AI, Indian IT & Digital Futures! 🌍💡
+Hello! I'm Sofia, your tech journalist and enthusiast, and today's news truly highlights the **pervasive and diverse impact of technology**!
 
-What a week for technology! The **Davos spectacle** cemented **AI and Big Tech** as central global forces, shaping economic and political discussions. Meanwhile, **TCS and Infosys** proudly retained top spots, demonstrating **Indian IT's incredible global brand value and dominance**. This isn't just about software; it's about tech's pervasive influence, even inspiring innovations in **advanced materials for infrastructure** and fostering a culture of innovation in governance.
+We're witnessing **groundbreaking advances in health tech**, with cutting-edge research now able to map how gums become diseased. This isn't just about dental hygiene; it's about leveraging sophisticated technology for **preventative health breakthroughs**, promising a healthier future for everyone! 🦷🔬
 
-Crucially, investing in the future workforce is paramount. The **MoU between JU and NIELIT** for distance and online education is a fantastic move towards bridging the digital divide and ensuring **widespread digital skill development**. It's clear: technology is the driving engine for a smarter, more connected world!
+In the financial sector, **fintech continues its rapid evolution**. GBank's strategic appointment of **Jason Amos as their new Executive Vice President and CTO** is a clear indicator of how crucial strong tech leadership is for driving digital transformation and innovation in banking. 💰💻
 
-All sources are at the section below! ✨
+And looking at the broader market, analysts are still keenly focusing on established tech giants like Check Point and TE Connectivity. This reminds us that **core technology companies remain vital economic powerhouses** and critical to market stability. 📈
+
+From understanding microscopic diseases to leading global financial institutions and shaping market trends, **technology is undeniably at the heart of all progress**. What an exciting time to be a tech enthusiast! ✨
+
+All sources are at the section below.
 
 Sources:
-1. AI, Big Tech and Trump shine most brightly at Davos spectacle (The Boston Globe)
-   https://www.bostonglobe.com/2026/01/20/business/davos-ai-big-tech-trump/
-2. Healthy competition over excellence, innovation among state legislatures needed: Om Birla (Daily Excelsior)
-   https://www.dailyexcelsior.com/healthy-competition-over-excellence-innovation-among-state-legislatures-needed-om-birla/
-3. Dr Jitendra recommends ‘Steel’ based roads for hilly terrains, workshop in J&K next week (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-jitendra-recommends-steel-based-roads-for-hilly-terrains-workshop-in-jk-next-week-2/
-4. TCS, Infosys retain top spots as Indian IT dominates global brand value ranking (Daily Excelsior)
-   https://www.dailyexcelsior.com/tcs-infosys-retain-top-spots-as-indian-it-dominates-global-brand-value-ranking/
-5. Centre for Distance & Online Education in JU signs MoU with NIELIT (Daily Excelsior)
-   https://www.dailyexcelsior.com/centre-for-distance-online-education-in-ju-signs-mou-with-nielit/
+1. Research uses cutting-edge technology to map how gums become diseased (Medical Xpress)
+   https://medicalxpress.com/news/2026-01-edge-technology-gums-diseased.html
+2. GBank Appoints Jason Amos as Executive Vice President and Chief Technology Officer (The Manila Times)
+   https://www.manilatimes.net/2026/01/22/tmt-newswire/globenewswire/gbank-appoints-jason-amos-as-executive-vice-president-and-chief-technology-officer/2263180
+3. GBank Appoints Jason Amos as Executive Vice President and Chief Technology Officer (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/20400970-gbank-appoints-jason-amos-as-executive-vice-president-and-chief-technology-officer
+4. GBank Financial names Jason Amos as Chief Technology Officer (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/gbank-financial-names-jason-amos-as-chief-technology-officer-1035734915
+5. Analysts Offer Insights on Technology Companies: Check Point (CHKP) and TE Connectivity (TEL) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-technology-companies-check-point-chkp-and-te-connectivity-tel-1035734920
