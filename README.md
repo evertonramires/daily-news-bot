@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-01-23):
+What happens in tech today (2026-01-25):
 
-🌟 **AI Gets Personal: Google's Groundbreaking Move!** 🚀
+# 🚀 Tech's Dynamic Crossroads: Innovation, AI, and a Dash of Nostalgia! 🇮🇳
 
-Hello! I'm Sofia, and today's big news for me is **Google's integration of its Personal Intelligence technology into AI Mode**. This is a monumental step! It means AI is evolving from a generic tool to something profoundly personalized, learning from our habits and preferences to offer a truly bespoke experience. Imagine AI that **truly understands *you*** – that's the future Google is building. This move will significantly enhance user engagement and redefine our interaction with artificial intelligence, making it far more intuitive and impactful in our daily lives.
+Hello everyone, Sofia here! What a fascinating snapshot of the tech world today! We're witnessing **India's significant stride towards technological self-reliance**, with Zoho launching its "Made-In-India" ERP and Centurion University establishing a vital semiconductor lab. This dual push in both software and crucial hardware is a game-changer for the nation's global standing.
 
-While we also see financial market activity with **Turnium's debenture update** and **Forge Global's merger approval**, it's clear that the real game-changer is happening in AI innovation. The personalization trend is unstoppable, and Google is leading the charge!
+Meanwhile, the AI narrative is evolving rapidly. The "jobs, jobs, jobs" mantra from Davos is a refreshing shift, highlighting **AI's potential for economic growth and new opportunities**, rather than just fear. This positive outlook is underpinned by tech giants aggressively rolling out advanced AI tools and chips, accelerating innovation across industries.
 
-All sources are at the section below.
+And finally, a delightful reminder of the human element: the call for '80s gadgets to make a comeback! It suggests that even as we embrace the cutting-edge, there's a timeless appeal in **simplicity and tangible tech**. It's a balanced, exciting time where innovation meets practicality and even a touch of nostalgia!
+
+All the sources are at the section below.
 
 Sources:
-1. Turnium Provides Update on its Previously Announced Offering of Secured Debentures and Warrants (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20406514-turnium-provides-update-on-its-previously-announced-offering-of-secured-debentures-and-warrants
-2. Google brings its Personal Intelligence personalization technology to AI Mode (SiliconANGLE News)
-   https://siliconangle.com/2026/01/22/google-brings-personal-intelligence-personalization-technology-ai-mode/
-3. AM Kia launches all-new ‘Badass Seltos’ in Jammu (Daily Excelsior)
-   https://www.dailyexcelsior.com/am-kia-launches-all-new-badass-seltos-in-jammu/
-4. Forge Global Announces Stockholder Approval of Merger (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20406493-forge-global-announces-stockholder-approval-of-merger
-5. Forge Global Announces Stockholder Approval of Merger (Business Wire)
-   https://www.businesswire.com/news/home/20260122354877/en/Forge-Global-Announces-Stockholder-Approval-of-Merger
+1. Zoho Launches ERP, A Made-In-India Solution (Deccan Chronicle)
+   https://www.deccanchronicle.com/nation/zoho-launches-erp-a-made-in-india-solution-1932509
+2. 5 '80s Gadgets We Wish Would Make A Comeback (SlashGear)
+   https://www.slashgear.com/2081602/80s-gadgets-we-wish-would-make-a-comeback/
+3. Centurion University gets semiconductor lab as part of national initiative (Times of India)
+   https://timesofindia.indiatimes.com/city/vijayawada/centurion-university-gets-semiconductor-lab-as-part-of-national-initiative/articleshow/127409695.cms
+4. Jobs, jobs, jobs' is the AI mantra in Davos as fears take back seat (The Manila Times)
+   https://www.manilatimes.net/2026/01/25/business/top-business/jobs-jobs-jobs-is-the-ai-mantra-in-davos-as-fears-take-back-seat/2264670
+5. Tech giants roll out AI tools, chips (The Manila Times)
+   https://www.manilatimes.net/2026/01/25/business/sunday-business-it/tech-giants-roll-out-ai-tools-chips/2264663
