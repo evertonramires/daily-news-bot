@@ -1,25 +1,21 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-01-25):
+What happens in tech today (2026-01-26):
 
-### 🚀 **THE EVER-EVOLVING FRONTIER OF TECHNOLOGY: FROM GREEN AMBITIONS TO SPACE-AGE SOLUTIONS!** 💡
+# 💥 TECH'S TIGHTROPE: INNOVATION, ACCESS, AND THE AI DIVIDE 💥
 
-Hello everyone, Sofia here! It's been an interesting week in tech news, showcasing both the **incredible potential and the complex realities** of innovation. The story of Dale Vince, the eco-millionaire now questioning heat pumps, highlights how even seemingly perfect green tech can face **significant practical hurdles and evolving perceptions**. It's a crucial reminder that implementation is as important as invention.
-
-Yet, optimism thrives! We see technology driving **rural prosperity** through dedicated development and dissemination efforts, proving its power to uplift communities. And the battle against weeds is literally heading to **space**, demonstrating how advanced tech like satellites can revolutionize traditional sectors like agriculture. Even in urban infrastructure, **ingenious engineering solutions** like IIT Bombay's approval of the monopile design for Mumbai's flyover prevent major disruptions, a testament to smart design.
-
-And let's not forget the captivating evolution of characters like the Hulk, a showcase of how **CGI and visual tech** constantly push the boundaries of storytelling. Tech's influence truly spans every facet of our lives, constantly challenging, adapting, and transforming.
+Hello, I'm Sofia, your tech enthusiast! Today's news paints a fascinating, albeit complex, picture of technology's evolving role. The **AI boom making critical tech unaffordable** is a huge red flag 🚩. It risks creating a severe **digital divide**, hindering innovation beyond the giants. While it's fantastic to see advancements like the A*STAR and Halliburton NEX Lab pushing industrial boundaries and Dr. Jitendra inspiring young minds in Atal Tinkering Labs 🧑‍🔬, we must ensure technology remains accessible. Even in sports, Alcaraz's wearable device drama ⚖️ shows how tech integration challenges existing rules. Whether it's fostering future talent or ensuring fair play, **equitable access and thoughtful regulation** are paramount as tech reshapes our world.
 
 All sources are at the section below.
 
 Sources:
-1. Dale Vince, the eco-millionaire who now hates heat pumps (The Sunday Times)
-   https://www.thetimes.com/business/energy/article/dale-vince-ecotricity-founder-interview-9khxqncts
-2. Rural Technology Development and Dissemination for Rural Prosperity (Daily Excelsior)
-   https://www.dailyexcelsior.com/rural-technology-development-and-dissemination-for-rural-prosperity/
-3. The Complete Evolution Of Hulk's On-Screen Live-Action Appearances (Screen Rant)
-   https://screenrant.com/hulk-live-action-appearances-evolution/
-4. The century-long battle against weeds heads to space (PerthNow)
-   https://www.perthnow.com.au/news/technology/the-century-long-battle-against-weeds-heads-to-space-c-21413968
-5. Mumbai Infra News: BMC Drops Plan To Demolish Goregaon’s Veer Savarkar Flyover For Versova-Dahisar Link Road After IIT Bombay Clears Monopile Design (Free Press Journal)
-   https://www.freepressjournal.in/mumbai/mumbai-infra-news-bmc-drops-plan-to-demolish-goregaons-veer-savarkar-flyover-for-versovadahisar-link-road-after-iit-bombay-clears-monopile-design
+1. Carlos Alcaraz told to remove banned wearable device before Australian Open win, sparking rules debate (PerthNow)
+   https://www.perthnow.com.au/news/the-nightly/carlos-alcaraz-told-to-remove-banned-wearable-device-before-australian-open-win-sparking-rules-debate-c-21423652
+2. The AI Boom Just Made a Critical Piece of Tech Nearly Impossible to Afford (Gizchina.com)
+   https://www.gizchina.com/news/the-ai-boom-just-made-a-critical-piece-of-tech-nearly-impossible-to-afford
+3. A*STAR and Halliburton Launch NEX Lab℠ to Advance Well Completion Innovation (Business Wire)
+   https://www.businesswire.com/news/home/20260125136324/en/ASTAR-and-Halliburton-Launch-NEX-Lab-to-Advance-Well-Completion-Innovation
+4. New FBI-style UK police force to take over counter-terrorism, fraud investigations (Daily Excelsior)
+   https://www.dailyexcelsior.com/new-fbi-style-uk-police-force-to-take-over-counter-terrorism-fraud-investigations/
+5. Dr Jitendra interacts with school children from Atal Tinkering Labs across India (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-interacts-with-school-children-from-atal-tinkering-labs-across-india/
