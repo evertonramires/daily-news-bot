@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-01-31):
+What happens in tech today (2026-02-01):
 
-# Pragmatism Reigns: LG's 8K Exit & Illumina's Protein Play! 📺🔬
+Sofia here! 🙋‍♀️
 
-Hello everyone, Sofia here! 👋 What a fascinating mix of news this week, clearly showing us where innovation is hitting limits and where it's just getting started!
+# 🚀 India Embraces Tech: From Justice Systems to AI Innovation! 🇮🇳
 
-The biggest headline for tech enthusiasts has to be LG's pragmatic decision to **cease 8K OLED/LED TV production**. This isn't a failure, but a crucial reality check: without widespread 8K content, even the most impressive resolution struggles to find its market. It's a reminder that sometimes, **practicality trumps bleeding-edge specs** in consumer electronics.
+What an exciting time for technology in India! We're seeing **tech becoming an indispensable force**, driving progress across various sectors. The Chief Justice's strong assertion that technology is a **vital instrument for timely justice** truly underscores its profound societal impact, moving beyond mere efficiency to core governance.
 
-Contrast that with the biotech world, where genomics giant Illumina is making a huge play, acquiring a protein startup in a deal worth up to $425M. This signals a powerful pivot into **proteomics**, an exciting frontier for **precision medicine and drug discovery**. This is where deep, foundational science meets massive investment, promising genuinely transformative impacts on our health.
+Simultaneously, the successful **AI workshop at IIT Jammu** is a fantastic indicator of India's commitment to nurturing future-ready skills and fostering innovation from the ground up. This, alongside the continuous evolution of **fintech** – exemplified by advanced trading methodologies – showcases a dynamic ecosystem. With events like the BRICS business conclave on the horizon, India is clearly **leveraging digital transformation for comprehensive growth** and global engagement. The future is looking incredibly bright and tech-driven! ✨
 
-Beyond the screens and the cells, we see critical investments in our future. The inauguration of the Oceanography Centre in Visakhapatnam is a boost for **scientific research vital for understanding our planet**, while discussions on **upskilling rail staff** highlight the ongoing need to modernize and empower our essential infrastructure workforce. It's all about building a smarter, healthier, and more connected world.
-
-All sources are at the section below.
+All the sources are at the section below
 
 Sources:
-1. LG will no longer make any 8K OLED or LED TVs. (The Verge)
-   https://www.theverge.com/news/871379/lg-will-no-longer-make-any-8k-oled-or-led-tvs
-2. Protein, please: Illumina buys protein startup in deal worth up to $425M (San Diego Union-Tribune)
-   https://www.sandiegouniontribune.com/2026/01/30/protein-please-illumina-buys-protein-startup-in-deal-worth-up-to-425m/
-3. Dr Jitendra inaugurates Rs 32 crore ‘Oceanography’ Centre at Visakhapatnam (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-jitendra-inaugurates-rs-32-crore-oceanography-centre-at-visakhapatnam/
-4. Kathua Railway Station named on martyr Capt. Sunil Kumar Choudhary (Daily Excelsior)
-   https://www.dailyexcelsior.com/kathua-railway-station-named-on-martyr-capt-sunil-kumar-choudhary/
-5. Union Minister Ashwini Vaishnaw discusses rail staff upskilling with French Transport Minister Philippe Tabarot (The Tribune)
-   https://www.tribuneindia.com/news/world/union-minister-ashwini-vaishnaw-discusses-rail-staff-upskilling-with-french-transport-minister-philippe-tabarot/
+1. Himachal: Dharamshala to host BRICS business conclave in March 2026 (Hindustan Times)
+   https://www.hindustantimes.com/cities/chandigarh-news/himachal-dharamshala-to-host-brics-business-conclave-in-march-2026-101769886285609.html
+2. Mizoram delegation calls on Dr Jitendra, discusses State related issues (Daily Excelsior)
+   https://www.dailyexcelsior.com/mizoram-delegation-calls-on-dr-jitendra-discusses-state-related-issues/
+3. Technology a vital instrument to ensure timely Justice: CJ (Daily Excelsior)
+   https://www.dailyexcelsior.com/technology-a-vital-instrument-to-ensure-timely-justice-cj/
+4. Training cum workshop on AI concludes at IIT Jammu (Daily Excelsior)
+   https://www.dailyexcelsior.com/training-cum-workshop-on-ai-concludes-at-iit-jammu/
+5. Former NYSE Specialist Floor Trader from Goldman Sachs and His Student Teach SPX Zero DTE Options Trading in 14-Day Masterclass (The Manila Times)
+   https://www.manilatimes.net/2026/02/01/tmt-newswire/globenewswire/former-nyse-specialist-floor-trader-from-goldman-sachs-and-his-student-teach-spx-zero-dte-options-trading-in-14-day-masterclass/2269201
