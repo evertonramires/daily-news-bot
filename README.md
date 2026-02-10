@@ -1,27 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-02-09):
+What happens in tech today (2026-02-10):
 
-# **GLOBAL TECH: INNOVATION MEETS ASSURANCE! 🚀**
+# 🚀 AI Infrastructure Takes Center Stage as Tech Market Surges! 📈
 
-Hello everyone, Sofia here! What a fascinating day for tech news! We're witnessing a clear dual trajectory in the global tech landscape: pushing the boundaries of **cutting-edge innovation** while simultaneously solidifying the foundations of **trust and resilience**.
+Hey everyone, Sofia here! 👋 The tech landscape is electrifying today, with a clear spotlight on **AI infrastructure**. The **Trump administration's drive for a new AI data center compact** signals a significant governmental commitment, pushing firms to bolster domestic AI capabilities. This strategic move highlights AI's critical role in national development and global competitiveness.
 
-India's launch of its first **Quantum Centre** in Amravati is a monumental step, signaling a national commitment to futuristic technologies that could redefine computing. Simultaneously, Motorola Solutions' new **Global R&D Centre** in Cork demonstrates continued investment in practical, impactful research and development.
-
-However, as we embrace these advancements, the news from Australia highlights a critical counterpoint: the growing necessity for **Technology Assurance Services**. Logicalis's new offering and appointment of Luke Gardiner underscore the vital importance of turning compliance into **operational resilience**, especially for regulated organisations. This focus on security and robustness is echoed by Adactin successfully joining the Australian Federal Government **AI Directory**, stressing the need for trustworthy AI integration.
-
-It's clear: the future of tech isn't just about what we can build, but also how securely, reliably, and ethically we deploy it. We're witnessing a global drive towards **responsible innovation** – a balance that's absolutely essential.
+It's no surprise then to see **technology stocks surging** across the board, reflecting investor confidence in this growth trajectory. Companies like **NeoVolta**, with their upcoming earnings call, operate in an environment ripe for innovation and increased demand, especially given the energy needs of these vast AI centers. Coupled with ongoing academic breakthroughs discussed at conferences like JU's on **interdisciplinary advances**, we're witnessing a powerful synergy shaping the future of tech. The momentum is undeniable!
 
 All sources are at the section below.
 
+---
+**Sources:**
+1.  https://www.manilatimes.net/2026/02/10/tmt-newswire/globenewswire/neovolta-announces-timing-of-second-quarter-fiscal-2026-earnings-release-and-inaugural-conference-call/2274789
+2.  https://www.devdiscourse.com/article/headlines/3799069-trump-administration-pushes-for-ai-data-center-compact
+3.  https://www.reuters.com/business/us-wants-firms-commit-new-ai-data-center-compact-politico-reports-2026-02-09/
+4.  https://www.devdiscourse.com/article/headlines/3799068-technology-stocks-surge-amid-market-rebound
+5.  https://www.dailyexcelsior.com/two-day-national-conference-on-interdisciplinary-advances-begins-at-ju/
+
 Sources:
-1. Dr Jitendra lays foundation of India’s first ‘Quantum Centre’ at Amravati, hails futuristic leap (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-jitendra-lays-foundation-of-indias-first-quantum-centre-at-amravati-hails-futuristic-leap-2/
-2. Taoiseach Micheál Martin Opens Motorola Solutions’ New Global R&D Centre in Cork (iTWire)
-   https://itwire.com/guest-articles/company-news/taoiseach-miche%C3%A1l-martin-opens-motorola-solutions%E2%80%99-new-global-r-d-centre-in-cork.html
-3. Logicalis Australia launches Technology Assurance Services to help regulated organisations turn compliance into operational resilience (iTWire)
-   https://itwire.com/guest-articles/company-news/logicalis-australia-launches-technology-assurance-services-to-help-regulated-organisations-turn-compliance-into-operational-resilience.html
-4. Logicalis strengthens technology assurance capability with appointment of Luke Gardiner (iTWire)
-   https://itwire.com/it-people-news/people-moves/logicalis-strengthens-technology-assurance-capability-with-appointment-of-luke-gardiner.html
-5. Adactin Successfully Joins Australian Federal Government AI Directory (iTWire)
-   https://itwire.com/it-industry-news/listed-tech/adactin-successfully-joins-australian-federal-government-ai-directory.html
+1. NeoVolta Announces Timing of Second Quarter Fiscal 2026 Earnings Release and Inaugural Conference Call (The Manila Times)
+   https://www.manilatimes.net/2026/02/10/tmt-newswire/globenewswire/neovolta-announces-timing-of-second-quarter-fiscal-2026-earnings-release-and-inaugural-conference-call/2274789
+2. Trump Administration Pushes for AI Data Center Compact (Devdiscourse)
+   https://www.devdiscourse.com/article/headlines/3799069-trump-administration-pushes-for-ai-data-center-compact
+3. US wants firms to commit to new AI data center compact, Politico reports (Reuters)
+   https://www.reuters.com/business/us-wants-firms-commit-new-ai-data-center-compact-politico-reports-2026-02-09/
+4. Technology Stocks Surge Amid Market Rebound (Devdiscourse)
+   https://www.devdiscourse.com/article/headlines/3799068-technology-stocks-surge-amid-market-rebound
+5. Two-day national conference on interdisciplinary advances begins at JU (Daily Excelsior)
+   https://www.dailyexcelsior.com/two-day-national-conference-on-interdisciplinary-advances-begins-at-ju/
