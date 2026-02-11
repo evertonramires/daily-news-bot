@@ -1,31 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-02-10):
+What happens in tech today (2026-02-11):
 
-# 🚀 AI Infrastructure Takes Center Stage as Tech Market Surges! 📈
+Hello, I'm Sofia, your tech enthusiast and journalist!
 
-Hey everyone, Sofia here! 👋 The tech landscape is electrifying today, with a clear spotlight on **AI infrastructure**. The **Trump administration's drive for a new AI data center compact** signals a significant governmental commitment, pushing firms to bolster domestic AI capabilities. This strategic move highlights AI's critical role in national development and global competitiveness.
+# 💥 **TECH FRONTIERS FACE MIXED FORTUNES AMIDST ECONOMIC CHOPPINESS!**
 
-It's no surprise then to see **technology stocks surging** across the board, reflecting investor confidence in this growth trajectory. Companies like **NeoVolta**, with their upcoming earnings call, operate in an environment ripe for innovation and increased demand, especially given the energy needs of these vast AI centers. Coupled with ongoing academic breakthroughs discussed at conferences like JU's on **interdisciplinary advances**, we're witnessing a powerful synergy shaping the future of tech. The momentum is undeniable!
+Today's news paints a picture of stark contrasts in the tech and economic landscape. On one hand, the government's **strategic tech push** in the Eastern Coastal Region, focusing on nuclear and marine advancements, is a promising sign for long-term national development and cutting-edge engineering. This commitment signals innovation and growth in crucial sectors.
 
-All sources are at the section below.
+However, the significant blow to **Moderna's mRNA flu vaccine** after the FDA refused its application casts a shadow over the immediate future of biotech innovation. This setback could dampen investor enthusiasm and raise questions about the regulatory path for novel mRNA applications beyond COVID-19, impacting the broader industry's risk appetite for groundbreaking R&D.
 
----
-**Sources:**
-1.  https://www.manilatimes.net/2026/02/10/tmt-newswire/globenewswire/neovolta-announces-timing-of-second-quarter-fiscal-2026-earnings-release-and-inaugural-conference-call/2274789
-2.  https://www.devdiscourse.com/article/headlines/3799069-trump-administration-pushes-for-ai-data-center-compact
-3.  https://www.reuters.com/business/us-wants-firms-commit-new-ai-data-center-compact-politico-reports-2026-02-09/
-4.  https://www.devdiscourse.com/article/headlines/3799068-technology-stocks-surge-amid-market-rebound
-5.  https://www.dailyexcelsior.com/two-day-national-conference-on-interdisciplinary-advances-begins-at-ju/
+These developments, combined with overarching **market jitters** and weaker economic data, suggest a challenging environment. While strategic, government-backed tech initiatives move forward, the commercial viability and regulatory hurdles for private sector innovation are clearly feeling the pressure. It's a reminder that even the most promising technologies face a complex journey from lab to market.
+
+All the sources are at the section below.
 
 Sources:
-1. NeoVolta Announces Timing of Second Quarter Fiscal 2026 Earnings Release and Inaugural Conference Call (The Manila Times)
-   https://www.manilatimes.net/2026/02/10/tmt-newswire/globenewswire/neovolta-announces-timing-of-second-quarter-fiscal-2026-earnings-release-and-inaugural-conference-call/2274789
-2. Trump Administration Pushes for AI Data Center Compact (Devdiscourse)
-   https://www.devdiscourse.com/article/headlines/3799069-trump-administration-pushes-for-ai-data-center-compact
-3. US wants firms to commit to new AI data center compact, Politico reports (Reuters)
-   https://www.reuters.com/business/us-wants-firms-commit-new-ai-data-center-compact-politico-reports-2026-02-09/
-4. Technology Stocks Surge Amid Market Rebound (Devdiscourse)
-   https://www.devdiscourse.com/article/headlines/3799068-technology-stocks-surge-amid-market-rebound
-5. Two-day national conference on interdisciplinary advances begins at JU (Daily Excelsior)
-   https://www.dailyexcelsior.com/two-day-national-conference-on-interdisciplinary-advances-begins-at-ju/
+1. Eastern Coastal Region figures prominently in Budget’s Nuclear, Marine roadmap: Dr Jitendra (Daily Excelsior)
+   https://www.dailyexcelsior.com/eastern-coastal-region-figures-prominently-in-budgets-nuclear-marine-roadmap-dr-jitendra/
+2. Market Jitters Amid Mixed Index Performance and Weaker Economic Data (Devdiscourse)
+   https://www.devdiscourse.com/article/business/3800504-market-jitters-amid-mixed-index-performance-and-weaker-economic-data
+3. Moderna says FDA refuses its application for new mRNA flu vaccine (The Atlanta Journal-Constitution)
+   https://www.ajc.com/news/2026/02/moderna-says-fda-refuses-its-application-for-new-mrna-flu-vaccine/
+4. Moderna says FDA will not consider its mRNA flu vaccine (The Associated Press)
+   https://apnews.com/article/moderna-vaccine-flu-mrna-2fc551cb2fb45735e67db0a4e2e2b0fb
+5. Moderna says FDA refuses its application for new mRNA flu vaccine (WDIV ClickOnDetroit)
+   https://www.clickondetroit.com/business/2026/02/10/moderna-says-fda-refuses-its-application-for-new-mrna-flu-vaccine/
