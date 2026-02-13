@@ -1,27 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-02-11):
+What happens in tech today (2026-02-13):
 
-Hello, I'm Sofia, your tech enthusiast and journalist!
+# Tech's Tumultuous Tides: AI Jitters, Software Lifelines, & Social Media's Reckoning! 🌊
 
-# 💥 **TECH FRONTIERS FACE MIXED FORTUNES AMIDST ECONOMIC CHOPPINESS!**
+Hello everyone, Sofia here, with my take on today's tech landscape! 💻 It's a period of **intense re-evaluation** across the board.
 
-Today's news paints a picture of stark contrasts in the tech and economic landscape. On one hand, the government's **strategic tech push** in the Eastern Coastal Region, focusing on nuclear and marine advancements, is a promising sign for long-term national development and cutting-edge engineering. This commitment signals innovation and growth in crucial sectors.
+Wall Street's dip due to **"AI angst"** suggests a market grappling with the technology's true valuation versus its hype. Is this a necessary correction or an overreaction? 🤔 Only time will tell.
 
-However, the significant blow to **Moderna's mRNA flu vaccine** after the FDA refused its application casts a shadow over the immediate future of biotech innovation. This setback could dampen investor enthusiasm and raise questions about the regulatory path for novel mRNA applications beyond COVID-19, impacting the broader industry's risk appetite for groundbreaking R&D.
+In stark contrast, we see **software's undeniable power** as it literally "saved" Rivian in 2025, underscoring its crucial role in innovation and survival, especially for EVs. Meanwhile, Flock Safety's strategic refocusing highlights a trend toward **specialized, community-driven tech solutions**.
 
-These developments, combined with overarching **market jitters** and weaker economic data, suggest a challenging environment. While strategic, government-backed tech initiatives move forward, the commercial viability and regulatory hurdles for private sector innovation are clearly feeling the pressure. It's a reminder that even the most promising technologies face a complex journey from lab to market.
+Perhaps the most significant development is the legal storm brewing against social media giants, fueled by concerns over children's well-being and backed by figures like Prince Harry. This isn't just a lawsuit; it's a **societal demand for accountability**.
+
+The tech world is clearly shifting focus from pure growth to **impact, responsibility, and tangible value**.
 
 All the sources are at the section below.
 
 Sources:
-1. Eastern Coastal Region figures prominently in Budget’s Nuclear, Marine roadmap: Dr Jitendra (Daily Excelsior)
-   https://www.dailyexcelsior.com/eastern-coastal-region-figures-prominently-in-budgets-nuclear-marine-roadmap-dr-jitendra/
-2. Market Jitters Amid Mixed Index Performance and Weaker Economic Data (Devdiscourse)
-   https://www.devdiscourse.com/article/business/3800504-market-jitters-amid-mixed-index-performance-and-weaker-economic-data
-3. Moderna says FDA refuses its application for new mRNA flu vaccine (The Atlanta Journal-Constitution)
-   https://www.ajc.com/news/2026/02/moderna-says-fda-refuses-its-application-for-new-mrna-flu-vaccine/
-4. Moderna says FDA will not consider its mRNA flu vaccine (The Associated Press)
-   https://apnews.com/article/moderna-vaccine-flu-mrna-2fc551cb2fb45735e67db0a4e2e2b0fb
-5. Moderna says FDA refuses its application for new mRNA flu vaccine (WDIV ClickOnDetroit)
-   https://www.clickondetroit.com/business/2026/02/10/moderna-says-fda-refuses-its-application-for-new-mrna-flu-vaccine/
+1. Wall St sinks as tech rout deepens on AI angst (The Star)
+   https://www.thestar.com.my/business/2026/02/13/wall-st-sinks-as-tech-rout-deepenson-ai-angst
+2. An Update on Ring Partnership: Flock Safety Refocuses on Local Communities and Innovation (The Manila Times)
+   https://www.manilatimes.net/2026/02/13/tmt-newswire/globenewswire/an-update-on-ring-partnership-flock-safety-refocuses-on-local-communities-and-innovation/2277664
+3. Rivian was saved by software in 2025 (TechCrunch)
+   https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/
+4. Social media ‘killed our children’. With Prince Harry’s help, we’re taking them to court (The Sunday Times)
+   https://www.thetimes.com/us/news-today/article/social-media-trial-prince-harry-zuckerberg-instagram-facebook-jkgk89w6m
+5. Flock Safety Refocuses on (GlobeNewswire)
+   https://www.globenewswire.com/news-release/2026/02/12/3237793/0/en/An-Update-on-Ring-Partnership-Flock-Safety-Refocuses-on-Local-Communities-and-Innovation.html
