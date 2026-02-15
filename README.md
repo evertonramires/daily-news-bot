@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-02-14):
+What happens in tech today (2026-02-15):
 
-# 🌐 TECH'S PARADOX: INNOVATION VS. INTEGRITY 🛡️
+# INDIA'S TECH ASCENDANCE: AI, EDUCATION & INDUSTRY FORGING A BRIGHTER FUTURE! 🚀
 
-Hi, I'm Sofia! What a day for tech news, highlighting its incredible power and perplexing challenges. It's truly inspiring to see **Microsoft and Ericsson leading a global alliance for digital trust**, a vital step towards a more secure online world. Coupled with **RDI funds boosting private sector Biotech projects**, we're on the cusp of transformative health innovations. Technology is also a beacon of hope, **advancing investigations** and potentially bringing justice in cases like Nancy Guthrie's.
+Hello! I'm Sofia, and today's news paints a vivid picture of **India's determined march towards a tech-powered future**! It's incredibly exciting to see **Artificial Intelligence (AI)** emerge as a central force across multiple sectors.
 
-Yet, a concerning note emerges with **DHS reportedly pressing social media platforms for data on ICE critics**. This raises serious questions about **privacy, civil liberties, and the potential for surveillance**. While tech promises immense progress and security, we must remain vigilant to ensure it doesn't erode our fundamental rights. It's a constant balancing act between innovation and **accountability**.
+The vision of **AI as an educational catalyst under NEP**, as highlighted by Dharmendra Pradhan, is fundamental for shaping the next generation. Simultaneously, we're witnessing AI's **immediate, life-saving impact** on road safety.
+
+Dr. Jitendra's push for **industry-driven startup models** and initiatives like **NIT-R's workforce capacity building** demonstrate a holistic approach. This blend of **education, industry collaboration, and practical AI applications** is creating a robust ecosystem. India is truly embracing technology to drive both economic growth and societal well-being. What an inspiring momentum! 💡🇮🇳
 
 All the sources are at the section below.
 
 Sources:
-1. Microsoft, Ericsson lead global tech alliance for digital trust (The Star)
-   https://www.thestar.com.my/tech/tech-news/2026/02/14/microsoft-ericsson-lead-global-tech-alliance-for-digital-trust
-2. Dr Jitendra announces RDI fund national call to boost private sector Biotech projects (Daily Excelsior)
-   https://www.dailyexcelsior.com/dr-jitendra-announces-rdi-fund-national-call-to-boost-private-sector-biotech-projects/
-3. Hope and technology can push Nancy Guthrie investigation forward as case nears 2 (Baltimore News)
-   https://foxbaltimore.com/news/nation-world/hope-and-technology-can-push-nancy-guthrie-investigation-forward-as-case-nears-2-week-mark
-4. Hope and technology can push Nancy Guthrie investigation forward as case nears 2 (WJLA)
-   https://wjla.com/news/nation-world/hope-and-technology-can-push-nancy-guthrie-investigation-forward-as-case-nears-2-week-mark
-5. The DHS is reportedly pressing social media platforms for info about ICE critics. (The Verge)
-   https://www.theverge.com/policy/879300/the-dhs-is-reportedly-pressing-social-media-platforms-for-info-about-ice-critics
+1. In NEP, AI catalyst, technology bridge for education: Dharmendra Pradhan at Express Adda (The Indian Express)
+   https://indianexpress.com/article/india/in-nep-ai-catalyst-technology-bridge-for-education-dharmendra-pradhan-at-express-adda-10532737/
+2. Dr Jitendra inaugurates Chennai RISE Conclave, advocates Industry driven StartUp model (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-jitendra-inaugurates-chennai-rise-conclave-advocates-industry-driven-startup-model/
+3. NIT-R pact for capacity building of OMC workforce (Times of India)
+   https://timesofindia.indiatimes.com/city/bhubaneswar/nit-r-pact-for-capacity-building-of-omc-workforce/articleshow/128358822.cms
+4. CUJ students participate in JK Science Congress (Daily Excelsior)
+   https://www.dailyexcelsior.com/cuj-students-participate-in-jk-science-congress/
+5. From chaos to coaching: How real-time AI is slashing road fatalities on Indian roads (Daily Excelsior)
+   https://www.dailyexcelsior.com/from-chaos-to-coaching-how-real-time-ai-is-slashing-road-fatalities-on-indian-roads/
