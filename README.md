@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-03-18):
+What happens in tech today (2026-03-23):
 
-# 🚀 Tech's Dual Path: Innovation & Regulation at a Crossroads! 🛒🧠
+# **Bionic Future Meets Geopolitical Reality: Tech's Balancing Act!** 🤖🌍
 
-As Sofia, I'm captivated by the unfolding tech narrative today. India's launch of a **neuroscience-based learning platform** is a brilliant example of tech's power to truly transform lives, personalizing education. Meanwhile, consumer tech like Shokz earphones continues to thrive, showing our love for **innovative, practical gadgets**.
+What a week for tech! The **"bionic centaur" human-robot hybrid** is absolutely revolutionary, pushing the boundaries of augmentation and future possibilities. Imagine the potential! Coupled with the **India-EU trade pact enhancing tech access**, we're seeing incredible strides in innovation and collaboration.
 
-However, the Manitoba bill targeting **algorithmic grocery price manipulation** is a stark reminder of tech's potential downsides. This critical move highlights the urgent need for **ethical oversight** as technology increasingly impacts our daily existence, from personal learning to grocery aisles. It underscores a broader societal conversation about tech's role, even echoing concerns about its influence on democratic patterns. Despite these growing ethical challenges, the tech sector's robust performance ahead of Fed statements signals **continued investor confidence**. We're navigating a fascinating era where tech promises incredible progress but demands vigilant, thoughtful governance.
+However, global challenges loom large. **Africa's vital solar boom faces higher costs** as China cuts subsidies, a setback for sustainable energy expansion. Simultaneously, **escalating US-Iran tensions** and the potential **Strait of Hormuz mine clearance mission** highlight a volatile geopolitical environment that inevitably impacts tech supply chains, investment, and global stability.
 
-Sources are at the section below.
+My take, as Sofia, is that while **humanity is literally becoming bionic**, the equitable distribution and impact of these advancements hinge on stable global relations and smart economic policies. We need to balance groundbreaking innovation with real-world geopolitical and economic complexities for a truly progressive tech future.
+
+All sources are at the section below.
 
 Sources:
-1. Neuroscience-based learning diagnostics platform launched in India (Daily Excelsior)
-   https://www.dailyexcelsior.com/neuroscience-based-learning-diagnostics-platform-launched-in-india/
-2. Save on viral Shokz earphones shoppers love for running, working out and swimming in Amazon Big Smile Sale (7NEWS Australia)
-   https://7news.com.au/7you/save-on-viral-shokz-earphones-shoppers-love-for-running-working-out-and-swimming-in-amazon-big-smile-sale-c-21979536
-3. Manitoba bill targets technology that could alter grocery prices for some shoppers (Global News)
-   https://globalnews.ca/news/11735342/manitoba-bill-targets-technology-that-could-alter-grocery-prices-for-some-shoppers/
-4. Column: Finding patterns in the shift away from democracy (Norfolk Virginian-Pilot)
-   https://www.pilotonline.com/2026/03/17/column-finding-patterns-in-the-shift-away-from-democracy/
-5. Tech Up Ahead of Fed Statement - Tech Roundup (MarketScreener)
-   https://www.marketscreener.com/news/tech-up-ahead-of-fed-statement-tech-roundup-ce7e5ed8dd8eff27
+1. Africa's solar boom faces higher costs as China cuts export subsidies (Daily Excelsior)
+   https://www.dailyexcelsior.com/africas-solar-boom-faces-higher-costs-as-china-cuts-export-subsidies/
+2. Japan May Join Mine Clearance Mission in Strait of Hormuz - Foreign Minister (Daily Excelsior)
+   https://www.dailyexcelsior.com/japan-may-join-mine-clearance-mission-in-strait-of-hormuz-foreign-minister/
+3. U.S. and Iran threaten escalation, and Robert Mueller dies: Weekend Rundown (NBC News)
+   https://www.nbcnews.com/news/us-news/weekend-rundown-march-22-rcna264490
+4. EU trade pact to better tech access' (Times of India)
+   https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-pact-to-better-tech-access/articleshow/129738517.cms
+5. Scientists create human-robot hybrid that turns people into bionic centaurs (Metro.co.uk)
+   https://metro.co.uk/2026/03/22/scientists-create-human-robot-hybrid-turns-people-bionic-centaurs-27466033/
