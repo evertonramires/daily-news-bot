@@ -1,27 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-04-01):
+What happens in tech today (2026-04-02):
 
-# 🚀 AI's Global Ascent: Innovation Meets Reality! 🌐
+# **GLOBAL TECH REALIGNMENT: CHINA'S IP POWER & EV'S STRATEGIC SHIFTS!**
 
-As Sofia, a tech journalist and enthusiast, I'm struck by the **rapid, multifaceted integration of AI** shaping our global landscape. It's clear we're past the theoretical stage; AI is here, driving **major government investments**, like Australia's crucial deal with **Anthropic** for research, which is a fantastic step towards national AI capability! 🇦🇺
+Wow, what a day for tech and global strategy! 🚀 It's clear we're witnessing a **major realignment in the tech landscape**, particularly in innovation and mobility.
 
-We're also seeing tech companies push boundaries – like **Nothing potentially eyeing AI glasses**, signaling a future where AI is seamlessly woven into our daily lives. This consumer-facing innovation is exciting! 👓
+First, **China's unprecedented leap into the top 3 for European patents** isn't just a statistic; it's a loud declaration of their growing tech prowess. This signals intensified global competition in innovation. Coupled with **Canada's bold move to attract Chinese EV manufacturers**, it shows how countries are proactively reshaping supply chains and seeking new partnerships amidst tariff wars. It’s a pragmatic play to secure future EV manufacturing and accelerate adoption, despite geopolitical tensions.
 
-However, it's not all smooth sailing. India's EdTech sector facing a "structural reset" reminds us that **market adaptation is key** for sustained growth. And Jamie Dimon wisely brings balance, highlighting how AI will **improve life while posing risks for workers**. It's a call for strategic upskilling and policy. Cybersecurity firm Dragos's expansion in Japan also underscores the growing need for digital protection in this evolving tech era.
+Meanwhile, the electric vehicle market continues its wild ride. While the **electric truck sector struggles**, a billionaire investor's expansion in California is a testament to the **long-term belief in EV's future**. This duality highlights the bumpy road to mass adoption, where some segments face headwinds while strategic players double down.
 
-The future is here, it's intelligent, and it demands our careful, enthusiastic navigation!
+The big picture today is about **global tech power shifts**, strategic economic plays, and the enduring, albeit sometimes turbulent, march of electrification.
 
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Federal government strikes major deal with US-based AI giant Anthropic for research, investments (PerthNow)
-   https://www.perthnow.com.au/news/technology/federal-government-strikes-major-deal-with-us-based-ai-giant-anthropic-for-research-investments-c-22078532
-2. Dragos Appoints Kaori Nieda as Country Manager to Drive Expansion in Japan (The Manila Times)
-   https://www.manilatimes.net/2026/04/01/tmt-newswire/pr-newswire/dragos-appoints-kaori-nieda-as-country-manager-to-drive-expansion-in-japan/2312113
-3. Nothing might be the next company to get into AI glasses. (The Verge)
-   https://www.theverge.com/gadgets/904665/nothing-might-be-the-next-company-to-get-into-ai-glasses
-4. India’s education technology sector faces a ‘structural reset’. What does it mean for investors, learners? (CNA)
-   https://www.channelnewsasia.com/asia/india-schools-edtech-online-learning-ai-upgrad-unacademy-6027696
-5. Jamie Dimon says "life will be better" with AI, but notes risks for workers (CBS News)
-   https://www.cbsnews.com/news/jamie-dimon-artificial-intelligence-work-week/
+1. As tariffs fracture auto industry, Canada courts Chinese manufacturers with aggressive new EV deal (Los Angeles Times)
+   https://www.latimes.com/business/story/2026-04-01/as-tariffs-fracture-auto-industry-canada-courts-chinese-manufacturers-with-aggressive-new-ev-deal
+2. The electric truck market is tanking-but this billionaire investor is expanding in California (Los Angeles Times)
+   https://www.latimes.com/business/story/2026-04-01/electric-truck-market-is-tanking-but-this-billionaire-investor-is-expanding-in-california
+3. Western Illinois and Black Hawk sign articulation agreement (Davenport Quad-City Times)
+   https://qctimes.com/news/local/education/article_c9e2033c-76b1-4e3d-b212-b38ebdd14770.html
+4. EPO Technology Dashboard 2025: China enters top 3 for European patents for first time (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/epo-technology-dashboard-2025-china-enters-top-3-for-european-patents-for-first-time-302731606.html
+5. Activist investor Jana Partners discloses 5% stake in Alkami Technology (Reuters)
+   https://www.reuters.com/sustainability/sustainable-finance-reporting/activist-investor-jana-partners-discloses-5-stake-alkami-technology-2026-04-01/
