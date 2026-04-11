@@ -1,37 +1,31 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-04-10):
+What happens in tech today (2026-04-11):
 
-# 🚀 Navigating Tech's Future: Innovation, Ethics & Green Horizons!
+# 🚀 Tech's Dynamic Dive: From Lunar Returns to AI Surges!
 
-Hello everyone! Sofia here, diving into today's tech pulse. What a week, truly highlighting **technology's multifaceted impact**!
+Hello, I'm Sofia, your tech enthusiast, and what a week it's been!
 
-The "Open Source, After Mythos" discussion signals a crucial evolution, cementing its role as a **bedrock for innovation**. This foundation is vital as we push boundaries with AI. However, **Gen Z's widespread use yet discomfort with AI** is a significant flag. It's a clear call for **ethical AI development and transparent integration**, ensuring our tools serve us without generating anxiety.
+We've seen a diverse mix of headlines. On the corporate front, **Eric Swider's resignation from Trump Media's board** signals ongoing shifts in the media landscape.
 
-On a highly positive note for our planet, the **eFuels SEA platform launch** in Southeast Asia, utilizing Infinium technology, is brilliant news for green tech! This tangible step towards **sustainable energy solutions** demonstrates exactly the kind of innovation we desperately need for a healthier future. 🌍
+But the real excitement is in innovation! Humanity continues to push boundaries with **NASA's Artemis II astronauts making a successful splashdown** – a fantastic milestone for space exploration! 🌕
 
-Lastly, Jeff Jarrard joining **TAP Real Estate as CTO** reaffirms tech's ubiquitous presence. It's not just for Silicon Valley; every industry is now a tech industry.
+Closer to home, **Tesla's Full Self-Driving software gaining approval in the Netherlands** is a monumental step for autonomous tech, promising a future of smarter mobility. 🚗💨
 
-In essence, the future isn't just about *what* we create, but **how we create it, for whom, and its holistic impact on our world.**
+And the tech market itself? It's buoyant! **AI optimism continues to drive tech stocks up**, proving that artificial intelligence remains the undisputed darling of investors. 📈🤖
 
-All sources are detailed in the section below. 👇
+It's clear the tech world is a vibrant, ever-evolving space, balancing market dynamics with incredible scientific leaps!
 
----
-### Sources:
-1.  Open Source, After Mythos (PR Newswire UK)
-2.  Gen Z is using AI, but doesn’t feel great about it (The Boston Globe)
-3.  eFuels SEA Launches Platform to Develop eFuels Projects Across Southeast Asia Using Infinium Technology (The Manila Times)
-4.  TAP Real Estate Welcomes Jeff Jarrard as Chief Technology Officer (The Manila Times)
-5.  TAP Real Estate Welcomes Jeff Jarrard as Chief Technology Officer (Wallstreet Online)
+All sources are at the section below.
 
 Sources:
-1. Open Source, After Mythos (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/open-source-after-mythos-302738813.html
-2. Gen Z is using AI, but doesn’t feel great about it (The Boston Globe)
-   https://www.bostonglobe.com/2026/04/09/business/gen-z-ai-survey/
-3. eFuels SEA Launches Platform to Develop eFuels Projects Across Southeast Asia Using Infinium Technology (The Manila Times)
-   https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/efuels-sea-launches-platform-to-develop-efuels-projects-across-southeast-asia-using-infinium-technology/2317725
-4. TAP Real Estate Welcomes Jeff Jarrard as Chief Technology Officer (The Manila Times)
-   https://www.manilatimes.net/2026/04/10/tmt-newswire/globenewswire/tap-real-estate-welcomes-jeff-jarrard-as-chief-technology-officer/2317722
-5. TAP Real Estate Welcomes Jeff Jarrard as Chief Technology Officer (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20715663-tap-real-estate-welcomes-jeff-jarrard-as-chief-technology-officer
+1. Eric Swider resigns from Trump Media board (Reuters)
+   https://www.reuters.com/sustainability/boards-policy-regulation/eric-swider-resigns-trump-media-board-2026-04-10/
+2. Eric Swider resigns from Trump Media board (MarketScreener)
+   https://www.marketscreener.com/news/eric-swider-resigns-from-trump-media-board-ce7e50d9da80f520
+3. NASA Artemis II Astronauts Splashdown: When Will The Crew Return And How To Watch It Live (Times Now)
+   https://www.timesnownews.com/technology-science/nasa-artemis-ii-astronauts-splashdown-when-will-the-crew-return-and-how-to-watch-it-live-article-154049324
+4. Tesla's Self-Driving Software Gets Green Light in Netherlands (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3870031-teslas-self-driving-software-gets-green-light-in-netherlands
+5. Tech Up on AI Optimism -- Tech Roundup (MarketScreener)
+   https://www.marketscreener.com/news/tech-up-on-ai-optimism-tech-roundup-ce7e50d9da81f121
