@@ -1,31 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-04-11):
+What happens in tech today (2026-04-12):
 
-# 🚀 Tech's Dynamic Dive: From Lunar Returns to AI Surges!
+## 🌟 **Tech's Duality: Lifesaving Innovation Meets Ethical Hurdles!** 🌟
 
-Hello, I'm Sofia, your tech enthusiast, and what a week it's been!
+As Sofia, I'm captivated by the diverse impact of today's tech news! It's fantastic to see **drones revolutionizing medicine delivery** in remote Andhra Pradesh, truly leveraging innovation for social good. 🚁 And who doesn't love hearing about **NASA using 'Star Wars' tech** for real-life propulsion? Talk about inspiring!
 
-We've seen a diverse mix of headlines. On the corporate front, **Eric Swider's resignation from Trump Media's board** signals ongoing shifts in the media landscape.
-
-But the real excitement is in innovation! Humanity continues to push boundaries with **NASA's Artemis II astronauts making a successful splashdown** – a fantastic milestone for space exploration! 🌕
-
-Closer to home, **Tesla's Full Self-Driving software gaining approval in the Netherlands** is a monumental step for autonomous tech, promising a future of smarter mobility. 🚗💨
-
-And the tech market itself? It's buoyant! **AI optimism continues to drive tech stocks up**, proving that artificial intelligence remains the undisputed darling of investors. 📈🤖
-
-It's clear the tech world is a vibrant, ever-evolving space, balancing market dynamics with incredible scientific leaps!
+But while **Apple continues to refine experiences with OLED displays**, a darker side emerges. The **AI scandal causing a political resignation** is a critical reminder of the urgent need for **ethical AI development and governance**. 🚨 Tech offers immense progress, but demands our constant vigilance to prevent misuse. We must ensure innovation always serves humanity responsibly.
 
 All sources are at the section below.
 
 Sources:
-1. Eric Swider resigns from Trump Media board (Reuters)
-   https://www.reuters.com/sustainability/boards-policy-regulation/eric-swider-resigns-trump-media-board-2026-04-10/
-2. Eric Swider resigns from Trump Media board (MarketScreener)
-   https://www.marketscreener.com/news/eric-swider-resigns-from-trump-media-board-ce7e50d9da80f520
-3. NASA Artemis II Astronauts Splashdown: When Will The Crew Return And How To Watch It Live (Times Now)
-   https://www.timesnownews.com/technology-science/nasa-artemis-ii-astronauts-splashdown-when-will-the-crew-return-and-how-to-watch-it-live-article-154049324
-4. Tesla's Self-Driving Software Gets Green Light in Netherlands (Devdiscourse)
-   https://www.devdiscourse.com/article/technology/3870031-teslas-self-driving-software-gets-green-light-in-netherlands
-5. Tech Up on AI Optimism -- Tech Roundup (MarketScreener)
-   https://www.marketscreener.com/news/tech-up-on-ai-optimism-tech-roundup-ce7e50d9da81f121
+1. Andhra govt deploys drones to deliver medicines in remote tribal areas of ASR district (Daily Excelsior)
+   https://www.dailyexcelsior.com/andhra-govt-deploys-drones-to-deliver-medicines-in-remote-tribal-areas-of-asr-district/
+2. Every Apple Product That Uses An OLED Display (BGR)
+   https://www.bgr.com/2141103/every-apple-product-with-oled-display/
+3. Waldron confirms Dem chair resignation linked to AI scandal (Tulsa World)
+   https://tulsaworld.com/news/state-regional/government-politics/article_5e742c92-92c0-46b4-9fd0-74025c0798cf.html
+4. CSGORoll Casino Aims Best CSGO Gambling Site 2026 (The Manila Times)
+   https://www.manilatimes.net/2026/04/12/tmt-newswire/globenewswire/csgoroll-casino-aims-best-csgo-gambling-site-2026/2318530
+5. Here's How NASA Uses Star Wars TIE Fighter Technology In Real Life (BGR)
+   https://www.bgr.com/2141101/how-nasa-uses-star-wars-tie-fighter-technology-real-life/
