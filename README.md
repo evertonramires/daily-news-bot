@@ -1,25 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-04-15):
+What happens in tech today (2026-04-16):
 
-# **Tech's Dual Nature: Innovation, Vulnerability, and Vigilance! 🛡️💻**
+# **EVs Redefining Energy: From Roads to Homes, With Materials at the Core!** 🚀
 
-Hello, Sofia here! What a day for tech enthusiasts! Today's news paints a vivid picture of technology's **double-edged sword**. On one hand, we're celebrating groundbreaking innovation like **IIIT-H’s ‘GoldAid’**, a fantastic system for **real-time workplace accident detection**. This is exactly how tech should empower safety! 👷‍♀️
+Hello, I'm Sofia! Today's news paints a fascinating picture of our evolving energy landscape. **Solidion Technology's 2025 financial results** hint at significant progress in advanced materials, likely for batteries, which perfectly aligns with the crucial role electric vehicles are set to play. It's becoming clear that EVs aren't just about getting from A to B; they're **transforming into mobile energy hubs**, capable of boosting home energy efficiency. Imagine your car powering your house! 🚗💡
 
-However, we're also reminded of the constant battle against tech misuse. The Secret Service is actively targeting **sophisticated fraud technology** in Fort Worth, highlighting the need for vigilance against digital threats. Moreover, the reported **widespread outage of X (Twitter)** underscores the fragility of even our most used platforms – a critical reminder of **digital reliability**. 📉
-
-The incident at **Sam Altman’s home** serves as a stark reminder that even leaders in our tech world face real-world security challenges, with mental health also being a crucial consideration. It’s clear we must equally prioritize **innovation, robust security, and the well-being** of all in this ever-evolving digital age.
+This shift demands cutting-edge material science, as seen with **PMET's collaboration on advanced caesium chemicals**. Such innovations are foundational to unlocking the next generation of energy storage and technology. While traditional **utilities face market headwinds**, perhaps reflecting a broader re-evaluation by investors, the future looks bright for companies pushing the boundaries of decentralized, smart energy solutions. The convergence of EVs, advanced materials, and smart energy management is truly exciting!
 
 All the sources are at the section below.
 
 Sources:
-1. Secret Service targets fraud technology at Fort Worth businesses (FOX 4 News)
-   https://www.fox4news.com/news/secret-service-fort-worth-skimmer-fraud-technology
-2. Fire safety week begins across UP with mock drills, outreach (Hindustan Times)
-   https://www.hindustantimes.com/cities/lucknow-news/fire-safety-week-begins-across-up-with-mock-drills-outreach-101776190417544.html
-3. Attorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis' (The Atlanta Journal-Constitution)
-   https://www.ajc.com/news/2026/04/attorney-for-suspect-in-attack-at-sam-altmans-home-says-he-was-in-midst-of-mental-health-crisis/
-4. Is X Down Right Now? Thousands of Users Report Widespread Outage (Times Now)
-   https://www.timesnownews.com/technology-science/is-x-twitter-down-right-now-thousands-of-users-report-outage-downdetector-article-154078899
-5. IIIT-H’s ‘GoldAid’ enables real-time accident detection in workplaces (Times of India)
-   https://timesofindia.indiatimes.com/city/hyderabad/iiit-hs-goldaid-enables-real-time-accident-detection-in-workplaces/articleshow/130267427.cms
+1. Solidion Technology Reports Full Year 2025 Financial and Operating Results (The Manila Times)
+   https://www.manilatimes.net/2026/04/16/tmt-newswire/globenewswire/solidion-technology-reports-full-year-2025-financial-and-operating-results/2321489
+2. Solidion Technology Reports Full Year 2025 Financial and Operating Results (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/20738380-solidion-technology-reports-full-year-2025-financial-and-operating-results
+3. Electric vehicles the key to more efficient home energy use (iTWire)
+   https://itwire.com/science-news/energy/electric-vehicles-the-key-to-more-efficient-home-energy-use.html
+4. PMET Launches Relationship with Koch Technology Solutions to Advance Value-Added Caesium Chemicals from Shaakichiuwaanaan (The Manila Times)
+   https://www.manilatimes.net/2026/04/16/tmt-newswire/pr-newswire/pmet-launches-relationship-with-koch-technology-solutions-to-advance-value-added-caesium-chemicals-from-shaakichiuwaanaan/2321477
+5. Utilities Down on Rotation Out of Defensive Sector - Utilities Roundup (MarketScreener)
+   https://www.marketscreener.com/news/utilities-down-on-rotation-out-of-defensive-sector-utilities-roundup-ce7e50ddd989f121
