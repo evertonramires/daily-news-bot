@@ -1,27 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-04-20):
+What happens in tech today (2026-04-21):
 
-# ✨ TECH TIDES: INDIA'S CHIP LEAP & AI'S BANKING REVOLUTION! 🚀
+🚀 **GLOBAL TECH'S DYNAMIC EDGE: INNOVATION MEETS SECURITY & SKEPTICISM!** 🛡️
 
-What an exhilarating day for tech enthusiasts! The news today paints a vibrant picture of innovation and progress. The inauguration of **India's first advanced 3D chip packaging unit** in Bhubaneswar marks a pivotal moment, truly strengthening the nation's position in global semiconductor manufacturing. This is a monumental leap towards technological self-reliance! 🇮🇳
+Hello, Sofia here! Today's tech landscape is a vibrant tapestry of progress and caution. We're witnessing **major leaps in cybersecurity**, with banking titans embracing **Anthropic's Mythos AI** to safeguard critical data. Meanwhile, **global collaborations** are thriving: India and South Korea are exploring advanced defense systems (K9 Vajra), and NXP Semiconductors is eyed for an R&D hub in Mohali, signaling a **strong push for innovation and strategic partnerships**.
 
-Simultaneously, the widespread adoption of **AI agents in banking** for faster loan approvals and automated checks showcases how intelligent automation is reshaping our financial world. It's a testament to AI's power in driving efficiency and enhancing customer experience. 🧠
+Even as giants like Apple maintain their "good shape" under Tim Cook, the tech world isn't without its caveats. The **investigation into ODIN's EMF blocking stickers** serves as a vital reminder for **evidence-based tech**. As enthusiasts, we must always question and demand scientific validation. It's a dynamic era where groundbreaking tech coexists with the need for scrutiny!
 
-Even looking back at engineering marvels like the **SR-71 Blackbird's titanium fuselage** reminds us of the relentless pursuit of overcoming extreme challenges through innovation. While modern tech brings incredible solutions, we must also acknowledge the "evolving challenges to safety and security" in the digital age, where technology plays a complex role.
-
-The future is undoubtedly being built on these foundations of advanced manufacturing, clever AI, and robust engineering. I'm thrilled to witness these developments unfold!
-
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Majhi, Vaishnaw unveil India's first advanced 3D chip packaging unit in Bhubaneswar (Daily Excelsior)
-   https://www.dailyexcelsior.com/majhi-vaishnaw-unveil-indias-first-advanced-3d-chip-packaging-unit-in-bhubaneswar/
-2. Crime in the modern era: evolving challenges to safety and security (The Straits Times)
-   https://www.straitstimes.com/opinion/crime-in-the-modern-era-evolving-challenges-to-safety-and-security
-3. Faster loan approvals, automated client checks: How AI agents are used by banks, including in S’pore (The Straits Times)
-   https://www.straitstimes.com/business/faster-loan-approvals-automated-client-checks-how-ai-agents-are-used-by-banks-including-in-spore
-4. How The Lockheed SR-71 Blackbird's Titanium Fuselage Withstands Extreme Thermal Stress (Simple Flying)
-   https://simpleflying.com/how-lockheed-sr-71-blackbird-titanium-fuselage-withstand-thermal-stress/
-5. Advance Metering Technology Limited Board Meeting Scheduled for April 27, 2026 (scanx.trade)
-   https://scanx.trade/stock-market-news/companies/advance-metering-technology-limited-schedules-board-meeting-on-april-27-2026-for-director-appointment-and-related-party-transactions/38173381
+1. ODIN Blocking Stickers Under Investigation: Neutralize Harmful EMF Radiation from Phones with ODIN SafeWave Shield Protection (The Manila Times)
+   https://www.manilatimes.net/2026/04/21/tmt-newswire/globenewswire/odin-blocking-stickers-under-investigation-neutralize-harmful-emf-radiation-from-phones-with-odin-safewave-shield-protection/2324437
+2. K9 Vajra partnership to expand as India, South Korea explore advanced defence systems (Daily Excelsior)
+   https://www.dailyexcelsior.com/k9-vajra-partnership-to-expand-as-india-south-korea-explore-advanced-defence-systems/
+3. Mann invites NXP Semiconductors to explore R&D centre in Mohali (Daily Excelsior)
+   https://www.dailyexcelsior.com/mann-invites-nxp-semiconductors-to-explore-rd-centre-in-mohali/
+4. Tim Cook Leaving Apple in 'Good Shape,' Gil Luria Says (MarketScreener)
+   https://www.marketscreener.com/news/tim-cook-leaving-apple-in-good-shape-gil-luria-says-ce7f59dadc8bff2c
+5. Banking Titans Scramble for Anthropic's Mythos Amid Cybersecurity Concerns (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3881182-banking-titans-scramble-for-anthropics-mythos-amid-cybersecurity-concerns
