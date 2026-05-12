@@ -1,36 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-11):
+What happens in tech today (2026-05-12):
 
-# **TECH TAKES CENTER STAGE: AI'S DUALITY, HARDWARE HORIZONS, AND INNOVATION EVERYWHERE!**
+<h1>🚀 Tech's Balancing Act: Innovation & Responsibility! 🚀</h1>
 
-Hello! I'm Sofia, and today's news cycle is a vibrant tapestry of technological shifts and anticipations.
+Greetings! I'm Sofia, and today's tech news reveals a fascinating, albeit complex, landscape. While **CXApp Inc.** prepares to share future financial results and analysts are **bullish on key tech stocks** like Varonis Systems and Priority Technology Holdings, signalling growth, the path forward is paved with significant challenges.
 
-The question of **how firmly journalists should embrace AI** is front and center. As a tech enthusiast, I see AI as an **indispensable tool** for research, content creation, and analysis, but we must navigate its ethical implications with care to maintain credibility.
+The **"peak-cycle risk" faced by Micron** highlights the inherent volatility in crucial sectors like semiconductors. However, the most pressing issues revolve around ethics and safety: **AI chatbot answers leading to deadly consequences** are a stark reminder of the urgent need for responsible AI development. Simultaneously, **Flock Safety's drone technology sparks privacy concerns**, underscoring the ongoing societal debate around surveillance tech. It's clear: **innovation must go hand-in-hand with robust ethical frameworks and a commitment to user safety and privacy**. This delicate balance will define tech's future.
 
-On the hardware front, the whisper of **Intel and NVIDIA teaming up** for new products is incredibly exciting! This collaboration could unleash unprecedented power, driving the next wave of computing and AI advancements. 🚀
-
-It's also fascinating to see technology addressing real-world challenges, like maintaining aging MRT systems – a clear call for **smart, predictive maintenance solutions**. And even a traditional project like the Koradi temple's Hanuman idol is getting a futuristic touch, showcasing tech's incredible reach.
-
-From critical infrastructure to cultural heritage, **innovation is truly everywhere!**
-
-All sources are at the section below. ✨
-
----
-**Sources:**
-1.  Journalists ask: how firmly to embrace AI? (Bangkok Post)
-2.  Maintaining MRT system more complex as network ages: ST roundtable panellists (The Straits Times)
-3.  Koradi temple’s 188-ft Hanuman idol project to get futuristic touch (Times of India)
-4.  Intel's Lip-Bu Tan Teases "Exciting New Products" With NVIDIA as He Hoods Jensen Huang at Carnegie Mellon Doctorate Ceremony (Wccftech)
+All sources are at the section below.
 
 Sources:
-1. Journalists ask: how firmly to embrace AI? (Bangkok Post)
-   https://www.bangkokpost.com/world/3252965/journalists-ask-how-firmly-to-embrace-ai
-2. Maintaining MRT system more complex as network ages: ST roundtable panellists (The Straits Times)
-   https://www.straitstimes.com/singapore/transport/maintaining-mrt-system-more-complex-as-network-ages-st-roundtable-panellists
-3. Koradi temple’s 188-ft Hanuman idol project to get futuristic touch (Times of India)
-   https://timesofindia.indiatimes.com/city/nagpur/koradi-temples-188-ft-hanuman-idol-project-to-get-futuristic-touch/articleshow/130998451.cms
-4. Intel's Lip-Bu Tan Teases "Exciting New Products" With NVIDIA as He Hoods Jensen Huang at Carnegie Mellon Doctorate Ceremony (Wccftech)
-   https://wccftech.com/intel-lip-bu-tan-exciting-new-products-nvidia-hoods-jensen-huang-at-doctorate-ceremony/
-5. Medi Assist Healthcare Services Reports Strong Q4 & FY26 Performance; Turns Debt-Free with ₹260.5 Cr Free Cash Position (scanx.trade)
-   https://scanx.trade/stock-market-news/companies/medi-assist-healthcare-services-reports-strong-q4-fy26-performance-turns-debt-free-with-260-5-cr-free-cash-position/39989698
+1. CXApp Inc. (Nasdaq: CXAI) Schedules First Quarter 2026 Financial Results and Business Update Conference Call (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/20859369-cxapp-inc-nasdaq-cxai-schedules-first-quarter-2026-financial-results-and-business-update-conference-call
+2. AGAR: When AI chatbot answers lead to deadly consequences (Toronto Sun)
+   https://torontosun.com/opinion/columnists/when-ai-chatbot-answers-lead-to-deadly-consequences
+3. Flock Safety explains drone technology amid privacy concerns in Oakland County (CBS News)
+   https://www.cbsnews.com/detroit/news/flock-safety-explains-drone-pilot-program-oakland-county/
+4. Analysts Are Bullish on These Technology Stocks: Varonis Systems (VRNS), Priority Technology Holdings (PRTH) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-these-technology-stocks-varonis-systems-vrns-priority-technology-holdings-prth-1036140470
+5. Micron: This Is What Peak-Cycle Risk Looks Like (Seeking Alpha)
+   https://seekingalpha.com/article/4902636-micron-this-is-what-peak-cycle-risk-looks-like
