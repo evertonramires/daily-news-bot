@@ -1,23 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-12):
+What happens in tech today (2026-05-13):
 
-<h1>🚀 Tech's Balancing Act: Innovation & Responsibility! 🚀</h1>
+Hi everyone, Sofia here! 🎙️ Today's tech news paints a picture of stark contrasts.
 
-Greetings! I'm Sofia, and today's tech news reveals a fascinating, albeit complex, landscape. While **CXApp Inc.** prepares to share future financial results and analysts are **bullish on key tech stocks** like Varonis Systems and Priority Technology Holdings, signalling growth, the path forward is paved with significant challenges.
+# TECH'S ROLLERCOASTER: INNOVATION VS. ECONOMIC SQUEEZE! 🎢
 
-The **"peak-cycle risk" faced by Micron** highlights the inherent volatility in crucial sectors like semiconductors. However, the most pressing issues revolve around ethics and safety: **AI chatbot answers leading to deadly consequences** are a stark reminder of the urgent need for responsible AI development. Simultaneously, **Flock Safety's drone technology sparks privacy concerns**, underscoring the ongoing societal debate around surveillance tech. It's clear: **innovation must go hand-in-hand with robust ethical frameworks and a commitment to user safety and privacy**. This delicate balance will define tech's future.
+On one hand, we're seeing exciting product evolution! **VAPORESSO's XROS 6 with its "60-second Smart Prime Technology"** truly redefines MTL efficiency, proving that innovation continues to push boundaries in consumer tech. It's a testament to engineers constantly seeking new ways to enhance user experience.
 
-All sources are at the section below.
+However, the financial landscape appears more turbulent. **QuickLogic's Q1 adjusted EPS missing consensus** by a notable margin suggests challenges even for companies in specialized tech sectors like AI-driven FPGAs. This indicates that even cutting-edge tech firms aren't immune to market pressures.
+
+Adding to the cautious sentiment, **Walmart's corporate layoffs affecting around 1,000 workers** signal a broader trend of companies streamlining operations. While not purely tech, such moves often impact various departments, including IT and digital teams, reflecting a tightened economic belt.
+
+We'll be watching **Banzai's upcoming Q1 financial call** closely for further insights into the sector's health. It seems like a time of both technological leaps and economic prudence.
+
+All the sources are at the section below.
 
 Sources:
-1. CXApp Inc. (Nasdaq: CXAI) Schedules First Quarter 2026 Financial Results and Business Update Conference Call (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20859369-cxapp-inc-nasdaq-cxai-schedules-first-quarter-2026-financial-results-and-business-update-conference-call
-2. AGAR: When AI chatbot answers lead to deadly consequences (Toronto Sun)
-   https://torontosun.com/opinion/columnists/when-ai-chatbot-answers-lead-to-deadly-consequences
-3. Flock Safety explains drone technology amid privacy concerns in Oakland County (CBS News)
-   https://www.cbsnews.com/detroit/news/flock-safety-explains-drone-pilot-program-oakland-county/
-4. Analysts Are Bullish on These Technology Stocks: Varonis Systems (VRNS), Priority Technology Holdings (PRTH) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-these-technology-stocks-varonis-systems-vrns-priority-technology-holdings-prth-1036140470
-5. Micron: This Is What Peak-Cycle Risk Looks Like (Seeking Alpha)
-   https://seekingalpha.com/article/4902636-micron-this-is-what-peak-cycle-risk-looks-like
+1. Banzai to Host First Quarter 2026 Financial Results Conference Call on Friday, May 15, 2026 at 4:30 p.m. Eastern Time (The Manila Times)
+   https://www.manilatimes.net/2026/05/13/tmt-newswire/globenewswire/banzai-to-host-first-quarter-2026-financial-results-conference-call-on-friday-may-15-2026-at-430-pm-eastern-time/2342390
+2. VAPORESSO Unveils XROS 6: Redefining MTL Efficiency with Industry-First 60-Second Smart Prime Technology (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/vaporesso-unveils-xros-6-redefining-mtl-efficiency-with-industry-first-60-second-smart-prime-technology-302768094.html
+3. QuickLogic reports Q1 adjusted EPS (8c), consensus (5c) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/quicklogic-reports-q1-adjusted-eps-8c-consensus-5c-1036146435
+4. 30 p.m. Eastern Time (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/20866905-banzai-to-host-first-quarter-2026-financial-results-conference-call-on-friday-may-15-2026-at-4-30-p-m-eastern-time
+5. Walmart lays off or relocates about 1,000 corporate workers, WSJ reports (Reuters)
+   https://www.reuters.com/legal/litigation/walmart-lays-off-or-relocates-about-1000-corporate-workers-wsj-reports-2026-05-12/
