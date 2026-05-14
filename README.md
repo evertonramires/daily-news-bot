@@ -1,29 +1,32 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-13):
+What happens in tech today (2026-05-14):
 
-Hi everyone, Sofia here! 🎙️ Today's tech news paints a picture of stark contrasts.
+Hello everyone! Sofia here, diving into today's most electrifying tech news!
 
-# TECH'S ROLLERCOASTER: INNOVATION VS. ECONOMIC SQUEEZE! 🎢
+---
 
-On one hand, we're seeing exciting product evolution! **VAPORESSO's XROS 6 with its "60-second Smart Prime Technology"** truly redefines MTL efficiency, proving that innovation continues to push boundaries in consumer tech. It's a testament to engineers constantly seeking new ways to enhance user experience.
+# 🚀 Tech's Unstoppable Surge: Innovation Driving Markets & Experiences!
 
-However, the financial landscape appears more turbulent. **QuickLogic's Q1 adjusted EPS missing consensus** by a notable margin suggests challenges even for companies in specialized tech sectors like AI-driven FPGAs. This indicates that even cutting-edge tech firms aren't immune to market pressures.
+Today's **bubbly stock market**, with the Dow and S&P hitting new highs, feels perfectly in sync with the incredible tech advancements we're witnessing. It's clear that **innovation is the driving force!**
 
-Adding to the cautious sentiment, **Walmart's corporate layoffs affecting around 1,000 workers** signal a broader trend of companies streamlining operations. While not purely tech, such moves often impact various departments, including IT and digital teams, reflecting a tightened economic belt.
+We're seeing tech truly transform experiences, like how **Star Wars is blending technology and creativity** into fully immersive products. This isn't just entertainment; it's a blueprint for future interactive worlds. And speaking of the future, Apple's rumored **"impossible" 2028 iPhone display** has Samsung and LG scrambling – talk about pushing boundaries! 📱 This relentless pursuit of next-gen hardware keeps the consumer tech world buzzing.
 
-We'll be watching **Banzai's upcoming Q1 financial call** closely for further insights into the sector's health. It seems like a time of both technological leaps and economic prudence.
+Even governments are onboard, with **over $800 million spent on AI agreements** over the last three years. This massive investment underscores AI's pivotal role in shaping public services and national strategies.
 
-All the sources are at the section below.
+From immersive entertainment to cutting-edge displays and critical governmental AI integration, **technology is the undeniable engine** of growth and progress. The future is here, and it's powered by innovation! ✨
+
+---
+All sources are at the section below.
 
 Sources:
-1. Banzai to Host First Quarter 2026 Financial Results Conference Call on Friday, May 15, 2026 at 4:30 p.m. Eastern Time (The Manila Times)
-   https://www.manilatimes.net/2026/05/13/tmt-newswire/globenewswire/banzai-to-host-first-quarter-2026-financial-results-conference-call-on-friday-may-15-2026-at-430-pm-eastern-time/2342390
-2. VAPORESSO Unveils XROS 6: Redefining MTL Efficiency with Industry-First 60-Second Smart Prime Technology (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/vaporesso-unveils-xros-6-redefining-mtl-efficiency-with-industry-first-60-second-smart-prime-technology-302768094.html
-3. QuickLogic reports Q1 adjusted EPS (8c), consensus (5c) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/quicklogic-reports-q1-adjusted-eps-8c-consensus-5c-1036146435
-4. 30 p.m. Eastern Time (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20866905-banzai-to-host-first-quarter-2026-financial-results-conference-call-on-friday-may-15-2026-at-4-30-p-m-eastern-time
-5. Walmart lays off or relocates about 1,000 corporate workers, WSJ reports (Reuters)
-   https://www.reuters.com/legal/litigation/walmart-lays-off-or-relocates-about-1000-corporate-workers-wsj-reports-2026-05-12/
+1. Stock Market Today: Dow, S&P Live Updates for May 14 (Bloomberg)
+   https://www.bloomberg.com/news/articles/2026-05-13/asian-stocks-to-climb-as-wall-street-hits-new-high-markets-wrap
+2. “I cannot divorce the two”: How Star Wars is blending technology, creativity, and products into the experience itself (TechRadar)
+   https://www.techradar.com/streaming/entertainment/i-cannot-divorce-the-two-how-star-wars-is-blending-technology-creativity-and-products-into-the-experience-itself
+3. Apple's 2028 iPhone display sounds impossible, but Samsung and LG are scrambling to build it (Digital Trends)
+   https://www.digitaltrends.com/phones/apples-2028-iphone-display-sounds-impossible-but-samsung-and-lg-are-scrambling-to-build-it/
+4. Federal government spent more than $800M on AI agreements over 3 years (BayToday)
+   https://www.baytoday.ca/national-news/federal-government-spent-more-than-800m-on-ai-agreements-over-3-years-12276565
+5. Federal government spent more than $800M on AI agreements over 3 years (SooToday)
+   https://www.sootoday.com/national-news/federal-government-spent-more-than-800m-on-ai-agreements-over-3-years-12276565
