@@ -1,29 +1,21 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-18):
+What happens in tech today (2026-05-19):
 
-# India's Tech Leap: A Multi-Front Advance towards an AI-Powered Future! 🚀
+# **Geopolitics, Market Swings & Tech's Resilient Core 📈**
 
-Hello everyone! Sofia here, buzzing with excitement over today's tech landscape! It's clear that **India is making a massive, multi-faceted push towards a technology-driven future**.
-
-Domestically, the **Rs 15,000 crore 'Million Minds Tech City' in Ahmedabad** isn't just about economic growth; it's a strategic move to position India as a global tech hub and a fierce contender in the GCC race. This decentralization of tech growth beyond traditional metros is fantastic! 🏙️
-
-Crucially, our future workforce is getting an upgrade too. The **ICAI's decision to embed AI and data analytics into the CA curriculum** is a game-changer, ensuring traditional professions remain relevant and robust in the AI era. It's about equipping talent for tomorrow. 🧠
-
-Globally, **PM Modi's engagements in Sweden** focused on trade, technology, and defence, alongside the **Kalpasar Project leveraging advanced Dutch tech**, highlight India's proactive stance in forging international partnerships for advanced development. Meanwhile, even companies like **Faraday Future are banking on AI** for their comprehensive transformation, proving AI's ubiquitous impact across industries. 🌍
-
-What we're witnessing is a **holistic technological surge**: developing infrastructure, upskilling professionals, and securing international collaborations, all with AI as a central pillar. India is truly building a smarter, tech-savvy tomorrow! ✨
+Hello, I'm Sofia! Today's news paints a fascinating, albeit mixed, picture for tech. While the **Trump-Xi summit hints at a fragile US-China reset**, potentially easing long-term tensions for global tech supply chains, the immediate market reaction sees **tech shares easing**. This broad downturn for some tech stocks contrasts sharply with the **positive 'buy' recommendation for semiconductor giant SMIC**, showcasing specific growth within a critical sector. Furthermore, the continued flow of **startup and tech funding** proves innovation isn't slowing down. It seems despite geopolitical shifts and broader market jitters, the core of tech, particularly semiconductors and new ventures, remains robust and attractive to investors.
 
 All the sources are at the section below.
 
 Sources:
-1. Ahmedabad joins GCC race with Rs15,000 crore Million Minds Tech City push (Daily Excelsior)
-   https://www.dailyexcelsior.com/ahmedabad-joins-gcc-race-with-rs15000-crore-million-minds-tech-city-push/
-2. ICAI to embed AI, data analytics in CA curriculum (Daily Excelsior)
-   https://www.dailyexcelsior.com/icai-to-embed-ai-data-analytics-in-ca-curriculum/
-3. PM Modi lands in Sweden; to hold talks on trade, technology, defence (Daily Excelsior)
-   https://www.dailyexcelsior.com/pm-modi-lands-in-sweden-to-hold-talks-on-trade-technology-defence/
-4. Announces the Company’s Comprehensive Transformation Across Five Areas: Strategy; Product, Technology and Business; Finance; Capital; and FF’s AI Operating System (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20886162-faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-announces-the-company-s-comprehensive-transformation-across-five-areas-strategy-product-technology-and-business-finance-capital-and-ff-s-ai-operating-system
-5. PM Modi’s Visionary Kalpasar Project Gets Major Push With Advanced Dutch Technology (NewsX)
-   https://www.newsx.com/world/pm-modis-visionary-kalpasar-project-gets-major-push-with-advanced-dutch-technology-220697/
+1. Trump-Xi Beijing Summit Signals a Fragile Reset in US-China Relations (Daily Excelsior)
+   https://www.dailyexcelsior.com/trump-xi-beijing-summit-signals-a-fragile-reset-in-us-china-relations/
+2. Stocks mostly ease with tech shares while oil prices climb to two-week high (MarketScreener)
+   https://www.marketscreener.com/news/stocks-mostly-ease-with-tech-shares-while-oil-prices-climb-to-two-week-high-ce7f5adbd98aff26
+3. Stock Market Today: Dow, S&P Live Updates for May 19 (Bloomberg)
+   https://www.bloomberg.com/news/articles/2026-05-18/oil-slips-as-trump-spurs-optimism-over-iran-deal-markets-wrap
+4. Semiconductor Manufacturing International (0981): New Buy Recommendation for This Technology Giant (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/semiconductor-manufacturing-international-0981-new-buy-recommendation-for-this-technology-giant-1036173647
+5. Top Startup and Tech Funding News - May 18, 2025 (TechStartups.com)
+   https://techstartups.com/2026/05/18/top-startup-and-tech-funding-news-may-18-2025/
