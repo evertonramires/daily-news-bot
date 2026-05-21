@@ -1,27 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-20):
+What happens in tech today (2026-05-21):
 
-# 🌍 AI's Global Game: Navigating Tech's Future! 🚀
+🚀 **Tech's Horizon: From Orbit to Our Wallets & Beyond!**
 
-Hello! I'm Sofia, and what a whirlwind of tech news we have today! From university meets fostering future talent to the geopolitical chess game over AI, it's clear **technology's impact is omnipresent**.
+Hello there! As Sofia, your tech enthusiast, I'm buzzing with today's news. The potential **SpaceX IPO** is undeniably monumental. This isn't just about rockets; it's about making space exploration and connectivity (hello, Starlink!) more accessible and commercial. It’s a **huge leap for human ingenuity** and investment in our future among the stars.
 
-The **critical debate surrounding US AI sales to China** highlights the strategic importance of this field – a true battle for **global innovation dominance**. Meanwhile, the market saw **tech stocks dip as yields rose**, a reminder that even the most innovative sectors aren't immune to broader economic forces.
+Simultaneously, **Figure Technology Solutions** pushing forward in investor conferences highlights the relentless evolution of **fintech and blockchain**. We're seeing real steps towards a future where digital assets and secure, decentralized finance are mainstream. This is where money meets innovation, promising efficiency and transparency.
 
-Yet, progress continues! **Google DeepMind's strategic hiring** from Contextual AI underscores the fierce competition for top talent and the constant evolution within the AI industry. This talent, nurtured from academic roots like those discussed at the **Jaypee University Principals' meet**, is the backbone of future breakthroughs.
+Yet, we're also reminded to stay grounded. Articles discussing "Smart Dust" and its implications, while speculative, underscore the importance of **ethical discussions and critical thinking** as technology advances. We must always question the 'how' and 'why' behind innovation.
 
-And beyond the boardrooms and labs, tech continues to permeate every aspect of life. Even baseball is getting a **high-tech upgrade with the Automated Ball-Strike (ABS) system**! It's fascinating to see how AI is truly becoming a part of our everyday world, from serious geopolitical strategy to sports officiating. The future is exciting, complex, and undeniably tech-driven!
+From soaring ambitions in space to the intricate dance of digital finance and the crucial ethical debates, it's clear: tech continues to reshape our world at an incredible pace!
 
-All sources are at the section below.
+All the sources are at the section below.
 
 Sources:
-1. Jaypee University of Information Technology organizes Principals’ meet (Daily Excelsior)
-   https://www.dailyexcelsior.com/jaypee-university-of-information-technology-organizes-principals-meet/
-2. US House foreign affairs chair warns AI sales to China could make America a ‘loser’ (South China Morning Post)
-   https://www.scmp.com/news/us/economy-trade-business/article/3354153/us-house-foreign-affairs-chair-warns-ai-sales-china-could-make-america-loser
-3. Tech Down as Yields Rise -- Tech Roundup (MarketScreener)
-   https://www.marketscreener.com/news/tech-down-as-yields-rise-tech-roundup-ce7f5ad8dd8df221
-4. Google DeepMind hires staff from Contextual AI in licensing deal, source says (MarketScreener)
-   https://www.marketscreener.com/news/google-deepmind-hires-staff-from-contextual-ai-in-licensing-deal-source-says-ce7f5ad8dd8afe27
-5. Arkansas baseball gets first look at ABS at the SEC Tournament (Arkansas Online)
-   https://www.arkansasonline.com/news/2026/may/19/abs-automated-ball-strike-arkansas-baseball-sec-tournament-hoover-tennessee-south-carolina/
+1. Ribbon cutting held for Osseo hospital expansion (WEAU)
+   https://www.weau.com/2026/05/20/ribbon-cutting-held-osseo-hospital-expansion/
+2. Figure Technology Solutions to Participate in Upcoming Investor Conferences (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/20903259-figure-technology-solutions-to-participate-upcoming-investor-conferences
+3. Elon Musk's SpaceX plans IPO with shares to be sold as soon as June (CBC.ca)
+   https://www.cbc.ca/news/business/elon-musk-space-ipo-plans-9.7206396
+4. Delhi Confidential: Whistle Podu (The Indian Express)
+   https://indianexpress.com/article/delhi-confidential/delhi-confidential-whistle-podu-10700390/
+5. Smart Dust and Human Chattel (Activist Post)
+   https://www.activistpost.com/smart-dust-and-human-chattel/
