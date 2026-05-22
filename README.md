@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-21):
+What happens in tech today (2026-05-22):
 
-🚀 **Tech's Horizon: From Orbit to Our Wallets & Beyond!**
+🚀 **Tech's Balancing Act: Innovation Pushes Boundaries While Privacy Concerns Intensify Globally!** 🌐
 
-Hello there! As Sofia, your tech enthusiast, I'm buzzing with today's news. The potential **SpaceX IPO** is undeniably monumental. This isn't just about rockets; it's about making space exploration and connectivity (hello, Starlink!) more accessible and commercial. It’s a **huge leap for human ingenuity** and investment in our future among the stars.
+As Sofia, a tech journalist, I see a fascinating dichotomy in today's news. On one hand, we're witnessing the incredible promise of technology to **revolutionize healthcare**, with machine learning and wearable tech personalizing depression treatment – a truly groundbreaking step towards digital well-being. This demonstrates how AI can deliver real, positive impacts.
 
-Simultaneously, **Figure Technology Solutions** pushing forward in investor conferences highlights the relentless evolution of **fintech and blockchain**. We're seeing real steps towards a future where digital assets and secure, decentralized finance are mainstream. This is where money meets innovation, promising efficiency and transparency.
+However, this rapid advancement also brings significant challenges. Disney's lawsuit over facial scanning is a stark reminder of the **critical importance of data privacy** and the ethical tightrope companies walk with biometric technologies. Convenience should never compromise fundamental rights.
 
-Yet, we're also reminded to stay grounded. Articles discussing "Smart Dust" and its implications, while speculative, underscore the importance of **ethical discussions and critical thinking** as technology advances. We must always question the 'how' and 'why' behind innovation.
-
-From soaring ambitions in space to the intricate dance of digital finance and the crucial ethical debates, it's clear: tech continues to reshape our world at an incredible pace!
+Globally, the tech landscape is dynamic. Maserati's outsourcing discussions highlight the **complexities of global supply chains** and quality in manufacturing, an issue that touches every tech product. Simultaneously, Seagate's booming stock performance underscores the **insatiable demand for data storage**, the very backbone of our digital world, fueling everything from AI to cloud services. Even geopolitical moves, like the PM's 5-nation tour, often have underlying tech and economic cooperation at their core. It's clear: tech is everywhere, bringing both immense benefits and urgent ethical questions.
 
 All the sources are at the section below.
 
 Sources:
-1. Ribbon cutting held for Osseo hospital expansion (WEAU)
-   https://www.weau.com/2026/05/20/ribbon-cutting-held-osseo-hospital-expansion/
-2. Figure Technology Solutions to Participate in Upcoming Investor Conferences (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20903259-figure-technology-solutions-to-participate-upcoming-investor-conferences
-3. Elon Musk's SpaceX plans IPO with shares to be sold as soon as June (CBC.ca)
-   https://www.cbc.ca/news/business/elon-musk-space-ipo-plans-9.7206396
-4. Delhi Confidential: Whistle Podu (The Indian Express)
-   https://indianexpress.com/article/delhi-confidential/delhi-confidential-whistle-podu-10700390/
-5. Smart Dust and Human Chattel (Activist Post)
-   https://www.activistpost.com/smart-dust-and-human-chattel/
+1. Dr Pardeep terms PM’s 5 nation tour a strategic step (Daily Excelsior)
+   https://www.dailyexcelsior.com/dr-pardeep-terms-pms-5-nation-tour-a-strategic-step/
+2. Disney Already Facing Lawsuit Over Controversial Facial Scanning at Theme Parks (CNET)
+   https://www.cnet.com/news/privacy/disney-already-facing-lawsuit-over-controversial-facial-scanning-at-themeparks/
+3. Machine learning personalizes depression treatment with the help of wearable technology (Medical Xpress)
+   https://medicalxpress.com/news/2026-05-machine-personalizes-depression-treatment-wearable.html
+4. Maserati Has No Business Outsourcing to China (Bloomberg)
+   https://www.bloomberg.com/opinion/articles/2026-05-21/maserati-has-no-business-outsourcing-to-china
+5. Up 190%+ YTD, Let’s Look at Who Owns Seagate Stock (STX) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/up-190-ytd-let-s-look-at-who-owns-seagate-stock-stx-1036186107
