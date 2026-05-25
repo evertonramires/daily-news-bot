@@ -1,31 +1,30 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-24):
+What happens in tech today (2026-05-25):
 
-### **TECH'S HUMAN TOUCH: BRIDGING GAPS & BUILDING VALUE IN THE DIGITAL AGE! 💡**
+# ✨ From Campus to Cosmos: Finland's Stellar Tech Leap! 🚀
 
-Hello everyone, Sofia here! What an interesting mix of news today, truly highlighting India's **digital transformation** journey with a global outlook. From the philosophical **Kintsugi approach to AI 2.0**, urging us to find value in imperfections and build resilience, to the very practical **digital upgrade of Delhi's sub-registrar offices** for improved efficiency and transparency – it’s clear technology is reshaping our future.
+Hello, I'm Sofia, and today's news truly excites the tech enthusiast in me! The story of a **university project blossoming into Finland's space technology crown jewel** is nothing short of inspirational. It perfectly illustrates how **grassroots innovation and academic ambition** can propel a nation to the forefront of high-tech industries. This isn't just about satellites; it's a testament to the power of **research, collaboration, and nurturing talent** right from university labs.
 
-The push by IITs for global stature, despite endowment challenges, underscores the vital need for robust **education and innovation** to fuel this progress. And it's not just about urban centers; the success of the Scientists-to-Farmers outreach reaching 2.5 lakh farmers demonstrates tech's potential for **inclusive growth** at the grassroots. Even the new Active-Aging Centres reflect how thoughtful integration of tech and community can enhance seniors' quality of life. We're seeing a collective effort to leverage technology, ensuring it serves society with a truly **human-centric approach**, creating **resilience and value** in every aspect of life.
+Finland's journey proves that game-changing tech doesn't always start in a Silicon Valley garage, but can emerge from the very foundations of learning, pushing boundaries and making significant contributions to humanity's reach into space. This kind of **forward-thinking development** is what truly drives progress.
+
+While not directly tech, the idea of **litter cameras at motorway junctions** also highlights how technology can be applied to everyday challenges, proving its pervasive influence.
 
 All sources are at the section below.
 
 ---
 **Sources:**
-1.  Hindustan Times: Leadership | With Kintsugi, reimagining value in the age of AI 2.0
-2.  The Hindu: Delhi government plans digital upgrade of sub-registrar offices to curb delays, fraud
-3.  The Economic Times: IITs reach for global stature amid endowment crunch
-4.  Deccan Chronicle: Scientists-to-Farmers Outreach Concludes Successfully, Reaching 2.5 Lakh Farmers
-5.  CNA: 10 new Active-Aging Centres to give seniors fresh experiences, improve quality of life
+1.  The Straits Times: A university project that became Finland’s crown jewel in pioneering space technology
+2.  The Sunday Times: Call for litter cameras at motorway junctions and £500 fines
 
 Sources:
-1. Leadership | With Kintsugi, reimagining value in the age of AI 2.0 (Hindustan Times)
-   https://www.hindustantimes.com/cities/chandigarh-news/leadership-with-kintsugi-reimagining-value-in-the-age-of-ai-20-101779559137218.html
-2. Delhi government plans digital upgrade of sub-registrar offices to curb delays, fraud (The Hindu)
-   https://www.thehindu.com/news/cities/Delhi/delhi-government-plans-digital-upgrade-of-sub-registrar-offices-to-curb-delays-fraud/article71014613.ece
-3. IITs reach for global stature amid endowment crunch (The Economic Times)
-   https://economictimes.indiatimes.com/industry/services/education/iits-reach-for-global-stature-amid-endowment-crunch/articleshow/131284938.cms
-4. Scientists-to-Farmers Outreach Concludes Successfully, Reaching 2.5 Lakh Farmers (Deccan Chronicle)
-   https://www.deccanchronicle.com/southern-states/telangana/scientists-to-farmers-outreach-concludes-successfully-reaching-25-lakh-farmers-1958715
-5. 10 new Active-Aging Centres to give seniors fresh experiences, improve quality of life (CNA)
-   https://www.channelnewsasia.com/watch/10-new-active-aging-centres-give-seniors-fresh-experiences-improve-quality-life-6138176
+1. A university project that became Finland’s crown jewel in pioneering space technology (The Straits Times)
+   https://www.straitstimes.com/world/a-university-project-that-became-finlands-crown-jewel-in-pioneering-space-technology
+2. Iranian embassy rejects US State Secretary Marco Rubio's remarks (The Economic Times)
+   https://economictimes.indiatimes.com/news/india/iranian-embassy-rejects-us-state-secretary-marco-rubios-remarks/articleshow/131296254.cms
+3. We are ambitious and working to become a top 5 private bank again: Vinay Tonse, MD & CEO, Yes Bank (The Economic Times)
+   https://economictimes.indiatimes.com/markets/expert-view/we-are-ambitious-and-working-to-become-a-top-5-private-bank-again-vinay-tonse-md-ceo-yes-bank/articleshow/131298817.cms
+4. We are ambitious and working to become a top 5 private bank again: Vinay Tonse, MD & CEO, Yes Bank (The Economic Times)
+   https://economictimes.indiatimes.com/industry/banking/finance/banking/we-are-ambitious-and-working-to-become-a-top-5-private-bank-again-vinay-tonse-md-ceo-yes-bank/articleshow/131296144.cms
+5. Call for litter cameras at motorway junctions and £500 fines (The Sunday Times)
+   https://www.thetimes.com/uk/environment/article/litter-cameras-motorways-fines-pollution-jqnpsnss7
