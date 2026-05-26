@@ -1,18 +1,47 @@
 import os
-from dotenv import load_dotenv
-import google.generativeai as genai
-import requests
-from datetime import datetime
 import subprocess
+from datetime import datetime
+
+import requests
+from dotenv import load_dotenv
+from openai import OpenAI
 
 # Load API keys from .env
 load_dotenv()
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or os.getenv("GEMINI_API_KEY")
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL") or os.getenv("GEMINI_MODEL", "gpt-4o-mini")
 
 webhook_url = os.getenv("NOTIFICATION_WEBHOOK_URL")
 
-# Load model
-model = genai.GenerativeModel(os.getenv("GEMINI_MODEL", "gemini-pro"))
+_client = None
+
+
+def get_llm_client():
+    global _client
+    if _client is None:
+        if not OPENAI_API_KEY:
+            raise ValueError("Missing OPENAI_API_KEY (or legacy GEMINI_API_KEY) in your environment.")
+
+        client_kwargs = {"api_key": OPENAI_API_KEY}
+        if OPENAI_BASE_URL:
+            client_kwargs["base_url"] = OPENAI_BASE_URL.rstrip("/")
+
+        _client = OpenAI(**client_kwargs)
+
+    return _client
+
+
+def generate_text(messages, temperature=0.2):
+    response = get_llm_client().chat.completions.create(
+        model=OPENAI_MODEL,
+        messages=messages,
+        temperature=temperature,
+    )
+
+    message = response.choices[0].message.content or ""
+    return message.strip()
 
 # Persona
 personality = """
@@ -27,8 +56,7 @@ Your answer use bold text for the most important parts
 You always output a complete answer within less than 1000 characters 
 """
 
-def notify (message):
-
+def notify(message):
     validNotification = evaluate_notification(message)
     # Function to send notifications via webhook
 
@@ -37,7 +65,7 @@ def notify (message):
             "text": validNotification,
         }
         try:
-            response = requests.post(webhook_url, json=payload)
+            response = requests.post(webhook_url, json=payload, timeout=15)
             response.raise_for_status()
             print(f"✅Notification sent: {validNotification}")
         except requests.RequestException as e:
@@ -48,27 +76,42 @@ def notify (message):
 # Function to evaluate text that will be sent to webhook
 def evaluate_notification(notificationText):
     try:
-        response = model.generate_content(
-            f""" Evaluate the text bellow and IF it is greater than 140 characters, summarize it,
+        text = generate_text(
+            [
+                {
+                    "role": "user",
+                    "content": f""" Evaluate the text bellow and IF it is greater than 140 characters, summarize it,
               your final answer is ONLY the original text if it is small enought OR a small summary you created. Go ahead, analyze this text:\n\n
             
             {notificationText}\n\n
             
             Remember, your answer MUST have less than 140 characters. NOTHING ELSE.
-            \n\nYour final answer is:"""
+            \n\nYour final answer is:""",
+                }
+            ],
+            temperature=0,
         )
-        print(f"Notification evaluation result: {response.text}")
-        return response.text
+
+        if len(text) > 140:
+            text = text[:137].rstrip() + "..."
+
+        print(f"Notification evaluation result: {text}")
+        return text
     except Exception as e:
         print(f"Error: {e}")
-        notify(str(e))
-        return "Could not evaluate notification text."
+        fallback = str(notificationText)
+        if len(fallback) > 140:
+            fallback = fallback[:137].rstrip() + "..."
+        return fallback
     
 
 def evaluate_opinion(opinion):
     try:
-        response = model.generate_content(
-            f""" Evaluate this opinion and answer 0 if this is not a valid opinion or 1 if this is indeed a valid opinion:\n\n
+        result = generate_text(
+            [
+                {
+                    "role": "user",
+                    "content": f""" Evaluate this opinion and answer 0 if this is not a valid opinion or 1 if this is indeed a valid opinion:\n\n
             
             {opinion}\n\n
             
@@ -77,22 +120,36 @@ def evaluate_opinion(opinion):
             An invalid opinion is one asking for more information or complaining about apis missing or errors.
             
             Remember, you can only answer with a single number, either 0 for false or 1 for true. NOTHING ELSE.
-            \n\nYour final answer is (0 or 1):"""
+            \n\nYour final answer is (0 or 1):""",
+                }
+            ],
+            temperature=0,
         )
-        print(f"Opinion evaluation result: {response.text}")
-        return response.text
+
+        opinion_result = "1" if result.startswith("1") else "0"
+        print(f"Opinion evaluation result: {result}")
+        return opinion_result
     except Exception as e:
         print(f"Error: {e}")
         notify(str(e))
-        return str(e)
+        return "0"
 
-# Function to interact with the Gemini model
+
+# Function to interact with the OpenAI-compatible model
 def tailor_opinion(news):
     try:
-        response = model.generate_content(
-            f"{personality}\nThese are the news you must tailor an intelligent opinion for today:\n{news}\n\nYour opinion:"
+        return generate_text(
+            [
+                {
+                    "role": "system",
+                    "content": personality,
+                },
+                {
+                    "role": "user",
+                    "content": f"These are the news you must tailor an intelligent opinion for today:\n{news}\n\nYour opinion:",
+                },
+            ]
         )
-        return response.text
     except Exception as e:
         print(f"Error: {e}")
         notify(str(e))
@@ -104,7 +161,7 @@ def fetch_tech_news():
     try:
         api_key = os.getenv("GNEWS_API_KEY")
         url = f"https://gnews.io/api/v4/search?q=technology&lang=en&topic=technology&max=5&token={api_key}"
-        response = requests.get(url)
+        response = requests.get(url, timeout=20)
         news_data = response.json()
 
         news_lines = []
