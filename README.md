@@ -1,30 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-25):
+What happens in tech today (2026-05-26):
 
-# ✨ From Campus to Cosmos: Finland's Stellar Tech Leap! 🚀
+# 🌐 India’s Tech Surge & Global Tensions: A Double‑Edged Sword  
 
-Hello, I'm Sofia, and today's news truly excites the tech enthusiast in me! The story of a **university project blossoming into Finland's space technology crown jewel** is nothing short of inspirational. It perfectly illustrates how **grassroots innovation and academic ambition** can propel a nation to the forefront of high-tech industries. This isn't just about satellites; it's a testament to the power of **research, collaboration, and nurturing talent** right from university labs.
+India is **accelerating its strategic tech stack** – from a **critical‑minerals pact with the US** to a new **Semiconductor Investors portal** – while geopolitical and labor‑market ripples intensify.  
 
-Finland's journey proves that game-changing tech doesn't always start in a Silicon Valley garage, but can emerge from the very foundations of learning, pushing boundaries and making significant contributions to humanity's reach into space. This kind of **forward-thinking development** is what truly drives progress.
+- The **India‑US minerals deal** (Lithium, Graphite, Rare Earths) is a clear hedge against **China’s dominance** in supply chains, positioning India as a future hub for clean‑energy tech.  
+- Simultaneously, the **Semiconductor Mission’s portal** lowers entry barriers for investors, promising a **home‑grown chip ecosystem** that could feed both the minerals pact and the upcoming **Apple iPhone Ultra launch** in India (expected premium pricing, advanced display & processor).  
+- Yet, **AI’s rapid rise** – warned by Anthropic co‑founder Chris Olah – threatens massive job displacement, a challenge for a nation still grappling with employment.  
+- On the diplomatic front, **Trump’s push for more Muslim nations in the Abraham Accords** meets resistance from Pakistan, underscoring how **political alignments** may affect tech collaborations and market access.  
 
-While not directly tech, the idea of **litter cameras at motorway junctions** also highlights how technology can be applied to everyday challenges, proving its pervasive influence.
+**Bottom line:** India’s tech ambitions are **bold and timely**, but they must be balanced with **AI‑driven workforce policies** and **stable geopolitical ties** to truly reap the benefits.  
 
-All sources are at the section below.
+---  
 
----
-**Sources:**
-1.  The Straits Times: A university project that became Finland’s crown jewel in pioneering space technology
-2.  The Sunday Times: Call for litter cameras at motorway junctions and £500 fines
+**All sources are listed below:**  
+
+- India, US strike critical minerals deal amid China concerns – *The Hindu Business Line*  
+- “AI could displace jobs at a massive scale”: Anthropic co‑founder Chris Olah warns – *Financial Express*  
+- Trump Wants More Muslim Nations To Join Abraham Accords… – *News18*  
+- Apple iPhone Ultra leaks: Expected India pricing, display, processor, camera – *Times Now*  
+- India Semiconductor Mission launches ‘Investors Support’ portal – *The Tribune*
 
 Sources:
-1. A university project that became Finland’s crown jewel in pioneering space technology (The Straits Times)
-   https://www.straitstimes.com/world/a-university-project-that-became-finlands-crown-jewel-in-pioneering-space-technology
-2. Iranian embassy rejects US State Secretary Marco Rubio's remarks (The Economic Times)
-   https://economictimes.indiatimes.com/news/india/iranian-embassy-rejects-us-state-secretary-marco-rubios-remarks/articleshow/131296254.cms
-3. We are ambitious and working to become a top 5 private bank again: Vinay Tonse, MD & CEO, Yes Bank (The Economic Times)
-   https://economictimes.indiatimes.com/markets/expert-view/we-are-ambitious-and-working-to-become-a-top-5-private-bank-again-vinay-tonse-md-ceo-yes-bank/articleshow/131298817.cms
-4. We are ambitious and working to become a top 5 private bank again: Vinay Tonse, MD & CEO, Yes Bank (The Economic Times)
-   https://economictimes.indiatimes.com/industry/banking/finance/banking/we-are-ambitious-and-working-to-become-a-top-5-private-bank-again-vinay-tonse-md-ceo-yes-bank/articleshow/131296144.cms
-5. Call for litter cameras at motorway junctions and £500 fines (The Sunday Times)
-   https://www.thetimes.com/uk/environment/article/litter-cameras-motorways-fines-pollution-jqnpsnss7
+1. India, US strike critical minerals deal amid China concerns (The Hindu Business Line)
+   https://www.thehindubusinessline.com/economy/india-us-strike-critical-minerals-deal-amid-china-concerns/article71023970.ece
+2. ‘AI could displace jobs at a massive scale’: Anthropic co-founder Chris Olah warns (The Financial Express)
+   https://www.financialexpress.com/life/technology-ai-could-displace-jobs-at-a-massive-scale-anthropic-co-founder-chris-olah-warns-4251353/
+3. Trump Wants More Muslim Nations To Join Abraham Accords But Pakistan Just Said No. Here's Why (News18)
+   https://www.news18.com/explainers/trump-wants-more-muslim-nations-to-join-abraham-accords-but-pakistan-just-said-no-heres-why-ws-l-10112867.html
+4. Apple iPhone Ultra Leaks: Expected India Pricing, Display, Processor, Camera, And More (Times Now)
+   https://www.timesnownews.com/technology-science/apple-iphone-ultra-leaks-expected-india-pricing-display-processor-camera-and-more-article-154400024
+5. India Semiconductor Mission launches 'Investors Support' portal to assist Semiconductor Investors (The Tribune)
+   https://www.tribuneindia.com/news/business/india-semiconductor-mission-launches-investors-support-portal-to-assist-semiconductor-investors/
