@@ -2,26 +2,24 @@
 
 What happens in tech today (2026-05-27):
 
-# 🚀 Tech Titans & AI Surge: Why 2026 Is the Year of the Memory‑Chip & Robot‑Surgery Boom
+# 🚀 Today’s Tech Pulse: Memory Wars, AI Epicentres & MedTech Milestones  
 
-The **memory‑chip market** is heating up like never before. Micron’s share rally (1) and SK Hynix’s entry into the **$1 trillion market‑cap club** (3) signal that **DRAM/NAND** is being treated as the new **Nvidia‑style growth engine**. With AI workloads exploding, investors are betting that these “memory‑makers” will capture the same upside that GPUs did a few years ago.
+**Micron’s rally** is sparking headlines because the chip‑maker finally cracked the **DDR5‑plus pricing curve**, narrowing the gap with **Nvidia’s AI‑driven demand**. While it won’t replace Nvidia’s GPUs, the **$1 trillion market‑cap club** entry of **SK Hynix** (joining Samsung and Micron) signals that **memory is becoming the new AI engine** – a trend amplified by **Jensen Huang’s $150 bn annual Taiwan pledge**, branding the island the **“AI epicentre.”**  
 
-Nvidia’s dominance has inspired a **geopolitical AI race**: Jensen Huang’s pledge of **$150 billion a year** to Taiwan (4) cements the island as the **AI epicentre**, while Samsung, Micron and now Hynix battle for supply‑chain supremacy. The ripple effect is already visible in **stock valuations** and **R&D spend** across the sector.
+On the health front, **Zydus Hospitals Gujarat** hitting **1,000 robotic joint replacements** in under a year showcases how **AI‑assisted surgery** is moving from labs to mainstream hospitals, echoing the same acceleration we see in silicon.  
 
-Meanwhile, **health‑tech** is catching the AI wave. Zydus Hospitals’ **1,000 robotic joint replacements** in under a year (2) showcase how **AI‑driven robotics** are moving from labs to operating rooms, promising lower costs and faster recoveries. This convergence of AI hardware and applications hints at a **virtuous cycle**: better chips → smarter robots → broader adoption → more chip demand.
+Finally, the **Byju Raveendran** sentencing in Singapore reminds us that **tech founders are not immune to legal scrutiny**, a cautionary tale for the fast‑growing ed‑tech sector.  
 
-In contrast, the **Byju Raveendran** saga (5) reminds us that **tech entrepreneurship** still faces regulatory and legal headwinds, especially when crossing borders.
+**Bottom line:** 2026 is shaping up as a **memory‑first AI era**, with cross‑industry ripple effects from chips to surgery – and a reminder that governance must keep pace.  
 
-**Bottom line:** 2026 is shaping up as a **memory‑chip‑driven AI boom**, with ripple effects from semiconductor valuations to robotic surgery breakthroughs. Keep an eye on **chip‑makers’ earnings** and **AI‑focused health‑tech rollouts**—they’ll define the next wave of tech leadership.
-
----
+---  
 
 **Sources**  
-1. [Why is everyone talking about the Micron share price? Is it the next Nvidia? – Motley Fool Australia](https://www.fool.com.au/2026/05/27/why-is-everyone-talking-about-the-micron-share-price-is-it-the-next-nvidia/)  
-2. [Zydus Hospitals, Gujarat crosses 1000 Robotic Joint Replacement Surgeries – The Tribune](https://www.tribuneindia.com/news/business/zydus-hospitals-gujarat-crosses-1000-robotic-joint-replacement-surgeries-across-centers-in-less-than-a-year/)  
-3. [SK hynix enters the USD 1 trillion market cap club – The Tribune](https://www.tribuneindia.com/news/business/sk-hynix-enters-the-usd-1-trillion-market-cap-club-to-join-samsung-and-micron/)  
-4. [Jensen Huang To Invest $150 Billion Annually In Taiwan – Times Now](https://www.timesnownews.com/technology-science/jensen-huang-to-invest-150-billion-annually-in-taiwan-calls-it-ai-epicentre-article-154406689)  
-5. [Byju Raveendran responds after Singapore court sends him to 6 months jail – Lokmat Times](https://www.lokmattimes.com/technology/byju-raveendran-responds-after-singapore-court-sends-him-to-6-month-jail-1/)
+1. Motley Fool Australia – *Why is everyone talking about the Micron share price?*  
+2. The Tribune – *Zydus Hospitals crosses 1,000 robotic joint replacements*  
+3. The Tribune – *SK hynix joins $1 trillion market‑cap club*  
+4. Times Now – *Jensen Huang to invest $150 bn annually in Taiwan*  
+5. Lokmat Times – *Byju Raveendran responds after Singapore court sentencing*
 
 Sources:
 1. Why is everyone talking about the Micron share price? Is it the next Nvidia? (The Motley Fool Australia)
