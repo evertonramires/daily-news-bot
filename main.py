@@ -24,11 +24,13 @@ def get_llm_client():
         if not OPENAI_API_KEY:
             raise ValueError("Missing OPENAI_API_KEY (or legacy GEMINI_API_KEY) in your environment.")
 
-        client_kwargs = {"api_key": OPENAI_API_KEY}
         if OPENAI_BASE_URL:
-            client_kwargs["base_url"] = OPENAI_BASE_URL.rstrip("/")
-
-        _client = OpenAI(**client_kwargs)
+            _client = OpenAI(
+                api_key=OPENAI_API_KEY,
+                base_url=OPENAI_BASE_URL.rstrip("/"),
+            )
+        else:
+            _client = OpenAI(api_key=OPENAI_API_KEY)
 
     return _client
 
@@ -83,10 +85,7 @@ def evaluate_notification(notificationText):
                     "content": f""" Evaluate the text bellow and IF it is greater than 140 characters, summarize it,
               your final answer is ONLY the original text if it is small enought OR a small summary you created. Go ahead, analyze this text:\n\n
             
-            {notificationText}\n\n
-            
-            Remember, your answer MUST have less than 140 characters. NOTHING ELSE.
-            \n\nYour final answer is:""",
+            {notificationText}\n\n""",
                 }
             ],
             temperature=0,
@@ -96,7 +95,7 @@ def evaluate_notification(notificationText):
             text = text[:137].rstrip() + "..."
 
         print(f"Notification evaluation result: {text}")
-        return text
+        return f"✅ {text}"
     except Exception as e:
         print(f"Error: {e}")
         fallback = str(notificationText)
@@ -127,7 +126,6 @@ def evaluate_opinion(opinion):
         )
 
         opinion_result = "1" if result.startswith("1") else "0"
-        print(f"Opinion evaluation result: {result}")
         return opinion_result
     except Exception as e:
         print(f"Error: {e}")
@@ -157,7 +155,7 @@ def tailor_opinion(news):
 
 # Function to fetch technology news from GNews API
 def fetch_tech_news():
-    print("\n📰 Fetching Latest Tech Headlines... \n" + "-"*30)
+    print("\n📰 Fetching Latest Tech Headlines... \n")
     try:
         api_key = os.getenv("GNEWS_API_KEY")
         url = f"https://gnews.io/api/v4/search?q=technology&lang=en&topic=technology&max=5&token={api_key}"
@@ -181,36 +179,38 @@ def fetch_tech_news():
 
 # Main routine
 if __name__ == "__main__":
-    news, sources = fetch_tech_news()
-    opinion = tailor_opinion(news)
-    opinionValidity = evaluate_opinion(opinion)
-    today = datetime.now().strftime("%Y-%m-%d")
+    try:
+        news, sources = fetch_tech_news()
+        opinion = tailor_opinion(news)
+        opinionValidity = evaluate_opinion(opinion)
+        today = datetime.now().strftime("%Y-%m-%d")
 
-    if opinionValidity == "0":
-        print("\n❌ Invalid opinion generated. Exiting.")
-        notify(f"❌ Invalid opinion generated. News not published for {today}.")
-        exit(1)
-    elif opinionValidity == "1":
-        headline = f"What happens in tech today ({today}):"
+        if opinionValidity == "0":
+            print("\n❌ Invalid opinion generated. Exiting.")
+            notify(f"❌ Invalid opinion generated. News not published for {today}.")
+            exit(1)
+        elif opinionValidity == "1":
+            headline = f"What happens in tech today ({today}):"
 
-        support_button = "[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)"
+            support_button = "[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)"
 
-        final_news = f"{support_button}\n\n{headline}\n\n{opinion}\n\nSources:\n{sources}"
+            final_news = f"{support_button}\n\n{headline}\n\n{opinion}\n\nSources:\n{sources}"
 
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.write(final_news)
+            print(f"\n{opinion[:140]}\n")
 
-        print("\n✅ Output saved to README.md\n")
-        # print(final_news)
+            with open("README.md", "w", encoding="utf-8") as f:
+                f.write(final_news)
 
-        # Git commit and push
-        try:
+            print("\n✅ Output saved to README.md\n")
+            # print(final_news)
+
+            # Git commit and push
             subprocess.run(["git", "add", "README.md"], check=True)
             subprocess.run(["git", "commit", "-m", f"Update tech news for {today}"], check=True)
             subprocess.run(["git", "push", "origin", "--force"], check=True)
             print("✅ Changes committed and pushed to origin.")
-            notify(f"✅ News Published for {today}.")
+            notify(f"✅ News Published for {today}.\n\n{opinion[:140]}")
 
-        except subprocess.CalledProcessError as e:
-            print(f"Git error: {e}")
-            notify(str(e))
+    except subprocess.CalledProcessError as e:
+        print(f"Error: {e}")
+        notify(f"❌ Error while publishing news: {str(e)}")
