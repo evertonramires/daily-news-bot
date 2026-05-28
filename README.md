@@ -1,37 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-27):
+What happens in tech today (2026-05-28):
 
-# 🚀 Today's Tech Pulse: Memory Wars, AI Epicenters & MedTech Milestones  
+# 🚀 Tech & Academia Pulse: SAT Revival, Tiny Space‑Ground Links & AI‑Driven Market Shifts  
 
-**Micron’s rally** is no fluke – the chip‑maker just cracked the **$1 trillion market‑cap** club alongside **Samsung** and **SK Hynix**. With **SK Hynix** now a trillion‑dollar player, the memory sector is reshaping the narrative that only **Nvidia** dominates AI hardware. Investors are betting that **Micron’s aggressive 3‑D‑stacked DRAM** and **AI‑optimized GPUs** can capture a slice of the exploding generative‑AI demand, even if it still lags Nvidia’s brand power.  
+**University of California’s math faculty** are pushing to bring back the SAT for STEM admissions, arguing that a **standardized metric** levels the playing field and better predicts quantitative success. While the move could **re‑centralize test‑centric gatekeeping**, it risks sidelining holistic reviews that capture diverse talent.  
 
-Meanwhile, **Jensen Huang’s pledge of $150 B/year** to Taiwan cements the island as the **“AI epicentre”**. This massive cash flow will turbo‑charge fabs, R&D, and talent pipelines, further tightening the supply chain that Micron and SK Hynix rely on.  
+In a **space‑tech breakthrough**, the world’s smallest deployable optical ground station (OGS) demonstrated reliable data downlink in field trials. Its **compact, plug‑and‑play design** could democratize satellite communications, opening doors for startups and remote research stations.  
 
-On the health‑tech front, **Zydus Hospitals** hitting **1,000 robotic joint‑replacement surgeries** in under a year showcases how **AI‑driven robotics** are moving from labs to operating rooms, promising lower infection rates and faster recoveries.  
+On the corporate front, **Greenwave Technology Solutions** faces a second Nasdaq notice for a delayed Q1 filing, highlighting ongoing **regulatory pressure** on fast‑growing ESG‑focused firms. Meanwhile, **Salesforce** is lagging on its AI rollout, according to analyst Luria, suggesting that **enterprise AI integration** remains a complex, multi‑year effort.  
 
-Finally, the **Byju Raveendran** sentencing in Singapore reminds us that **tech entrepreneurship** still wrestles with governance and ethical scrutiny – a cautionary tale for fast‑growing ed‑tech firms.  
+Conversely, **Marvell’s CEO** projects a **≈40 % YoY revenue jump to $11.5 B by FY 2027**, driven by data‑center chips and 5G infrastructure—signaling strong market confidence in **semiconductor demand** despite macro‑uncertainties.  
 
-**Bottom line:** 2026 is shaping up as a **memory‑centric AI boom**, powered by massive capital inflows and cross‑industry innovation, while regulatory and ethical challenges keep founders on their toes.  
+**Bottom line:** 2026 is shaping up as a year where **standardization, miniaturization, and AI ambition** clash with regulatory rigor and execution timelines. Stakeholders must balance **innovation speed** with **transparent governance** to sustain growth.  
 
 ---  
 
-**All sources are listed below:**  
+**All the sources are at the section below:**  
 
-- [Why is everyone talking about the Micron share price? Is it the next Nvidia? – The Motley Fool Australia](https://www.fool.com.au/2026/05/27/why-is-everyone-talking-about-the-micron-share-price-is-it-the-next-nvidia/)  
-- [Zydus Hospitals, Gujarat crosses 1000 Robotic Joint Replacement Surgeries – The Tribune](https://www.tribuneindia.com/news/business/zydus-hospitals-gujarat-crosses-1000-robotic-joint-replacement-surgeries-across-centers-in-less-than-a-year/)  
-- [SK hynix enters the USD 1 trillion market cap club – The Tribune](https://www.tribuneindia.com/news/business/sk-hynix-enters-the-usd-1-trillion-market-cap-club-to-join-samsung-and-micron/)  
-- [Jensen Huang to invest $150 B annually in Taiwan – Times Now](https://www.timesnownews.com/technology-science/jensen-huang-to-invest-150-billion-annually-in-taiwan-calls-it-ai-epicentre-article-154406689)  
-- [Byju Raveendran responds after Singapore court sends him to 6‑month jail – Lokmat Times](https://www.lokmattimes.com/technology/byju-raveendran-responds-after-singapore-court-sends-him-to-6-month-jail-1/)
+- Los Angeles Times – UC math professors demand SAT return【https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions】  
+- Manila Times – Smallest deployable OGS trials【https://www.manilatimes.net/2026/05/28/tmt-newswire/pr-newswire/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/2353203】  
+- Seeking Alpha – Greenwave Nasdaq notice【https://seekingalpha.com/news/4597698-greenwave-technology-solutions-gets-second-nasdaq-notice-over-delayed-q1-filing】  
+- MarketScreener – Salesforce AI delay【https://www.marketscreener.com/news/salesforce-taking-longer-than-expected-to-shift-to-ai-analyst-luria-says-ce7f5ad3df8af020】  
+- MarketScreener – Marvell FY2027 outlook【https://www.marketscreener.com/news/marvell-ceo-now-expect-overall-revenue-in-fy-2027-to-grow-about-40-y-y-to-nearly-11-5-billion-c-ce7f5ad3df8bfe21】
 
 Sources:
-1. Why is everyone talking about the Micron share price? Is it the next Nvidia? (The Motley Fool Australia)
-   https://www.fool.com.au/2026/05/27/why-is-everyone-talking-about-the-micron-share-price-is-it-the-next-nvidia/
-2. Zydus Hospitals, Gujarat crosses 1000 Robotic Joint Replacement Surgeries across centers in less than a year (The Tribune)
-   https://www.tribuneindia.com/news/business/zydus-hospitals-gujarat-crosses-1000-robotic-joint-replacement-surgeries-across-centers-in-less-than-a-year/
-3. SK hynix enters the USD 1 trillion market cap club to join Samsung and Micron (The Tribune)
-   https://www.tribuneindia.com/news/business/sk-hynix-enters-the-usd-1-trillion-market-cap-club-to-join-samsung-and-micron/
-4. Jensen Huang To Invest $150 Billion Annually In Taiwan, Calls It AI Epicentre (Times Now)
-   https://www.timesnownews.com/technology-science/jensen-huang-to-invest-150-billion-annually-in-taiwan-calls-it-ai-epicentre-article-154406689
-5. Byju Raveendran responds after Singapore court sends him to 6 (Lokmat Times)
-   https://www.lokmattimes.com/technology/byju-raveendran-responds-after-singapore-court-sends-him-to-6-month-jail-1/
+1. University of California math professors demand return of SAT for STEM admissions (Los Angeles Times)
+   https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
+2. World's smallest deployable operational optical ground station proves capability in successful trials (The Manila Times)
+   https://www.manilatimes.net/2026/05/28/tmt-newswire/pr-newswire/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/2353203
+3. Greenwave Technology Solutions gets second Nasdaq notice over delayed Q1 filing (Seeking Alpha)
+   https://seekingalpha.com/news/4597698-greenwave-technology-solutions-gets-second-nasdaq-notice-over-delayed-q1-filing
+4. Salesforce Taking Longer Than Expected to Shift to AI, Analyst Luria Says (MarketScreener)
+   https://www.marketscreener.com/news/salesforce-taking-longer-than-expected-to-shift-to-ai-analyst-luria-says-ce7f5ad3df8af020
+5. Marvell CEO: Now expect overall revenue in FY 2027 to grow about 40% Y/Y to nearly $11.5 billion - conf call (MarketScreener)
+   https://www.marketscreener.com/news/marvell-ceo-now-expect-overall-revenue-in-fy-2027-to-grow-about-40-y-y-to-nearly-11-5-billion-c-ce7f5ad3df8bfe21
