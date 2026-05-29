@@ -1,37 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-28):
+What happens in tech today (2026-05-29):
 
-# 🚀 Tech & Academia Pulse: SAT Revival, Tiny Space‑Ground Links & AI‑Driven Market Shifts  
+# 🚀 **Tech, Law & Pop Culture: Why 2026 Is the Year Innovation Gets Real**  
 
-**University of California’s math faculty** are pushing to bring back the SAT for STEM admissions, arguing that a **standardized metric** levels the playing field and better predicts quantitative success. While the move could **re‑centralize test‑centric gatekeeping**, it risks sidelining holistic reviews that capture diverse talent.  
+Thailand’s push for **FDI‑driven tech transfers** (Bangkok Post) shows governments finally treating *technology* as a strategic export, not just a cost‑saving tool. The same urgency appears in the private sector: **Starbucks is tying bonuses to AI adoption** (MarketScreener), proving that even coffee chains now see AI as a competitive moat.  
 
-In a **space‑tech breakthrough**, the world’s smallest deployable optical ground station (OGS) demonstrated reliable data downlink in field trials. Its **compact, plug‑and‑play design** could democratize satellite communications, opening doors for startups and remote research stations.  
+Meanwhile, **Kirkland & Ellis’s $500 M AI platform** (Reuters) signals that law firms are shedding the “paper‑only” image and betting on proprietary AI to win battles in litigation and deal‑making. The ripple effect? More **cross‑industry talent pipelines**—the kind Thailand hopes to attract.  
 
-On the corporate front, **Greenwave Technology Solutions** faces a second Nasdaq notice for a delayed Q1 filing, highlighting ongoing **regulatory pressure** on fast‑growing ESG‑focused firms. Meanwhile, **Salesforce** is lagging on its AI rollout, according to analyst Luria, suggesting that **enterprise AI integration** remains a complex, multi‑year effort.  
+On the cultural side, a nostalgic look at **Doctor Who’s “Almost People”** episode (Inverse) reminds us that sci‑fi tropes often foreshadow real tech debates—identity, autonomy, and the ethics of augmenting humans.  
 
-Conversely, **Marvell’s CEO** projects a **≈40 % YoY revenue jump to $11.5 B by FY 2027**, driven by data‑center chips and 5G infrastructure—signaling strong market confidence in **semiconductor demand** despite macro‑uncertainties.  
+And let’s not forget the **Detroit Grand Prix safety drill** (CBS News). Massive logistical planning for a single weekend mirrors the coordination needed to roll out AI‑driven services at scale—security, data privacy, and real‑time response.  
 
-**Bottom line:** 2026 is shaping up as a year where **standardization, miniaturization, and AI ambition** clash with regulatory rigor and execution timelines. Stakeholders must balance **innovation speed** with **transparent governance** to sustain growth.  
+**Bottom line:** 2026 is aligning policy, corporate incentives, legal tech, and even pop‑culture narratives around a single theme: *AI and tech transfer are no longer optional, they’re essential.*  
 
 ---  
 
-**All the sources are at the section below:**  
-
-- Los Angeles Times – UC math professors demand SAT return【https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions】  
-- Manila Times – Smallest deployable OGS trials【https://www.manilatimes.net/2026/05/28/tmt-newswire/pr-newswire/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/2353203】  
-- Seeking Alpha – Greenwave Nasdaq notice【https://seekingalpha.com/news/4597698-greenwave-technology-solutions-gets-second-nasdaq-notice-over-delayed-q1-filing】  
-- MarketScreener – Salesforce AI delay【https://www.marketscreener.com/news/salesforce-taking-longer-than-expected-to-shift-to-ai-analyst-luria-says-ce7f5ad3df8af020】  
-- MarketScreener – Marvell FY2027 outlook【https://www.marketscreener.com/news/marvell-ceo-now-expect-overall-revenue-in-fy-2027-to-grow-about-40-y-y-to-nearly-11-5-billion-c-ce7f5ad3df8bfe21】
+**Sources**  
+- Minister says FDI must accelerate tech transfers – Bangkok Post  
+- 15 Years Ago, Doctor Who Perfected A Classic Sci‑Fi Trope – Inverse  
+- Detroit police, fire officials detail months of planning ahead of Grand Prix weekend – CBS News  
+- Starbucks Links Tech Staff Bonuses to AI Adoption – MarketScreener  
+- Law firm Kirkland to spend $500 million developing its own AI platform – Reuters
 
 Sources:
-1. University of California math professors demand return of SAT for STEM admissions (Los Angeles Times)
-   https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
-2. World's smallest deployable operational optical ground station proves capability in successful trials (The Manila Times)
-   https://www.manilatimes.net/2026/05/28/tmt-newswire/pr-newswire/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/2353203
-3. Greenwave Technology Solutions gets second Nasdaq notice over delayed Q1 filing (Seeking Alpha)
-   https://seekingalpha.com/news/4597698-greenwave-technology-solutions-gets-second-nasdaq-notice-over-delayed-q1-filing
-4. Salesforce Taking Longer Than Expected to Shift to AI, Analyst Luria Says (MarketScreener)
-   https://www.marketscreener.com/news/salesforce-taking-longer-than-expected-to-shift-to-ai-analyst-luria-says-ce7f5ad3df8af020
-5. Marvell CEO: Now expect overall revenue in FY 2027 to grow about 40% Y/Y to nearly $11.5 billion - conf call (MarketScreener)
-   https://www.marketscreener.com/news/marvell-ceo-now-expect-overall-revenue-in-fy-2027-to-grow-about-40-y-y-to-nearly-11-5-billion-c-ce7f5ad3df8bfe21
+1. Minister says FDI must accelerate tech transfers (Bangkok Post)
+   https://www.bangkokpost.com/business/general/3262450/minister-says-fdi-must-accelerate-tech-transfers
+2. 15 Years Ago, Doctor Who Perfected A Classic Sci-Fi Trope (Inverse)
+   https://www.inverse.com/entertainment/doctor-who-the-almost-people-retrospective
+3. Detroit police, fire officials detail months of planning ahead of Grand Prix weekend (CBS News)
+   https://www.cbsnews.com/detroit/news/detroit-grand-prix-weekend-public-safety-preparations/
+4. Starbucks Links Tech Staff Bonuses to AI Adoption (MarketScreener)
+   https://www.marketscreener.com/news/starbucks-links-tech-staff-bonuses-to-ai-adoption-ce7f5ddad181f120
+5. Law firm Kirkland to spend $500 million developing its own AI platform (Reuters)
+   https://www.reuters.com/legal/legalindustry/law-firm-kirkland-spend-500-million-developing-its-own-ai-platform-2026-05-28/
