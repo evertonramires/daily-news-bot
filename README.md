@@ -1,36 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-05-29):
+What happens in tech today (2026-06-02):
 
-# 🚀 **Tech, Law & Pop Culture: Why 2026 Is the Year Innovation Gets Real**  
+# **Tech and Media: A Crossroad of Innovation and Controversy** 🚀
 
-Thailand’s push for **FDI‑driven tech transfers** (Bangkok Post) shows governments finally treating *technology* as a strategic export, not just a cost‑saving tool. The same urgency appears in the private sector: **Starbucks is tying bonuses to AI adoption** (MarketScreener), proving that even coffee chains now see AI as a competitive moat.  
+In today's rapidly evolving landscape, **the intersection of technology and media is more critical than ever**. Scott Pelley's accusations against Bari Weiss highlight the **tensions within traditional media**, as innovation clashes with established norms. This could signal a pivotal moment for '60 Minutes' and its future direction.
 
-Meanwhile, **Kirkland & Ellis’s $500 M AI platform** (Reuters) signals that law firms are shedding the “paper‑only” image and betting on proprietary AI to win battles in litigation and deal‑making. The ripple effect? More **cross‑industry talent pipelines**—the kind Thailand hopes to attract.  
+On a brighter note, the success of Ludhiana students in the JEE Advanced exam showcases the **power of education and technology** in shaping future leaders. Their achievements remind us that **innovation starts with knowledge**.
 
-On the cultural side, a nostalgic look at **Doctor Who’s “Almost People”** episode (Inverse) reminds us that sci‑fi tropes often foreshadow real tech debates—identity, autonomy, and the ethics of augmenting humans.  
+Meanwhile, Duke Energy's exploration of tech partnerships to mitigate nuclear expansion risks is a **forward-thinking approach**. It emphasizes the need for **collaboration in the energy sector**, especially as we face climate challenges.
 
-And let’s not forget the **Detroit Grand Prix safety drill** (CBS News). Massive logistical planning for a single weekend mirrors the coordination needed to roll out AI‑driven services at scale—security, data privacy, and real‑time response.  
+Lastly, the concerns raised by Agawam residents regarding license plate cameras reflect the ongoing debate about **privacy versus security** in our tech-driven society. 
 
-**Bottom line:** 2026 is aligning policy, corporate incentives, legal tech, and even pop‑culture narratives around a single theme: *AI and tech transfer are no longer optional, they’re essential.*  
+**In summary**, as we navigate these complex issues, it's essential to balance innovation with ethical considerations.
 
----  
+---
 
-**Sources**  
-- Minister says FDI must accelerate tech transfers – Bangkok Post  
-- 15 Years Ago, Doctor Who Perfected A Classic Sci‑Fi Trope – Inverse  
-- Detroit police, fire officials detail months of planning ahead of Grand Prix weekend – CBS News  
-- Starbucks Links Tech Staff Bonuses to AI Adoption – MarketScreener  
-- Law firm Kirkland to spend $500 million developing its own AI platform – Reuters
+**Sources:**
+1. The Atlanta Journal-Constitution
+2. Hindustan Times
+3. Reuters
+4. MarketScreener
+5. MassLive
 
 Sources:
-1. Minister says FDI must accelerate tech transfers (Bangkok Post)
-   https://www.bangkokpost.com/business/general/3262450/minister-says-fdi-must-accelerate-tech-transfers
-2. 15 Years Ago, Doctor Who Perfected A Classic Sci-Fi Trope (Inverse)
-   https://www.inverse.com/entertainment/doctor-who-the-almost-people-retrospective
-3. Detroit police, fire officials detail months of planning ahead of Grand Prix weekend (CBS News)
-   https://www.cbsnews.com/detroit/news/detroit-grand-prix-weekend-public-safety-preparations/
-4. Starbucks Links Tech Staff Bonuses to AI Adoption (MarketScreener)
-   https://www.marketscreener.com/news/starbucks-links-tech-staff-bonuses-to-ai-adoption-ce7f5ddad181f120
-5. Law firm Kirkland to spend $500 million developing its own AI platform (Reuters)
-   https://www.reuters.com/legal/legalindustry/law-firm-kirkland-spend-500-million-developing-its-own-ai-platform-2026-05-28/
+1. Scott Pelley of '60 Minutes' accuses CBS News head Bari Weiss of 'murdering' the show, report says (The Atlanta Journal-Constitution)
+   https://www.ajc.com/news/2026/06/scott-pelley-of-60-minutes-accuses-cbs-news-head-bari-weiss-of-murdering-the-show-report-says/
+2. Ludhiana students shine in JEE Advanced exam (Hindustan Times)
+   https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-students-shine-in-jee-advanced-exam-101780336763800.html
+3. Duke Energy exploring tech partnerships to offset nuclear expansion risks (Reuters)
+   https://www.reuters.com/legal/litigation/duke-energy-exploring-tech-partnerships-offset-nuclear-expansion-risks-2026-06-01/
+4. Duke Energy exploring tech partnerships to offset nuclear expansion risks (MarketScreener)
+   https://www.marketscreener.com/news/duke-energy-exploring-tech-partnerships-to-offset-nuclear-expansion-risks-ce7f5dd9dc8ef225
+5. After residents raise concerns, Agawam councilors question new license plate cameras (MassLive)
+   https://www.masslive.com/westernmass/2026/06/after-residents-raise-concerns-agawam-councilors-question-new-license-plate-cameras.html
