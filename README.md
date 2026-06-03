@@ -1,36 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-06-02):
+What happens in tech today (2026-06-03):
 
-# **Tech and Media: A Crossroad of Innovation and Controversy** 🚀
+# **Insights on Current Tech and Economic Trends** 🌍💡
 
-In today's rapidly evolving landscape, **the intersection of technology and media is more critical than ever**. Scott Pelley's accusations against Bari Weiss highlight the **tensions within traditional media**, as innovation clashes with established norms. This could signal a pivotal moment for '60 Minutes' and its future direction.
+The **upcoming visit of Venezuelan Acting President Rodriguez to India** highlights a significant shift in global energy and trade dynamics. As countries seek to diversify their energy sources, this visit could pave the way for new partnerships, especially in the tech sector where energy efficiency is crucial.
 
-On a brighter note, the success of Ludhiana students in the JEE Advanced exam showcases the **power of education and technology** in shaping future leaders. Their achievements remind us that **innovation starts with knowledge**.
+On the **AI front**, the reactions from Catholics to Pope Leo’s teachings indicate a growing discourse on the ethical implications of technology. This is essential as we navigate the intersection of faith and innovation.
 
-Meanwhile, Duke Energy's exploration of tech partnerships to mitigate nuclear expansion risks is a **forward-thinking approach**. It emphasizes the need for **collaboration in the energy sector**, especially as we face climate challenges.
+Jim Cramer’s advice to look beyond AI stocks for diversification is a prudent strategy, especially as analysts remain bullish on tech stocks like **Samsara and Alkami Technology**. This suggests a robust market for tech innovation outside the AI bubble.
 
-Lastly, the concerns raised by Agawam residents regarding license plate cameras reflect the ongoing debate about **privacy versus security** in our tech-driven society. 
+Lastly, the recognition of the **Best Affordable Small Car** reflects the increasing importance of sustainability in automotive technology, aligning with broader environmental goals.
 
-**In summary**, as we navigate these complex issues, it's essential to balance innovation with ethical considerations.
+**In summary**, these developments underscore the interconnectedness of technology, ethics, and global trade.
 
----
-
-**Sources:**
-1. The Atlanta Journal-Constitution
-2. Hindustan Times
-3. Reuters
-4. MarketScreener
-5. MassLive
+All sources are at the section below.
 
 Sources:
-1. Scott Pelley of '60 Minutes' accuses CBS News head Bari Weiss of 'murdering' the show, report says (The Atlanta Journal-Constitution)
-   https://www.ajc.com/news/2026/06/scott-pelley-of-60-minutes-accuses-cbs-news-head-bari-weiss-of-murdering-the-show-report-says/
-2. Ludhiana students shine in JEE Advanced exam (Hindustan Times)
-   https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-students-shine-in-jee-advanced-exam-101780336763800.html
-3. Duke Energy exploring tech partnerships to offset nuclear expansion risks (Reuters)
-   https://www.reuters.com/legal/litigation/duke-energy-exploring-tech-partnerships-offset-nuclear-expansion-risks-2026-06-01/
-4. Duke Energy exploring tech partnerships to offset nuclear expansion risks (MarketScreener)
-   https://www.marketscreener.com/news/duke-energy-exploring-tech-partnerships-to-offset-nuclear-expansion-risks-ce7f5dd9dc8ef225
-5. After residents raise concerns, Agawam councilors question new license plate cameras (MassLive)
-   https://www.masslive.com/westernmass/2026/06/after-residents-raise-concerns-agawam-councilors-question-new-license-plate-cameras.html
+1. Energy, trade to be focus of Venezuelan Acting President Rodriguez's 5-day India visit (Daily Excelsior)
+   https://www.dailyexcelsior.com/energy-trade-to-be-focus-of-venezuelan-acting-president-rodriguezs-5-day-india-visit/
+2. How Catholics reacted to Pope Leo’s teachings on AI (Salt Lake City Deseret News)
+   https://www.deseret.com/faith/2026/06/02/how-catholics-reacted-to-pope-leo-teachings-on-ai/
+3. Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification (CNBC)
+   https://www.cnbc.com/2026/06/02/jim-cramer-these-stocks-outside-ai-for-diversification.html
+4. Analysts Are Bullish on Top Technology Stocks: Samsara (IOT), Alkami Technology (ALKT) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-top-technology-stocks-samsara-iot-alkami-technology-alkt-1036219875
+5. 2026 CarExpert Choice winner: Best Affordable Small Car (7NEWS Australia)
+   https://7news.com.au/motoring/2026-carexpert-choice-winner-best-affordable-small-car-c-22375311
