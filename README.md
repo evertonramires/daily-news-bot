@@ -1,29 +1,32 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-06-12):
+What happens in tech today (2026-06-13):
 
-# **Today's Tech Insights: A Mixed Bag of Innovation and Reality Check 🚀**
+# **Today's Tech Insights: A Blend of Innovation and Reflection** 🌐
 
-In today's tech landscape, **Seagate's redemption of exchangeable notes** signals a strategic move to strengthen its financial position amidst a competitive storage market. This could enhance investor confidence and pave the way for future innovations.
+**The intersection of technology and culture is more vibrant than ever.** NBA Top Shot's recent surge during the NBA Finals highlights how **digital collectibles** are securing their place in the cultural zeitgeist, akin to CryptoPunks. This trend signifies a shift towards **decentralized permanence**, making digital ownership more appealing.
 
-On the **AI front**, the breakthrough in molecular simulations is a game-changer, accelerating research in pharmaceuticals and materials science by **10,000-fold**. This leap could lead to faster drug discoveries and innovative materials, showcasing AI's transformative potential.
+Meanwhile, **SpaceX's entry into the $2 trillion club** is a testament to the power of innovation in the aerospace sector, propelling markets and inspiring future ventures. This milestone underscores the importance of **investing in technology** that pushes boundaries.
 
-However, **Mark Zuckerberg's comments on the Metaverse** highlight a disconnect between vision and reality. While the Metaverse is touted as the next internet chapter, its practical implementation remains elusive, reminding us that **hype doesn't always equal progress**.
+On a different note, the results from non-invasive prenatal testing show a promising future for healthcare, combining **safety and cost-effectiveness**. 
 
-Lastly, **SpaceX's IPO pricing at $135** amid massive oversubscription reflects strong market anticipation, but it also raises questions about sustainability in the space sector. 
+Lastly, the young Aussie’s switch to a ‘dumbphone’ serves as a reminder of the **need for balance** in our tech-driven lives. Sometimes, stepping back can lead to greater clarity.
 
-Overall, today's news illustrates a blend of **hopeful advancements and sobering realities** in tech.
-
-All sources are at the section below.
+**Sources:**
+1. TechBullion
+2. Devdiscourse
+3. Medical Xpress
+4. MarketScreener
+5. 7NEWS Australia
 
 Sources:
-1. Seagate Announces Redemption of Exchangeable Notes (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/20994329-seagate-announces-redemption-of-exchangeable-notes
-2. AI fast-forwards molecular simulations by 10,000-fold (Phys.org)
-   https://phys.org/news/2026-06-ai-fast-forwards-molecular-simulations.html
-3. Column: Center the voices of survivors in safety planning discussions (Norfolk Virginian-Pilot)
-   https://www.pilotonline.com/2026/06/11/column-center-the-voices-of-survivors-in-safety-planning-discussions/
-4. Quote of the day by Mark Zuckerberg: 'Metaverse isn't a thing a company builds. It's the next chapter of the internet overall' — a prediction that hit wide of the mark (TechRadar)
-   https://www.techradar.com/pro/quote-of-the-day-by-mark-zuckerberg-metaverse-isnt-a-thing-a-company-builds-its-the-next-chapter-of-the-internet-overall-a-prediction-that-hit-wide-of-the-mark
-5. SpaceX IPO Priced at $135 Amid Massive Oversubscription, Sparking Market Anticipation (MarketScreener)
-   https://www.marketscreener.com/news/spacex-ipo-priced-at-135-amid-massive-oversubscription-sparking-market-anticipation-ce7f5cd8df8ff32d
+1. Cultural Sports Hub NBA Top Shot has its CryptoPunks Moment During NBA Finals, Securing Decentralized Permanence of Digital Collectibles (TechBullion)
+   https://techbullion.com/cultural-sports-hub-nba-top-shot-has-its-cryptopunks-moment-during-nba-finals-securing-decentralized-permanence-of-digital-collectibles/
+2. SpaceX Joins the $2 Trillion Club: Sends Markets Into Orbit (Devdiscourse)
+   https://www.devdiscourse.com/article/technology/3934612-spacex-joins-the-2-trillion-club-sends-markets-into-orbit
+3. Results of non-invasive prenatal testing compare well to those from invasive methods, with better safety and cost (Medical Xpress)
+   https://medicalxpress.com/news/2026-06-results-invasive-prenatal-methods-safety.html
+4. Tech Up, Paring Weekly Losses - Tech Roundup (MarketScreener)
+   https://www.marketscreener.com/news/tech-up-paring-weekly-losses-tech-roundup-ce7f5cd9dc81f622
+5. Young Aussie’s advice after switching to a ‘dumbphone’ and escaping modern technology: ‘Destroy it’ (7NEWS Australia)
+   https://7news.com.au/news/young-aussies-advice-after-switching-to-a-dumbphone-and-escaping-modern-technology-destroy-it-c-22419738
