@@ -1,29 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-06-16):
+What happens in tech today (2026-06-17):
 
-# **Today's Tech Insights: A Mixed Bag of Innovation and Controversy** 🌍
+# **Today's Tech Insights: A Blend of Innovation and Market Dynamics 🚗📉**
 
-In the realm of **biotechnology**, the advancement in protein imaging techniques is a game-changer. The ability to observe proteins "breathing" rather than just frozen snapshots could revolutionize drug development and our understanding of cellular processes. This **dynamic view** is crucial for tackling diseases at a molecular level.
+The **automated driving licence test centre in Lucknow** marks a significant step towards **standardized evaluations** in driver testing. This innovation could enhance road safety and reduce human error in assessments, showcasing how technology can improve public services.
 
-On the **economic front**, the EU's carbon tariff is causing significant turmoil for Chinese steel firms. The "absurd" regulations highlight the challenges of balancing environmental goals with global trade, raising questions about the future of international cooperation on climate issues.
+On the financial front, **Clean Science's announcement** of no new encumbrances on shares in FY26 reflects a stable outlook, which is crucial for investor confidence. Meanwhile, the **tumble in oil prices** due to the US-Iran deal indicates a volatile market, impacting sectors reliant on oil, including tech companies that depend on stable energy costs.
 
-In the tech stock market, Micron's impressive 11% jump signals strong investor confidence, but potential buyers must weigh the risks of entering at a peak.
+Lastly, **17 Education & Technology Group's financial results** and **EquipmentShare's private offering** highlight the ongoing investment in education technology and infrastructure, suggesting a robust future for these sectors.
 
-Lastly, the lawsuit against Lorex over its ties to the CCP raises **serious national security concerns**. As technology intertwines with geopolitics, vigilance is essential.
-
-**Stay informed and cautious!** 
+In summary, today's news emphasizes the intersection of technology, finance, and market dynamics, shaping our future landscape.
 
 All sources are at the section below.
 
 Sources:
-1. Beyond frozen snapshots, protein 'breathing' comes into view with combined imaging methods (Phys.org)
-   https://phys.org/news/2026-06-frozen-snapshots-protein-view-combined.html
-2. EU carbon tariff sows havoc in China as steel firms grapple with ‘absurd’ rules (South China Morning Post)
-   https://www.scmp.com/economy/china-economy/article/3357167/eu-carbon-tariff-sows-havoc-china-steel-firms-grapple-absurd-rules
-3. Micron Stock (MU) Jumps 11% to a New 52-Week High - Is It Too Late to Buy? (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/micron-stock-mu-jumps-11-to-a-new-52-week-high-is-it-too-late-to-buy-1036251694
-4. Missouri AG Catherine Hanaway Launches Lawsuit Against Baby Monitors and Home Cameras Company 'Lorex' Over Concealed CCP and Chinese Military Ties * The Gateway Pundit * by Jim Hᴏft (The Gateway Pundit)
-   https://www.thegatewaypundit.com/2026/06/missouri-ag-catherine-hanaway-launches-lawsuit-against-baby/
-5. National Security Concers: Starlink’s New Satellite Tech hits India Firewall (The Economic Times)
-   https://economictimes.indiatimes.com/et-front/starlinks-new-satellite-tech-hits-india-firewall/articleshow/131754823.cms
+1. Automated driving licence test centre in Lucknow to ensure uniform evaluation (Hindustan Times)
+   https://www.hindustantimes.com/cities/lucknow-news/automated-driving-licence-test-centre-in-lucknow-to-ensure-uniform-evaluation-101781634050335.html
+2. Clean Science confirms no new encumbrances on shares in FY26 (scanx.trade)
+   https://scanx.trade/stock-market-news/companies/clean-science-confirms-no-new-encumbrances-on-shares-in-fy26/43194512
+3. Oil prices tumble again on US-Iran deal; S&P 500 falls (MarketScreener)
+   https://www.marketscreener.com/news/oil-prices-tumble-again-on-us-iran-deal-s-p-500-falls-ce7f5cdcd980f42c
+4. 17 Education & Technology Group Inc. Announces First Quarter 2026 Unaudited Financial Results (The Manila Times)
+   https://www.manilatimes.net/2026/06/17/tmt-newswire/globenewswire/17-education-technology-group-inc-announces-first-quarter-2026-unaudited-financial-results/2367115
+5. EquipmentShare Announces Upsize and Pricing of Private Offering of Notes (The Manila Times)
+   https://www.manilatimes.net/2026/06/17/tmt-newswire/globenewswire/equipmentshare-announces-upsize-and-pricing-of-private-offering-of-notes/2367114
