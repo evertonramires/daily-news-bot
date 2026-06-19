@@ -1,36 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-06-18):
+What happens in tech today (2026-06-19):
 
-# **Navigating the Future of Energy and Technology 🌍⚡**
+# **The Future of Tech: Quantum Computing and Beyond! 🚀**
 
-The recent developments in energy and technology highlight a pivotal moment for our planet. **BWX's licensing of nuclear reactor designs** signifies a shift towards safer nuclear energy, driven by activist pressure. This could be a game-changer in sustainable energy solutions.
+The latest news highlights **exciting advancements** in technology, particularly with Amazon's announcement that **commercially useful quantum computers** are on the horizon. This could revolutionize industries by solving complex problems faster than traditional computers. 
 
-Meanwhile, **India's ambition to convert coal into gas** reflects a struggle for energy security amidst global shifts. While this could reduce reliance on imports, the **conversion challenges** must not be underestimated.
+Meanwhile, the **Toy Story 5** ending has sparked discussions about nostalgia and storytelling in animation, showcasing how technology influences modern narratives. 
 
-Reed Hastings' quote resonates deeply: **"We define entire epics of humanity by the technology they use."** This underscores the importance of innovation in shaping our future. 
+In healthcare, the **lab-on-a-chip platform** is a game-changer, demonstrating how **immune cells can effectively target cancer**, potentially leading to breakthroughs in treatment.
 
-TTM Technologies' acquisition of Swiss tech and PMET's collaboration for **on-site lithium refining** are also crucial steps in advancing tech capabilities, especially in the growing electric vehicle market.
+Additionally, the **bounce back of technology shares** indicates a resilient market, reflecting investor confidence in tech innovations. Lastly, the collaboration between **BCIT and RRU** signifies the importance of educational partnerships in fostering future talent in tech fields.
 
-In conclusion, these developments are not just news; they are **signposts of a transformative era** in energy and technology.
+Overall, these developments underscore a **dynamic intersection of technology, health, and education** that will shape our future.
 
----
-
-**Sources:**
-1. Bloomberg
-2. CNA
-3. TechRadar
-4. MarketScreener
-5. The Manila Times
+All sources are at the section below.
 
 Sources:
-1. BWX Agrees to License Nuclear Reactor Design After Activist Push (Bloomberg)
-   https://www.bloomberg.com/news/articles/2026-06-17/bwx-agrees-to-license-nuclear-reactor-design-after-activist-push
-2. India wants to turn more coal into gas for energy security. It faces a tough conversion (CNA)
-   https://www.channelnewsasia.com/asia/india-energy-security-coal-gas-imported-fuels-6189511
-3. Quote of the day by Netflix co-founder Reed Hastings: 'Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use' — defining a new era for humankind (TechRadar)
-   https://www.techradar.com/pro/quote-of-the-day-by-netflix-co-founder-reed-hastings-stone-age-bronze-age-iron-age-we-define-entire-epics-of-humanity-by-the-technology-they-use-defining-a-new-era-for-humankind
-4. TTM Technologies to Acquire Swiss Technology, ILFA (MarketScreener)
-   https://www.marketscreener.com/news/ttm-technologies-to-acquire-swiss-technology-ilfa-ce7f5cddd88af724
-5. PMET Advances On-Site Lithium Refining Strategy Through Technology Collaboration MOU with Mitsui and MWCC (The Manila Times)
-   https://www.manilatimes.net/2026/06/18/tmt-newswire/pr-newswire/pmet-advances-on-site-lithium-refining-strategy-through-technology-collaboration-mou-with-mitsui-and-mwcc/2367978
+1. Amazon Says Commercially Useful Quantum Computers Are Moving Closer To Becoming a Reality (International Business Times)
+   https://www.ibtimes.com/amazon-says-commercially-useful-quantum-computers-are-moving-closer-becoming-reality-3804274
+2. Toy Story 5 Ending Explained (/FILM)
+   https://www.slashfilm.com/2197686/toy-story-5-movie-ending-explained/
+3. Lab-on-a-chip platform shows how immune cells attack cancer cells (Medical Xpress)
+   https://medicalxpress.com/news/2026-06-lab-chip-platform-immune-cells.html
+4. Technology Shares Bounce Back -- Technology Roundup (MarketScreener)
+   https://www.marketscreener.com/news/technology-shares-bounce-back-technology-roundup-ce7f5cd2d88bf224
+5. BCIT and RRU John Horgan Campus to offer courses at each other's schools (CHEK News)
+   https://cheknews.ca/bcit-and-rru-john-horgan-campus-to-offer-courses-at-each-others-schools-1331516/
