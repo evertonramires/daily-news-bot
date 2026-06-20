@@ -1,29 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-06-19):
+What happens in tech today (2026-06-20):
 
-# **The Future of Tech: Quantum Computing and Beyond! 🚀**
+# **Exciting Developments in Tech: IPOs, Legal Battles, and National Security Concerns 🚀**
 
-The latest news highlights **exciting advancements** in technology, particularly with Amazon's announcement that **commercially useful quantum computers** are on the horizon. This could revolutionize industries by solving complex problems faster than traditional computers. 
+The tech landscape is buzzing with significant news! **Reliance's Jio filing for a big-bang IPO** signals a bold move to expand its market presence, potentially reshaping the telecom sector in India. This could attract substantial investments and enhance competition. 
 
-Meanwhile, the **Toy Story 5** ending has sparked discussions about nostalgia and storytelling in animation, showcasing how technology influences modern narratives. 
+On another front, **Xiao-I's patent litigation against Apple** highlights the ongoing struggles in tech innovation and intellectual property rights. Their decision to appeal reflects a commitment to protect their innovations, which could have broader implications for the industry.
 
-In healthcare, the **lab-on-a-chip platform** is a game-changer, demonstrating how **immune cells can effectively target cancer**, potentially leading to breakthroughs in treatment.
+Moreover, **Trump's comments on Anthropic** raise critical questions about the intersection of AI development and national security. As AI technologies advance, ensuring they align with safety standards is paramount.
 
-Additionally, the **bounce back of technology shares** indicates a resilient market, reflecting investor confidence in tech innovations. Lastly, the collaboration between **BCIT and RRU** signifies the importance of educational partnerships in fostering future talent in tech fields.
+Lastly, for investors, the **top tech ETFs** with promising upside potential offer exciting opportunities in a rapidly evolving market. 
 
-Overall, these developments underscore a **dynamic intersection of technology, health, and education** that will shape our future.
+Stay tuned for more updates! 
 
 All sources are at the section below.
 
 Sources:
-1. Amazon Says Commercially Useful Quantum Computers Are Moving Closer To Becoming a Reality (International Business Times)
-   https://www.ibtimes.com/amazon-says-commercially-useful-quantum-computers-are-moving-closer-becoming-reality-3804274
-2. Toy Story 5 Ending Explained (/FILM)
-   https://www.slashfilm.com/2197686/toy-story-5-movie-ending-explained/
-3. Lab-on-a-chip platform shows how immune cells attack cancer cells (Medical Xpress)
-   https://medicalxpress.com/news/2026-06-lab-chip-platform-immune-cells.html
-4. Technology Shares Bounce Back -- Technology Roundup (MarketScreener)
-   https://www.marketscreener.com/news/technology-shares-bounce-back-technology-roundup-ce7f5cd2d88bf224
-5. BCIT and RRU John Horgan Campus to offer courses at each other's schools (CHEK News)
-   https://cheknews.ca/bcit-and-rru-john-horgan-campus-to-offer-courses-at-each-others-schools-1331516/
+1. At AGM, Reliance Unveils Plans To Explore Fresh Ground: Jio Files for Big-bang IPO (The Economic Times)
+   https://economictimes.indiatimes.com/satet-front/jio-files-for-big-bang-ipo/articleshow/131866844.cms
+2. At AGM, Reliance Unveils Plans To Explore Fresh Ground: Jio Files for Big-bang IPO (The Economic Times)
+   https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/20/satet-front/jio-files-for-big-bang-ipo/articleshow/131866844.cms
+3. Xiao-I Corporation Provides Update on First-Instance Rulings in Patent Litigation Against Apple; Company Intends to Appeal to the Supreme People's Court (The Manila Times)
+   https://www.manilatimes.net/2026/06/20/tmt-newswire/pr-newswire/xiao-i-corporation-provides-update-on-first-instance-rulings-in-patent-litigation-against-apple-company-intends-to-appeal-to-the-supreme-peoples-court/2369294
+4. 'Didn't Like What They Were Doing': Trump Says Anthropic Raised National Security Concerns (News18)
+   https://www.news18.com/world/didnt-like-what-they-were-doing-trump-says-anthropic-raised-national-security-concerns-ws-l-10161963.html
+5. 3 Top Technology ETFs with At Least 10% Upside Potential for Investors in 2026 (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/3-top-technology-etfs-with-at-least-10-upside-potential-for-investors-in-2026-1036263520
