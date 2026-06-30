@@ -1,29 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-06-20):
+What happens in tech today (2026-06-30):
 
-# **Exciting Developments in Tech: IPOs, Legal Battles, and National Security Concerns 🚀**
+# **Today's Tech Insights: A Mixed Bag of Optimism and Challenges** 🚀
 
-The tech landscape is buzzing with significant news! **Reliance's Jio filing for a big-bang IPO** signals a bold move to expand its market presence, potentially reshaping the telecom sector in India. This could attract substantial investments and enhance competition. 
+**Micron Technology (MU)** is experiencing a boost in stock price targets thanks to **optimism about SCAs** (Supply Chain Agreements). This reflects a positive outlook in the semiconductor industry, which is crucial for tech advancements. 
 
-On another front, **Xiao-I's patent litigation against Apple** highlights the ongoing struggles in tech innovation and intellectual property rights. Their decision to appeal reflects a commitment to protect their innovations, which could have broader implications for the industry.
+On the flip side, **CanPR Technology Ltd.'s board resignation** raises concerns about corporate stability, which could impact investor confidence. 
 
-Moreover, **Trump's comments on Anthropic** raise critical questions about the intersection of AI development and national security. As AI technologies advance, ensuring they align with safety standards is paramount.
+In India, the **IT sector faces challenges** as Accenture signals potential risks in AI demand, indicating a need for adaptation in a rapidly evolving landscape. 
 
-Lastly, for investors, the **top tech ETFs** with promising upside potential offer exciting opportunities in a rapidly evolving market. 
+Interestingly, the role of **AI in education** is gaining traction, with potential benefits in teaching teens about conflict resolution and empathy. This could revolutionize learning methodologies.
 
-Stay tuned for more updates! 
+Lastly, the successful testing of the **world's largest superconducting magnet** in China marks a significant milestone for fusion energy research, promising a brighter future for sustainable energy.
 
 All sources are at the section below.
 
 Sources:
-1. At AGM, Reliance Unveils Plans To Explore Fresh Ground: Jio Files for Big-bang IPO (The Economic Times)
-   https://economictimes.indiatimes.com/satet-front/jio-files-for-big-bang-ipo/articleshow/131866844.cms
-2. At AGM, Reliance Unveils Plans To Explore Fresh Ground: Jio Files for Big-bang IPO (The Economic Times)
-   https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/20/satet-front/jio-files-for-big-bang-ipo/articleshow/131866844.cms
-3. Xiao-I Corporation Provides Update on First-Instance Rulings in Patent Litigation Against Apple; Company Intends to Appeal to the Supreme People's Court (The Manila Times)
-   https://www.manilatimes.net/2026/06/20/tmt-newswire/pr-newswire/xiao-i-corporation-provides-update-on-first-instance-rulings-in-patent-litigation-against-apple-company-intends-to-appeal-to-the-supreme-peoples-court/2369294
-4. 'Didn't Like What They Were Doing': Trump Says Anthropic Raised National Security Concerns (News18)
-   https://www.news18.com/world/didnt-like-what-they-were-doing-trump-says-anthropic-raised-national-security-concerns-ws-l-10161963.html
-5. 3 Top Technology ETFs with At Least 10% Upside Potential for Investors in 2026 (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/3-top-technology-etfs-with-at-least-10-upside-potential-for-investors-in-2026-1036263520
+1. Top Cantor Analyst Boosts Micron Stock (MU) Price Target on Optimism About SCAs (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/top-cantor-analyst-boosts-micron-stock-mu-price-target-on-optimism-about-scas-1036284973
+2. CanPR Technology Ltd. Announces Board Resignation and Provides Corporate Update (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/21054417-canpr-technology-ltd-announces-board-resignation-and-provides-corporate-update
+3. Indian It Faces A Harder Reset As Accenture Signal Sharpens A.I. And Demand Risks (Daily Excelsior)
+   https://www.dailyexcelsior.com/indian-it-faces-a-harder-reset-as-accenture-signal-sharpens-a-i-and-demand-risks/
+4. AI companionship may reshape how teens learn conflict, boundaries and empathy (Medical Xpress)
+   https://medicalxpress.com/news/2026-06-ai-companionship-reshape-teens-conflict.html
+5. World's biggest superconducting magnet passes final tests in China (Interesting Engineering)
+   https://interestingengineering.com/science/china-tests-world-largest-fusion-superconducting-magnet
