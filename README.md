@@ -2,39 +2,38 @@
 
 What happens in tech today (2026-07-04):
 
-# 🚀 Tech & Innovation Pulse – July 4 2026  
+# 🚀 **Tech & Sports Fusion: What 2026 Has in Store**  
 
-**Hey readers, Sofia here!** Today’s headlines show India’s tech ecosystem buzzing on multiple fronts – from education to gadgets, tablets, cross‑border investment, and even e‑mobility.  
+The **500 Hz motion chip** hidden in the new FIFA‑approved ball turned a routine off‑side call into a **game‑changing controversy**, knocking Croatia out of the 2026 qualifiers. It’s a vivid reminder that **high‑frequency sensors are no longer lab toys** – they’re now decisive on the world stage.  
 
-- **UPESEAT 2026** opens its doors, giving aspiring engineers a streamlined online portal. The digital‑first approach **lowers barriers** and signals that Indian higher‑ed institutions are finally catching up with global enrollment trends.  
+Meanwhile, **UPESEAT 2026** opens its doors for the next wave of engineering talent. The streamlined eligibility check and direct‑apply link make **higher‑ed access as frictionless as a tablet swipe**.  
 
-- The **iPhone 18** rumor mill is heating up. If Apple sticks to its usual cadence, we can expect a **sleeker design, a per‑iscope camera and a 1 TB base model** priced around ₹1,30,000. Indian consumers will weigh this against home‑grown flagships that are closing the performance gap.  
+Apple’s **iPhone 18** rumors hint at a **per‑pixel sensor upgrade** and a **sub‑₹80,000 price tag** in India, signaling that flagship pricing is finally aligning with local purchasing power.  
 
-- **Tablets are morphing into laptops** – think detachable keyboards, 5G, and desktop‑class CPUs. For students and remote workers, this convergence could **replace bulky notebooks**, especially when paired with affordable financing schemes like those tied to UPESEAT scholarships.  
+Speaking of tablets, modern devices now **rival laptops** in performance, thanks to ARM‑based CPUs and detachable keyboards – a trend that could **reshape remote work and education** in emerging markets.  
 
-- The **India‑Israel Bilateral Investment Pact** is now active, unlocking capital for high‑tech collaborations. Expect joint R&D in AI, clean energy, and perhaps **next‑gen battery management platforms**.  
+Finally, the **India‑Israel bilateral investment pact** is set to accelerate **tech‑focused FDI**, potentially funding the very sensors, AI chips, and startup ecosystems we’re seeing explode.  
 
-- Speaking of batteries, the **removal of rogue e‑rickshaw apps** after safety incidents underscores the need for **robust, regulated software ecosystems**. A strong legal framework, backed by international investment, could accelerate safe e‑mobility solutions.  
-
-**Bottom line:** India is weaving education, hardware, and policy into a cohesive tech narrative. The synergy between new talent pipelines, cutting‑edge devices, and foreign investment will likely **drive a home‑grown innovation boom** in the next few years.  
+**Bottom line:** 2026 will be defined by the convergence of ultra‑fast sensors, accessible education platforms, affordable premium smartphones, and cross‑border capital – a perfect storm for innovators.  
 
 ---  
 
-**Sources**  
-1. Times of India – UPESEAT 2026 registration.  
-2. Times Now – iPhone 18 specs & price.  
-3. Hindustan Times – Tablets vs. laptops.  
-4. Lokmat Times – India‑Israel investment pact.  
-5. The Hindu – Battery apps takedown.
+**All the sources are at the section below**  
+
+- Hindustan Times – 500 Hz motion chip & football controversy  
+- Times of India – UPESEAT 2026 registration  
+- Times Now – iPhone 18 specs & price India  
+- Hindustan Times – Modern tablets vs laptops  
+- Lokmat Times – India‑Israel investment pact
 
 Sources:
-1. UPESEAT 2026 registration begins at upes.ac.in: Check eligibility and direct link to apply (Times of India)
+1. 500Hz motion chip & football that needs to be charged: The Fifa tech that knocked out Croatia from 2026 world cup (Hindustan Times)
+   https://www.hindustantimes.com/world-news/fifa-world-cup-2026-connected-ball-technology-croatia-vs-portugal-match-offside-rule-explained-500hz-motion-chip-101783145893220.html
+2. UPESEAT 2026 registration begins at upes.ac.in: Check eligibility and direct link to apply (Times of India)
    https://timesofindia.indiatimes.com/education/news/upeseat-2026-registration-begins-at-upes-ac-in-check-eligibility-and-direct-link-to-apply/articleshow/132176056.cms
-2. iPhone 18 Price In India, Release Date, Specifications, And Camera, What To Expect (Times Now)
+3. iPhone 18 Price In India, Release Date, Specifications, And Camera, What To Expect (Times Now)
    https://www.timesnownews.com/technology-science/iphone-18-price-in-india-release-date-specifications-and-camera-what-to-expect-article-154932589
-3. Modern tablets have come a long way, and some can now replace your laptop (Hindustan Times)
+4. Modern tablets have come a long way, and some can now replace your laptop (Hindustan Times)
    https://www.hindustantimes.com/technology/modern-tablets-have-come-a-long-way-and-some-can-now-replace-your-laptop-101783063481347.html
-4. Israel bilateral investment pact comes into force (Lokmat Times)
+5. Israel bilateral investment pact comes into force (Lokmat Times)
    https://www.lokmattimes.com/technology/landmark-india-israel-bilateral-investment-pact-comes-into-force-2/
-5. India takes down battery apps after stalled e-rickshaw rides (The Hindu)
-   https://www.thehindu.com/sci-tech/technology/india-takes-down-battery-apps-after-stalled-e-rickshaw-rides/article71181698.ece
