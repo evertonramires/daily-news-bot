@@ -1,35 +1,38 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-04):
+What happens in tech today (2026-07-05):
 
-# 🚀 Tech & Trends 2026: From Smart Balls to Tablet‑Laptops & Global Deals
+# 🚀 **Tech Pulse: From Corporate Gaffes to Space Grapples & AI Ethics**  
 
-The **500 Hz motion chip** embedded in the new FIFA‑approved football turned a routine off‑side call into a headline‑grabbing controversy, proving that **ultra‑low‑latency sensors are now game‑changers on the pitch**. While fans debated fairness, the tech showcases how **real‑time data will infiltrate every sport**, demanding robust standards and transparent algorithms.
+Satya Nadella’s ill‑chosen remark about women asking for raises reminded us that **leadership tone‑setting still matters**; the swift reversal shows Microsoft is keen to protect its brand, but the episode underscores the need for deeper cultural work, not just PR fixes.  
 
-Meanwhile, **iPhone 18** rumors hint at a **$1,099 launch price in India**, a per‑camera upgrade, and a **satellite‑link backup**—features that echo the **tablet revolution** highlighted by Hindustan Times, where devices like the iPad Pro now rival laptops in performance and multitasking. Expect Apple to push the **convergence narrative**: a phone that can double as a portable workstation, blurring the line between mobile and desktop.
+NASA’s new orbital‑grappling system is a **game‑changer for on‑orbit servicing**, potentially lowering launch costs and extending satellite lifespans—an innovation that could ripple into commercial debris‑removal markets.  
 
-On the education front, **UPESEAT 2026** opens its doors, signaling a surge in **tech‑driven admissions** as universities adopt AI‑based eligibility checks. This aligns with the broader **digital transformation** across sectors.
+Micron’s Japan expansion to crank out more HBM is a clear bet on the **AI‑driven compute surge**; securing supply chains now feels as strategic as any defense posture.  
 
-Finally, the **India‑Israel bilateral investment pact** is a strategic boost for **tech startups**, promising joint R&D, especially in AI, IoT, and defense tech—areas that will feed innovations like the FIFA chip and next‑gen tablets.
+Meanwhile, Australia’s privacy warning over AI‑powered medical scribes highlights the **privacy‑security tension** that’s surfacing wherever AI meets sensitive data.  
 
-**Bottom line:** 2026 is the year **data‑rich hardware, seamless device ecosystems, and cross‑border tech investments** converge to reshape how we play, work, and learn. 🌐💡
+At the NATO summit, AI security was front‑and‑center, echoing the same concerns: **robust governance is essential before AI becomes a battlefield tool**.  
 
----
+**Bottom line:** 2026 is shaping up as a year where technological breakthroughs must be matched with responsible leadership and policy.  
+
+---  
 
 **Sources**  
-- Hindustan Times – 500 Hz motion chip & modern tablets  
-- Times of India – UPESEAT 2026 registration  
-- Times Now – iPhone 18 specs & price  
-- Lokmat Times – India‑Israel investment pact
+- [TechRadar – Nadella quote gaffe](https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-on-women-asking-for-a-raise-its-about-knowing-and-having-faith-in-the-system-a-controversial-gaffe-that-led-to-an-immediate-reversal)  
+- [Devdiscourse – NASA grappling breakthrough](https://www.devdiscourse.com/article/science-environment/3945386-space-race-innovation-nasas-orbital-grappling-breakthrough)  
+- [Markets Insider – Micron Japan expansion](https://markets.businessinsider.com/news/stocks/micron-mu-starts-major-japan-expansion-to-boost-hbm-output-for-the-ai-boom-1036298029)  
+- [The Guardian – Australian AI scribes warning](https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning)  
+- [Politico – AI security at NATO](https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758)
 
 Sources:
-1. 500Hz motion chip & football that needs to be charged: The Fifa tech that knocked out Croatia from 2026 world cup (Hindustan Times)
-   https://www.hindustantimes.com/world-news/fifa-world-cup-2026-connected-ball-technology-croatia-vs-portugal-match-offside-rule-explained-500hz-motion-chip-101783145893220.html
-2. UPESEAT 2026 registration begins at upes.ac.in: Check eligibility and direct link to apply (Times of India)
-   https://timesofindia.indiatimes.com/education/news/upeseat-2026-registration-begins-at-upes-ac-in-check-eligibility-and-direct-link-to-apply/articleshow/132176056.cms
-3. iPhone 18 Price In India, Release Date, Specifications, And Camera, What To Expect (Times Now)
-   https://www.timesnownews.com/technology-science/iphone-18-price-in-india-release-date-specifications-and-camera-what-to-expect-article-154932589
-4. Modern tablets have come a long way, and some can now replace your laptop (Hindustan Times)
-   https://www.hindustantimes.com/technology/modern-tablets-have-come-a-long-way-and-some-can-now-replace-your-laptop-101783063481347.html
-5. Israel bilateral investment pact comes into force (Lokmat Times)
-   https://www.lokmattimes.com/technology/landmark-india-israel-bilateral-investment-pact-comes-into-force-2/
+1. Quote of the day by Microsoft CEO Satya Nadella on women asking for a raise: 'It’s about knowing and having faith in the system' — a controversial gaffe that led to an immediate reversal (TechRadar)
+   https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-on-women-asking-for-a-raise-its-about-knowing-and-having-faith-in-the-system-a-controversial-gaffe-that-led-to-an-immediate-reversal
+2. Space Race Innovation: NASA's Orbital Grappling Breakthrough (Devdiscourse)
+   https://www.devdiscourse.com/article/science-environment/3945386-space-race-innovation-nasas-orbital-grappling-breakthrough
+3. Micron (MU) Starts Major Japan Expansion to Boost HBM Output for the AI Boom (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/micron-mu-starts-major-japan-expansion-to-boost-hbm-output-for-the-ai-boom-1036298029
+4. Doctors’ soaring use of AI scribes prompts Australian government warning over privacy (The Guardian)
+   https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning
+5. AI security questions loom over NATO summit (POLITICO)
+   https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758
