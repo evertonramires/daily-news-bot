@@ -1,33 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-07):
+What happens in tech today (2026-07-08):
 
-# 🚀 **Tech Trends Shaping 2026: From Life‑Saving Screens to AI‑Powered Workplaces**
+# 📡 **Tech & Telecom Turbulence: From Hospital Beds to National‑Security Bunkers**  
 
-Gene Solutions’ **SPOT‑MAS** platform puts **Asia at the forefront of cancer‑screening innovation**, proving that regional biotech can set global standards. At the same time, the **psychological toll of AI managers** (Forbes) reminds us that not every tech leap is a win for human well‑being. Harvey Keitel’s blunt claim that “AI has already failed” (PerthNow) echoes this sentiment, urging a sober look at hype versus reality.
+The **ResMed** divestiture of its MatrixCare software for **$490 M** signals a strategic retreat from non‑core health‑IT, letting the company double‑down on its core sleep‑and‑respiratory devices.  In a market where **AI‑driven care platforms** are exploding, the cash infusion will fund R&D on next‑gen connected‑therapy gear, but it also raises questions about consolidation in the **digital health** space and the fate of smaller providers that rely on MatrixCare’s niche solutions.  
 
-On the geopolitical front, U.S. firms are **hardening AI models against Chinese extraction** (IBTimes), a move that could fragment the AI ecosystem and slow collaborative progress. Meanwhile, Binance’s **vision for integrated financial services** (TechBullion) shows how fintech is racing ahead, leveraging AI for speed while navigating the same regulatory and ethical minefields.
+Meanwhile, the **FCC’s double‑pronged crackdown**—rejecting a U.S. firm with Chinese ties and targeting DigitalSystem Technology over “national‑security” worries—underscores a **growing regulatory hardening** on telecom supply chains.  Operators will need to scramble for compliant vendors, potentially inflating costs and slowing rollout of 5G/6G infrastructure.  
 
-**Bottom line:** 2026 is a paradoxical year—breakthroughs in health tech coexist with growing concerns over AI’s impact on mental health, security, and trust. The industry must balance **innovation with responsibility** to ensure technology truly serves humanity.
+In contrast, the **philanthropy‑tech crossover** highlighted by the BBC shows NGOs leveraging blockchain, AI, and remote‑learning tools to amplify impact, a trend that could inspire **health‑tech startups** to embed social good into their business models.  
 
-**All the sources are at the section below.**
+Finally, **Figure Technology Solutions’** solid Q2 numbers demonstrate that **regional players** can still thrive amid geopolitical headwinds, provided they stay clear of flagged supply‑chain risks.  
+
+**Bottom line:** 2026 is shaping up as a year where **strategic divestments, regulatory vigilance, and purpose‑driven innovation** intersect, forcing tech firms to balance growth ambitions with compliance and societal impact.  
 
 ---  
+
 **Sources**  
-1. Gene Solutions' SPOT‑MAS 10 Places Asia‑Led Cancer Screening Innovation in the Global Spotlight – *Manila Times*  
-2. The Hidden Psychological Cost Of Having AI As Your Boss – *Forbes*  
-3. Harvey Keitel reveals why he thinks AI has already ‘failed’ – *PerthNow*  
-4. U.S. Companies Have Been Taking Measures To Prevent China To Take From Their AI Models. Now They're Escalating – *International Business Times*  
-5. Richard Teng Discusses Binance's Vision for the Future of Financial Services – *TechBullion*
+- Reuters: ResMed to sell MatrixCare – https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/  
+- BBC: Philanthropy: From temples to technology – https://www.bbc.com/news/articles/cvg5388xpv9o  
+- Reuters: FCC denies US firm with Chinese links – https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07/  
+- Devdiscourse: FCC Targets Digitalsystem Technology – https://www.devdiscourse.com/article/law-order/3946839-fcc-targets-digitalsystem-technology-over-national-security-concerns  
+- Manila Times: Figure Technology Solutions Q2 data – https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/figure-technology-solutions-reports-preliminary-june-q2-2026-operating-data/2380383
 
 Sources:
-1. Gene Solutions' SPOT-MAS 10 Places Asia-Led Cancer Screening Innovation in the Global Spotlight (The Manila Times)
-   https://www.manilatimes.net/2026/07/07/tmt-newswire/pr-newswire/gene-solutions-spot-mas-10-places-asia-led-cancer-screening-innovation-in-the-global-spotlight/2379395
-2. The Hidden Psychological Cost Of Having AI As Your Boss (Forbes)
-   https://www.forbes.com/sites/dianehamilton/2026/07/06/the-hidden-psychological-cost-of-having-ai-as-your-boss/
-3. Harvey Keitel reveals why he thinks AI has already ‘failed’ (PerthNow)
-   https://www.perthnow.com.au/entertainment/celebrity-gossip/harvey-keitel-reveals-why-he-thinks-ai-has-already-failed-c-22540438
-4. U.S. Companies Have Been Taking Measures To Prevent China To Take From Their AI Models. Now They're Escalating. (International Business Times)
-   https://www.ibtimes.com/us-companies-have-been-taking-measures-prevent-china-take-their-ai-models-now-theyre-3804982
-5. Richard Teng Discusses Binance's Vision for the Future of Financial Services (TechBullion)
-   https://techbullion.com/richard-teng-discusses-binances-vision-for-the-future-of-financial-services/
+1. ResMed to sell software business MatrixCare for $490 million (Reuters)
+   https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/
+2. Philanthropy: From temples to technology (BBC News)
+   https://www.bbc.com/news/articles/cvg5388xpv9o
+3. FCC denies US firm with Chinese links approval to provide telecom services (Reuters)
+   https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07/
+4. FCC Targets Digitalsystem Technology over National Security Concerns (Devdiscourse)
+   https://www.devdiscourse.com/article/law-order/3946839-fcc-targets-digitalsystem-technology-over-national-security-concerns
+5. Figure Technology Solutions Reports Preliminary June & Q2 2026 Operating Data (The Manila Times)
+   https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/figure-technology-solutions-reports-preliminary-june-q2-2026-operating-data/2380383
