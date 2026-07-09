@@ -1,36 +1,44 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-08):
+What happens in tech today (2026-07-09):
 
-# 📡 **Tech & Telecom Turbulence: From Hospital Beds to National‑Security Bunkers**  
+# 🌐 **Tech, Defense & Education: A Turbulent Week for Global Innovation**  
 
-The **ResMed** divestiture of its MatrixCare software for **$490 M** signals a strategic retreat from non‑core health‑IT, letting the company double‑down on its core sleep‑and‑respiratory devices.  In a market where **AI‑driven care platforms** are exploding, the cash infusion will fund R&D on next‑gen connected‑therapy gear, but it also raises questions about consolidation in the **digital health** space and the fate of smaller providers that rely on MatrixCare’s niche solutions.  
+China’s **2035 science‑tech ambition** (Xi’s directive) signals a state‑driven race to dominate AI, quantum and biotech, pressuring rivals to double down on strategic tech investments. Meanwhile, **NYC schools** hitting the pause button on new hardware underscores how **AI policy debates** are now a frontline issue in education, echoing the broader geopolitical scramble.  
 
-Meanwhile, the **FCC’s double‑pronged crackdown**—rejecting a U.S. firm with Chinese ties and targeting DigitalSystem Technology over “national‑security” worries—underscores a **growing regulatory hardening** on telecom supply chains.  Operators will need to scramble for compliant vendors, potentially inflating costs and slowing rollout of 5G/6G infrastructure.  
+In defense, **Denmark’s acquisition of eight P‑8A Poseidons** bolsters Arctic surveillance, while the **U.S. (via Trump) offering Ukraine a Patriot licence** shows how technology transfer is becoming a diplomatic weapon. Both moves illustrate a shift from pure procurement to **knowledge‑sharing alliances**.  
 
-In contrast, the **philanthropy‑tech crossover** highlighted by the BBC shows NGOs leveraging blockchain, AI, and remote‑learning tools to amplify impact, a trend that could inspire **health‑tech startups** to embed social good into their business models.  
+The **Activist Post** reminder that “your car was never the target” highlights a growing public skepticism: as governments weaponize tech, citizens demand transparency and ethical safeguards.  
 
-Finally, **Figure Technology Solutions’** solid Q2 numbers demonstrate that **regional players** can still thrive amid geopolitical headwinds, provided they stay clear of flagged supply‑chain risks.  
-
-**Bottom line:** 2026 is shaping up as a year where **strategic divestments, regulatory vigilance, and purpose‑driven innovation** intersect, forcing tech firms to balance growth ambitions with compliance and societal impact.  
+**Bottom line:** 2026 is a crossroads where **state ambition, security needs, and societal trust** collide. The tech sector must navigate tighter regulations, geopolitical licensing, and a public that’s increasingly wary of hidden agendas.  
 
 ---  
 
-**Sources**  
-- Reuters: ResMed to sell MatrixCare – https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/  
-- BBC: Philanthropy: From temples to technology – https://www.bbc.com/news/articles/cvg5388xpv9o  
-- Reuters: FCC denies US firm with Chinese links – https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07/  
-- Devdiscourse: FCC Targets Digitalsystem Technology – https://www.devdiscourse.com/article/law-order/3946839-fcc-targets-digitalsystem-technology-over-national-security-concerns  
-- Manila Times: Figure Technology Solutions Q2 data – https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/figure-technology-solutions-reports-preliminary-june-q2-2026-operating-data/2380383
+**All sources are listed below:**  
+
+1. *Tech by 2035: Xi tells scientists* – Daily Excelsior  
+   https://www.dailyexcelsior.com/make-china-leading-power-in-sci-tech-by-2035-xi-tells-scientists/  
+
+2. *Your Car Was Never the Target* – Activist Post  
+   https://www.activistpost.com/your-car-was-never-the-target/  
+
+3. *NYC public schools puts technology purchases on hold amid heated debate over AI policy* – New York Daily News  
+   https://www.nydailynews.com/2026/07/08/nyc-public-schools-puts-technology-purchases-on-hold-amid-heated-debate-over-ai-policy/  
+
+4. *8A Poseidons for Arctic anti* – Interesting Engineering  
+   https://interestingengineering.com/military/denmark-boeing-p-8a-aircraft-acquisition  
+
+5. *Trump says US will give Ukraine license to produce Patriot defense systems* – The Manila Times  
+   https://www.manilatimes.net/2026/07/09/world/trump-says-us-will-give-ukraine-license-to-produce-patriot-defense-systems/2381245
 
 Sources:
-1. ResMed to sell software business MatrixCare for $490 million (Reuters)
-   https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/
-2. Philanthropy: From temples to technology (BBC News)
-   https://www.bbc.com/news/articles/cvg5388xpv9o
-3. FCC denies US firm with Chinese links approval to provide telecom services (Reuters)
-   https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07/
-4. FCC Targets Digitalsystem Technology over National Security Concerns (Devdiscourse)
-   https://www.devdiscourse.com/article/law-order/3946839-fcc-targets-digitalsystem-technology-over-national-security-concerns
-5. Figure Technology Solutions Reports Preliminary June & Q2 2026 Operating Data (The Manila Times)
-   https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/figure-technology-solutions-reports-preliminary-june-q2-2026-operating-data/2380383
+1. tech by 2035: Xi tells scientists (Daily Excelsior)
+   https://www.dailyexcelsior.com/make-china-leading-power-in-sci-tech-by-2035-xi-tells-scientists/
+2. Your Car Was Never the Target (Activist Post)
+   https://www.activistpost.com/your-car-was-never-the-target/
+3. NYC public schools puts technology purchases on hold amid heated debate over AI policy (New York Daily News)
+   https://www.nydailynews.com/2026/07/08/nyc-public-schools-puts-technology-purchases-on-hold-amid-heated-debate-over-ai-policy/
+4. 8A Poseidons for Arctic anti (Interesting Engineering)
+   https://interestingengineering.com/military/denmark-boeing-p-8a-aircraft-acquisition
+5. Trump says US will give Ukraine license to produce Patriot defense systems (The Manila Times)
+   https://www.manilatimes.net/2026/07/09/world/trump-says-us-will-give-ukraine-license-to-produce-patriot-defense-systems/2381245
