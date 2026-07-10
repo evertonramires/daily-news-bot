@@ -1,44 +1,35 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-09):
+What happens in tech today (2026-07-10):
 
-# 🌐 **Tech, Defense & Education: A Turbulent Week for Global Innovation**  
+# 📊 **Tech & Trends Snapshot: Memory Wars, Disney Robotics, AI Economy, & Cyber Espionage**  
 
-China’s **2035 science‑tech ambition** (Xi’s directive) signals a state‑driven race to dominate AI, quantum and biotech, pressuring rivals to double down on strategic tech investments. Meanwhile, **NYC schools** hitting the pause button on new hardware underscores how **AI policy debates** are now a frontline issue in education, echoing the broader geopolitical scramble.  
+**Micron vs. SanDisk** – Analysts are split. Micron’s aggressive DRAM pricing gives it short‑term upside, but **SanDisk’s NAND lead and stronger cash flow** make it a safer long‑haul play. I’d lean toward **SanDisk** for investors who value resilience over hype.  
 
-In defense, **Denmark’s acquisition of eight P‑8A Poseidons** bolsters Arctic surveillance, while the **U.S. (via Trump) offering Ukraine a Patriot licence** shows how technology transfer is becoming a diplomatic weapon. Both moves illustrate a shift from pure procurement to **knowledge‑sharing alliances**.  
+**Disney’s autonomous “E‑Robot”** – The new mobilizer in *Remember* showcases how **AI‑driven robotics can elevate live entertainment**, turning backstage logistics into a seamless guest experience. Expect similar tech to spill into theme‑park operations worldwide.  
 
-The **Activist Post** reminder that “your car was never the target” highlights a growing public skepticism: as governments weaponize tech, citizens demand transparency and ethical safeguards.  
+**AI’s economic impact** – Reuters breaks it down: **productivity gains** are real, yet **job displacement** and **regulatory lag** create a “good‑bad‑ugly” mix. Companies must pair AI adoption with **upskilling programs** to capture the upside.  
 
-**Bottom line:** 2026 is a crossroads where **state ambition, security needs, and societal trust** collide. The tech sector must navigate tighter regulations, geopolitical licensing, and a public that’s increasingly wary of hidden agendas.  
+**Russian cyber‑espionage case** – The not‑guilty plea highlights the **jurisdictional maze** of cyber law. It underscores the need for clearer international norms as state‑linked hacking becomes routine.  
+
+**My take:** 2026 is a pivot year where **hardware fundamentals, immersive robotics, AI policy, and cyber‑security** intersect. Smart investors and tech leaders should watch memory stock fundamentals, leverage robotics for experience differentiation, and champion responsible AI and cyber‑law reforms.  
 
 ---  
 
-**All sources are listed below:**  
-
-1. *Tech by 2035: Xi tells scientists* – Daily Excelsior  
-   https://www.dailyexcelsior.com/make-china-leading-power-in-sci-tech-by-2035-xi-tells-scientists/  
-
-2. *Your Car Was Never the Target* – Activist Post  
-   https://www.activistpost.com/your-car-was-never-the-target/  
-
-3. *NYC public schools puts technology purchases on hold amid heated debate over AI policy* – New York Daily News  
-   https://www.nydailynews.com/2026/07/08/nyc-public-schools-puts-technology-purchases-on-hold-amid-heated-debate-over-ai-policy/  
-
-4. *8A Poseidons for Arctic anti* – Interesting Engineering  
-   https://interestingengineering.com/military/denmark-boeing-p-8a-aircraft-acquisition  
-
-5. *Trump says US will give Ukraine license to produce Patriot defense systems* – The Manila Times  
-   https://www.manilatimes.net/2026/07/09/world/trump-says-us-will-give-ukraine-license-to-produce-patriot-defense-systems/2381245
+**Sources**  
+- Micron vs. SanDisk analysis – Markets Insider【https://markets.businessinsider.com/news/stocks/micron-vs-sandisk-which-memory-stock-is-the-better-buy-according-to-analysts-1036313401】  
+- Disney “E‑Robot” behind‑the‑scenes – WDWNT【https://wdwnt.com/2026/07/behind-the-scenes-look-at-the-autonomous-mobilator-used-in-disney-adventures-remember-pixar-show/】  
+- AI economic impact – Reuters Breakingviews【https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/】  
+- Russian cyber‑espionage plea – The Straits Times & Reuters【https://www.straitstimes.com/world/europe/russian-man-pleads-not-guilty-in-us-cyber-espionage-case】【https://www.reuters.com/legal/government/russian-man-pleads-not-guilty-us-cyber-espionage-case-2026-07-09/】
 
 Sources:
-1. tech by 2035: Xi tells scientists (Daily Excelsior)
-   https://www.dailyexcelsior.com/make-china-leading-power-in-sci-tech-by-2035-xi-tells-scientists/
-2. Your Car Was Never the Target (Activist Post)
-   https://www.activistpost.com/your-car-was-never-the-target/
-3. NYC public schools puts technology purchases on hold amid heated debate over AI policy (New York Daily News)
-   https://www.nydailynews.com/2026/07/08/nyc-public-schools-puts-technology-purchases-on-hold-amid-heated-debate-over-ai-policy/
-4. 8A Poseidons for Arctic anti (Interesting Engineering)
-   https://interestingengineering.com/military/denmark-boeing-p-8a-aircraft-acquisition
-5. Trump says US will give Ukraine license to produce Patriot defense systems (The Manila Times)
-   https://www.manilatimes.net/2026/07/09/world/trump-says-us-will-give-ukraine-license-to-produce-patriot-defense-systems/2381245
+1. Micron vs. SanDisk: Which Memory Stock Is the Better Buy, According to Analysts? (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/micron-vs-sandisk-which-memory-stock-is-the-better-buy-according-to-analysts-1036313401
+2. E Robot Used in Disney Adventure's 'Remember' Show (wdwnt.com)
+   https://wdwnt.com/2026/07/behind-the-scenes-look-at-the-autonomous-mobilator-used-in-disney-adventures-remember-pixar-show/
+3. The good, bad and ugly of AI’s economic impact (Reuters)
+   https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/
+4. Russian man pleads not guilty in US cyber espionage case (The Straits Times)
+   https://www.straitstimes.com/world/europe/russian-man-pleads-not-guilty-in-us-cyber-espionage-case
+5. Russian man pleads not guilty in US cyber espionage case (Reuters)
+   https://www.reuters.com/legal/government/russian-man-pleads-not-guilty-us-cyber-espionage-case-2026-07-09/
