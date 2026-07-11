@@ -1,35 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-10):
+What happens in tech today (2026-07-11):
 
-# 📊 **Tech & Trends Snapshot: Memory Wars, Disney Robotics, AI Economy, & Cyber Espionage**  
+# 🌐 **FTAs, AI, and Night‑Life: How India’s Tech Surge Is Shaping Global Trends**  
 
-**Micron vs. SanDisk** – Analysts are split. Micron’s aggressive DRAM pricing gives it short‑term upside, but **SanDisk’s NAND lead and stronger cash flow** make it a safer long‑haul play. I’d lean toward **SanDisk** for investors who value resilience over hype.  
+The **Confederation of Indian Industry (CII)** is urging manufacturers to **leverage free‑trade agreements** to push exports worldwide【1】. This push dovetails with the **$1 billion raised by India’s AI startups in H1‑’26**, as venture capitalists double down on home‑grown talent【4】【5】.  
 
-**Disney’s autonomous “E‑Robot”** – The new mobilizer in *Remember* showcases how **AI‑driven robotics can elevate live entertainment**, turning backstage logistics into a seamless guest experience. Expect similar tech to spill into theme‑park operations worldwide.  
+Why does this matter?  
+- **Export‑ready AI solutions** can become India’s next “Made in India” flagship, giving firms a competitive edge in markets opened by FTAs.  
+- The **Alexandria fitness studio** shows AI’s **consumer‑grade versatility**, turning data into personalized workouts【3】—a model Indian startups can replicate for health, retail, and manufacturing.  
 
-**AI’s economic impact** – Reuters breaks it down: **productivity gains** are real, yet **job displacement** and **regulatory lag** create a “good‑bad‑ugly” mix. Companies must pair AI adoption with **upskilling programs** to capture the upside.  
+Meanwhile, on the cultural front, **Vancouver’s Science World** is turning a science museum into a **boozy after‑dark party**【2】. It’s a reminder that **tech‑centric experiences are no longer confined to labs**; they’re becoming lifestyle events that attract global audiences.  
 
-**Russian cyber‑espionage case** – The not‑guilty plea highlights the **jurisdictional maze** of cyber law. It underscores the need for clearer international norms as state‑linked hacking becomes routine.  
-
-**My take:** 2026 is a pivot year where **hardware fundamentals, immersive robotics, AI policy, and cyber‑security** intersect. Smart investors and tech leaders should watch memory stock fundamentals, leverage robotics for experience differentiation, and champion responsible AI and cyber‑law reforms.  
+**Bottom line:** India’s export ambitions, AI funding boom, and the global appetite for immersive tech experiences are converging. Companies that **marry AI‑driven products with the market access FTAs provide** will likely lead the next wave of cross‑border tech commerce.  
 
 ---  
 
-**Sources**  
-- Micron vs. SanDisk analysis – Markets Insider【https://markets.businessinsider.com/news/stocks/micron-vs-sandisk-which-memory-stock-is-the-better-buy-according-to-analysts-1036313401】  
-- Disney “E‑Robot” behind‑the‑scenes – WDWNT【https://wdwnt.com/2026/07/behind-the-scenes-look-at-the-autonomous-mobilator-used-in-disney-adventures-remember-pixar-show/】  
-- AI economic impact – Reuters Breakingviews【https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/】  
-- Russian cyber‑espionage plea – The Straits Times & Reuters【https://www.straitstimes.com/world/europe/russian-man-pleads-not-guilty-in-us-cyber-espionage-case】【https://www.reuters.com/legal/government/russian-man-pleads-not-guilty-us-cyber-espionage-case-2026-07-09/】
+**All the sources are at the section below:**  
+
+1. CII Asks Industries To Harness FTAs To Boost Exports Globally – *Deccan Chronicle*  
+2. Things to do in Vancouver: Boozy party at Science World – *Vancouver Is Awesome*  
+3. How this Alexandria fitness studio uses AI technology in workouts – *WTOP*  
+4. India’s AI Newbies Rake in $1b in H1 ’26 as Venture Capitals Double Down – *The Economic Times* (link 1)  
+5. India’s AI Newbies Rake in $1b in H1 ’26 as Venture Capitals Double Down – *The Economic Times* (link 2)
 
 Sources:
-1. Micron vs. SanDisk: Which Memory Stock Is the Better Buy, According to Analysts? (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/micron-vs-sandisk-which-memory-stock-is-the-better-buy-according-to-analysts-1036313401
-2. E Robot Used in Disney Adventure's 'Remember' Show (wdwnt.com)
-   https://wdwnt.com/2026/07/behind-the-scenes-look-at-the-autonomous-mobilator-used-in-disney-adventures-remember-pixar-show/
-3. The good, bad and ugly of AI’s economic impact (Reuters)
-   https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/
-4. Russian man pleads not guilty in US cyber espionage case (The Straits Times)
-   https://www.straitstimes.com/world/europe/russian-man-pleads-not-guilty-in-us-cyber-espionage-case
-5. Russian man pleads not guilty in US cyber espionage case (Reuters)
-   https://www.reuters.com/legal/government/russian-man-pleads-not-guilty-us-cyber-espionage-case-2026-07-09/
+1. CII Asks Industries To Harness FTAs To Boost Exports Globally (Deccan Chronicle)
+   https://www.deccanchronicle.com/southern-states/andhra-pradesh/cii-asks-industries-to-harness-ftas-to-boost-exports-globally-1970032
+2. Things to do in Vancouver: Boozy party at Science World (Vancouver Is Awesome)
+   https://www.vancouverisawesome.com/events-and-entertainment/science-world-fifa-dome-after-dark-party-july-2026-12535480
+3. How this Alexandria fitness studio uses AI technology in workouts (WTOP)
+   https://wtop.com/alexandria/2026/07/how-this-alexandria-fitness-studio-uses-ai-technology-in-workouts/
+4. India’s AI Newbies Rake in $1b in H1 ’26 as Venture Capitals Double Down (The Economic Times)
+   https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/11/satet-front/indias-ai-newbies-rake-in-1bin-h1-26-as-vcs-double-down/articleshow/132320708.cms
+5. India’s AI Newbies Rake in $1b in H1 ’26 as Venture Capitals Double Down (The Economic Times)
+   https://economictimes.indiatimes.com/satet-front/indias-ai-newbies-rake-in-1bin-h1-26-as-vcs-double-down/articleshow/132320708.cms
