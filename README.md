@@ -1,39 +1,38 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-13):
+What happens in tech today (2026-07-14):
 
-# ⚡️ **Tech, Tactics & Trust: From the World Cup Pitch to the Home Front**  
+# 🚀 **Tech & Policy: From Neighborhood Labs to Global Diplomacy**  
 
-The **new VAR‑plus‑AI system** debuting at the World Cup shows how **real‑time data can settle disputes** on the biggest stage (TSN, AJC, WTOP, AP). It’s a triumph of transparency, but it also reminds us that **technology is only as good as the rules governing it**.  
+South Portland and Cape Elizabeth’s push for **regular community input** shows how **digital platforms can turn town halls into data‑driven forums**. If municipalities adopt lightweight feedback tools, residents can shape zoning, transit, and even **smart‑city pilots** in real time.  
 
-Meanwhile, Birmingham’s shocking rise in **financial coercion by domestic abusers** (Birmingham Live) highlights a darker side of data: **money‑flow analytics are being weaponised** against vulnerable partners.  
+The shocking **0 % admission rate** at over two dozen Indian engineering institutes is a wake‑up call: **automation and AI‑assisted admissions** could help match applicants to programs that still have capacity, while also flagging curriculum gaps that need modernisation.  
 
-**What does this mean for us?**  
+Venezuela’s diplomatic reshuffle, highlighted by new ambassadorial appointments, underscores how **digital diplomacy**—secure communications, real‑time analytics, and cyber‑public‑relations—has become a strategic asset in volatile regions.  
 
-- **Standardised tech** can protect millions when applied fairly—just as VAR protects the integrity of sport.  
-- **Without safeguards**, the same data pipelines can enable abuse, underscoring the need for **strong legal frameworks** and **ethical oversight**.  
+Meanwhile, the **Middle‑East flare‑up** is rattling markets, reminding investors that **geopolitical risk models must integrate real‑time cyber‑threat intelligence** to anticipate sudden swings.  
 
-As a tech journalist, I see a clear call to action: **replicate the accountability models of sport tech in social policy**, ensuring that innovations empower rather than oppress.  
+Finally, NYC’s mayoral tech initiative—**five “PIT crews”** deploying new digital tools—demonstrates that **agile, cross‑functional squads** can accelerate public‑service innovation, from permit processing to open‑data portals.  
 
-**All sources are listed below.**  
+**Bottom line:** From local councils to international capitals, the **fusion of technology, community engagement, and transparent data** is no longer optional—it’s the backbone of resilient governance.  
 
 ---  
 
-### Sources  
-- Birmingham Live – *Number of domestic abusers using finances for coercion soaring*  
-- TSN – *What to know about new rules, technology behind World Cup’s most contentious calls*  
-- Atlanta Journal‑Constitution – *What to know about new rules and technology behind the World Cup's most contentious calls*  
-- WTOP – *What to know about new rules and technology behind the World Cup's most contentious calls*  
-- Associated Press – *Explaining the new rules and technology behind the World Cup's most contentious calls*
+**Sources**  
+1. Portland Press Herald – South Portland, Cape Elizabeth community input  
+2. Free Press Journal – Engineering institutes 0 % admissions  
+3. Devdiscourse – Venezuela diplomatic appointments  
+4. Devdiscourse – Middle‑East market volatility  
+5. AM New York – NYC “PIT crews” tech rollout
 
 Sources:
-1. Number of domestic abusers using finances for coercion soaring (Birmingham Live)
-   https://www.birminghammail.co.uk/news/midlands-news/number-domestic-abusers-using-finances-34263755
-2. What to know about new rules, technology behind World Cup’s most contentious calls (Tsn (The Sports Network))
-   https://www.tsn.ca/soccer/fifa-world-cup/article/what-to-know-about-new-rules-technology-behind-world-cups-most-contentious-calls/
-3. What to know about new rules and technology behind the World Cup's most contentious calls (The Atlanta Journal-Constitution)
-   https://www.ajc.com/news/2026/07/what-to-know-about-new-rules-and-technology-behind-the-world-cups-most-contentious-calls/
-4. What to know about new rules and technology behind the World Cup’s most contentious calls (WTOP)
-   https://wtop.com/sports/2026/07/what-to-know-about-new-rules-and-technology-behind-the-world-cups-most-contentious-calls/
-5. Explaining the new rules and technology behind the World Cup's most contentious calls (The Associated Press)
-   https://apnews.com/article/world-cup-embolo-mistaken-identity-argentina-switzerland-399f2ee88e27264cba6f34ac24181b5a
+1. South Portland, Cape Elizabeth seek regular community input (Portland Press Herald)
+   https://www.pressherald.com/2026/07/13/south-portland-cape-elizabeth-seek-regular-community-input/
+2. More Than Two Dozen Engineering Institutes Record 0% Admissions (Free Press Journal)
+   https://www.freepressjournal.in/bhopal/more-than-two-dozen-engineering-institutes-record-0-admissions
+3. Shift in Venezuela's Diplomatic Relations: New Appointments Unveiled (Devdiscourse)
+   https://www.devdiscourse.com/article/politics/3949758-shift-in-venezuelas-diplomatic-relations-new-appointments-unveiled
+4. Middle East Tensions Ignite Market Volatility (Devdiscourse)
+   https://www.devdiscourse.com/article/business/3949751-middle-east-tensions-ignite-market-volatility
+5. Mamdani takes City Hall tech for a spin with five new ‘PIT crews’ to improve digital tools (AM New York)
+   https://www.amny.com/politics/mamdani-tech-five-new-pit-crews/
