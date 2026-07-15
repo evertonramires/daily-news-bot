@@ -1,38 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-14):
+What happens in tech today (2026-07-15):
 
-# 🚀 **Tech & Policy: From Neighborhood Labs to Global Diplomacy**  
+# 🚀 **Tech & Innovation Pulse: From 3‑D‑Printed Irons to AI‑Driven Governance**  
 
-South Portland and Cape Elizabeth’s push for **regular community input** shows how **digital platforms can turn town halls into data‑driven forums**. If municipalities adopt lightweight feedback tools, residents can shape zoning, transit, and even **smart‑city pilots** in real time.  
+The week’s headlines show how **advanced manufacturing, AI, and regulatory shifts** are converging across sports, finance, and public policy.
 
-The shocking **0 % admission rate** at over two dozen Indian engineering institutes is a wake‑up call: **automation and AI‑assisted admissions** could help match applicants to programs that still have capacity, while also flagging curriculum gaps that need modernisation.  
+- **Bryson DeChambeau’s 3‑D‑printed irons** at The Open illustrate how additive manufacturing is moving from prototyping to **high‑performance consumer products**. The ability to fine‑tune weight distribution could set a new standard for equipment customization.  
+- **JaKeGA’s digital‑governance critique** underscores the need for **transparent, auditable AI frameworks** as governments adopt more automated services. Saurabh’s call for stronger oversight is a timely reminder that tech adoption must be paired with robust policy.  
+- **Driver‑assistance misuse** remains the top road‑safety risk, according to Reuters. As ADAS becomes ubiquitous, **user education and stricter liability rules** are essential to prevent over‑reliance.  
+- **Vield & Integral’s automated hedging** for crypto‑backed loans shows that **AI‑driven risk management** can finally scale in the volatile crypto sector, potentially attracting institutional capital.  
+- **U.S. visa policy for foreign content‑moderation experts** (The Verge) signals a **recognition of global talent** in the fight against misinformation, but also raises questions about sovereignty and data privacy.
 
-Venezuela’s diplomatic reshuffle, highlighted by new ambassadorial appointments, underscores how **digital diplomacy**—secure communications, real‑time analytics, and cyber‑public‑relations—has become a strategic asset in volatile regions.  
+**Bottom line:** 2026 is the year where **hardware innovation, AI governance, and cross‑border policy** intersect. Companies that can blend cutting‑edge tech with responsible frameworks will lead the next wave of disruption.
 
-Meanwhile, the **Middle‑East flare‑up** is rattling markets, reminding investors that **geopolitical risk models must integrate real‑time cyber‑threat intelligence** to anticipate sudden swings.  
+---
 
-Finally, NYC’s mayoral tech initiative—**five “PIT crews”** deploying new digital tools—demonstrates that **agile, cross‑functional squads** can accelerate public‑service innovation, from permit processing to open‑data portals.  
+**All sources are at the section below**
 
-**Bottom line:** From local councils to international capitals, the **fusion of technology, community engagement, and transparent data** is no longer optional—it’s the backbone of resilient governance.  
-
----  
-
-**Sources**  
-1. Portland Press Herald – South Portland, Cape Elizabeth community input  
-2. Free Press Journal – Engineering institutes 0 % admissions  
-3. Devdiscourse – Venezuela diplomatic appointments  
-4. Devdiscourse – Middle‑East market volatility  
-5. AM New York – NYC “PIT crews” tech rollout
+1. Yardbarker – *Bryson DeChambeau to debut set of 3D‑printed irons at The Open*  
+2. Daily Excelsior – *Saurabh reviews JaKeGA initiatives, calls for stronger digital governance framework*  
+3. Reuters – *Misuse of driver‑assistance systems biggest risk to road safety, survey finds*  
+4. Benzinga – *Vield Partners with Integral to Automate Hedging as Crypto‑Backed Lending Scales*  
+5. The Verge – *Foreign officials can’t be denied US visas for supporting content moderation*
 
 Sources:
-1. South Portland, Cape Elizabeth seek regular community input (Portland Press Herald)
-   https://www.pressherald.com/2026/07/13/south-portland-cape-elizabeth-seek-regular-community-input/
-2. More Than Two Dozen Engineering Institutes Record 0% Admissions (Free Press Journal)
-   https://www.freepressjournal.in/bhopal/more-than-two-dozen-engineering-institutes-record-0-admissions
-3. Shift in Venezuela's Diplomatic Relations: New Appointments Unveiled (Devdiscourse)
-   https://www.devdiscourse.com/article/politics/3949758-shift-in-venezuelas-diplomatic-relations-new-appointments-unveiled
-4. Middle East Tensions Ignite Market Volatility (Devdiscourse)
-   https://www.devdiscourse.com/article/business/3949751-middle-east-tensions-ignite-market-volatility
-5. Mamdani takes City Hall tech for a spin with five new ‘PIT crews’ to improve digital tools (AM New York)
-   https://www.amny.com/politics/mamdani-tech-five-new-pit-crews/
+1. Bryson DeChambeau to debut set of 3D-printed irons at The Open (Yardbarker)
+   https://www.yardbarker.com/golf/articles/bryson_dechambeau_to_debut_set_of_3d_printed_irons_at_the_open/s1_17051_44062582
+2. Saurabh reviews JaKeGA initiatives, calls for stronger digital governance framework (Daily Excelsior)
+   https://www.dailyexcelsior.com/saurabh-reviews-jakega-initiatives-calls-for-stronger-digital-governance-framework/
+3. Misuse of driver-assistance systems biggest risk to road safety, survey finds (Reuters)
+   https://www.reuters.com/legal/litigation/misuse-driver-assistance-systems-biggest-risk-road-safety-survey-finds-2026-07-14/
+4. Vield Partners with Integral to Automate Hedging as Crypto-Backed Lending Scales (Benzinga)
+   https://www.benzinga.com/content/60459188/vield-partners-integral-automate-hedging-crypto-backed-lending-scales
+5. Foreign officials can’t be denied US visas for supporting content moderation. (The Verge)
+   https://www.theverge.com/policy/965682/foreign-officials-cant-be-denied-us-visas-for-supporting-content-moderation
