@@ -1,37 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-15):
+What happens in tech today (2026-07-16):
 
-# 🚀 **Tech & Innovation Pulse: From 3‑D‑Printed Irons to AI‑Driven Governance**  
+# 🚀 **Global Tech Ties Tighten: From LA Labs to Indo‑EU Alliances**  
 
-The week’s headlines show how **advanced manufacturing, AI, and regulatory shifts** are converging across sports, finance, and public policy.
+USC’s Space Engineering Research Center is turning its open house into a **local‑industry matchmaking hub**—a smart move that could accelerate prototype testing for Southern California startups and give big players a glimpse of emerging talent.  
 
-- **Bryson DeChambeau’s 3‑D‑printed irons** at The Open illustrate how additive manufacturing is moving from prototyping to **high‑performance consumer products**. The ability to fine‑tune weight distribution could set a new standard for equipment customization.  
-- **JaKeGA’s digital‑governance critique** underscores the need for **transparent, auditable AI frameworks** as governments adopt more automated services. Saurabh’s call for stronger oversight is a timely reminder that tech adoption must be paired with robust policy.  
-- **Driver‑assistance misuse** remains the top road‑safety risk, according to Reuters. As ADAS becomes ubiquitous, **user education and stricter liability rules** are essential to prevent over‑reliance.  
-- **Vield & Integral’s automated hedging** for crypto‑backed loans shows that **AI‑driven risk management** can finally scale in the volatile crypto sector, potentially attracting institutional capital.  
-- **U.S. visa policy for foreign content‑moderation experts** (The Verge) signals a **recognition of global talent** in the fight against misinformation, but also raises questions about sovereignty and data privacy.
+Meanwhile, the **India‑EU strategic partnership** announced at the 3rd Trade & Technology Council (TTC) signals a new era of cross‑border collaboration in **AI, semiconductors and clean tech**. The three working groups (tech, clean energy, trade) are already delivering joint road‑maps, suggesting that regulatory harmonisation will follow the tech‑first approach.  
 
-**Bottom line:** 2026 is the year where **hardware innovation, AI governance, and cross‑border policy** intersect. Companies that can blend cutting‑edge tech with responsible frameworks will lead the next wave of disruption.
+Figure Technology Solutions’ Q2‑2026 results date may seem routine, but it underscores how **Asian‑Pacific firms are aligning their reporting cycles with global investors**, a subtle nod to the growing importance of transparent ESG metrics.  
 
----
+Finally, Trump’s rambling defense‑tech speech in Anchorage reminded us that **political rhetoric still shapes funding priorities**, even if the details get lost in the noise.  
 
-**All sources are at the section below**
+**Bottom line:** Regional outreach (USC), multilateral frameworks (India‑EU), and corporate transparency (Figure) are converging to create a more interconnected, innovation‑friendly ecosystem—provided policymakers keep the focus on standards, not slogans.  
 
-1. Yardbarker – *Bryson DeChambeau to debut set of 3D‑printed irons at The Open*  
-2. Daily Excelsior – *Saurabh reviews JaKeGA initiatives, calls for stronger digital governance framework*  
-3. Reuters – *Misuse of driver‑assistance systems biggest risk to road safety, survey finds*  
-4. Benzinga – *Vield Partners with Integral to Automate Hedging as Crypto‑Backed Lending Scales*  
-5. The Verge – *Foreign officials can’t be denied US visas for supporting content moderation*
+---  
+
+**Sources**  
+1. USC’s Space Engineering Research Center open house – *Orange County Register*  
+2. India, EU strengthen strategic partnership at 3rd TTC – *The Tribune*  
+3. EU Trade and Technology Council advances cooperation – *The Tribune*  
+4. Figure Technology Solutions Q2‑2026 results date – *Manila Times*  
+5. Trump’s defense‑technology address – *Anchorage Daily News*
 
 Sources:
-1. Bryson DeChambeau to debut set of 3D-printed irons at The Open (Yardbarker)
-   https://www.yardbarker.com/golf/articles/bryson_dechambeau_to_debut_set_of_3d_printed_irons_at_the_open/s1_17051_44062582
-2. Saurabh reviews JaKeGA initiatives, calls for stronger digital governance framework (Daily Excelsior)
-   https://www.dailyexcelsior.com/saurabh-reviews-jakega-initiatives-calls-for-stronger-digital-governance-framework/
-3. Misuse of driver-assistance systems biggest risk to road safety, survey finds (Reuters)
-   https://www.reuters.com/legal/litigation/misuse-driver-assistance-systems-biggest-risk-road-safety-survey-finds-2026-07-14/
-4. Vield Partners with Integral to Automate Hedging as Crypto-Backed Lending Scales (Benzinga)
-   https://www.benzinga.com/content/60459188/vield-partners-integral-automate-hedging-crypto-backed-lending-scales
-5. Foreign officials can’t be denied US visas for supporting content moderation. (The Verge)
-   https://www.theverge.com/policy/965682/foreign-officials-cant-be-denied-us-visas-for-supporting-content-moderation
+1. USC’s Space Engineering Research Center open house’s mission: Connect with local industry (Santa Ana Orange County Register)
+   https://www.ocregister.com/2026/07/15/uscs-space-engineering-research-center-open-houses-mission-connect-with-local-industry/
+2. India, EU strengthen strategic partnership at 3rd TTC; announce cooperation in AI, semiconductors, clean technologies (The Tribune)
+   https://www.tribuneindia.com/news/world/india-eu-strengthen-strategic-partnership-at-3rd-ttc-announce-cooperation-in-ai-semiconductors-clean-technologies/
+3. EU Trade and Technology Council advances cooperation across 3 key working groups on tech, clean energy, trade (The Tribune)
+   https://www.tribuneindia.com/news/world/india-eu-trade-and-technology-council-advances-cooperation-across-3-key-working-groups-on-tech-clean-energy-trade/
+4. Figure Technology Solutions Announces Date for Second Quarter 2026 Results (The Manila Times)
+   https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/figure-technology-solutions-announces-date-for-second-quarter-2026-results/2385499
+5. Trump drifts into array of topics while addressing defense technology gathering (Anchorage Daily News)
+   https://www.adn.com/nation-world/2026/07/15/trump-drifts-into-array-of-topics-while-addressing-defense-technology-gathering/
