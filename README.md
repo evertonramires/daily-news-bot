@@ -1,35 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-17):
+What happens in tech today (2026-07-18):
 
-# 🚀 **Tech‑Finance Fusion: From Boardroom Shifts to Blockchain IPOs & Trusted AI**  
+# 📈💡 **Tech‑Savvy Take: From Stock Slip‑Ups to Cool Collabs & STEM Boosts**  
 
-Questor’s **special committee** signals a classic leadership‑transition play, but the real intrigue lies in its **strategy refresh**—likely a pivot toward digital assets and AI‑driven analytics. Meanwhile, **Cantor Fitzgerald’s move to tokenize IPOs on blockchain** pushes Wall Street closer to the **decentralized‑finance mainstream**, promising faster settlement and broader investor access.  
+The **newbie investor’s 9 % dip** isn’t just bad luck – it’s a textbook case of *timing vs. selection*. In volatile markets, even solid picks can tumble if bought near peaks. The lesson? Pair **fundamental research** with **algorithmic alerts** to dodge timing traps.  
 
-The **FIS‑Anthropic partnership** adds another layer: **trusted AI** will soon underpin compliance, risk modeling, and client‑facing services, making the data pipelines that power tokenized securities more secure and transparent.  
+Meanwhile, the **Igloo × Slayer can‑and‑cup drop** shows how **brand‑tech mashups** (AR‑ready designs, QR‑linked playlists) can turn everyday gear into *collectible tech experiences*. Retailers should watch this trend for future **IoT‑enabled merch**.  
 
-Finally, the **Trump‑social‑media market effect** reminds us that **human sentiment still trumps algorithms** in short‑term moves, underscoring the need for AI tools that can **filter noise** and surface genuine market drivers.  
+On the education front, **Briar Cliff’s new COO, Cyndi Hanson**, brings a data‑driven ops mindset that could accelerate **digital campus initiatives**. Coupled with **Marshall Elementary’s $150 k STEM grant**, we see a clear push toward **early coding & robotics**—the pipeline that will feed tomorrow’s innovators.  
 
-**Bottom line:** 2026 is shaping up as the year where **boardroom restructuring, blockchain tokenization, and trustworthy AI converge**, redefining how capital is raised, managed, and reacted to in real time.  
+Finally, the **Panvel animal crematorium** is a reminder that **tech‑enabled humane solutions** (eco‑friendly incinerators, tracking apps) are expanding beyond human healthcare into **veterinary and municipal services**.  
+
+**Bottom line:** From finance to fashion, education to civic tech, the common thread is *smart integration of data and digital tools* to create value and resilience.  
 
 ---  
 
-**All sources are listed below:**  
+**Sources**  
 
-1. Questor Announces Formation of Special Committee… – *The Manila Times*  
-2. Cantor Fitzgerald Is Bringing IPOs Onto The Blockchain… – *International Business Times*  
-3. Questor Announces Formation of Special Committee… – *Wallstreet Online*  
-4. FIS and Anthropic Extend Partnership on Trusted AI… – *Wallstreet Online*  
-5. Trading On Truth: How Trump's Social Media Posts Move Markets – *Devdiscourse*
+1. Benzinga – “Wrong Picks or Just Bad Timing?”  
+2. The Oregonian – Igloo × Slayer collaboration  
+3. Sioux City Journal – Cyndi Hanson COO appointment  
+4. M Live Michigan – Marshall Elementary STEM grant  
+5. Free Press Journal – Panvel animal crematorium initiative
 
 Sources:
-1. Questor Announces Formation of Special Committee to Support Leadership Transition and Strategy Refresh (The Manila Times)
-   https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/questor-announces-formation-of-special-committee-to-support-leadership-transition-and-strategy-refresh/2386320
-2. Cantor Fitzgerald Is Bringing IPOs Onto The Blockchain. Tokenized Securities Are Moving Closer To Wall Street's Mainstream. (International Business Times)
-   https://www.ibtimes.com/cantor-fitzgerald-bringing-ipos-blockchain-tokenized-securities-are-moving-closer-wall-3805335
-3. Questor Announces Formation of Special Committee to Support Leadership Transition and Strategy Refresh (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/21120652-questor-announces-formation-of-special-committee-to-support-leadership-transition-and-strategy-refresh
-4. FIS and Anthropic Extend Partnership on Trusted AI for Financial Services (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/21120643-fis-and-anthropic-extend-partnership-on-trusted-ai-for-financial-services
-5. Trading On Truth: How Trump's Social Media Posts Move Markets (Devdiscourse)
-   https://www.devdiscourse.com/article/business/3951593-trading-on-truth-how-trumps-social-media-posts-move-markets
+1. 'Wrong Picks or Just Bad Timing?' A Newbie Investor Wonders Why Their Stock Portfolio Fell 9%. Here Are t (Benzinga)
+   https://www.benzinga.com/news/topics/26/07/60539896/wrong-picks-or-just-bad-timing-a-newbie-investor-wonders-why-their-stock-portfolio-fell-9-here-are-the-stocks-they-bought
+2. Hell yeah: Igloo x Slayer can, cups and cooler collaboration items are finally on sale (The Oregonian)
+   https://www.oregonlive.com/shopping-deals/2026/07/hell-yeah-igloo-x-slayer-can-cups-and-cooler-collaboration-items-are-finally-on-sale.html
+3. Cyndi Hanson named Briar Cliff University chief operating officer (Sioux City Journal)
+   https://siouxcityjournal.com/news/local/education/article_57d3856d-afd5-4a9a-874b-a1f5bc7c0cf4.html
+4. Marshall elementary schools receive $150,000 to expand STEM education (M Live Michigan )
+   https://www.mlive.com/news/ann-arbor/2026/07/marshall-elementary-schools-receive-150000-to-expand-stem-education.html
+5. Panvel Municipal Corporation To Set Up Modern Animal Crematorium At Kharghar For Dignified Disposal (Free Press Journal)
+   https://www.freepressjournal.in/mumbai/panvel-municipal-corporation-to-set-up-modern-animal-crematorium-at-kharghar-for-dignified-disposal
