@@ -1,36 +1,40 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-22):
+What happens in tech today (2026-07-23):
 
-# 🚀 **AI, Global Partnerships & Cyber‑Security: The Tech Pulse of July 22, 2026**
+# 🚀 Tech, Energy & Society: The Cross‑Currents Shaping Tomorrow  
 
-The **SuperX‑Mercuria Asia** alliance marks a decisive push to democratize AI infrastructure in Southeast Asia. By pooling cloud‑scale hardware with Mercuria’s data‑center expertise, they can **lower latency** for generative models and give regional startups a viable alternative to Western giants.  
+**Megaport** and **WiseTech** look like *prime‑time* picks for growth‑focused investors, thanks to their **cloud‑networking** and **logistics‑AI** moats that are feeding the same digital‑infrastructure surge powering the other stories below.  
 
-Meanwhile, **India‑North Macedonia** talks on trade, technology, and tourism illustrate how smaller economies are leveraging **tri‑sector cooperation** to attract FDI and talent, a model other emerging markets may emulate.  
+The **U.S.–Saudi nuclear pact** is a game‑changer: it promises massive clean‑energy capacity, which will **lower electricity costs** for data‑centres and logistics platforms—directly benefitting firms like Megaport that rent massive bandwidth.  
 
-On the security front, **Intrusion Inc.**’s upbeat pre‑Investor Day briefing signals strong early traction in **zero‑trust** solutions—an area where **Fortinet** continues to dominate, as analysts note its robust revenue mix and expanding SaaS portfolio.  
+Meanwhile, the **Detroit youth‑golf‑tech expo** shows how **hands‑on STEM** can spark the next generation of innovators, feeding the talent pipeline that companies such as WiseTech will need to scale AI‑driven supply‑chain solutions.  
 
-Analyst commentary on **Ouster**, **Ceragon**, **Texas Instruments**, **NextPower** and **Dave** underscores a broader theme: **hardware resilience** (TI’s analog leadership), **edge‑AI sensors** (Ouster), and **specialized connectivity** (Ceragon) remain growth engines, while niche players like Dave must prove sustainable monetisation.  
+A breakthrough in **water‑surface vortices** powering tiny rotors offers a **zero‑emission, low‑cost energy source**—potentially a micro‑grid supplement for remote data hubs or smart‑city sensors.  
 
-**Bottom line:** 2026 is shaping up as a year where **strategic partnerships** and **specialized hardware** drive the next wave of AI and security innovation, especially in regions previously under‑served.
+Finally, the **U‑BI debate** sparked by AI‑driven job displacement forces policymakers to consider **new social contracts**. If universal income stabilises consumer demand, it could indirectly boost demand for the **digital services** these tech firms deliver.  
 
----
+**Bottom line:** The convergence of clean‑energy deals, grassroots tech education, and innovative low‑power hardware creates a fertile ecosystem for Megaport and WiseTech to thrive—while society wrestles with the broader implications of AI‑enabled automation.  
+
+*All the sources are at the section below.*  
+
+---  
 
 **Sources**  
-- SuperX & Mercuria Asia partnership – *The Manila Times*  
-- India‑North Macedonia cooperation – *The Tribune*  
-- Intrusion Inc. Investor Day preview – *Wallstreet Online*  
-- Analyst insights on Fortinet, Ouster, Ceragon – *Markets Insider*  
-- Analyst insights on Texas Instruments, NextPower, Dave – *Markets Insider*
+1. [Motley Fool Australia – Megaport & WiseTech](https://www.fool.com.au/2026/07/23/are-megaport-and-wisetech-shares-top-buys/)  
+2. [Devdiscourse – US‑Saudi Nuclear Deal](https://www.devdiscourse.com/article/science-environment/3954304-us-and-saudi-arabia-forge-landmark-nuclear-power-deal)  
+3. [ClickOnDetroit – Detroit Youth Expo](https://www.clickondetroit.com/news/local/2026/07/22/detroit-youth-combine-golf-technology-at-expo-focused-on-future-opportunities/)  
+4. [Phys.org – Vortex‑Powered Rotors](https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html)  
+5. [Activist Post – UBI & AI](https://www.activistpost.com/universal-basic-income-debate-surfaces-as-ai-technology-advances-taking-jobs/)
 
 Sources:
-1. SuperX and Mercuria Asia Forge Strategic Partnership to Build Innovative AI Infrastructure Ecosystem (The Manila Times)
-   https://www.manilatimes.net/2026/07/22/tmt-newswire/pr-newswire/superx-and-mercuria-asia-forge-strategic-partnership-to-build-innovative-ai-infrastructure-ecosystem/2388922
-2. North Macedonia eye expanding cooperation across three Ts (The Tribune)
-   https://www.tribuneindia.com/news/world/india-north-macedonia-eye-expanding-cooperation-across-three-ts-trade-technology-tourism-mea/
-3. Intrusion Inc. Highlights Strong Early Execution and Strategic Momentum Ahead of Investor Technology Day (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/21135698-intrusion-inc-highlights-strong-early-execution-and-strategic-momentum-ahead-of-investor-technology-day
-4. Analysts Offer Insights on Technology Companies: Fortinet (FTNT), Ouster (OUST) and Ceragon Networks (CRNT) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-technology-companies-fortinet-ftnt-ouster-oust-and-ceragon-networks-crnt-1036348736
-5. Analysts Offer Insights on Technology Companies: Texas Instruments (TXN), Nextpower Inc (NXT) and Dave (DAVE) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-technology-companies-texas-instruments-txn-nextpower-inc-nxt-and-dave-dave-1036348675
+1. Are Megaport and WiseTech shares top buys? (The Motley Fool Australia)
+   https://www.fool.com.au/2026/07/23/are-megaport-and-wisetech-shares-top-buys/
+2. U.S. and Saudi Arabia Forge Landmark Nuclear Power Deal (Devdiscourse)
+   https://www.devdiscourse.com/article/science-environment/3954304-us-and-saudi-arabia-forge-landmark-nuclear-power-deal
+3. Detroit youth combine golf, technology at expo focused on future opportunities (WDIV ClickOnDetroit)
+   https://www.clickondetroit.com/news/local/2026/07/22/detroit-youth-combine-golf-technology-at-expo-focused-on-future-opportunities/
+4. Water-surface vortices drive tiny rotors without electricity, magnets or chemicals (Phys.org)
+   https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html
+5. Universal Basic Income Debate Surfaces As AI Technology Advances, Taking Jobs (Activist Post)
+   https://www.activistpost.com/universal-basic-income-debate-surfaces-as-ai-technology-advances-taking-jobs/
