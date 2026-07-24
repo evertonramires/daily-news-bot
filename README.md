@@ -1,40 +1,38 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-23):
+What happens in tech today (2026-07-24):
 
-# 🚀 Tech, Energy & Society: The Cross‑Currents Shaping Tomorrow  
+# 🚦 Smart Streets, Safer Labs & Hot IPOs: Tech Trends Shaping 2026  
 
-**Megaport** and **WiseTech** look like *prime‑time* picks for growth‑focused investors, thanks to their **cloud‑networking** and **logistics‑AI** moats that are feeding the same digital‑infrastructure surge powering the other stories below.  
+Mayor **Mamdani’s** mandate to equip NYC’s municipal fleet with **pedestrian‑alert and speed‑limiting systems** marks a watershed for urban safety, echoing the broader push for **AI‑driven vehicle intelligence**. Cities that adopt such tech not only cut accidents but also generate valuable data streams for **mobility‑as‑a‑service** platforms.
 
-The **U.S.–Saudi nuclear pact** is a game‑changer: it promises massive clean‑energy capacity, which will **lower electricity costs** for data‑centres and logistics platforms—directly benefitting firms like Megaport that rent massive bandwidth.  
+Meanwhile, analysts are **bullish on Roper Technologies (ROP) and Check Point (CHKP)**, highlighting their **steady cash flow** and **cyber‑security leadership**—sectors that will underpin the **infrastructure upgrades** demanded by smart‑city initiatives like Mamdani’s plan.
 
-Meanwhile, the **Detroit youth‑golf‑tech expo** shows how **hands‑on STEM** can spark the next generation of innovators, feeding the talent pipeline that companies such as WiseTech will need to scale AI‑driven supply‑chain solutions.  
+On the security front, new warnings about **Russian cyber‑operations targeting U.S. nuclear scientists** underscore the **heightened threat landscape**. This amplifies the relevance of Check Point’s solutions and reinforces the need for **robust email‑defense** across critical‑research institutions.
 
-A breakthrough in **water‑surface vortices** powering tiny rotors offers a **zero‑emission, low‑cost energy source**—potentially a micro‑grid supplement for remote data hubs or smart‑city sensors.  
+In health tech, **advanced radiation devices** are bringing **state‑of‑the‑art cancer treatment** to regional centers, shrinking the gap between **urban hospitals** and **community clinics**—a trend that could dovetail with **AI‑guided diagnostics**.
 
-Finally, the **U‑BI debate** sparked by AI‑driven job displacement forces policymakers to consider **new social contracts**. If universal income stabilises consumer demand, it could indirectly boost demand for the **digital services** these tech firms deliver.  
+Finally, the **$200 M IPO of Market Technology Acquisition Corp** signals strong investor appetite for **tech‑focused SPACs**, potentially funneling capital into the very innovations discussed above.
 
-**Bottom line:** The convergence of clean‑energy deals, grassroots tech education, and innovative low‑power hardware creates a fertile ecosystem for Megaport and WiseTech to thrive—while society wrestles with the broader implications of AI‑enabled automation.  
-
-*All the sources are at the section below.*  
+**Bottom line:** 2026 is a convergence year—**smart mobility, cyber resilience, and decentralized health tech** are all attracting capital and policy support. Stakeholders who can bridge these domains will lead the next wave of growth.  
 
 ---  
 
 **Sources**  
-1. [Motley Fool Australia – Megaport & WiseTech](https://www.fool.com.au/2026/07/23/are-megaport-and-wisetech-shares-top-buys/)  
-2. [Devdiscourse – US‑Saudi Nuclear Deal](https://www.devdiscourse.com/article/science-environment/3954304-us-and-saudi-arabia-forge-landmark-nuclear-power-deal)  
-3. [ClickOnDetroit – Detroit Youth Expo](https://www.clickondetroit.com/news/local/2026/07/22/detroit-youth-combine-golf-technology-at-expo-focused-on-future-opportunities/)  
-4. [Phys.org – Vortex‑Powered Rotors](https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html)  
-5. [Activist Post – UBI & AI](https://www.activistpost.com/universal-basic-income-debate-surfaces-as-ai-technology-advances-taking-jobs/)
+1. Staten Island Advance – Mayor Mamdani order.  
+2. Markets Insider – Analysts’ top picks (ROP, CHKP).  
+3. ABC17News – Russian email targeting warnings.  
+4. Europe Says – New radiation technology.  
+5. Manila Times – Market Technology Acquisition Corp IPO.
 
 Sources:
-1. Are Megaport and WiseTech shares top buys? (The Motley Fool Australia)
-   https://www.fool.com.au/2026/07/23/are-megaport-and-wisetech-shares-top-buys/
-2. U.S. and Saudi Arabia Forge Landmark Nuclear Power Deal (Devdiscourse)
-   https://www.devdiscourse.com/article/science-environment/3954304-us-and-saudi-arabia-forge-landmark-nuclear-power-deal
-3. Detroit youth combine golf, technology at expo focused on future opportunities (WDIV ClickOnDetroit)
-   https://www.clickondetroit.com/news/local/2026/07/22/detroit-youth-combine-golf-technology-at-expo-focused-on-future-opportunities/
-4. Water-surface vortices drive tiny rotors without electricity, magnets or chemicals (Phys.org)
-   https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html
-5. Universal Basic Income Debate Surfaces As AI Technology Advances, Taking Jobs (Activist Post)
-   https://www.activistpost.com/universal-basic-income-debate-surfaces-as-ai-technology-advances-taking-jobs/
+1. Mayor Mamdani orders pedestrian alerts, speed-limiting technology for NYC municipal fleet (Staten Island Advance)
+   https://www.silive.com/nyc/2026/07/mayor-mamdani-signs-order-to-make-nyc-fleet-safer-with-pedestrian-alerts-speed-limiting-tech.html
+2. Analysts’ Top Technology Picks: Roper Technologies (ROP), Check Point (CHKP) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/analysts-top-technology-picks-roper-technologies-rop-check-point-chkp-1036360590
+3. New warnings that Russian operatives are targeting the emails of US nuclear scientists and defense contractors (ABC17News.com)
+   https://abc17news.com/politics/national-politics/cnn-us-politics/2026/07/23/new-warnings-that-russian-operatives-are-targeting-the-emails-of-us-nuclear-scientists-and-defense-contractors/
+4. New radiation technology brings advanced cancer center care closer to home (EUROPE SAYS)
+   https://www.europesays.com/3149823/
+5. Market Technology Acquisition Corp Announces the Pricing of $200 Million Initial Public Offering (The Manila Times)
+   https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/market-technology-acquisition-corp-announces-the-pricing-of-200-million-initial-public-offering/2390770
