@@ -1,36 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-25):
+What happens in tech today (2026-07-26):
 
-# 🚀 **Ukraine‑US Drone Alliance Signals a New Tech Frontier**  
+# 🚗⚡ **Premium EV Surge & Tech Challenges: A Snapshot of Today’s Landscape**
 
-The **joint drone‑production push** announced by President Zelenskiy marks a decisive shift from battlefield aid to **co‑development of cutting‑edge aerospace tech**. By pooling U.S. manufacturing capacity with Ukrainian operational know‑how, both nations can accelerate **AI‑guided, low‑cost UAVs** that will reshape reconnaissance and strike capabilities.  
+The **luxury‑car market is finally going electric** – premium buyers are driving the shift to EVs and hybrids, turning a traditionally high‑margin segment green (Economic Times). This validates automakers’ gamble on premium‑priced batteries and signals that **eco‑luxury is becoming mainstream**.
 
-At the same time, the **data‑center slowdown** highlighted in the Norfolk column reminds us that **infrastructure bottlenecks**—energy, zoning, and climate concerns—remain a real constraint on scaling such high‑tech projects.  
+At the same time, **technology’s darker side surfaces**. Deep‑fake detection now demands forensic analysis beyond sight and sound (Straits Times) – a reminder that AI advances must be paired with robust verification tools, especially as **AI‑generated media proliferates**.
 
-The **NIT‑Jammu/​IIT‑Jammu PhD pact** is a timely reminder that **deep‑tech talent pipelines** are essential. Embedding research on autonomous systems, materials, and AI into academic programs will feed the drone initiative with home‑grown expertise, reducing reliance on external hires.  
+Australia’s Canberra Institute of Technology is probing alleged EV misuse, highlighting **regulatory gaps** in fleet monitoring (Canberra Times). Meanwhile, India’s **Anganwadi centres** receive a fresh audit in Amritsar, underscoring the need for **digital tools** to improve child‑care oversight (Tribune).
 
-**Bottom line:** The drone collaboration is a **technological leap forward**, but its full impact hinges on resolving data‑center capacity issues and nurturing a robust R&D ecosystem through university partnerships.  
+Finally, Indore’s DAVV launches a **weekend MTech for working professionals**, proving that **continuous upskilling** is essential to keep pace with rapid tech adoption across sectors (Free Press Journal).
 
-*All sources are listed below.*  
+**Bottom line:** The EV boom, AI‑driven misinformation, and the push for lifelong learning are converging. Stakeholders must balance **innovation with oversight** to ensure sustainable growth.
+
+**All sources are listed below.**
 
 ---  
-
 **Sources**  
-- The Straits Times: Zelenskiy on US‑Ukraine drone production【https://www.straitstimes.com/world/europe/zelenskiy-says-us-ukraine-moving-forward-on-joint-drone-production】  
-- Reuters: Zelenskiy on joint drone production【https://www.reuters.com/business/aerospace-defense/zelenskiy-says-us-ukraine-moving-forward-joint-drone-production-2026-07-24/】  
-- Devdiscourse: US‑Ukraine Drone Collaboration【https://www.devdiscourse.com/article/technology/3955430-us-ukraine-drone-collaboration-a-technological-leap-forward】  
-- Norfolk Virginian‑Pilot: Data‑center moratoriums【https://www.pilotonline.com/2026/07/24/column-expect-more-data-center-moratoriums-and-slower-growth/】  
-- The Tribune: NIT‑Jammu & IIT‑Jammu PhD pact【https://www.tribuneindia.com/news/jalandhar/nit-jalandhar-iit-jammu-ink-pact-on-phd-programme/】
+- [Premium car buyers drive EV, hybrid shift – Economic Times](https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-car-buyers-drive-ev-hybrid-shift-as-high-margin-segment-goes-electric/articleshow/132631785.cms)  
+- [State official inspects anganwadi centres in Amritsar – The Tribune](https://www.tribuneindia.com/news/amritsar/state-official-inspects-anganwadi-centres-in-amritsar/)  
+- [Indore DAVV launches weekend MTech – Free Press Journal](https://www.freepressjournal.in/indore/indore-davv-launches-weekend-mtech-for-working-professionals)  
+- [Key to spotting a deepfake – The Straits Times](https://www.straitstimes.com/singapore/the-key-to-spotting-a-deepfake-look-beyond-the-audio-or-visual-cues)  
+- [Canberra Institute EV probe – The Canberra Times](https://www.canberratimes.com.au/story/9317061/canberra-institute-of-technology-ev-probe-targets-alleged-car-misuse/)
 
 Sources:
-1. Zelenskiy says US, Ukraine moving forward on joint drone production (The Straits Times)
-   https://www.straitstimes.com/world/europe/zelenskiy-says-us-ukraine-moving-forward-on-joint-drone-production
-2. Zelenskiy says US, Ukraine moving forward on joint drone production (Reuters)
-   https://www.reuters.com/business/aerospace-defense/zelenskiy-says-us-ukraine-moving-forward-joint-drone-production-2026-07-24/
-3. US-Ukraine Drone Collaboration: A Technological Leap Forward (Devdiscourse)
-   https://www.devdiscourse.com/article/technology/3955430-us-ukraine-drone-collaboration-a-technological-leap-forward
-4. Column: Expect more data center moratoriums - and slower growth (Norfolk Virginian-Pilot)
-   https://www.pilotonline.com/2026/07/24/column-expect-more-data-center-moratoriums-and-slower-growth/
-5. Jammu ink pact on PhD programme (The Tribune)
-   https://www.tribuneindia.com/news/jalandhar/nit-jalandhar-iit-jammu-ink-pact-on-phd-programme/
+1. Premium car buyers drive EV, hybrid shift as high-margin segment goes electric (The Economic Times)
+   https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-car-buyers-drive-ev-hybrid-shift-as-high-margin-segment-goes-electric/articleshow/132631785.cms
+2. State official inspects anganwadi centres in Amritsar (The Tribune)
+   https://www.tribuneindia.com/news/amritsar/state-official-inspects-anganwadi-centres-in-amritsar/
+3. Indore DAVV Launches Weekend MTech For Working Professionals (Free Press Journal)
+   https://www.freepressjournal.in/indore/indore-davv-launches-weekend-mtech-for-working-professionals
+4. The key to spotting a deepfake? Look beyond the audio or visual cues (The Straits Times)
+   https://www.straitstimes.com/singapore/the-key-to-spotting-a-deepfake-look-beyond-the-audio-or-visual-cues
+5. Canberra Institute of Technology: EV probe targets alleged car misuse (The Canberra Times)
+   https://www.canberratimes.com.au/story/9317061/canberra-institute-of-technology-ev-probe-targets-alleged-car-misuse/
