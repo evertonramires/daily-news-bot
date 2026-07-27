@@ -1,37 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-07-26):
+What happens in tech today (2026-07-27):
 
-# 🚗⚡ **Premium EV Surge & Tech Challenges: A Snapshot of Today’s Landscape**
+# 🌐 **Tech, Energy & Home‑Automation: The Day’s Cross‑Sector Pulse**  
 
-The **luxury‑car market is finally going electric** – premium buyers are driving the shift to EVs and hybrids, turning a traditionally high‑margin segment green (Economic Times). This validates automakers’ gamble on premium‑priced batteries and signals that **eco‑luxury is becoming mainstream**.
+Vint Cerf’s stark reminder that *“privacy may actually be an anomaly”* forces us to rethink the data‑driven world we’re building. As smart‑home ecosystems (Samsung’s new SmartThings line) promise to **lighten the mental load** of daily chores, they also expand the surface for surveillance – a paradox that tech leaders must address with transparent policies and edge‑processing safeguards.  
 
-At the same time, **technology’s darker side surfaces**. Deep‑fake detection now demands forensic analysis beyond sight and sound (Straits Times) – a reminder that AI advances must be paired with robust verification tools, especially as **AI‑generated media proliferates**.
+Meanwhile, **Baker Hughes** beating Q2 profit forecasts signals that **energy‑service firms are still thriving** despite the global push toward renewables. Their cash flow could accelerate investments in **AI‑optimized drilling**, which, if paired with better data‑privacy standards, might set a new benchmark for responsible industrial tech.  
 
-Australia’s Canberra Institute of Technology is probing alleged EV misuse, highlighting **regulatory gaps** in fleet monitoring (Canberra Times). Meanwhile, India’s **Anganwadi centres** receive a fresh audit in Amritsar, underscoring the need for **digital tools** to improve child‑care oversight (Tribune).
+On the hardware front, the **DRAM trio—Samsung, SK Hynix, Seagate—** remains a hot watchlist, underscoring the relentless demand for memory in everything from AI workloads to smart‑home hubs.  
 
-Finally, Indore’s DAVV launches a **weekend MTech for working professionals**, proving that **continuous upskilling** is essential to keep pace with rapid tech adoption across sectors (Free Press Journal).
+Finally, the corrected **38 % reservoir capacity loss** in India highlights the urgency of **data‑accurate environmental reporting**, a reminder that even scientific figures can become politicised.  
 
-**Bottom line:** The EV boom, AI‑driven misinformation, and the push for lifelong learning are converging. Stakeholders must balance **innovation with oversight** to ensure sustainable growth.
-
-**All sources are listed below.**
+**Takeaway:** The convergence of privacy concerns, energy profitability, and memory‑chip momentum demands a **balanced narrative**—one that celebrates innovation while demanding ethical guardrails.  
 
 ---  
+
 **Sources**  
-- [Premium car buyers drive EV, hybrid shift – Economic Times](https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-car-buyers-drive-ev-hybrid-shift-as-high-margin-segment-goes-electric/articleshow/132631785.cms)  
-- [State official inspects anganwadi centres in Amritsar – The Tribune](https://www.tribuneindia.com/news/amritsar/state-official-inspects-anganwadi-centres-in-amritsar/)  
-- [Indore DAVV launches weekend MTech – Free Press Journal](https://www.freepressjournal.in/indore/indore-davv-launches-weekend-mtech-for-working-professionals)  
-- [Key to spotting a deepfake – The Straits Times](https://www.straitstimes.com/singapore/the-key-to-spotting-a-deepfake-look-beyond-the-audio-or-visual-cues)  
-- [Canberra Institute EV probe – The Canberra Times](https://www.canberratimes.com.au/story/9317061/canberra-institute-of-technology-ev-probe-targets-alleged-car-misuse/)
+- TechRadar: Vint Cerf quote on privacy.  
+- Reuters: Baker Hughes Q2 profit beat.  
+- The Straits Times: SmartThings & home‑automation.  
+- Benzinga: Top DRAM ETF stocks.  
+- The Tribune: Revised reservoir capacity loss.
 
 Sources:
-1. Premium car buyers drive EV, hybrid shift as high-margin segment goes electric (The Economic Times)
-   https://economictimes.indiatimes.com/industry/auto/cars-uvs/premium-car-buyers-drive-ev-hybrid-shift-as-high-margin-segment-goes-electric/articleshow/132631785.cms
-2. State official inspects anganwadi centres in Amritsar (The Tribune)
-   https://www.tribuneindia.com/news/amritsar/state-official-inspects-anganwadi-centres-in-amritsar/
-3. Indore DAVV Launches Weekend MTech For Working Professionals (Free Press Journal)
-   https://www.freepressjournal.in/indore/indore-davv-launches-weekend-mtech-for-working-professionals
-4. The key to spotting a deepfake? Look beyond the audio or visual cues (The Straits Times)
-   https://www.straitstimes.com/singapore/the-key-to-spotting-a-deepfake-look-beyond-the-audio-or-visual-cues
-5. Canberra Institute of Technology: EV probe targets alleged car misuse (The Canberra Times)
-   https://www.canberratimes.com.au/story/9317061/canberra-institute-of-technology-ev-probe-targets-alleged-car-misuse/
+1. Quote of the day by ex-Google evangelist Vint Cerf: 'Privacy may actually be an anomaly' - putting our rights into perspective (TechRadar)
+   https://www.techradar.com/pro/quote-of-the-day-by-ex-google-evangelist-vint-cerf-privacy-may-actually-be-an-anomaly-putting-our-rights-into-perspective
+2. Oilfield services provider Baker Hughes beats Q2 profit estimates (Reuters)
+   https://www.reuters.com/business/energy/oilfield-services-provider-baker-hughes-beats-q2-profit-estimates-2026-07-26/
+3. Easing the mental load of running a home (The Straits Times)
+   https://www.straitstimes.com/tech/smartthings-smart-home-appliances-gadgets-samsung
+4. Top Three DRAM ETF Stocks to Watch This Week: Samsung, SK Hynix, Seagate (Benzinga)
+   https://www.benzinga.com/etfs/sector-etfs/26/07/60686314/top-three-dram-etf-stocks-to-watch-this-week-samsung-sk-hynix-seagate
+5. Reservoir capacity loss 38%, not 47%: IIT (The Tribune)
+   https://www.tribuneindia.com/news/top-headlines/reservoir-capacity-loss-38-not-47-iit-ropar-defies-bbmb-silt-claims/
