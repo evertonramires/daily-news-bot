@@ -1,36 +1,40 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-01):
+What happens in tech today (2026-08-02):
 
-# 🚀 Tech‑Industry Pulse: From Battery Metals to AI‑Legal Battles & Aviation Upswing
+# 📈 **Tech & Innovation: Comebacks, Quiet Shifts & Sleek Futures**  
 
-**Battery X Metals**’ amendment to its corporate‑awareness engagement signals a **more transparent ESG strategy**, likely to appease investors wary of supply‑chain risks in the EV boom.  
+The **ASX 200** tech and healthcare rally shows investors rewarding firms that blend **AI‑driven drug discovery** with **cloud‑native platforms** – a trend that’s likely to accelerate as capital chases tangible health outcomes.  
 
-The **xAI vs. Minnesota nudification ban** saga (both UPI and NewsBreak) shows **AI firms still testing legal limits** as regulators tighten content‑moderation rules. Musk’s loss may set a precedent for future AI‑related litigation.  
+Meanwhile, Boeing’s low‑key decision to drop **engine chevrons on the 777X** signals a strategic pivot toward **cost‑efficiency and noise‑reduction tech** rather than flashy aerodynamics. It’s a reminder that **quiet innovation** can be just as market‑moving as headline‑grabbing designs.  
 
-**eXeBlock Technology Corp.’s** reverse‑takeover with Aitenders highlights the **growing consolidation in AI‑hardware**, positioning the combined entity for a stronger market debut once the conditional listing is approved.  
+On the consumer side, **Bitchat’s** push for truly free messaging highlights the **ongoing battle for privacy‑first, data‑light communication** in an increasingly regulated internet landscape.  
 
-Finally, **federal funding for fighter‑pilot training at North Bay Airport** underscores **government investment in advanced aerospace talent**, which could spill over into commercial aviation tech and stimulate local tech ecosystems.  
+The **slimmest OLED TVs** (under 5 mm) prove that display manufacturers are finally mastering **ultra‑thin glass and micro‑LED back‑planes**, turning living‑room aesthetics into a competitive edge.  
 
-**Bottom line:** 2024‑25 is shaping up as a year where **environmental accountability, regulatory scrutiny of AI, strategic M&A, and defense‑driven aerospace funding** intersect, driving both risk and opportunity for tech investors.  
+Finally, Brooks’ **Ghost Amp** running shoe blends **energy‑return cushioning** with a **recyclable midsole**, illustrating how **sustainable materials are becoming a core performance driver** in sports tech.  
 
----
+Together, these stories underscore a **dual narrative**: big‑scale investors and manufacturers are betting on **subtle, efficiency‑focused engineering**, while consumer brands push **design elegance and eco‑consciousness**. The market reward will go to those who can marry **quiet tech upgrades with visible, user‑centric benefits**.  
 
-**Sources**  
-- Battery X Metals amendment – Wallstreet Online  
-- Judge denies xAI bid (UPI) – UPI News  
-- Judge denies xAI bid (NewsBreak) – NewsBreak  
-- eXeBlock reverse takeover – FinanzNachrichten  
-- Fighter pilot training funding – BayToday
+**All the sources are at the section below.**  
+
+---  
+
+### Sources  
+1. The Motley Fool Australia – *ASX 200 technology and healthcare shares continued their comeback*  
+2. Simple Flying – *Why Boeing Quietly Pivoted From Developing The 777X With Engine Chevrons*  
+3. The Tribune – *Bitchat & the challenge of Internet*  
+4. BGR – *3 Of The Slimmest OLED TVs On The Market In 2026*  
+5. AL.com – *Brooks just launched the all‑new Ghost Amp running shoe*
 
 Sources:
-1. Battery X Metals Announces Amendment to Corporate Awareness Engagement (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/21180671-battery-x-metals-announces-amendment-to-corporate-awareness-engagement
-2. Judge denies bid by Musk's xAI to block Minnesota nudification ban (UPI News)
-   https://www.upi.com/Top_News/US/2026/07/31/musk-minnesota-nudification/9951785534510/
-3. Judge denies bid by Musk's xAI to block Minnesota nudification ban (NewsBreak)
-   https://www.newsbreak.com/upi-news-510013/4802832483626-judge-denies-bid-by-musk-s-xai-to-block-minnesota-nudification-ban
-4. eXeBlock Technology Corporation: Aitenders Technologies Inc. (Formerly, eXeBlock Technology Corporation) Announces Closing of Reverse Takeover with Aitenders and Receipt of Conditional Listing Approva (FinanzNachrichten)
-   https://www.finanznachrichten.de/nachrichten-2026-07/69188282-exeblock-technology-corporation-aitenders-technologies-inc-formerly-exeblock-technology-corporation-announces-closing-of-reverse-takeover-with-ai-296.htm
-5. Federal funding helps expand fighter pilot training at North Bay airport (BayToday)
-   https://www.baytoday.ca/local-business/federal-funding-helps-expand-fighter-pilot-training-at-north-bay-airport-12616594
+1. ASX 200 technology and healthcare shares continued their comeback last week (The Motley Fool Australia)
+   https://www.fool.com.au/2026/08/02/asx-200-technology-and-healthcare-shares-continued-their-comeback-last-week-week-31-2026/
+2. Why Boeing Quietly Pivoted From Developing The 777X With Engine Chevrons (Simple Flying)
+   https://simpleflying.com/why-boeing-quietly-pivoted-developing-777x-engine-chevrons/
+3. Bitchat & the challenge of Internet (The Tribune)
+   https://www.tribuneindia.com/news/in-depth/bitchat-the-challenge-of-internet-free-messaging/
+4. 3 Of The Slimmest OLED TVs On The Market In 2026 (BGR)
+   https://www.bgr.com/2224456/slimmest-thinnest-oled-tvs-2026/
+5. Brooks just launched the all-new Ghost Amp running shoe (AL.com)
+   https://www.al.com/shopping/2026/08/brooks-expands-its-ghost-lineup-with-the-new-ghost-amp-running-shoe.html
