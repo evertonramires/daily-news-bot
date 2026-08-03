@@ -1,40 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-02):
+What happens in tech today (2026-08-03):
 
-# 📈 **Tech & Innovation: Comebacks, Quiet Shifts & Sleek Futures**  
+# 🚀 **Tech Frontiers 2024: From Fuel Fears to AI‑Powered Skies**  
 
-The **ASX 200** tech and healthcare rally shows investors rewarding firms that blend **AI‑driven drug discovery** with **cloud‑native platforms** – a trend that’s likely to accelerate as capital chases tangible health outcomes.  
+India’s call to **ban E‑20 petrol** until cleaner tech matures (Ambedkar, *Daily Excelsior*) highlights a growing tension between legacy energy and climate ambition. While the move may curb emissions now, it also **pressures innovators** to accelerate bio‑fuel research or pivot to electrification.  
 
-Meanwhile, Boeing’s low‑key decision to drop **engine chevrons on the 777X** signals a strategic pivot toward **cost‑efficiency and noise‑reduction tech** rather than flashy aerodynamics. It’s a reminder that **quiet innovation** can be just as market‑moving as headline‑grabbing designs.  
+Meanwhile, the **payments battlefield** is heating up as **Stripe** and **SWIFT** vie for the next‑gen global settlement layer (*Activist Post*). Their clash could reshape cross‑border fees, data sovereignty, and the speed of commerce—especially crucial as **AI‑driven finance** becomes mainstream.  
 
-On the consumer side, **Bitchat’s** push for truly free messaging highlights the **ongoing battle for privacy‑first, data‑light communication** in an increasingly regulated internet landscape.  
+On the aerospace front, **Rocket One’s licensing of NASA avionics** to embed AI (*EUROPE SAYS*) signals a democratization of high‑tech flight, echoing the Pentagon’s admission that the **U.S. lags in drone warfare** and is now tapping **Ukrainian expertise** to become “world champions” (*TechRadar*). This partnership could fast‑track autonomous swarm capabilities, but also raises **ethical and export‑control** questions.  
 
-The **slimmest OLED TVs** (under 5 mm) prove that display manufacturers are finally mastering **ultra‑thin glass and micro‑LED back‑planes**, turning living‑room aesthetics into a competitive edge.  
+Finally, the rollout of **advanced detection tech on the Belarus border** (*EUROPE SAYS*) underscores how **AI‑enabled sensors** are becoming integral to security, blurring lines between civilian and military applications.  
 
-Finally, Brooks’ **Ghost Amp** running shoe blends **energy‑return cushioning** with a **recyclable midsole**, illustrating how **sustainable materials are becoming a core performance driver** in sports tech.  
-
-Together, these stories underscore a **dual narrative**: big‑scale investors and manufacturers are betting on **subtle, efficiency‑focused engineering**, while consumer brands push **design elegance and eco‑consciousness**. The market reward will go to those who can marry **quiet tech upgrades with visible, user‑centric benefits**.  
-
-**All the sources are at the section below.**  
+**Bottom line:** 2024 is a watershed year where **energy policy, fintech, AI, and defense converge**. Stakeholders must balance rapid innovation with responsible governance to avoid a fragmented tech landscape.  
 
 ---  
 
-### Sources  
-1. The Motley Fool Australia – *ASX 200 technology and healthcare shares continued their comeback*  
-2. Simple Flying – *Why Boeing Quietly Pivoted From Developing The 777X With Engine Chevrons*  
-3. The Tribune – *Bitchat & the challenge of Internet*  
-4. BGR – *3 Of The Slimmest OLED TVs On The Market In 2026*  
-5. AL.com – *Brooks just launched the all‑new Ghost Amp running shoe*
+**All sources are listed below:**  
+
+1. Prakash Ambedkar, “E20 petrol should be banned until technology improves,” *Daily Excelsior* – https://www.dailyexcelsior.com/e20-petrol-should-be-banned-until-technology-improves-prakash-ambedkar/  
+2. “Stripe and Swift race to control the next generation of global payments infrastructure,” *Activist Post* – https://www.activistpost.com/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure/  
+3. “Rocket One Licenses NASA Avionics Technology To Build AI,” *EUROPE SAYS* – https://www.europesays.com/3170407/  
+4. “Pentagon acknowledges the US lags in drone war, taps Ukrainian tech to become ‘World Champions’,” *TechRadar* – https://www.techradar.com/pro/us-confirms-that-it-will-leverage-ukraines-expertise-in-military-drones-before-competing-to-be-the-world-champions  
+5. “Detection Technology for Belarus Border,” *EUROPE SAYS* – https://www.europesays.com/3170119/
 
 Sources:
-1. ASX 200 technology and healthcare shares continued their comeback last week (The Motley Fool Australia)
-   https://www.fool.com.au/2026/08/02/asx-200-technology-and-healthcare-shares-continued-their-comeback-last-week-week-31-2026/
-2. Why Boeing Quietly Pivoted From Developing The 777X With Engine Chevrons (Simple Flying)
-   https://simpleflying.com/why-boeing-quietly-pivoted-developing-777x-engine-chevrons/
-3. Bitchat & the challenge of Internet (The Tribune)
-   https://www.tribuneindia.com/news/in-depth/bitchat-the-challenge-of-internet-free-messaging/
-4. 3 Of The Slimmest OLED TVs On The Market In 2026 (BGR)
-   https://www.bgr.com/2224456/slimmest-thinnest-oled-tvs-2026/
-5. Brooks just launched the all-new Ghost Amp running shoe (AL.com)
-   https://www.al.com/shopping/2026/08/brooks-expands-its-ghost-lineup-with-the-new-ghost-amp-running-shoe.html
+1. E20 petrol should be banned until technology improves: Prakash Ambedkar (Daily Excelsior)
+   https://www.dailyexcelsior.com/e20-petrol-should-be-banned-until-technology-improves-prakash-ambedkar/
+2. Stripe and Swift race to control the next generation of global payments infrastructure (Activist Post)
+   https://www.activistpost.com/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure/
+3. Rocket One Licenses NASA Avionics Technology To Build AI (EUROPE SAYS)
+   https://www.europesays.com/3170407/
+4. Pentagon acknowledges the US lags in drone war, taps Ukrainian tech to become 'World Champions' (TechRadar)
+   https://www.techradar.com/pro/us-confirms-that-it-will-leverage-ukraines-expertise-in-military-drones-before-competing-to-be-the-world-champions
+5. Detection Technology for Belarus Border (EUROPE SAYS)
+   https://www.europesays.com/3170119/
