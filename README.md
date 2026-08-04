@@ -1,37 +1,35 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-03):
+What happens in tech today (2026-08-04):
 
-# 🚀 **Tech Frontiers 2024: From Fuel Fears to AI‑Powered Skies**  
+# 🚀 Today’s Tech & Business Pulse: From Cruise Boom to Cabling Gold Standards  
 
-India’s call to **ban E‑20 petrol** until cleaner tech matures (Ambedkar, *Daily Excelsior*) highlights a growing tension between legacy energy and climate ambition. While the move may curb emissions now, it also **pressures innovators** to accelerate bio‑fuel research or pivot to electrification.  
+The **cruise‑travel startup** that vaulted past **£1 M in sales** overnight is a textbook case of *viral growth* meeting a talent bottleneck.  Their scramble for qualified travel advisors highlights how **rapid digital acquisition** can outpace traditional hiring pipelines – a warning for any SaaS‑driven brand that scales too fast.  
 
-Meanwhile, the **payments battlefield** is heating up as **Stripe** and **SWIFT** vie for the next‑gen global settlement layer (*Activist Post*). Their clash could reshape cross‑border fees, data sovereignty, and the speed of commerce—especially crucial as **AI‑driven finance** becomes mainstream.  
+In the **legal arena**, Rosen’s warning to **Park Ha Biological Technology** investors underscores the rising **investor‑protection wave** in securities class actions.  As regulators tighten, early counsel is becoming a non‑negotiable safeguard.  
 
-On the aerospace front, **Rocket One’s licensing of NASA avionics** to embed AI (*EUROPE SAYS*) signals a democratization of high‑tech flight, echoing the Pentagon’s admission that the **U.S. lags in drone warfare** and is now tapping **Ukrainian expertise** to become “world champions” (*TechRadar*). This partnership could fast‑track autonomous swarm capabilities, but also raises **ethical and export‑control** questions.  
+Meanwhile, the **“Five Gold Standards”** for enterprise structured cabling (Manila Times & GlobeNewswire) set a clear roadmap for 2026: **AI‑enabled monitoring, modular fiber, zero‑touch provisioning, sustainability metrics, and cyber‑resilient designs**.  Companies that ignore these will face higher OPEX and security risk.  
 
-Finally, the rollout of **advanced detection tech on the Belarus border** (*EUROPE SAYS*) underscores how **AI‑enabled sensors** are becoming integral to security, blurring lines between civilian and military applications.  
+Finally, **Teads’ lawsuit against Google** after a federal antitrust ruling signals that **ad‑tech players are ready to challenge the dominance of Big Tech**.  The outcome could reshape programmatic buying and open space for more transparent, fee‑based platforms.  
 
-**Bottom line:** 2024 is a watershed year where **energy policy, fintech, AI, and defense converge**. Stakeholders must balance rapid innovation with responsible governance to avoid a fragmented tech landscape.  
+**Bottom line:**  Hyper‑growth demands agile talent strategies, legal foresight is now a competitive edge, and infrastructure standards plus antitrust battles will define the tech landscape in the next two years.  
 
 ---  
 
-**All sources are listed below:**  
-
-1. Prakash Ambedkar, “E20 petrol should be banned until technology improves,” *Daily Excelsior* – https://www.dailyexcelsior.com/e20-petrol-should-be-banned-until-technology-improves-prakash-ambedkar/  
-2. “Stripe and Swift race to control the next generation of global payments infrastructure,” *Activist Post* – https://www.activistpost.com/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure/  
-3. “Rocket One Licenses NASA Avionics Technology To Build AI,” *EUROPE SAYS* – https://www.europesays.com/3170407/  
-4. “Pentagon acknowledges the US lags in drone war, taps Ukrainian tech to become ‘World Champions’,” *TechRadar* – https://www.techradar.com/pro/us-confirms-that-it-will-leverage-ukraines-expertise-in-military-drones-before-competing-to-be-the-world-champions  
-5. “Detection Technology for Belarus Border,” *EUROPE SAYS* – https://www.europesays.com/3170119/
+**Sources**  
+- PR Newswire UK: Cruise Travel Agency story  
+- Wallstreet Online: Rosen & Park Ha counsel alert  
+- The Manila Times: Cabling standards & Teads vs Google  
+- GlobeNewswire: Cabling standards release
 
 Sources:
-1. E20 petrol should be banned until technology improves: Prakash Ambedkar (Daily Excelsior)
-   https://www.dailyexcelsior.com/e20-petrol-should-be-banned-until-technology-improves-prakash-ambedkar/
-2. Stripe and Swift race to control the next generation of global payments infrastructure (Activist Post)
-   https://www.activistpost.com/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure/
-3. Rocket One Licenses NASA Avionics Technology To Build AI (EUROPE SAYS)
-   https://www.europesays.com/3170407/
-4. Pentagon acknowledges the US lags in drone war, taps Ukrainian tech to become 'World Champions' (TechRadar)
-   https://www.techradar.com/pro/us-confirms-that-it-will-leverage-ukraines-expertise-in-military-drones-before-competing-to-be-the-world-champions
-5. Detection Technology for Belarus Border (EUROPE SAYS)
-   https://www.europesays.com/3170119/
+1. The Cruise Travel Agency That Hit £1 Million in Sales Almost Overnight and Now Can't Hire Travel Advisors Fast Enough (PR Newswire UK)
+   https://www.prnewswire.co.uk/news-releases/the-cruise-travel-agency-that-hit-1-million-in-sales-almost-overnight-and-now-cant-hire-travel-advisors-fast-enough-302841689.html
+2. ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Park Ha Biological Technology Co., Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - PHH, BYAH (Wallstreet Online)
+   https://www.wallstreet-online.de/nachricht/21190008-rosen-global-investor-counsel-encourages-park-ha-biological-technology-co-ltd-investors-to-secure-counsel-before-deadline-securities-class-action-phh-byah
+3. Five Gold Standards for Enterprise Structured Cabling and Network Infrastructure in 2026 (The Manila Times)
+   https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/five-gold-standards-for-enterprise-structured-cabling-and-network-infrastructure-in-2026/2397516
+4. Teads Files Lawsuit Against Google Seeking Financial Damages Following Federal Court Antitrust Ruling (The Manila Times)
+   https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/teads-files-lawsuit-against-google-seeking-financial-damages-following-federal-court-antitrust-ruling/2397515
+5. Five Gold Standards for Enterprise Structured Cabling and (GlobeNewswire)
+   https://www.globenewswire.com/news-release/2026/08/03/3337946/0/en/five-gold-standards-for-enterprise-structured-cabling-and-network-infrastructure-in-2026.html
