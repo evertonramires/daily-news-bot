@@ -1,35 +1,34 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-04):
+What happens in tech today (2026-08-05):
 
-# 🚀 Today’s Tech & Business Pulse: From Cruise Boom to Cabling Gold Standards  
+# 🌍 From Towering Trees to Tiny Earbuds: Tech’s Wild Leap Forward 🚀  
 
-The **cruise‑travel startup** that vaulted past **£1 M in sales** overnight is a textbook case of *viral growth* meeting a talent bottleneck.  Their scramble for qualified travel advisors highlights how **rapid digital acquisition** can outpace traditional hiring pipelines – a warning for any SaaS‑driven brand that scales too fast.  
+The **10‑year hunt for East Asia’s tallest tree** reminds us that nature still holds surprises that out‑scale our gadgets. Yet, while scientists marvel at a **record‑breaking giant**, the consumer‑tech world is racing ahead with **CMF’s open‑ear earbuds** that let you **dial‑control music** from the charging case—proof that **miniaturisation** is now the headline act.  
 
-In the **legal arena**, Rosen’s warning to **Park Ha Biological Technology** investors underscores the rising **investor‑protection wave** in securities class actions.  As regulators tighten, early counsel is becoming a non‑negotiable safeguard.  
+On the security front, **Bhavya Bhandari** argues that **AI‑driven cyber‑risk visibility** is shifting from reactive alerts to **predictive shields**, a trend echoed by the **Philippines’ home‑grown AI solutions** tackling local challenges—from traffic flow to disaster response.  
 
-Meanwhile, the **“Five Gold Standards”** for enterprise structured cabling (Manila Times & GlobeNewswire) set a clear roadmap for 2026: **AI‑enabled monitoring, modular fiber, zero‑touch provisioning, sustainability metrics, and cyber‑resilient designs**.  Companies that ignore these will face higher OPEX and security risk.  
+Meanwhile, India’s **Labour Minister Vivek** is betting on **Advanced Technology Centres** to turn this AI surge into **real‑world jobs** for youth, bridging the gap between high‑tech research (like the tree‑search) and **employment pipelines**.  
 
-Finally, **Teads’ lawsuit against Google** after a federal antitrust ruling signals that **ad‑tech players are ready to challenge the dominance of Big Tech**.  The outcome could reshape programmatic buying and open space for more transparent, fee‑based platforms.  
-
-**Bottom line:**  Hyper‑growth demands agile talent strategies, legal foresight is now a competitive edge, and infrastructure standards plus antitrust battles will define the tech landscape in the next two years.  
+**Bottom line:** 2026 is the year where **nature‑inspired wonder, ultra‑convenient wearables, AI‑powered security, and policy‑driven skill building** converge, proving that **innovation thrives when ecosystems—biological, digital, and societal—intersect**.  
 
 ---  
 
 **Sources**  
-- PR Newswire UK: Cruise Travel Agency story  
-- Wallstreet Online: Rosen & Park Ha counsel alert  
-- The Manila Times: Cabling standards & Teads vs Google  
-- GlobeNewswire: Cabling standards release
+1. The Economic Times – Scientists spent 10 years searching for East Asia's tallest tree.  
+2. Digital Trends – CMF's first open‑ear earbuds with Smart Dial case.  
+3. International Business Times – Bhavya Bhandari on AI changing cyber‑risk visibility.  
+4. The Hindu – Labour Minister Vivek on Advanced Technology Centres.  
+5. The Manila Times – Philippines uses homegrown AI to solve local problems.
 
 Sources:
-1. The Cruise Travel Agency That Hit £1 Million in Sales Almost Overnight and Now Can't Hire Travel Advisors Fast Enough (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/the-cruise-travel-agency-that-hit-1-million-in-sales-almost-overnight-and-now-cant-hire-travel-advisors-fast-enough-302841689.html
-2. ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Park Ha Biological Technology Co., Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - PHH, BYAH (Wallstreet Online)
-   https://www.wallstreet-online.de/nachricht/21190008-rosen-global-investor-counsel-encourages-park-ha-biological-technology-co-ltd-investors-to-secure-counsel-before-deadline-securities-class-action-phh-byah
-3. Five Gold Standards for Enterprise Structured Cabling and Network Infrastructure in 2026 (The Manila Times)
-   https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/five-gold-standards-for-enterprise-structured-cabling-and-network-infrastructure-in-2026/2397516
-4. Teads Files Lawsuit Against Google Seeking Financial Damages Following Federal Court Antitrust Ruling (The Manila Times)
-   https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/teads-files-lawsuit-against-google-seeking-financial-damages-following-federal-court-antitrust-ruling/2397515
-5. Five Gold Standards for Enterprise Structured Cabling and (GlobeNewswire)
-   https://www.globenewswire.com/news-release/2026/08/03/3337946/0/en/five-gold-standards-for-enterprise-structured-cabling-and-network-infrastructure-in-2026.html
+1. Scientists spent 10 years searching for East Asia's tallest tree-what they found was extraordinary (The Economic Times)
+   https://economictimes.indiatimes.com/news/international/global-trends/scientists-spent-10-years-searching-for-east-asias-tallest-treewhat-they-found-was-extraordinary/articleshow/132866963.cms
+2. CMF's first open-ear earbuds are here with a Smart Dial charging case that lets you control music (Digital Trends)
+   https://www.digitaltrends.com/home-theater/cmfs-first-open-ear-earbuds-are-here-with-a-smart-dial-charging-case-that-lets-you-control-music/
+3. Bhavya Bhandari's Perspective on How AI Is Changing Cyber Risk Visibility (International Business Times)
+   https://www.ibtimes.com/bhavya-bhandaris-perspective-how-ai-changing-cyber-risk-visibility-3806073
+4. Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters (The Hindu)
+   https://www.thehindu.com/news/national/telangana/labour-minister-vivek-says-advanced-technology-centres-will-boost-employability-among-youngsters/article71306484.ece
+5. PH uses homegrown AI to solve local problems (The Manila Times)
+   https://www.manilatimes.net/2026/08/05/regions/ph-uses-homegrown-ai-to-solve-local-problems/2397995
