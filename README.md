@@ -1,34 +1,34 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-05):
+What happens in tech today (2026-08-06):
 
-# 🌍 From Towering Trees to Tiny Earbuds: Tech’s Wild Leap Forward 🚀  
+# 🚀 **Tech & Talent: How Product Leadership, AI Hubs, and Clean‑Energy Innovation Are Shaping 2026**  
 
-The **10‑year hunt for East Asia’s tallest tree** reminds us that nature still holds surprises that out‑scale our gadgets. Yet, while scientists marvel at a **record‑breaking giant**, the consumer‑tech world is racing ahead with **CMF’s open‑ear earbuds** that let you **dial‑control music** from the charging case—proof that **miniaturisation** is now the headline act.  
+DXC’s appointment of **Lisa Beaudoin** as Chief Product Officer signals a decisive shift toward *product‑led growth* in the services sector. Her background in SaaS scaling should help DXC move from project‑centric deals to recurring revenue streams, a model that **healthcare software vendors** are also chasing. As TechBullion reminds us, modern platforms must be **interoperable, secure, and AI‑ready**—exactly the traits a product‑centric leader will prioritize.
 
-On the security front, **Bhavya Bhandari** argues that **AI‑driven cyber‑risk visibility** is shifting from reactive alerts to **predictive shields**, a trend echoed by the **Philippines’ home‑grown AI solutions** tackling local challenges—from traffic flow to disaster response.  
+Meanwhile, **Cebu City’s openness to AI data‑center investments** creates a regional magnet for the compute power needed by both health‑tech and clean‑energy analytics. Coupled with India’s **chemicals & petrochemicals sector adding 370 k jobs** over the past 12 years, we see a broader trend: **high‑skill job creation linked to capital‑intensive, technology‑driven industries**.
 
-Meanwhile, India’s **Labour Minister Vivek** is betting on **Advanced Technology Centres** to turn this AI surge into **real‑world jobs** for youth, bridging the gap between high‑tech research (like the tree‑search) and **employment pipelines**.  
+Industry leaders stress that **bridging innovation with commercial scale** is the linchpin for the clean‑energy transition. The same principle applies to DXC’s product strategy and Cebu’s AI push—*innovation must be paired with scalable business models* to unlock sustainable growth.
 
-**Bottom line:** 2026 is the year where **nature‑inspired wonder, ultra‑convenient wearables, AI‑powered security, and policy‑driven skill building** converge, proving that **innovation thrives when ecosystems—biological, digital, and societal—intersect**.  
+**Bottom line:** 2026 is shaping up as a year where **product leadership, AI infrastructure, and clean‑energy scaling converge**, driving both economic opportunity and societal impact.  
 
 ---  
 
 **Sources**  
-1. The Economic Times – Scientists spent 10 years searching for East Asia's tallest tree.  
-2. Digital Trends – CMF's first open‑ear earbuds with Smart Dial case.  
-3. International Business Times – Bhavya Bhandari on AI changing cyber‑risk visibility.  
-4. The Hindu – Labour Minister Vivek on Advanced Technology Centres.  
-5. The Manila Times – Philippines uses homegrown AI to solve local problems.
+1. DXC appoints Lisa Beaudoin – The Manila Times  
+2. What Healthcare Organizations Should Look for in Modern Software Platforms – TechBullion  
+3. India’s chemicals & petrochemicals sector created 3.7 lakh jobs – Lokmat Times  
+4. Bridging innovation and commercial scale – Lokmat Times  
+5. Cebu City open to AI data center investments – The Manila Times
 
 Sources:
-1. Scientists spent 10 years searching for East Asia's tallest tree-what they found was extraordinary (The Economic Times)
-   https://economictimes.indiatimes.com/news/international/global-trends/scientists-spent-10-years-searching-for-east-asias-tallest-treewhat-they-found-was-extraordinary/articleshow/132866963.cms
-2. CMF's first open-ear earbuds are here with a Smart Dial charging case that lets you control music (Digital Trends)
-   https://www.digitaltrends.com/home-theater/cmfs-first-open-ear-earbuds-are-here-with-a-smart-dial-charging-case-that-lets-you-control-music/
-3. Bhavya Bhandari's Perspective on How AI Is Changing Cyber Risk Visibility (International Business Times)
-   https://www.ibtimes.com/bhavya-bhandaris-perspective-how-ai-changing-cyber-risk-visibility-3806073
-4. Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters (The Hindu)
-   https://www.thehindu.com/news/national/telangana/labour-minister-vivek-says-advanced-technology-centres-will-boost-employability-among-youngsters/article71306484.ece
-5. PH uses homegrown AI to solve local problems (The Manila Times)
-   https://www.manilatimes.net/2026/08/05/regions/ph-uses-homegrown-ai-to-solve-local-problems/2397995
+1. DXC Appoints Lisa Beaudoin as Chief Product Officer to Accelerate Product-Led Growth (The Manila Times)
+   https://www.manilatimes.net/2026/08/06/tmt-newswire/pr-newswire/dxc-appoints-lisa-beaudoin-as-chief-product-officer-to-accelerate-product-led-growth/2399260
+2. What Healthcare Organizations Should Look for in Modern Software Platforms (TechBullion)
+   https://techbullion.com/what-healthcare-organizations-should-look-for-in-modern-software-platforms/
+3. India's chemicals & petrochemicals sector created 3.7 lakh jobs in the last 12 years: Govt (Lokmat Times)
+   https://www.lokmattimes.com/technology/indias-chemicals-petrochemicals-sector-created-37-lakh-jobs-in-the-last-12-years-govt-2/
+4. Bridging innovation and commercial scale key to clean energy transition: Industry leaders (Lokmat Times)
+   https://www.lokmattimes.com/technology/bridging-innovation-and-commercial-scale-key-to-clean-energy-transition-industry-leaders-1/
+5. Cebu City open to AI data center investments (The Manila Times)
+   https://www.manilatimes.net/2026/08/06/regions/cebu-city-open-to-ai-data-center-investments/2399154
