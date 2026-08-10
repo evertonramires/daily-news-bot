@@ -1,37 +1,37 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-09):
+What happens in tech today (2026-08-10):
 
-# 🚀 **Tech‑Driven Transformations: Policing, AI, Leadership & Crypto Surge**  
+# 🚀 Global Tech & Policy Shifts: From Pentagon Funding to Apple’s Chip Choices  
 
-The **DIG’s call for technology‑driven investigations in Telangana** marks a decisive shift toward data‑rich policing, echoing New Orleans’ controversial rollout of **AI‑assisted 911 triage**. While AI can **speed up evidence gathering and dispatch**, the public’s privacy worries remind us that **transparent governance** is non‑negotiable.  
+The **Pentagon’s $20.4 M** investment in dual‑use research at German universities signals a growing **civil‑military tech convergence**. While this can accelerate breakthroughs in AI and quantum sensing, it also raises transparency questions that echo the **e‑notarization rollout in the Philippines**, where the Supreme Court’s accreditation of Twala aims to modernize legal processes but must guard against digital fraud.  
 
-Meanwhile, the **Cyril Shroff‑IIMA GC Leadership Academy** blends legal acumen with cutting‑edge management, preparing leaders to navigate exactly these ethical crossroads. Such interdisciplinary hubs are **crucial** as we grapple with AI’s societal impact.  
+In the satellite‑imaging arena, **Jefferies’ “Hold” on BlackSky** reflects market caution despite the sector’s strategic importance—another reminder that **government‑backed tech** often walks a fine line between hype and hard‑value.  
 
-On the market side, **Binance Coin (BNB) eyeing $630** after the Pepeto whale influx showcases how **crypto capital can pivot quickly**, yet it also underscores the need for **robust regulatory frameworks**—the same kind of oversight demanded in AI‑enabled public services.  
+On the education front, Bihar’s new **exam‑reform committee** shows how **policy can quickly adapt** to ensure fairness, a lesson that could inform other regions grappling with AI‑driven assessment tools.  
 
-Finally, the **“Key to global opportunities”** narrative ties everything together: **technology, skilled leadership, and responsible policy** are the trifecta that will unlock sustainable growth worldwide.  
+Finally, Apple’s potential shift to **China’s CXMT memory chips** underscores the **supply‑chain realignment** forced by geopolitical tensions. If Apple adopts CXMT, it may set a precedent for other OEMs to diversify beyond traditional suppliers, balancing cost, performance, and political risk.  
 
-**Bottom line:** Embrace innovation, but pair it with **ethical oversight and visionary education**.  
+**Bottom line:** 2026 is shaping up as a year where **public funding, regulatory innovation, and supply‑chain strategy** intersect, forcing companies and governments alike to navigate a tighter web of **security, ethics, and market dynamics**.  
 
 ---  
 
-**Sources**  
+**All sources are listed below:**  
 
-1. Deccan Chronicle – Telangana DIG calls for tech‑driven police investigations.  
-2. The Economic Times – Cyril Shroff & IIM Ahmedabad launch leadership academy.  
-3. TechBullion – Binance Coin price forecast 2026.  
-4. The News International – New Orleans AI 911 system sparks concerns.  
-5. The Star – Key to global opportunities.
+- Pentagon funding dual‑use research – [Sputnik News](https://sputnikglobe.com/20260809/pentagon-spent-204mln-funding-dual-use-research-at-german-universities--reports-1124554586.html)  
+- PH e‑notarization – [The Manila Times](https://www.manilatimes.net/2026/08/10/tmt-newswire/ph-enters-enotarization-era-as-supreme-court-accredits-twala-as-enotary-facility/2401546)  
+- BlackSky rating – [Markets Insider](https://markets.businessinsider.com/news/stocks/jefferies-reaffirms-their-hold-rating-on-blacksky-technology-bksy-1036432636)  
+- Bihar exam reforms – [The Economic Times](https://economictimes.indiatimes.com/news/india/bihar-to-set-up-dedicated-reforms-committee-to-ensure-smooth-fair-exams/articleshow/133070109.cms)  
+- Apple & CXMT chips – [Times Now](https://www.timesnownews.com/technology-science/apple-may-use-chinas-cxmt-memory-chips-in-iphones-macbooks-article-155415344)
 
 Sources:
-1. Telangana: DIG Calls For Technology-Driven Police Investigations (Deccan Chronicle)
-   https://www.deccanchronicle.com/southern-states/telangana/telangana-dig-calls-for-technology-driven-police-investigations-1977713
-2. Cyril Shroff and IIM Ahmedabad co-found the Cyril Shroff - IIMA GC Leadership Academy (The Economic Times)
-   https://economictimes.indiatimes.com/industry/services/education/cyril-shroff-and-iim-ahmedabad-co-found-the-cyril-shroff-iima-gc-leadership-academy/articleshow/133055629.cms
-3. Binance Coin Price 2026: BNB Eyes $630 as Pepeto Draws Whale Capital (TechBullion)
-   https://techbullion.com/binance-coin-price-2026-bnb-eyes-630-as-pepeto-draws-whale-capital/
-4. New Orleans uses AI to help manage 911 emergency calls, sparking public concerns (The News International)
-   https://www.thenews.com.pk/latest/1411653-new-orleans-uses-ai-to-help-manage-911-emergency-calls-sparking-public-concerns
-5. Key to global opportunities (The Star)
-   https://www.thestar.com.my/news/nation/2026/08/09/key-to-global-opportunities
+1. Pentagon Spent $20.4Mln Funding Dual-Use Research at German Universities - Reports (Sputnik News)
+   https://sputnikglobe.com/20260809/pentagon-spent-204mln-funding-dual-use-research-at-german-universities--reports-1124554586.html
+2. PH enters eNotarization era as Supreme Court accredits Twala as eNotary facility (The Manila Times)
+   https://www.manilatimes.net/2026/08/10/tmt-newswire/ph-enters-enotarization-era-as-supreme-court-accredits-twala-as-enotary-facility/2401546
+3. Jefferies Reaffirms Their Hold Rating on BlackSky Technology (BKSY) (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/jefferies-reaffirms-their-hold-rating-on-blacksky-technology-bksy-1036432636
+4. Bihar to set up dedicated reforms committee to ensure smooth, fair exams (The Economic Times)
+   https://economictimes.indiatimes.com/news/india/bihar-to-set-up-dedicated-reforms-committee-to-ensure-smooth-fair-exams/articleshow/133070109.cms
+5. Apple May Use China’s CXMT Memory Chips In iPhones, MacBooks (Times Now)
+   https://www.timesnownews.com/technology-science/apple-may-use-chinas-cxmt-memory-chips-in-iphones-macbooks-article-155415344
