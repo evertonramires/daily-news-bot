@@ -1,37 +1,36 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-08-10):
+What happens in tech today (2026-08-11):
 
-# 🚀 Global Tech & Policy Shifts: From Pentagon Funding to Apple’s Chip Choices  
+# **📰 Tech & Policy Pulse: From Cyber‑Crackdowns to Cash‑Back Innovation**  
 
-The **Pentagon’s $20.4 M** investment in dual‑use research at German universities signals a growing **civil‑military tech convergence**. While this can accelerate breakthroughs in AI and quantum sensing, it also raises transparency questions that echo the **e‑notarization rollout in the Philippines**, where the Supreme Court’s accreditation of Twala aims to modernize legal processes but must guard against digital fraud.  
+India’s **cyber‑security push** (TGCSB busting a fraud ring with 21 women telecallers in Delhi) shows that law‑enforcement is finally catching up with the **digital‑first economy**. While the operation curbs scams, it also highlights the need for **robust training** for frontline workers—something the ICAI president already stresses for CAs: *continuous skill upgrades are non‑negotiable*.  
 
-In the satellite‑imaging arena, **Jefferies’ “Hold” on BlackSky** reflects market caution despite the sector’s strategic importance—another reminder that **government‑backed tech** often walks a fine line between hype and hard‑value.  
+At the same time, **political confidence** is soaring. CM Devendra Fadnavis’s “India cannot be stopped” rally underscores a narrative of unstoppable growth, which dovetails with the **entrepreneurial vigor** seen in Forbes’ features:  
 
-On the education front, Bihar’s new **exam‑reform committee** shows how **policy can quickly adapt** to ensure fairness, a lesson that could inform other regions grappling with AI‑driven assessment tools.  
+- **Smooth Technology** is turning **cash‑back content** into a revenue engine, proving that smart fintech can fund media ventures.  
+- A **Brooklyn engineering studio** is leveraging **strategic spending** to back global pop‑culture events, illustrating how tech‑savvy budgeting fuels brand amplification.  
 
-Finally, Apple’s potential shift to **China’s CXMT memory chips** underscores the **supply‑chain realignment** forced by geopolitical tensions. If Apple adopts CXMT, it may set a precedent for other OEMs to diversify beyond traditional suppliers, balancing cost, performance, and political risk.  
-
-**Bottom line:** 2026 is shaping up as a year where **public funding, regulatory innovation, and supply‑chain strategy** intersect, forcing companies and governments alike to navigate a tighter web of **security, ethics, and market dynamics**.  
+**Takeaway:** India’s crackdown on cybercrime, the call for perpetual upskilling, and the rise of data‑driven financial models together signal a **maturing digital ecosystem**—one that demands both **regulatory vigilance** and **innovative financing** to stay ahead.  
 
 ---  
 
-**All sources are listed below:**  
+**Sources**  
 
-- Pentagon funding dual‑use research – [Sputnik News](https://sputnikglobe.com/20260809/pentagon-spent-204mln-funding-dual-use-research-at-german-universities--reports-1124554586.html)  
-- PH e‑notarization – [The Manila Times](https://www.manilatimes.net/2026/08/10/tmt-newswire/ph-enters-enotarization-era-as-supreme-court-accredits-twala-as-enotary-facility/2401546)  
-- BlackSky rating – [Markets Insider](https://markets.businessinsider.com/news/stocks/jefferies-reaffirms-their-hold-rating-on-blacksky-technology-bksy-1036432636)  
-- Bihar exam reforms – [The Economic Times](https://economictimes.indiatimes.com/news/india/bihar-to-set-up-dedicated-reforms-committee-to-ensure-smooth-fair-exams/articleshow/133070109.cms)  
-- Apple & CXMT chips – [Times Now](https://www.timesnownews.com/technology-science/apple-may-use-chinas-cxmt-memory-chips-in-iphones-macbooks-article-155415344)
+1. TGCSB busts cybercrime network – Lokmat Times  
+2. “India cannot be stopped” – Free Press Journal  
+3. Inside Smooth Technology – Forbes  
+4. CAs need to upgrade skills – The Hindu  
+5. Smart Spending, Global Stages – Forbes
 
 Sources:
-1. Pentagon Spent $20.4Mln Funding Dual-Use Research at German Universities - Reports (Sputnik News)
-   https://sputnikglobe.com/20260809/pentagon-spent-204mln-funding-dual-use-research-at-german-universities--reports-1124554586.html
-2. PH enters eNotarization era as Supreme Court accredits Twala as eNotary facility (The Manila Times)
-   https://www.manilatimes.net/2026/08/10/tmt-newswire/ph-enters-enotarization-era-as-supreme-court-accredits-twala-as-enotary-facility/2401546
-3. Jefferies Reaffirms Their Hold Rating on BlackSky Technology (BKSY) (Markets Insider)
-   https://markets.businessinsider.com/news/stocks/jefferies-reaffirms-their-hold-rating-on-blacksky-technology-bksy-1036432636
-4. Bihar to set up dedicated reforms committee to ensure smooth, fair exams (The Economic Times)
-   https://economictimes.indiatimes.com/news/india/bihar-to-set-up-dedicated-reforms-committee-to-ensure-smooth-fair-exams/articleshow/133070109.cms
-5. Apple May Use China’s CXMT Memory Chips In iPhones, MacBooks (Times Now)
-   https://www.timesnownews.com/technology-science/apple-may-use-chinas-cxmt-memory-chips-in-iphones-macbooks-article-155415344
+1. TGCSB busts cybercrime network, 21 women telecallers held in Delhi (Lokmat Times)
+   https://www.lokmattimes.com/technology/tgcsb-busts-cybercrime-network-21-women-telecallers-held-in-delhi-1/
+2. 'India Cannot Be Stopped,' Says CM Devendra Fadnavis At Mumbai Tiranga Rally Ahead Of Independence Day (Free Press Journal)
+   https://www.freepressjournal.in/mumbai/india-cannot-be-stopped-says-cm-devendra-fadnavis-at-mumbai-tiranga-rally-ahead-of-independence-day
+3. Inside Smooth Technology: A Cash Back Content Series (Forbes)
+   https://www.forbes.com/sites/chase-ink-business-credit-cards/2026/08/10/inside-smooth-technology-a-cash-back-content-series/
+4. CAs need to upgrade skills constantly: ICAI president (The Hindu)
+   https://www.thehindu.com/news/national/andhra-pradesh/cas-need-to-upgrade-skills-constantly-icai-president/article71328741.ece
+5. Smart Spending, Global Stages: How One Brooklyn Engineering Studio Funds Big Pop Culture Moments (Forbes)
+   https://www.forbes.com/sites/chase-ink-business-credit-cards/2026/08/10/smart-spending-global-stages-how-one-brooklyn-engineering-studio-funds-big-pop-culture-moments/
