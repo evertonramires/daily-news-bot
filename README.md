@@ -2,26 +2,29 @@
 
 What happens in tech today (2026-09-08):
 
-# 🌏 O eixo da tecnologia se move para o Oriente
+# 🤖 AI's Reality Check: Experimentation Isn't Transformation
 
-Hoje o padrão é claro: **a Ásia não está apenas fabricando o futuro — está desenhando-o.**
+Today's headlines tell one story from three angles: **the gap between AI hype and AI adoption is widening**.
 
-🇮🇳 **Índia** aparece nos dois extremos: a busca por um diretor no **IIT Mandi (₹2,25 lakh/mês)** mostra que talento acadêmico é infraestrutura estratégica, enquanto a **Samsung**, pela voz de JB Park, aposta no país como laboratório da próxima onda de inovação. Não é caridade corporativa — é geopolítica de P&D.
+Martin Sorrell's interviews (The Korea Times, ×3 today — a sign of how loudly this landed) cut through the noise: companies are **experimenting, not transforming**. Pilots, proofs-of-concept, a chatbot bolted onto a workflow. Real restructuring? Rare. 💭
 
-🇨🇳 **China** responde com números brutos: **exportações +25% e superávit de US$ 119 bi em agosto**. Somando a expansão global da **Tencent Cloud** com a Bookme, vemos a exportação de *software* seguindo a de *hardware*.
+Meanwhile, the quieter stories show what *actual* adoption looks like:
 
-🧬 E o mais provocador: o **rentosertib**, fármaco criado com IA, sugere reduzir a idade biológica em até **6 anos**. Cautela com o hype — mas a IA já saiu do chat e entrou no laboratório.
+- ✈️ **IATA's 2027 manuals** folding AI in alongside lithium batteries and live animal transport — AI as boring, regulated infrastructure.
+- 🎯 **Singapore's Home Team Academy** deploying virtual shooting ranges — tech embedded in training, not press releases.
 
-📌 **Todas as fontes estão na seção abaixo.**
+**My take:** the winners won't be the loudest AI adopters, but the ones treating it as plumbing. Hype bubbles pop; standards manuals don't. 🔧
+
+*All sources are listed in the section below.*
 
 Sources:
-1. IIT Mandi Director recruitment 2026: Education Ministry invites applications, ₹2.25 lakh monthly salary on offer; check eligibility and deadline (Times of India)
-   https://timesofindia.indiatimes.com/education/news/iit-mandi-director-recruitment-2026-education-ministry-invites-applications-2-25-lakh-monthly-salary-on-offer-check-eligibility-and-deadline/articleshow/133906049.cms
-2. Samsung’s ambition is to help India lead next wave of innovations: JB Park (Lokmat Times)
-   https://www.lokmattimes.com/technology/samsungs-ambition-is-to-help-india-lead-next-wave-of-innovations-jb-park-1/
-3. China's exports surge 25% in August, trade surplus hits $119B (NewsBytes)
-   https://www.newsbytesapp.com/news/business/china-s-exports-surge-25-in-august-trade-surplus-hits-119b/story
-4. AI helps create drug that may slow down ageing by 6 years in few weeks (India Today)
-   https://www.indiatoday.in/technology/news/story/ai-generated-drug-rentosertib-may-reduce-biological-ageing-by-up-to-six-years-nature-study-finds-2989482-2026-09-08
-5. Tencent Cloud Powers Bookme's Global Business Growth with Scalable Cloud Infrastructure (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/tencent-cloud-powers-bookmes-global-business-growth-with-scalable-cloud-infrastructure-302871761.html
+1. IATA’s 2027 Aviation Manuals Put Batteries, Animals and AI in Focus (Devdiscourse)
+   https://www.devdiscourse.com/article/other/3974024-iatas-2027-aviation-manuals-put-batteries-animals-and-ai-in-focus
+2. Home Team Academy to train officers with updated technology including virtual shooting range (The Straits Times)
+   https://www.straitstimes.com/singapore/courts-crime/home-team-academy-to-train-officers-with-updated-technology-including-virtual-shooting-range
+3. [INTERVIEW] Martin Sorrell says AI adoption lags behind hype as companies experiment, not transform (The Korea Times)
+   https://www.koreatimes.co.kr/business/companies/20260908/martin-sorrell-says-ai-adoption-lags-behind-hype-as-companies-experiment-not-transform
+4. [INTERVIEW] Martin Sorrell says AI adoption lags behind hype as companies experiment, not transform (The Korea Times)
+   https://www.koreatimes.co.kr/business/companies/20260908/interview-martin-sorrell-says-ai-adoption-lags-behind-hype-as-companies-experiment-not-transform
+5. [INTERVIEW] AI hype bubbles as companies fall short of full adoption (The Korea Times)
+   https://www.koreatimes.co.kr/business/companies/20260908/ai-hype-bubbles-as-companies-fall-short-of-full-adoption
