@@ -15,7 +15,7 @@ This project is a simple AI agent that fetches daily news from the internet and 
 cp .env.EXAMPLE .env
 #then edit .env to add your api keys, save. 
 uv venv
-source venv/bin/activate
+source .venv/bin/activate
 uv pip install -r requirements.txt
 ```
 
@@ -28,11 +28,17 @@ OPENAI_MODEL="gpt-4o-mini"
 # OPENAI_BASE_URL="https://api.openai.com/v1"
 
 GNEWS_API_KEY="your_gnews_api_key_here"
-NOTIFICATION_WEBHOOK_URL="https://your-webhook-url"
+
+# Telegram notifications (token from @BotFather, chat id of the destination chat)
+TELEGRAM_BOT_TOKEN="123456:your_bot_token_here"
+TELEGRAM_CHAT_ID="your_numeric_chat_id_here"
 ```
 
 ## Usage
 
 ```bash
-uv run main.py
+uv run main.py            # fetch, write README.md, commit, push, notify
+uv run main.py --dry-run  # same pipeline, but no README write / commit / push
 ```
+
+Status notifications (success, invalid opinion, any error) are sent to Telegram via the Bot API.
