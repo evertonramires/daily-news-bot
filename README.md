@@ -2,28 +2,26 @@
 
 What happens in tech today (2026-09-08):
 
-# 🌏 O eixo da inovação está mudando de hemisfério
+# 🌏 O eixo da tecnologia se move para o Oriente
 
-Cinco notícias, uma só história: **o poder tecnológico está migrando para a Ásia** — e desta vez não é só sobre fábricas.
+Hoje o padrão é claro: **a Ásia não está apenas fabricando o futuro — está desenhando-o.**
 
-**🇮🇳 Índia como protagonista.** A Samsung (JB Park) quer que o país *lidere* a próxima onda de inovação, não apenas monte dispositivos. E não é coincidência que isso venha no mesmo dia em que **Modi recebe 11 nações no Summit do BRICS**: a Índia está construindo influência tecnológica e diplomática ao mesmo tempo.
+🇮🇳 **Índia** aparece nos dois extremos: a busca por um diretor no **IIT Mandi (₹2,25 lakh/mês)** mostra que talento acadêmico é infraestrutura estratégica, enquanto a **Samsung**, pela voz de JB Park, aposta no país como laboratório da próxima onda de inovação. Não é caridade corporativa — é geopolítica de P&D.
 
-**🇨🇳 China acelera.** Exportações **+25% em agosto** e superávit de **US$ 119 bi**. Enquanto isso, a Tencent Cloud exporta infraestrutura (caso Bookme) — a verdadeira jogada não é vender produtos, é **virar a camada invisível sobre a qual o mundo roda**.
+🇨🇳 **China** responde com números brutos: **exportações +25% e superávit de US$ 119 bi em agosto**. Somando a expansão global da **Tencent Cloud** com a Bookme, vemos a exportação de *software* seguindo a de *hardware*.
 
-**🧬 E a joia da coroa:** o Rentosertib, criado com IA, pode reduzir a idade biológica em **até 6 anos** (estudo na *Nature*). A IA saiu do chatbot e entrou na farmacologia. 💊
+🧬 E o mais provocador: o **rentosertib**, fármaco criado com IA, sugere reduzir a idade biológica em até **6 anos**. Cautela com o hype — mas a IA já saiu do chat e entrou no laboratório.
 
-**Minha leitura:** o Ocidente debate regulação; a Ásia entrega produto.
-
-*Todas as fontes estão na seção abaixo.* 📎
+📌 **Todas as fontes estão na seção abaixo.**
 
 Sources:
-1. Samsung’s ambition is to help India lead next wave of innovations: JB Park (Lokmat Times)
+1. IIT Mandi Director recruitment 2026: Education Ministry invites applications, ₹2.25 lakh monthly salary on offer; check eligibility and deadline (Times of India)
+   https://timesofindia.indiatimes.com/education/news/iit-mandi-director-recruitment-2026-education-ministry-invites-applications-2-25-lakh-monthly-salary-on-offer-check-eligibility-and-deadline/articleshow/133906049.cms
+2. Samsung’s ambition is to help India lead next wave of innovations: JB Park (Lokmat Times)
    https://www.lokmattimes.com/technology/samsungs-ambition-is-to-help-india-lead-next-wave-of-innovations-jb-park-1/
-2. China's exports surge 25% in August, trade surplus hits $119B (NewsBytes)
+3. China's exports surge 25% in August, trade surplus hits $119B (NewsBytes)
    https://www.newsbytesapp.com/news/business/china-s-exports-surge-25-in-august-trade-surplus-hits-119b/story
-3. AI helps create drug that may slow down ageing by 6 years in few weeks (India Today)
+4. AI helps create drug that may slow down ageing by 6 years in few weeks (India Today)
    https://www.indiatoday.in/technology/news/story/ai-generated-drug-rentosertib-may-reduce-biological-ageing-by-up-to-six-years-nature-study-finds-2989482-2026-09-08
-4. Tencent Cloud Powers Bookme's Global Business Growth with Scalable Cloud Infrastructure (PR Newswire UK)
+5. Tencent Cloud Powers Bookme's Global Business Growth with Scalable Cloud Infrastructure (PR Newswire UK)
    https://www.prnewswire.co.uk/news-releases/tencent-cloud-powers-bookmes-global-business-growth-with-scalable-cloud-infrastructure-302871761.html
-5. India’s BRICS Chairmanship takes centre stage as PM Modi hosts expanded 11-nation Summit in New Delhi (The Hindu Business Line)
-   https://www.thehindubusinessline.com/news/indias-brics-chairmanship-takes-centre-stage-as-pm-modi-hosts-expanded-11-nation-summit-in-new-delhi/article71441195.ece
