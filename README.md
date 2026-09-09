@@ -1,30 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-08):
+What happens in tech today (2026-09-09):
 
-# 🤖 AI's Reality Check: Experimentation Isn't Transformation
+# 🌍 Old Materials, New Money, and the Quiet Tech That Actually Works
 
-Today's headlines tell one story from three angles: **the gap between AI hype and AI adoption is widening**.
+**Today's news is a reminder that innovation rarely arrives as a spectacle.**
 
-Martin Sorrell's interviews (The Korea Times, ×3 today — a sign of how loudly this landed) cut through the noise: companies are **experimenting, not transforming**. Pilots, proofs-of-concept, a chatbot bolted onto a workflow. Real restructuring? Rare. 💭
+That 90-foot recycled-plastic bridge in Scotland — six sections, four days, no rust, no rot — is exactly the kind of boring miracle we should be copying at scale. ♻️ **Infrastructure built from waste is the climate story nobody tweets about.**
 
-Meanwhile, the quieter stories show what *actual* adoption looks like:
+Meanwhile, **UPI's dominance in India proves that the most transformative fintech isn't crypto — it's plumbing.** Rails that move small amounts of money reliably beat billion-dollar valuations every time. 💸
 
-- ✈️ **IATA's 2027 manuals** folding AI in alongside lithium batteries and live animal transport — AI as boring, regulated infrastructure.
-- 🎯 **Singapore's Home Team Academy** deploying virtual shooting ranges — tech embedded in training, not press releases.
+And the humble ergonomic mouse? **Remote work is now a hardware problem.** Your wrist is infrastructure too. 🖱️
 
-**My take:** the winners won't be the loudest AI adopters, but the ones treating it as plumbing. Hype bubbles pop; standards manuals don't. 🔧
+The Pittsburgh storage donation and the "Invisible Bunker" isolation piece bookend the same theme: **technology only matters when it reaches people — and isolates no one.**
 
-*All sources are listed in the section below.*
+📚 *All sources are listed in the section below.*
 
 Sources:
-1. IATA’s 2027 Aviation Manuals Put Batteries, Animals and AI in Focus (Devdiscourse)
-   https://www.devdiscourse.com/article/other/3974024-iatas-2027-aviation-manuals-put-batteries-animals-and-ai-in-focus
-2. Home Team Academy to train officers with updated technology including virtual shooting range (The Straits Times)
-   https://www.straitstimes.com/singapore/courts-crime/home-team-academy-to-train-officers-with-updated-technology-including-virtual-shooting-range
-3. [INTERVIEW] Martin Sorrell says AI adoption lags behind hype as companies experiment, not transform (The Korea Times)
-   https://www.koreatimes.co.kr/business/companies/20260908/martin-sorrell-says-ai-adoption-lags-behind-hype-as-companies-experiment-not-transform
-4. [INTERVIEW] Martin Sorrell says AI adoption lags behind hype as companies experiment, not transform (The Korea Times)
-   https://www.koreatimes.co.kr/business/companies/20260908/interview-martin-sorrell-says-ai-adoption-lags-behind-hype-as-companies-experiment-not-transform
-5. [INTERVIEW] AI hype bubbles as companies fall short of full adoption (The Korea Times)
-   https://www.koreatimes.co.kr/business/companies/20260908/ai-hype-bubbles-as-companies-fall-short-of-full-adoption
+1. In 2011, Axion built a 90-foot plastic bridge over Scotland's River Tweed. 1 year later, ASME reported its six sections took just 4 days to assemble on-site in Edinburgh (The Economic Times)
+   https://economictimes.indiatimes.com/us/news/science-news-in-2011-axion-built-a-90-foot-plastic-bridge-over-scotlands-river-tweed-1-year-later-asme-reported-its-six-sections-took-just-4-days-to-assemble-on-site-in-edinburgh/articleshow/133927594.cms
+2. Inside the 'Invisible Bunker': A Tale of Isolation and Power (Devdiscourse)
+   https://www.devdiscourse.com/article/entertainment/3974457-inside-the-invisible-bunker-a-tale-of-isolation-and-power
+3. UPI is undisputed champion of India’s fintech success story: PM Modi (Lokmat Times)
+   https://www.lokmattimes.com/technology/upi-is-undisputed-champion-of-indias-fintech-success-story-pm-modi-2/
+4. Pittsburgh entrepreneur donates storage systems to Seton Hill business, technology school (Pittsburgh Tribune-Review)
+   https://triblive.com/local/westmoreland/pittsburgh-entrepreneur-donates-storage-systems-to-seton-hill-business-technology-school/
+5. WFH setup: Comfortable, high-precision mice for efficient remote working, smoother navigation and better productivity (Hindustan Times)
+   https://www.hindustantimes.com/technology/wfh-setup-comfortable-high-precision-mice-for-efficient-remote-working-smoother-navigation-and-better-productivity-101788864967719.html
