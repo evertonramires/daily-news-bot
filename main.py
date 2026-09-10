@@ -91,7 +91,25 @@ def notify(message):
         print(f"Failed to send notification: {e}{detail}")
 
 # Function to evaluate text that will be sent to webhook
+def _shorten(text, limit=140):
+    """Trim a status line to `limit` chars, ellipsis included."""
+    text = str(text).strip()
+    if len(text) > limit:
+        text = text[: limit - 3].rstrip() + "..."
+    return text
+
+
 def evaluate_notification(notificationText):
+    """Shorten a status line for Telegram, falling back to the raw message.
+
+    The summariser is just another LLM call, so it can come back empty without
+    raising: small local models (e.g. terra/qwen3.8-27b, which bifrost's `chat`
+    alias now routes to) sometimes answer with nothing at all. That empty string
+    used to be sent as-is, so the notification arrived as a bare marker emoji.
+    Blank output now falls back to the original message.
+    """
+    fallback = _shorten(notificationText)
+
     try:
         text = generate_text(
             [
@@ -106,25 +124,24 @@ def evaluate_notification(notificationText):
             ],
             temperature=0,
         )
-
-        if len(text) > 140:
-            text = text[:137].rstrip() + "..."
-
-        print(f"Notification evaluation result: {text}")
-        # Keep the caller's status marker (❌ / 🧪) instead of stamping ✅ on errors.
-        marker = str(notificationText).lstrip()[:1]
-        if marker in ("❌", "🧪", "✅") and not text.startswith(marker):
-            text = f"{marker} {text}"
-        elif marker not in ("❌", "🧪", "✅"):
-            text = f"✅ {text}"
-        return text
     except Exception as e:
         print(f"Error: {e}")
-        fallback = str(notificationText)
-        if len(fallback) > 140:
-            fallback = fallback[:137].rstrip() + "..."
         return fallback
-    
+
+    text = _shorten(text)
+    if not text:
+        print("⚠️ Notification summariser returned nothing; sending the original message.")
+        text = fallback
+
+    print(f"Notification evaluation result: {text}")
+    # Keep the caller's status marker (❌ / 🧪) instead of stamping ✅ on errors.
+    marker = str(notificationText).lstrip()[:1]
+    if marker in ("❌", "🧪", "✅") and not text.startswith(marker):
+        text = f"{marker} {text}"
+    elif marker not in ("❌", "🧪", "✅"):
+        text = f"✅ {text}"
+    return text
+
 
 def evaluate_opinion(opinion):
     try:
@@ -166,7 +183,7 @@ def tailor_opinion(news):
                 },
                 {
                     "role": "user",
-                    "content": f"These are the news you must tailor an intelligent opinion for today:\n{news}\n\nYour opinion:",
+                    "content": f"These are the news you must tailor an intelligent opinion for today:\n{news}\n\nWrite your opinion in ENGLISH only.\n\nYour opinion:",
                 },
             ]
         )
@@ -174,6 +191,35 @@ def tailor_opinion(news):
         print(f"Error: {e}")
         notify(str(e))
         return str(e)
+
+def ensure_english(opinion):
+    """Guarantee the published opinion is in English; translate it if the model slipped."""
+    try:
+        verdict = generate_text(
+            [
+                {
+                    "role": "user",
+                    "content": f"Is the following text written entirely in English? Answer ONLY 1 for yes or 0 for no.\n\n{opinion}\n\nAnswer (0 or 1):",
+                }
+            ],
+            temperature=0,
+        )
+        if verdict.startswith("1"):
+            return opinion
+        print("⚠️ Opinion was not in English, translating...")
+        return generate_text(
+            [
+                {
+                    "role": "user",
+                    "content": f"Translate the following markdown text to English. Keep the markdown formatting, emojis and bold exactly as they are. Output ONLY the translated text.\n\n{opinion}",
+                }
+            ],
+            temperature=0,
+        )
+    except Exception as e:
+        print(f"Error: {e}")
+        return opinion
+
 
 # Function to fetch technology news from GNews API
 def fetch_tech_news():
@@ -215,7 +261,7 @@ if __name__ == "__main__":
         if not news:
             print("\n❌ No news fetched. Exiting.")
             sys.exit(1)
-        opinion = tailor_opinion(news)
+        opinion = ensure_english(tailor_opinion(news))
         opinionValidity = evaluate_opinion(opinion)
         today = datetime.now().strftime("%Y-%m-%d")
 
