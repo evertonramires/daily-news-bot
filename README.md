@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-11):
+What happens in tech today (2026-09-12):
 
-# 🚀 India’s Tech Renaissance & The AI Frontier!
+# 🚀 Tech's Dual Edge: Existential Risks & Human Hope
 
-As a tech journalist, I see a **massive convergence** happening today! Nandan Nilekani’s prediction of **$19 trillion in tokenised assets** within 7-8 years is bold, but with India building the necessary infrastructure, it’s not just hype—it’s a strategic play for global financial dominance. This aligns perfectly with Jyotiraditya Scindia’s assertion that India is now a **maker of technology**, not just a consumer market. We are witnessing a shift from adoption to **creation**.
+As a tech journalist, I see today’s headlines as a perfect microcosm of our era. On one hand, **Senators Sanders and Trahan** are rightly urging Congress to act on the potential for AI to end humanity. This isn't science fiction; it’s a critical governance gap we must close immediately. We need robust regulations now, not after the damage is done.
 
-Meanwhile, the AI-powered documentary at Venice proves that **generative AI** is reshaping creative boundaries, moving beyond tools into true artistic collaboration. Even in public safety, Mark43’s digital reform efforts show how tech is modernizing governance. The common thread? **Digital transformation** is no longer optional; it’s the backbone of future economies and societies. India is positioning itself at the center of this wave! 🌍💻
+Conversely, technology offers profound healing. The new **DNA technology** providing hope in identifying 9/11 victims 25 years later is a testament to scientific persistence. It reminds us that innovation isn't just about speed; it's about **human connection and closure**.
 
-All sources are at the section below.
+Globally, Iran’s push for BRICS trade stability highlights the geopolitical fragility surrounding tech infrastructure, while Karnataka courting giants like **Bayer and Philips** shows the relentless race for industrial dominance.
+
+We must balance **existential caution** with **optimistic progress**. The same tools that could disrupt global trade or threaten our species can also heal old wounds. All sources are at the section below.
 
 Sources:
-1. USD 19 trillion in tokenised assets possible in 7-8 years, India building infrastructure for mass adoption: Nandan Nilekani (The Tribune)
-   https://www.tribuneindia.com/news/business/usd-19-trillion-in-tokenised-assets-possible-in-7-8-years-india-building-infrastructure-for-mass-adoption-nandan-nilekani/
-2. AI-powered documentary tests cinema's boundaries in Venice (Reuters)
-   https://www.reuters.com/business/media-telecom/ai-powered-documentary-tests-cinemas-boundaries-venice-2026-09-10/
-3. India is maker of technology, builder of platforms, not just a market: Jyotiraditya Scindia (ANI (Asian News International))
-   https://www.aninews.in/news/national/general-news/india-is-maker-of-technology-builder-of-platforms-not-just-a-market-jyotiraditya-scindia20260910215732/
-4. USD 19 trillion in tokenised assets possible in 7–8 years, India building infrastructure for mass adoption: Nandan Nilekani (ANI (Asian News International))
-   https://www.aninews.in/news/business/usd-19-trillion-in-tokenised-assets-possible-in-782118-years-india-building-infrastructure-for-mass-adoption-nandan-nilekani20260910215632/
-5. Mark43 Brings UK Policing Leaders Together to Advance Digital Reform (PR Newswire UK)
-   https://www.prnewswire.co.uk/news-releases/mark43-brings-uk-policing-leaders-together-to-advance-digital-reform-302875571.html
+1. Could AI end humanity? Sanders, Trahan urge Congress to act (Quincy Patriot Ledger)
+   https://www.patriotledger.com/story/news/politics/2026/09/11/could-ai-end-humanity-sanders-trahan-urge-congress-to-act/91706055007/
+2. New DNA technology offers hope in identifying 9/11 victims 25 years later (WJLA)
+   https://wjla.com/news/nation-world/25-years-after-911-new-dna-technology-figg-offers-hope-in-identifying-terror-attack-victims-world-trade-center-twin-towers-new-york-mayor-mamdani-chief-medical-examiner
+3. New DNA technology offers hope in identifying 9/11 victims 25 years later (Baltimore News)
+   https://foxbaltimore.com/news/nation-world/25-years-after-911-new-dna-technology-figg-offers-hope-in-identifying-terror-attack-victims-world-trade-center-twin-towers-new-york-mayor-mamdani-chief-medical-examiner
+4. 'BRICS must ensure no country can disrupt another’s trade': Iran President Pezeshkian (The Tribune)
+   https://www.tribuneindia.com/news/india/brics-must-ensure-no-country-can-disrupt-anothers-trade-iran-president-pezeshkian/
+5. Karnataka woos Bayer, Philips, Royal Swinkels for investments (The Economic Times)
+   https://economictimes.indiatimes.com/news/india/karnataka-woos-bayer-philips-royal-swinkels-for-investments/articleshow/134077143.cms
