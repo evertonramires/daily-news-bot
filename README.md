@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-12):
+What happens in tech today (2026-09-13):
 
-# 🚀 Tech's Dual Edge: Existential Risks & Human Hope
+# 🌍 Tech & Global Shifts: My Take!
 
-As a tech journalist, I see today’s headlines as a perfect microcosm of our era. On one hand, **Senators Sanders and Trahan** are rightly urging Congress to act on the potential for AI to end humanity. This isn't science fiction; it’s a critical governance gap we must close immediately. We need robust regulations now, not after the damage is done.
+As a tech journalist, I see a fascinating convergence today. First, **Macron and Modi’s tour** at VivaTech signals a massive push for **Franco-Indian tech diplomacy**, proving that innovation is now a core pillar of international relations. 🇫🇷🇮🇳
 
-Conversely, technology offers profound healing. The new **DNA technology** providing hope in identifying 9/11 victims 25 years later is a testament to scientific persistence. It reminds us that innovation isn't just about speed; it's about **human connection and closure**.
+Meanwhile, the **KTV Working Drone** cleaning Edmonton windows is a brilliant example of practical automation. It’s not just sci-fi; it’s solving real-world labor shortages with **smart robotics**. 🚁✨
 
-Globally, Iran’s push for BRICS trade stability highlights the geopolitical fragility surrounding tech infrastructure, while Karnataka courting giants like **Bayer and Philips** shows the relentless race for industrial dominance.
+On the economic front, experts backing **BRICS’ role in global growth** highlights a shifting multipolar world where emerging markets are driving innovation and stability. 💰📈
 
-We must balance **existential caution** with **optimistic progress**. The same tools that could disrupt global trade or threaten our species can also heal old wounds. All sources are at the section below.
+Finally, the push for **new skills to stay competitive** is the human side of this tech revolution. As AI and automation advance, **lifelong learning** isn't optional—it’s essential for survival in the modern workforce. 🧠💻
+
+The takeaway? Technology is reshaping borders, jobs, and economies simultaneously. We must adapt fast!
+
+*All sources are at the section below.*
 
 Sources:
-1. Could AI end humanity? Sanders, Trahan urge Congress to act (Quincy Patriot Ledger)
-   https://www.patriotledger.com/story/news/politics/2026/09/11/could-ai-end-humanity-sanders-trahan-urge-congress-to-act/91706055007/
-2. New DNA technology offers hope in identifying 9/11 victims 25 years later (WJLA)
-   https://wjla.com/news/nation-world/25-years-after-911-new-dna-technology-figg-offers-hope-in-identifying-terror-attack-victims-world-trade-center-twin-towers-new-york-mayor-mamdani-chief-medical-examiner
-3. New DNA technology offers hope in identifying 9/11 victims 25 years later (Baltimore News)
-   https://foxbaltimore.com/news/nation-world/25-years-after-911-new-dna-technology-figg-offers-hope-in-identifying-terror-attack-victims-world-trade-center-twin-towers-new-york-mayor-mamdani-chief-medical-examiner
-4. 'BRICS must ensure no country can disrupt another’s trade': Iran President Pezeshkian (The Tribune)
-   https://www.tribuneindia.com/news/india/brics-must-ensure-no-country-can-disrupt-anothers-trade-iran-president-pezeshkian/
-5. Karnataka woos Bayer, Philips, Royal Swinkels for investments (The Economic Times)
-   https://economictimes.indiatimes.com/news/india/karnataka-woos-bayer-philips-royal-swinkels-for-investments/articleshow/134077143.cms
+1. Macron and Modi tour Indian pavilion at France's VivaTech (Africanews)
+   https://www.africanews.com/2026/06/18/macron-and-modi-tour-indian-pavilion-at-frances-vivatech/
+2. KTV Working Drone being used to clean Edmonton high-rise windows (CP24 Toronto)
+   https://www.cp24.com/news/world/2026/09/12/not-your-average-squeegee-drone-technology-being-used-to-clean-edmonton-windows/
+3. Map Shows States Making SNAP Card Changes-What It Means For Your Benefits (Newsweek)
+   https://www.newsweek.com/map-shows-states-making-snap-card-changes-what-it-means-for-your-benefits-12435233
+4. BRICS economies driving global growth, experts back PM Modi's remarks (Lokmat Times)
+   https://www.lokmattimes.com/technology/brics-economies-driving-global-growth-experts-back-pm-modis-remarks-2/
+5. Gaining new skills to stay competitive (The Star)
+   https://www.thestar.com.my/news/nation/2026/09/13/gaining-new-skills-to-stay-competitive
