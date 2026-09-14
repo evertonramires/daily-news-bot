@@ -1,29 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-13):
+What happens in tech today (2026-09-14):
 
-# 🌍 Tech & Global Shifts: My Take!
+# 🚀 Tech & Science: The Race for Balance!
 
-As a tech journalist, I see a fascinating convergence today. First, **Macron and Modi’s tour** at VivaTech signals a massive push for **Franco-Indian tech diplomacy**, proving that innovation is now a core pillar of international relations. 🇫🇷🇮🇳
+Today’s headlines scream a single message: **we need speed, but we need safety.** In medicine, Penn’s trial of **ultrafast radiation** is a game-changer, promising to slash cancer side effects. It’s the kind of precision tech I live for! 🏥✨
 
-Meanwhile, the **KTV Working Drone** cleaning Edmonton windows is a brilliant example of practical automation. It’s not just sci-fi; it’s solving real-world labor shortages with **smart robotics**. 🚁✨
+Meanwhile, the AI world is hitting the brakes. With **Obama urging clear safeguards** and both OpenAI’s boss and Elon Musk calling development "reckless," we’re seeing a rare consensus. As a journalist, I’m thrilled to see leaders prioritizing **ethical frameworks** over raw speed. We can’t let innovation outpace our ability to govern it! 🛑🤖
 
-On the economic front, experts backing **BRICS’ role in global growth** highlights a shifting multipolar world where emerging markets are driving innovation and stability. 💰📈
+On the energy front, India is making bold moves. Pushing for **100 GW nuclear power by 2047** with private sector help shows a serious commitment to clean energy. Pair that with the urgent call to conserve **mangroves as living ecosystems**, and you see the full picture: we must balance aggressive tech growth with deep environmental stewardship. 🌿⚡
 
-Finally, the push for **new skills to stay competitive** is the human side of this tech revolution. As AI and automation advance, **lifelong learning** isn't optional—it’s essential for survival in the modern workforce. 🧠💻
-
-The takeaway? Technology is reshaping borders, jobs, and economies simultaneously. We must adapt fast!
+The future isn't just about building faster; it's about building **smarter and safer**. Let’s hope policy keeps up with innovation!
 
 *All sources are at the section below.*
 
 Sources:
-1. Macron and Modi tour Indian pavilion at France's VivaTech (Africanews)
-   https://www.africanews.com/2026/06/18/macron-and-modi-tour-indian-pavilion-at-frances-vivatech/
-2. KTV Working Drone being used to clean Edmonton high-rise windows (CP24 Toronto)
-   https://www.cp24.com/news/world/2026/09/12/not-your-average-squeegee-drone-technology-being-used-to-clean-edmonton-windows/
-3. Map Shows States Making SNAP Card Changes-What It Means For Your Benefits (Newsweek)
-   https://www.newsweek.com/map-shows-states-making-snap-card-changes-what-it-means-for-your-benefits-12435233
-4. BRICS economies driving global growth, experts back PM Modi's remarks (Lokmat Times)
-   https://www.lokmattimes.com/technology/brics-economies-driving-global-growth-experts-back-pm-modis-remarks-2/
-5. Gaining new skills to stay competitive (The Star)
-   https://www.thestar.com.my/news/nation/2026/09/13/gaining-new-skills-to-stay-competitive
+1. Penn trial tests ultrafast form of radiation aimed at reducing cancer treatment side effects (Pittsburgh Tribune-Review)
+   https://triblive.com/news/pennsylvania/penn-trial-tests-ultrafast-form-of-radiation-aimed-at-reducing-cancer-treatment-side-effects/
+2. Obama urges Democrats to have a ‘clear plan’ for AI safeguards (TechCrunch)
+   https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/
+3. OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development (The Irish Times)
+   https://www.irishtimes.com/world/us/2026/09/13/openai-boss-and-elon-musk-back-calls-to-put-brakes-on-reckless-ai-development/
+4. Mangroves must be conserved as living ecosystems: Bhupender Yadav (ThePrint)
+   https://theprint.in/india/mangroves-must-be-conserved-as-living-ecosystems-bhupender-yadav/3041843/
+5. Private sector can help India exceed 100 GW nuclear target by 2047: Bajaj Energy official (The Tribune)
+   https://www.tribuneindia.com/news/business/private-sector-can-help-india-exceed-100-gw-nuclear-target-by-2047-bajaj-energy-official/
