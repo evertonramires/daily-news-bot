@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-15):
+What happens in tech today (2026-09-16):
 
-# 🚀 AI’s Volatile Week: Safety vs. Speed!
+# 🚀 AI’s Double-Edged Sword & Market Momentum!
 
-As a tech journalist, I see a **critical inflection point** in today's headlines. The market is clearly nervous, with **AI stocks dropping** as safety concerns trigger a selloff and the 10-year yield hits 5%. This isn't just noise; it’s a signal that investors are demanding **accountability**.
+As **Sofia**, I see a fascinating clash of titans today. On one hand, **Bill Gates** is sounding the alarm that **AI could widen inequality**, prompting his foundation to pledge **$1 billion** to expand access. This isn't just charity; it’s a strategic move to ensure the tech revolution doesn’t leave half the world behind. Meanwhile, in Washington, **AI skeptics are convening** to demand action while Congress and the White House remain idle. We need robust regulation *now*, not after the damage is done!
 
-While Trump rejects "guardrails," arguing that **"whoever wins AI wins,"** this stance risks ignoring systemic risks. We need balance! Meanwhile, global cooperation is accelerating: Chhattisgarh’s CM engaging with Japanese students highlights the **scope for research**, and Malta Inc.’s alliance with Kobe Steel proves that **decarbonization** and tech are converging.
+But let’s look at the hardware side. The debate over **data centers** in Georgia shows how local politics is colliding with global tech demands. And in India, **Hero Motors** is raising **₹300 crore** ahead of its IPO, with **Prashant Jain’s 3P India** as an anchor. This signals strong investor confidence in traditional sectors pivoting to modernization.
 
-The lesson? **Innovation must be responsible.** We can't just sprint blindly; we need structured growth. The market turmoil is a wake-up call, not a stop sign. Let’s build smarter, not just faster! 📉🔥
+The takeaway? **AI is reshaping society and markets simultaneously.** We must balance innovation with equity. Don’t just watch the headlines—understand the ripple effects! 🌍💻
 
-*All sources are at the section below.*
+📚 *All sources are at the section below*
 
 Sources:
-1. Chhattisgarh CM interacts with Japanese students, highlights scope for research and innovation (ThePrint)
-   https://theprint.in/india/chhattisgarh-cm-interacts-with-japanese-students-highlights-scope-for-research-and-innovation/3042695/
-2. Market Turmoil: AI Safety Concerns Trigger Selloff (Devdiscourse)
-   https://www.devdiscourse.com/article/business/3977084-market-turmoil-ai-safety-concerns-trigger-selloff
-3. Malta Inc. Announces Strategic Alliance and Investment with Kobe Steel to Strengthen Industrial Competitiveness and Advance Decarbonization (The Kingston Whig-Standard)
-   https://www.thewhig.com/press-releases/business-wire/malta-inc-announces-strategic-alliance-and-investment-with-kobe-steel-to-strengthen-industrial-competitiveness-and-advance-decarbonization/
-4. Trump rejects AI 'guardrails' call led by Anthropic CEO Dario Amodei (Fox News)
-   https://www.foxnews.com/politics/trump-unloads-tech-titans-pushing-slowdown-emerging-industry-whoever-wins-ai-wins
-5. AI Stocks Drop On Calls For A Slowdown As Rising Oil Prices Push The 10-Year Yield To 5% (Deccan Chronicle)
-   https://www.deccanchronicle.com/world/americas/ai-stocks-drop-on-calls-for-a-slowdown-as-rising-oil-prices-push-the-10-year-yield-to-5-1987465
+1. Prashant Jain’s 3P India among anchors as Hero Motors raises Rs 300 crore ahead of IPO (The Economic Times)
+   https://economictimes.indiatimes.com/markets/ipos/fpos/prashant-jains-3p-india-among-anchors-as-hero-motors-raises-rs-300-crore-ahead-of-ipo/articleshow/134268748.cms
+2. Gates warns artificial intelligence could widen inequality (CP24 Toronto)
+   https://www.cp24.com/news/money/2026/09/15/gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-us1b-to-expand-access/
+3. Gates warns artificial intelligence could widen inequality (Bnn Bloomberg)
+   https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-us1b-to-expand-access/
+4. Bottoms’ data center stance reflects fast-changing Georgia debate (The Atlanta Journal-Constitution)
+   https://www.ajc.com/politics/2026/09/bottoms-data-center-stance-reflects-a-fast-changing-georgia-debate/
+5. AI skeptics convene in Washington to urge action, as Congress, Trump idle (CNBC)
+   https://www.cnbc.com/2026/09/15/ai-skeptics-concerns-congress-trump.html
