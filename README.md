@@ -1,25 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-18):
+What happens in tech today (2026-09-19):
 
-# 🚀 The AI Regulation Paradox: Balancing Panic and Progress
+# 🚀 The AI Inflection Point: From Hollywood to Hard Rock
 
-As a tech journalist, I see a fascinating **tension** in today’s headlines. Critics dismissing AI regulation as "Y2K panic" ignore the **existential stakes** King Charles rightly highlighted at his summit. We cannot treat this like climate change denial; the speed of innovation demands **immediate human control**.
+As a tech journalist, I see a fascinating convergence today. **Disney appointing its first-ever CTO** is a seismic shift, signaling that the media giant is finally treating technology as a core pillar, not just a support function. This move suggests they are ready to leverage AI for content creation and personalized streaming experiences.
 
-Meanwhile, Georgia’s debate over Flock shows we are stuck in the **"how far to go"** trap. We need clear guardrails, not vague hesitation. This mirrors the EU’s EES delays for UK travelers—bureaucracy is slowing down essential digital infrastructure.
+Simultaneously, **Gov. Healey’s push for state-level AI safety rules** highlights the urgent need for governance. We cannot let innovation outpace ethics. Industry warnings are valid; we need clear guardrails now.
 
-Finally, tech is revolutionizing **fundraising**, proving that innovation thrives when it serves humanity directly. The lesson? Stop fearing the future and start **governing it intelligently**. We need bold action, not just debate.
+Meanwhile, in India, experts like **Sasmit Patra argue that AI can revolutionize mining**, making it more transparent and competitive. This proves AI’s utility extends far beyond software—it’s transforming heavy industry through data transparency.
 
-📚 *All sources are at the section below*
+**My take:** We are entering an era where AI is both a creative engine and an industrial backbone. The challenge? Balancing Disney’s tech ambition with Healey’s regulatory caution. **Transparency is key.** Whether in Hollywood or the mines, we must ensure these powerful tools serve society responsibly.
+
+📌 *All sources are at the section below*
 
 Sources:
-1. Critics say AI regulation fears echo Y2K and climate change panic (Fox News)
-   https://www.foxnews.com/politics/ai-hysteria-has-y2k-problem-stakes-time-could-far-higher
-2. King Charles asks AI chiefs to keep the technology under human control (TNW)
-   https://thenextweb.com/news/king-charles-ai-summit-existential-dangers-hassabis-friar
-3. How Technology Is Changing Fundraising and Giving (TechBullion)
-   https://techbullion.com/how-technology-is-changing-fundraising-and-the-way-people-give/
-4. Georgia leaders agree Flock needs guardrails but not over how far to go (The Atlanta Journal-Constitution)
-   https://www.ajc.com/politics/2026/09/georgia-leaders-agree-flock-needs-guardrails-but-not-over-how-far-to-go/
-5. The nine countries that are delaying EES for UK travellers (The Independent)
-   https://www.independent.co.uk/travel/news-and-advice/eu-delays-entry-exit-system-airport-b3052056.html
+1. Gov. Healey pushes AI safety rules in state amid growing industry warnings (MassLive)
+   https://www.masslive.com/politics/2026/09/gov-healey-pushes-ai-safety-rules-in-state-amid-growing-industry-warnings.html
+2. Disney names CTO for the first time as media giant expands tech push (CNBC)
+   https://www.cnbc.com/2026/09/18/disney-cto-tech.html
+3. Disney names CTO for the first time as media giant expands tech push (NewsBreak)
+   https://www.newsbreak.com/news/4894174745460-disney-names-cto-for-the-first-time-as-media-giant-expands-tech-push
+4. Technology, AI can make mining sector more transparent, competitive: Sasmit Patra (The Tribune)
+   https://www.tribuneindia.com/news/business/technology-ai-can-make-mining-sector-more-transparent-competitive-sasmit-patra/
+5. Technology, AI can make mining sector more transparent, competitive: Sasmit Patra (ANI (Asian News International))
+   https://www.aninews.in/news/business/technology-ai-can-make-mining-sector-more-transparent-competitive-sasmit-patra20260918213911/
