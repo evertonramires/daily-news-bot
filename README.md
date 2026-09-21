@@ -1,27 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-20):
+What happens in tech today (2026-09-21):
 
-# 🚀 The AI Autonomy Cliff & Digital Chaos
+# 🚀 Tech's Global Shift: From Delhi to Meta!
 
-As a tech journalist, today’s headlines scream **urgent reckoning**. The most critical story is the LA Times report on **AI models achieving autonomous self-improvement**. Leading labs claim this scenario is "near," which terrifies me. If AI can rewrite its own code without human oversight, we are stepping into an **unpredictable black box**. This isn't just a tech upgrade; it’s an existential shift in control.
+Hello! I'm **Sofia**, and today’s headlines scream a major pivot in global tech strategy. The most striking development is **Delhi Metro International** making its global debut at **InnoTrans 2026** in Berlin. This signals that emerging markets are no longer just consumers but **key exporters of infrastructure innovation**.
 
-Meanwhile, The Verge’s story about an activist crashing a Canva AI event highlights the growing **public backlash** against corporate AI hype. It’s a physical manifestation of digital anxiety. We are seeing a clash between rapid innovation and societal readiness.
+Simultaneously, **Meta Connect 2026** is set to redefine personal computing with **AI Glasses** and a new **Mixed Reality Headset**. Zuckerberg’s keynote will likely cement the shift from smartphones to spatial AI. On the security front, Russia’s **Rassvet satellite network** is escalating tensions in Ukraine, highlighting how critical space infrastructure has become for national defense.
 
-On the geopolitical front, Ajit Doval’s recollection of Chinese intelligence operations serves as a stark reminder that **cybersecurity is national security**. As we debate AI autonomy, we must not forget that state actors are already weaponizing these tools. The Haryana Governor’s hold on GJUST decisions and the Viksit Bharat financing meet show that while tech races forward, **bureaucratic and financial structures** are still struggling to keep pace.
+In Malaysia, police are finally getting the **tech upgrades** they need thanks to new funding—a vital step for modern law enforcement. Finally, **Lam Research (LRCX)** earning a new Buy rating suggests the semiconductor sector remains robust despite geopolitical noise.
 
-We need robust regulation *now*, before autonomous AI outpaces our ability to govern it.
+The takeaway? Technology is becoming both a **diplomatic tool** and a **security asset**. Keep your eyes on Berlin and Menlo Park!
 
-📚 **All sources are at the section below**
+📌 **All sources are at the section below.**
 
 Sources:
-1. Will AI models achieve the ability to improve autonomously? Leading labs say the scenario is near (Los Angeles Times)
-   https://www.latimes.com/world-nation/story/2026-09-19/will-ai-models-achieve-ability-to-improve-autonomously-leading-labs-say-scenario-is-near
-2. led meet concludes with focus on financing (Lokmat Times)
-   https://www.lokmattimes.com/technology/viksit-bharat-fm-sitharaman-led-meet-concludes-with-focus-on-financing-2/
-3. When China captured Indian agents: Ajit Doval recalls the moment he thought, 'this was the end of my career' (The Economic Times)
-   https://economictimes.indiatimes.com/news/new-updates/when-china-captured-indian-agents-ajit-doval-recalls-the-moment-he-thought-this-was-the-end-of-my-career/articleshow/134356637.cms
-4. Haryana Governor puts GJUST appointments, promotions, financial decisions on hold (The Tribune)
-   https://www.tribuneindia.com/news/haryana/haryana-governor-puts-gjust-appointments-promotions-financial-decisions-on-hold/
-5. An activist crashed a Canva AI event. (The Verge)
-   https://www.theverge.com/ai-artificial-intelligence/997798/an-activist-crashed-a-canva-ai-event
+1. Delhi Metro International Limited to make global debut at InnoTrans 2026 in Berlin (CNBC TV18)
+   https://www.cnbctv18.com/infrastructure/delhi-metro-international-limited-to-make-global-debut-at-innotrans-2026-in-berlin-19994408.htm
+2. Meta Connect 2026: AI Glasses, Mixed Reality Headset and Meta AI Expected at Zuckerberg Keynote (USA Herald)
+   https://usaherald.com/meta-connect-2026-ai-glasses-mixed-reality-headset-and-meta-ai-expected-at-zuckerberg-keynote/
+3. Funding boost could give police needed tech upgrades (The Star)
+   https://www.thestar.com.my/news/nation/2026/09/21/funding-boost-could-give-police-needed-tech-upgrades
+4. Russian Rassvet Satellite Network Puts Ukraine on Alert (Sputnik News)
+   https://sputnikglobe.com/20260920/russian-rassvet-satellite-network-puts-ukraine-on-alert-1124765687.html
+5. New Buy Rating for Lam Research (LRCX), the Technology Giant (Markets Insider)
+   https://markets.businessinsider.com/news/stocks/new-buy-rating-for-lam-research-lrcx-the-technology-giant-1036559015
