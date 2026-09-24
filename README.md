@@ -1,27 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-23):
+What happens in tech today (2026-09-24):
 
-# 🚀 The AI & Hardware Revolution: A Mixed Bag!
+# 🇨🇦 Patriotism vs. Pragmatism in Tech
 
-Today’s tech landscape is a fascinating tug-of-war between **innovation** and **anxiety**. On one hand, **Samsung** is integrating **Google Gemini** into flagship appliances, proving that smart home devices are evolving beyond simple connectivity to true intelligence. This is a massive leap for consumer electronics! 🏠✨
+The **NRTH Tech Conference** is making waves by urging "patriotic investing" in Canada. While the sentiment to keep capital local is noble, I argue that tech thrives on **global liquidity**, not just national pride. We need robust infrastructure and talent retention more than emotional appeals. 📉
 
-However, the public mood is tense. A shocking **Reuters/Ipsos poll** reveals that **3 out of 4 Americans** believe AI firms aren't doing enough to prevent disaster. This fear is amplified by **Trump’s UNGA speech**, where he dismissed global AI controls as a "Russia hoax" and vowed not to "rein it in." 🇺🇸⚠️
+Meanwhile, **McCormick’s** move to create a dedicated AI department signals a critical shift: AI is no longer an experiment; it’s a **core operational pillar**. This is the right call for legacy brands trying to stay relevant. 🤖
 
-While the US debates deregulation, India is making strategic moves with new incentives for **lithium and nickel** production, securing its supply chain for future tech. 🇮🇳🔋 Meanwhile, grassroots innovation continues in places like Kalamazoo, reminding us that progress happens at every level.
+On the innovation front, India’s young drone developer for the Army showcases how **indigenous tech sovereignty** can be achieved through grassroots talent. It’s a brilliant model of self-reliance! 🚁
 
-The bottom line? We are building smarter homes while ignoring the safety rails. **Balance is key.**
+Finally, TIME’s focus on reimagining early childhood education is vital. As AI reshapes work, we must prepare kids not just for coding, but for **adaptive thinking**. The future belongs to those who learn to unlearn. 🧠
 
-*All sources are at the section below.*
+**Bottom line:** Balance local pride with global strategy, and prioritize human adaptability in the age of AI.
+
+📚 *All sources are at the section below*
 
 Sources:
-1. Samsung on how Google Gemini integration is enhancing the performance of its flagship refrigerators, washing machines and other appliances (Times of India)
-   https://timesofindia.indiatimes.com/technology/tech-news/samsung-on-how-google-gemini-integration-is-enhancing-the-performance-of-its-flagship-refrigerators-washing-machines-and-other-appliances/articleshow/134416461.cms
-2. Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds (The Economic Times)
-   https://economictimes.indiatimes.com/tech/artificial-intelligence/three-out-of-four-americans-say-ai-firms-not-doing-enough-to-prevent-disaster-reuters/ipsos-poll-finds/articleshow/134416531.cms
-3. ‘Russia hoax’! Trump rejects ‘globalist scheme’ to control AI at UNGA speech, says ‘we will not rein it in’ (Livemint)
-   https://www.livemint.com/ai/russia-hoax-trump-rejects-globalist-scheme-to-control-ai-at-unga-speech-says-we-will-not-rein-it-in-11790091700675.html
-4. See innovation on display at downtown Kalamazoo event (M Live Michigan )
-   https://www.mlive.com/news/kalamazoo/2026/09/see-innovation-on-display-at-downtown-kalamazoo-event.html
-5. Centre to roll out new incentive scheme soon to boost lithium, nickel production (Lokmat Times)
-   https://www.lokmattimes.com/technology/centre-to-roll-out-new-incentive-scheme-soon-to-boost-lithium-nickel-production-2/
+1. Toronto technology conference calls for patriotic investing (Bnn Bloomberg)
+   https://www.bnnbloomberg.ca/business/technology/2026/09/23/canada-needs-more-patriotic-investing-nrth-tech-conference-speakers-argue/
+2. Toronto technology conference calls for patriotic investing (CP24 Toronto)
+   https://www.cp24.com/local/toronto/2026/09/23/canada-needs-more-patriotic-investing-nrth-tech-conference-speakers-argue/
+3. Himachal Governor felicitates Hamirpur's young innovator for developing indigenous drone technology for Indian Army (ANI (Asian News International))
+   https://www.aninews.in/news/national/general-news/himachal-governor-felicitates-hamirpurs-young-innovator-for-developing-indigenous-drone-technology-for-indian-army20260923220118/
+4. How Experts Are Reimagining Early Childhood for a Changing World (TIME)
+   https://time.com/article/2026/09/23/time100-talks-panel-early-childhood-development/
+5. McCormick floats dedicated department to handle AI (Pittsburgh Tribune-Review)
+   https://triblive.com/news/pennsylvania/mccormick-floats-dedicated-department-to-handle-ai/
