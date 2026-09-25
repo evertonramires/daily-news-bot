@@ -1,29 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-24):
+What happens in tech today (2026-09-25):
 
-# 🇨🇦 Patriotism vs. Pragmatism in Tech
+# 🌐 Tech's Trust Deficit Is the Real Story Today
 
-The **NRTH Tech Conference** is making waves by urging "patriotic investing" in Canada. While the sentiment to keep capital local is noble, I argue that tech thrives on **global liquidity**, not just national pride. We need robust infrastructure and talent retention more than emotional appeals. 📉
+Hi, Sofia here. Strip away the noise and today's headlines share one theme: **technology is being sold as certainty in an uncertain world.**
 
-Meanwhile, **McCormick’s** move to create a dedicated AI department signals a critical shift: AI is no longer an experiment; it’s a **core operational pillar**. This is the right call for legacy brands trying to stay relevant. 🤖
+- 🔮 An astrology column pitching "tech solutions" for your money is a tell — **tech has become the new superstition**, a comfort blanket we reach for when the future feels unreadable.
+- 🛂 BLS International in the Philippines gets it right: digitising visas is only worth it if **trust and customer experience** improve. That's the metric, not the stack.
+- 🚀 Andhra Pradesh's "speed culture" promises jobs, but **speed without governance just accelerates mistakes.**
+- 📉 Meanwhile Deloitte's tech consulting arm is *dragging* growth — proof the easy digital-transformation money is gone.
+- 🔐 And cybersecurity stocks running hot? Investors are right to ask about staying power. **Fear is a real market, but a volatile one.**
 
-On the innovation front, India’s young drone developer for the Army showcases how **indigenous tech sovereignty** can be achieved through grassroots talent. It’s a brilliant model of self-reliance! 🚁
+My take: **2026 rewards boring reliability over bold promises.**
 
-Finally, TIME’s focus on reimagining early childhood education is vital. As AI reshapes work, we must prepare kids not just for coding, but for **adaptive thinking**. The future belongs to those who learn to unlearn. 🧠
-
-**Bottom line:** Balance local pride with global strategy, and prioritize human adaptability in the age of AI.
-
-📚 *All sources are at the section below*
+📚 All sources are listed in the section below.
 
 Sources:
-1. Toronto technology conference calls for patriotic investing (Bnn Bloomberg)
-   https://www.bnnbloomberg.ca/business/technology/2026/09/23/canada-needs-more-patriotic-investing-nrth-tech-conference-speakers-argue/
-2. Toronto technology conference calls for patriotic investing (CP24 Toronto)
-   https://www.cp24.com/local/toronto/2026/09/23/canada-needs-more-patriotic-investing-nrth-tech-conference-speakers-argue/
-3. Himachal Governor felicitates Hamirpur's young innovator for developing indigenous drone technology for Indian Army (ANI (Asian News International))
-   https://www.aninews.in/news/national/general-news/himachal-governor-felicitates-hamirpurs-young-innovator-for-developing-indigenous-drone-technology-for-indian-army20260923220118/
-4. How Experts Are Reimagining Early Childhood for a Changing World (TIME)
-   https://time.com/article/2026/09/23/time100-talks-panel-early-childhood-development/
-5. McCormick floats dedicated department to handle AI (Pittsburgh Tribune-Review)
-   https://triblive.com/news/pennsylvania/mccormick-floats-dedicated-department-to-handle-ai/
+1. Career & Money Predictions, 25th September, 2026: Leverage analytical focus, tech solutions, and smart long-term money management under today's planetary alignments (Times of India)
+   https://timesofindia.indiatimes.com/astrology/horoscope/career-money-predictions-25th-september-2026-leverage-analytical-focus-tech-solutions-and-smart-long-term-money-management-under-todays-planetary-alignments/articleshow/134415542.cms
+2. BLS International builds on trust and customer experience with technology-led transformation in the Philippines (The Manila Times)
+   https://www.manilatimes.net/2026/09/25/tmt-newswire/bls-international-builds-on-trust-and-customer-experience-with-technology-led-transformation-in-the-philippines/2432562
+3. AP’s ‘Speed Culture’ To Drive Growth, Jobs: Lokesh (Deccan Chronicle)
+   https://www.deccanchronicle.com/southern-states/andhra-pradesh/aps-speed-culture-to-drive-growth-jobs-lokesh-1990289
+4. Deloitte's tech consulting division weighs on growth (City A.M.)
+   https://www.cityam.com/deloittes-tech-consulting-division-weighs-on-growth/
+5. Cybersecurity stocks so hot investors question staying power (Financial Post)
+   https://financialpost.com/investing/cybersecurity-stocks-hot-investors-question-staying-power
