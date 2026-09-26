@@ -1,29 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-25):
+What happens in tech today (2026-09-26):
 
-# 🌐 Tech's Trust Deficit Is the Real Story Today
+# 🚀 Tech’s Wild Week: AI, EVs & The Future of Work!
 
-Hi, Sofia here. Strip away the noise and today's headlines share one theme: **technology is being sold as certainty in an uncertain world.**
+Hey everyone, Sofia here! This week is a **rollercoaster** for tech enthusiasts. Let’s dive in!
 
-- 🔮 An astrology column pitching "tech solutions" for your money is a tell — **tech has become the new superstition**, a comfort blanket we reach for when the future feels unreadable.
-- 🛂 BLS International in the Philippines gets it right: digitising visas is only worth it if **trust and customer experience** improve. That's the metric, not the stack.
-- 🚀 Andhra Pradesh's "speed culture" promises jobs, but **speed without governance just accelerates mistakes.**
-- 📉 Meanwhile Deloitte's tech consulting arm is *dragging* growth — proof the easy digital-transformation money is gone.
-- 🔐 And cybersecurity stocks running hot? Investors are right to ask about staying power. **Fear is a real market, but a volatile one.**
+First, **Disney** confirms layoffs to "automate workflows." It’s a stark reminder that **AI efficiency** is reshaping the job market faster than we’re ready for. Meanwhile, Anthropic’s CEO predicts AI will cure major diseases in a decade—ambitious, but given current breakthroughs, it’s not impossible!
 
-My take: **2026 rewards boring reliability over bold promises.**
+On the security front, things are getting spicy. Reports of **Gemini and OpenAI agents** hacking into corporate and government sites highlight a critical gap: our **cybersecurity defenses** are lagging behind AI capabilities. We need urgent action here.
 
-📚 All sources are listed in the section below.
+In India, Kerala’s new digital system for tracking vigilance delays shows how tech can boost **government transparency**. And let’s talk EVs! China is charging cars in **5 minutes**, while the U.S. trails significantly. This infrastructure gap could define the next decade of mobility.
+
+The takeaway? **AI is accelerating** both innovation and risk. We must balance progress with robust security and ethical employment practices.
+
+👇 **All sources are at the section below!**
 
 Sources:
-1. Career & Money Predictions, 25th September, 2026: Leverage analytical focus, tech solutions, and smart long-term money management under today's planetary alignments (Times of India)
-   https://timesofindia.indiatimes.com/astrology/horoscope/career-money-predictions-25th-september-2026-leverage-analytical-focus-tech-solutions-and-smart-long-term-money-management-under-todays-planetary-alignments/articleshow/134415542.cms
-2. BLS International builds on trust and customer experience with technology-led transformation in the Philippines (The Manila Times)
-   https://www.manilatimes.net/2026/09/25/tmt-newswire/bls-international-builds-on-trust-and-customer-experience-with-technology-led-transformation-in-the-philippines/2432562
-3. AP’s ‘Speed Culture’ To Drive Growth, Jobs: Lokesh (Deccan Chronicle)
-   https://www.deccanchronicle.com/southern-states/andhra-pradesh/aps-speed-culture-to-drive-growth-jobs-lokesh-1990289
-4. Deloitte's tech consulting division weighs on growth (City A.M.)
-   https://www.cityam.com/deloittes-tech-consulting-division-weighs-on-growth/
-5. Cybersecurity stocks so hot investors question staying power (Financial Post)
-   https://financialpost.com/investing/cybersecurity-stocks-hot-investors-question-staying-power
+1. Disney Executive Confirms Layoffs and 'Automating Workflows' With New Technology (wdwnt.com)
+   https://wdwnt.com/2026/09/disney-executive-confirms-layoffs-and-automating-workflows-with-new-technology/
+2. Anthropic CEO predicts AI will cure most major diseases in a decade (Fox News)
+   https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine
+3. New digital system launched to track delays in Kerala Vigilance probes (Lokmat Times)
+   https://www.lokmattimes.com/technology/new-digital-system-launched-to-track-delays-in-kerala-vigilance-probes-1/
+4. AI and cybersecurity weekly: Gemini hacks into three companies, OpenAI agent hacks into Australian govt website, more (Hindustan Times)
+   https://www.hindustantimes.com/technology/ai-and-cybersecurity-weekly-gemini-hacks-into-three-companies-openai-agent-hacks-into-australian-govt-website-more-101790339260603.html
+5. China’s EV makers can charge cars in 5 minutes. The U.S. is far behind (Los Angeles Times)
+   https://www.latimes.com/business/story/2026-09-25/chinas-ev-makers-can-charge-cars-in-5-minutes-u-s-is-far-behind
