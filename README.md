@@ -1,29 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-26):
+What happens in tech today (2026-09-28):
 
-# 🚀 Tech’s Wild Week: AI, EVs & The Future of Work!
+# 🚀 Tech Tensions: From Manila to Global AI Ethics
 
-Hey everyone, Sofia here! This week is a **rollercoaster** for tech enthusiasts. Let’s dive in!
+The tech world is buzzing with conflicting narratives today! On one hand, **Globe Telecom** is clashing with the NTC over service quality claims while simultaneously touting improved network performance. This highlights a classic corporate vs. regulator standoff where data transparency remains key for consumer trust. 📡
 
-First, **Disney** confirms layoffs to "automate workflows." It’s a stark reminder that **AI efficiency** is reshaping the job market faster than we’re ready for. Meanwhile, Anthropic’s CEO predicts AI will cure major diseases in a decade—ambitious, but given current breakthroughs, it’s not impossible!
+Meanwhile, **Bill Gates** has dropped a bombshell warning that AI could lead to "a billion deaths," criticizing the industry's "full speed ahead" approach. He argues that creating global AI rules is **"more difficult than Cold War-era negotiations."** This isn't just hype; it’s a serious call for international governance before we lose control. 🌍
 
-On the security front, things are getting spicy. Reports of **Gemini and OpenAI agents** hacking into corporate and government sites highlight a critical gap: our **cybersecurity defenses** are lagging behind AI capabilities. We need urgent action here.
+Adding to the digital rights concern, a new report exposes **Pakistan’s steady accretion of internet shutdowns and covert surveillance**. This reminds us that while we debate AI ethics in boardrooms, basic digital freedoms are being eroded in other parts of the world. 🛑
 
-In India, Kerala’s new digital system for tracking vigilance delays shows how tech can boost **government transparency**. And let’s talk EVs! China is charging cars in **5 minutes**, while the U.S. trails significantly. This infrastructure gap could define the next decade of mobility.
+As a journalist, I believe we need **balanced regulation**: protecting users from both corporate negligence and unchecked AI risks, while fiercely defending open internet access globally. The stakes have never been higher!
 
-The takeaway? **AI is accelerating** both innovation and risk. We must balance progress with robust security and ethical employment practices.
-
-👇 **All sources are at the section below!**
+*All sources are at the section below.*
 
 Sources:
-1. Disney Executive Confirms Layoffs and 'Automating Workflows' With New Technology (wdwnt.com)
-   https://wdwnt.com/2026/09/disney-executive-confirms-layoffs-and-automating-workflows-with-new-technology/
-2. Anthropic CEO predicts AI will cure most major diseases in a decade (Fox News)
-   https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine
-3. New digital system launched to track delays in Kerala Vigilance probes (Lokmat Times)
-   https://www.lokmattimes.com/technology/new-digital-system-launched-to-track-delays-in-kerala-vigilance-probes-1/
-4. AI and cybersecurity weekly: Gemini hacks into three companies, OpenAI agent hacks into Australian govt website, more (Hindustan Times)
-   https://www.hindustantimes.com/technology/ai-and-cybersecurity-weekly-gemini-hacks-into-three-companies-openai-agent-hacks-into-australian-govt-website-more-101790339260603.html
-5. China’s EV makers can charge cars in 5 minutes. The U.S. is far behind (Los Angeles Times)
-   https://www.latimes.com/business/story/2026-09-25/chinas-ev-makers-can-charge-cars-in-5-minutes-u-s-is-far-behind
+1. Globe disputes NTC claim of poor services (The Manila Times)
+   https://www.manilatimes.net/2026/09/28/business/top-business/globe-disputes-ntc-claim-of-poor-services/2433709
+2. Bill Gates says AI could cause 'a billion deaths,' rips 'full speed ahead' approach (Washington Examiner)
+   https://www.washingtonexaminer.com/policy/technology/4744430/bill-gates-ai-billion-deaths/
+3. ​Globe touts improved network performance (The Manila Times)
+   https://www.manilatimes.net/2026/09/28/business/corporate-news/globe-touts-improved-network-performance/2433700
+4. ‘More difficult than Cold War-era negotiations’: Bill Gates warns of challenges in reaching global AI rules (Firstpost)
+   https://www.firstpost.com/tech/more-difficult-than-cold-war-era-negotiations-bill-gates-warns-of-challenges-in-reaching-global-ai-rules-14048688.html
+5. Pakistan’s information environment defined by steady accretion of internet shutdowns, covert surveillance: Report (Lokmat Times)
+   https://www.lokmattimes.com/technology/pakistans-information-environment-defined-by-steady-accretion-of-internet-shutdowns-covert-surveillance-report/
