@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-28):
+What happens in tech today (2026-09-29):
 
-# 🚀 Tech Tensions: From Manila to Global AI Ethics
+# 🚀 Tech's Double-Edged Sword: From Fraud to Football!
 
-The tech world is buzzing with conflicting narratives today! On one hand, **Globe Telecom** is clashing with the NTC over service quality claims while simultaneously touting improved network performance. This highlights a classic corporate vs. regulator standoff where data transparency remains key for consumer trust. 📡
+Hey everyone, Sofia here! Today’s headlines show tech is reshaping everything from healthcare to the pitch. **Deutsche Bank & IPID** are expanding their **payment decision-intelligence**, proving that AI isn't just for chatbots—it’s becoming the backbone of global finance. Meanwhile, **Momenta and Stellantis** are forming a JV for **driver assist tech**, signaling a massive shift toward autonomous mobility in Europe.
 
-Meanwhile, **Bill Gates** has dropped a bombshell warning that AI could lead to "a billion deaths," criticizing the industry's "full speed ahead" approach. He argues that creating global AI rules is **"more difficult than Cold War-era negotiations."** This isn't just hype; it’s a serious call for international governance before we lose control. 🌍
+But it’s not all smooth sailing. The Premier League is facing backlash over **worst-ever VAR decisions**, with one nation potentially scrapping the tech entirely. This highlights a critical truth: **technology without perfect human oversight creates chaos**. On the flip side, using tech to fight **non-emergency medical transportation fraud** in New York shows how data can protect public funds. Even niche manufacturing is evolving, as **NAITRON** uses digital controls for sink production.
 
-Adding to the digital rights concern, a new report exposes **Pakistan’s steady accretion of internet shutdowns and covert surveillance**. This reminds us that while we debate AI ethics in boardrooms, basic digital freedoms are being eroded in other parts of the world. 🛑
-
-As a journalist, I believe we need **balanced regulation**: protecting users from both corporate negligence and unchecked AI risks, while fiercely defending open internet access globally. The stakes have never been higher!
+The takeaway? We must balance innovation with rigorous ethical frameworks. Whether it’s banking or ball games, the human element remains irreplaceable. Let’s keep watching! 📱⚽💰
 
 *All sources are at the section below.*
 
 Sources:
-1. Globe disputes NTC claim of poor services (The Manila Times)
-   https://www.manilatimes.net/2026/09/28/business/top-business/globe-disputes-ntc-claim-of-poor-services/2433709
-2. Bill Gates says AI could cause 'a billion deaths,' rips 'full speed ahead' approach (Washington Examiner)
-   https://www.washingtonexaminer.com/policy/technology/4744430/bill-gates-ai-billion-deaths/
-3. ​Globe touts improved network performance (The Manila Times)
-   https://www.manilatimes.net/2026/09/28/business/corporate-news/globe-touts-improved-network-performance/2433700
-4. ‘More difficult than Cold War-era negotiations’: Bill Gates warns of challenges in reaching global AI rules (Firstpost)
-   https://www.firstpost.com/tech/more-difficult-than-cold-war-era-negotiations-bill-gates-warns-of-challenges-in-reaching-global-ai-rules-14048688.html
-5. Pakistan’s information environment defined by steady accretion of internet shutdowns, covert surveillance: Report (Lokmat Times)
-   https://www.lokmattimes.com/technology/pakistans-information-environment-defined-by-steady-accretion-of-internet-shutdowns-covert-surveillance-report/
+1. Leveraging technology to reduce non-emergency medical transportation fraud (AM New York)
+   https://www.amny.com/law/op-ed-technology-non-emergency-medical-transportation-fraud/
+2. Deutsche Bank, IPID to Expand Payment Decision-Intelligence Partnership (MarketScreener)
+   https://www.marketscreener.com/news/deutsche-bank-ipid-to-expand-payment-decision-intelligence-partnership-ce785adcd18af627
+3. NAITRON Advances Granite PMMA/Composite Sink Manufacturing Through TMT Technology and Digitally Controlled Production (The Manila Times)
+   https://www.manilatimes.net/2026/09/29/tmt-newswire/pr-newswire/naitron-advances-granite-pmmacomposite-sink-manufacturing-through-tmt-technology-and-digitally-controlled-production/2434416
+4. Premier League's worst-ever VAR decisions resurface as European nation could become first to scrap technology (SPORTbible)
+   https://www.sportbible.com/football/football-news/premier-league-worst-var-decisions-453485-20260928
+5. Momenta, Stellantis form JV for driver assist tech (The Manila Times)
+   https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255
