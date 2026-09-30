@@ -1,25 +1,29 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-09-29):
+What happens in tech today (2026-09-30):
 
-# 🚀 Tech's Double-Edged Sword: From Fraud to Football!
+# 🚀 The Great Tech Pivot: From Hype to Hardship
 
-Hey everyone, Sofia here! Today’s headlines show tech is reshaping everything from healthcare to the pitch. **Deutsche Bank & IPID** are expanding their **payment decision-intelligence**, proving that AI isn't just for chatbots—it’s becoming the backbone of global finance. Meanwhile, **Momenta and Stellantis** are forming a JV for **driver assist tech**, signaling a massive shift toward autonomous mobility in Europe.
+Today’s headlines scream a massive shift in the tech landscape! **Sony skipping its 60-year tradition** to focus on "creator technology" is a bold move. It signals that the era of flashy hardware reveals is over; now, it’s all about **empowering the ecosystem**. This is smart, but will fans feel the absence?
 
-But it’s not all smooth sailing. The Premier League is facing backlash over **worst-ever VAR decisions**, with one nation potentially scrapping the tech entirely. This highlights a critical truth: **technology without perfect human oversight creates chaos**. On the flip side, using tech to fight **non-emergency medical transportation fraud** in New York shows how data can protect public funds. Even niche manufacturing is evolving, as **NAITRON** uses digital controls for sink production.
+Meanwhile, L Murugan’s reminder that **"constitutional values must endure"** amidst rapid tech change is crucial. We need ethical guardrails as AI and digital tools accelerate.
 
-The takeaway? We must balance innovation with rigorous ethical frameworks. Whether it’s banking or ball games, the human element remains irreplaceable. Let’s keep watching! 📱⚽💰
+In enterprise land, **Relativity’s claiR program** with KPMG shows legal tech is maturing fast. And geopolitically, **India-South Korea defence cooperation** highlights how tech logistics are now national security assets.
 
-*All sources are at the section below.*
+But let’s not forget the human element: The Manila Times’ call for a **"housecleaning" at DICT** reminds us that infrastructure needs accountability. Tech isn’t just code; it’s governance.
+
+**My take:** We are moving from consumer spectacle to **structural integrity**. The winners will be those who balance innovation with ethical and logistical stability.
+
+📚 *All sources are at the section below*
 
 Sources:
-1. Leveraging technology to reduce non-emergency medical transportation fraud (AM New York)
-   https://www.amny.com/law/op-ed-technology-non-emergency-medical-transportation-fraud/
-2. Deutsche Bank, IPID to Expand Payment Decision-Intelligence Partnership (MarketScreener)
-   https://www.marketscreener.com/news/deutsche-bank-ipid-to-expand-payment-decision-intelligence-partnership-ce785adcd18af627
-3. NAITRON Advances Granite PMMA/Composite Sink Manufacturing Through TMT Technology and Digitally Controlled Production (The Manila Times)
-   https://www.manilatimes.net/2026/09/29/tmt-newswire/pr-newswire/naitron-advances-granite-pmmacomposite-sink-manufacturing-through-tmt-technology-and-digitally-controlled-production/2434416
-4. Premier League's worst-ever VAR decisions resurface as European nation could become first to scrap technology (SPORTbible)
-   https://www.sportbible.com/football/football-news/premier-league-worst-var-decisions-453485-20260928
-5. Momenta, Stellantis form JV for driver assist tech (The Manila Times)
-   https://www.manilatimes.net/2026/09/29/business/foreign-business/momenta-stellantis-form-jv-for-driver-assist-tech/2434255
+1. For the first time in 60 years, Sony will skip the huge convention it once used to reveal the PS5 logo because now it’s focusing on "technology geared to support creators" (GamesRadar+)
+   https://www.gamesradar.com/hardware/for-the-first-time-in-60-years-sony-will-skip-the-huge-convention-it-once-used-to-reveal-the-ps5-logo-because-now-its-focusing-on-technology-geared-to-support-creators/
+2. "Technology may change rapidly, but constitutional values must endure": L Murugan (ANI (Asian News International))
+   https://www.aninews.in/news/national/general-news/technology-may-change-rapidly-but-constitutional-values-must-endure-l-murugan20260929220040/
+3. At RelFest Chicago, Relativity Announces KPMG and Three Global Law Firms to Join Relativity claiR Advanced Access Program (The Manila Times)
+   https://www.manilatimes.net/2026/09/30/tmt-newswire/pr-newswire/at-relfest-chicago-relativity-announces-kpmg-and-three-global-law-firms-to-join-relativity-clair-advanced-access-program/2435497
+4. India, South Korea to boost cooperation in defence production and logistics (Lokmat Times)
+   https://www.lokmattimes.com/technology/india-south-korea-to-boost-cooperation-in-defence-production-and-logistics-2/
+5. DICT needs a serious housecleaning (The Manila Times)
+   https://www.manilatimes.net/2026/09/30/opinion/editorial/dict-needs-a-serious-housecleaning/2435405
