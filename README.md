@@ -1,29 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-03):
+What happens in tech today (2026-10-04):
 
-# 🚀 Tech’s Human & Global Leap!
+# 🚀 The Global Tech Tightrope: Security vs. Sovereignty
 
-Today’s headlines scream **innovation meets humanity**! First, PUC’s award-winning tech proves that **game-changing solutions** often come from unexpected places. It’s a massive win for practical engineering! 🏆
+The tech world is balancing on a knife's edge! **Greg Lui’s DOJ charges** expose the dark underbelly of global supply chains, where **$300M in Nvidia GPUs** allegedly bypassed sanctions via Malaysia and Singapore. This isn't just a crime story; it's a wake-up call for **export control enforcement**.
 
-Meanwhile, Boston is doing it right by teaching **seniors how to use technology**. We must bridge the digital divide; empowering the elderly with digital literacy is crucial for an inclusive society. 📱👵
+Meanwhile, we see a fascinating counter-narrative: **Fadnavis’s push for Marathi AI** and the Philippines’ support for **local tech development**. These moves signal a shift toward **digital sovereignty**. Nations are no longer just consumers of Silicon Valley innovation; they are building their own linguistic and technological ecosystems.
 
-On the global stage, IEM-UEM Group bringing IEEE IEMCON 2026 to UC Berkeley is a **strategic masterstroke**. Linking Indian researchers with Silicon Valley giants will accelerate cross-border tech collaboration. 🌏🤝
+However, as **NITI Aayog’s Rajiv Gauba** warns, our **regulatory frameworks** are lagging behind this rapid evolution. Can we truly outsource accountability? The answer is a resounding **no**. We need agile laws that protect local innovation without stifling global collaboration. The future belongs to those who can secure their hardware *and* empower their software culture.
 
-Finally, the FDA’s approval of the **sirolimus drug balloon** marks a medical revolution. Saying goodbye to metal stents could save countless lives and reduce long-term complications. This is pure **tech-for-good**! 💊✨
-
-These stories highlight that technology isn't just about code; it's about **access, health, and global connection**. Let’s keep pushing boundaries! 🚀
-
-📰 *All the sources are at the section below*
+🔗 All sources are at the section below
 
 Sources:
-1. PUC wins award for technology that was a 'game changer' (SooToday)
-   https://www.sootoday.com/local-news/puc-wins-award-for-technology-that-was-a-game-changer-12849932
-2. Boston class teaching senior citizens how to use technology (NBC10 Boston)
-   https://www.nbcboston.com/news/local/central-boston-elder-services-roxbury-technology-class/4024697/
-3. After hours with Vimarsh Razdan (The Financial Express)
-   https://www.financialexpress.com/business/brandwagon-after-hours-with-vimarsh-razdan-4352679/
-4. No more metal: World’s first sirolimus drug balloon wins landmark US FDA approval (Moneycontrol)
-   https://www.moneycontrol.com/news/business/no-more-metal-world-s-first-sirolimus-drug-balloon-wins-landmark-us-fda-approval-14041092.html
-5. IEM-UEM Group Takes IEEE IEMCON 2026 To UC Berkeley, Linking Indian Researchers With Global Technology Community (Republic World)
-   https://www.republicworld.com/initiatives/iemuem-group-takes-ieee-iemcon-2026-to-uc-berkeley-linking-indian-researchers-with-global-technology-community-2026-10-02-138171
+1. Greg Lui DOJ charges: California tech CEO linked to $300 million Nvidia GPU scheme allegedly routed through Malaysia and Singapore to China (The Economic Times)
+   https://economictimes.indiatimes.com/news/international/global-trends/us-news-greg-lui-doj-charges-california-tech-ceo-linked-to-300-million-nvidia-gpu-scheme-allegedly-routed-through-malaysia-and-singapore-to-china/articleshow/134662982.cms
+2. Marathi Language Week: Fadnavis Says Marathi Must Go Beyond Daily Use, Enter Modern Technology (Lokmat Times)
+   https://www.lokmattimes.com/maharashtra/marathi-language-week-fadnavis-calls-for-marathi-ai-and-wider-use-of-marathi-in-modern-technology-a527/
+3. Regulatory frameworks need to evolve with rapidly changing environment: NITI Aayog’s Rajiv Gauba (Lokmat Times)
+   https://www.lokmattimes.com/technology/regulatory-frameworks-need-to-evolve-with-rapidly-changing-environment-niti-aayogs-rajiv-gauba-2/
+4. Can PH businesses outsource accountability? (The Manila Times)
+   https://www.manilatimes.net/2026/10/04/business/sunday-business-it/can-ph-businesses-outsource-accountability/2438344
+5. Locally developed technologies get support (The Manila Times)
+   https://www.manilatimes.net/2026/10/04/news/national/locally-developed-technologies-get-support/2438454
