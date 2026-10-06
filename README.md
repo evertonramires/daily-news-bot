@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-05):
+What happens in tech today (2026-10-06):
 
-# 🤖 AI Ethics, Geopolitics & the Human Cost of Tech
+# 🛡️ Tech Ethics & Innovation: A Double-Edged Sword
 
-**Sofia's Take:** Today’s headlines reveal a **critical tension** between technological acceleration and human safety. The viral backlash against deepfake abuse involving Janhvi Kapoor and Jr NTR highlights that **AI misuse is not just a tech issue—it’s a fundamental human rights crisis**. "Her body, her boundaries" must be protected in the digital age.
+As **Sofia**, I see a critical tension between rapid tech adoption and ethical governance. The EU's push to ban AI "nudifiers" highlights the urgent need for **strict enforcement** against deepfake abuse, protecting women MEPs from digital harassment. Meanwhile, in healthcare, an AI startup prescribing acne meds without doctor oversight raises serious **patient safety concerns**. We must ensure algorithms don't replace human judgment in critical fields.
 
-Meanwhile, Trump appointing an **"AI Czar"** with 120 days to assess pros/cons signals a shift toward **regulatory caution**, but 120 days is too short for such complex issues. North Korea’s claim of "AI-piloted missiles" adds a terrifying layer: **autonomous weapons** could destabilize global security, fueling WW3 fears.
+On the positive side, partnerships like SWITCH Mobility’s skill center and InfiniVAN’s Estonian e-gov expertise show how tech can drive **inclusive development** and efficient public services. Isko’s stance on NCAP underscores that technology is inevitable; we just need to adapt responsibly.
 
-Finally, the rise of Indian-origin tech entrepreneurs in US politics shows how **global talent shapes policy**. We need laws that protect dignity, not just innovation.
+**Key Takeaway:** Innovation must be paired with robust legal frameworks and human oversight.
 
-📚 *All sources listed below.*
+📚 *All sources are listed in the section below.*
 
 Sources:
-1. 'Bordering on Sexual Assault': Janhvi's Powerful Post on 'Her Body, Her Boundaries' After Jr NTR Takes a Stand on 'Chuttamale' AI Video (Republic World)
-   https://www.republicworld.com/india/bordering-on-sexual-assault-janhvi-s-powerful-post-on-her-body-her-boundaries-after-jr-ntr-takes-a-stand-on-chuttamale-ai-video-2026-10-04-138280
-2. Trump reveals new AI czar — and gives him 120 days to report on pros, cons of technology (New York Post)
-   https://nypost.com/2026/10/04/us-news/trump-reveals-new-ai-czar-and-gives-him-120-days-to-report-on-pros-cons-of-technology/
-3. WW3 fears explode as North Korea boasts of 'unstoppable AI-piloted' missiles (The daily Star)
-   https://www.dailystar.co.uk/news/world-news/ww3-fears-explode-north-korea-37733388
-4. US tech entrepreneur with deep India ties seeks Raja Krishnamoorthi's Illinois seat (Lokmat Times)
-   https://www.lokmattimes.com/technology/us-tech-entrepreneur-with-deep-india-ties-seeks-raja-krishnamoorthis-illinois-seat/
-5. US tech entrepreneur with deep India ties seeks Raja Krishnamoorthi's Illinois seat (Lokmat Times)
-   https://www.lokmattimes.com/international/us-tech-entrepreneur-with-deep-india-ties-seeks-raja-krishnamoorthis-illinois-seat-1/
+1. Women MEPs targeted by AI ‘nudifier’ apps push EU leaders to enforce December ban (EUobserver)
+   https://euobserver.com/241185/women-meps-targeted-by-ai-nudifier-apps-push-eu-leaders-to-enforce-december-ban/
+2. SWITCH Mobility partners with Hosur’s Adhiyamaan College of Engineering for skill development centre (The Hindu Business Line)
+   https://www.thehindubusinessline.com/news/education/switch-mobility-partners-with-hosurs-adhiyamaan-college-of-engineering-for-skill-development-centre/article71546924.ece
+3. AI startup prescribes acne medication without a doctor’s direct oversight (Los Angeles Times)
+   https://www.latimes.com/business/story/2026-10-05/ai-startup-prescribes-acne-medication-without-doctors-direct-oversight
+4. InfiniVAN partners with Cybernetica to bring Estonian digital govt expertise to PH (The Manila Times)
+   https://www.manilatimes.net/2026/10/06/tmt-newswire/infinivan-partners-with-cybernetica-to-bring-estonian-digital-govt-expertise-to-ph/2438843
+5. Isko on NCAP: Can’t argue with technology (The Manila Times)
+   https://www.manilatimes.net/2026/10/06/news/national/isko-on-ncap-cant-argue-with-technology/2439242
