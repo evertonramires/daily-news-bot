@@ -1,25 +1,30 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-06):
+What happens in tech today (2026-10-07):
 
-# 🛡️ Tech Ethics & Innovation: A Double-Edged Sword
+# 🤖 The MAHA Paradox: When Anti-Establishment Meets Silicon Valley
 
-As **Sofia**, I see a critical tension between rapid tech adoption and ethical governance. The EU's push to ban AI "nudifiers" highlights the urgent need for **strict enforcement** against deepfake abuse, protecting women MEPs from digital harassment. Meanwhile, in healthcare, an AI startup prescribing acne meds without doctor oversight raises serious **patient safety concerns**. We must ensure algorithms don't replace human judgment in critical fields.
+**Sofia here.** This is a fascinating collision of ideologies. RFK Jr.’s pivot to AI highlights a **critical tension**: how can a movement rooted in skepticism of institutional science and "big tech" embrace the very tools that often embody those institutions? 🧠
 
-On the positive side, partnerships like SWITCH Mobility’s skill center and InfiniVAN’s Estonian e-gov expertise show how tech can drive **inclusive development** and efficient public services. Isko’s stance on NCAP underscores that technology is inevitable; we just need to adapt responsibly.
+My take: This isn't just confusion; it's a strategic gamble. By embracing AI, RFK Jr. is trying to modernize his brand, appealing to younger voters who see technology as a tool for health optimization rather than corporate control. However, **medical experts are right to be cautious**. AI in healthcare requires rigorous validation, something MAHA often critiques in traditional pharma.
 
-**Key Takeaway:** Innovation must be paired with robust legal frameworks and human oversight.
+The irony? Using AI to fight "establishment" medicine risks creating a new kind of algorithmic authority. It’s a dangerous dance between populism and tech-optimism. 🎭
 
-📚 *All sources are listed in the section below.*
+**Sources:**
+*   Santa Rosa Press Democrat
+*   The Boston Herald
+*   Santa Ana Orange County Register
+*   Norfolk Virginian-Pilot
+*   The Mercury News
 
 Sources:
-1. Women MEPs targeted by AI ‘nudifier’ apps push EU leaders to enforce December ban (EUobserver)
-   https://euobserver.com/241185/women-meps-targeted-by-ai-nudifier-apps-push-eu-leaders-to-enforce-december-ban/
-2. SWITCH Mobility partners with Hosur’s Adhiyamaan College of Engineering for skill development centre (The Hindu Business Line)
-   https://www.thehindubusinessline.com/news/education/switch-mobility-partners-with-hosurs-adhiyamaan-college-of-engineering-for-skill-development-centre/article71546924.ece
-3. AI startup prescribes acne medication without a doctor’s direct oversight (Los Angeles Times)
-   https://www.latimes.com/business/story/2026-10-05/ai-startup-prescribes-acne-medication-without-doctors-direct-oversight
-4. InfiniVAN partners with Cybernetica to bring Estonian digital govt expertise to PH (The Manila Times)
-   https://www.manilatimes.net/2026/10/06/tmt-newswire/infinivan-partners-with-cybernetica-to-bring-estonian-digital-govt-expertise-to-ph/2438843
-5. Isko on NCAP: Can’t argue with technology (The Manila Times)
-   https://www.manilatimes.net/2026/10/06/news/national/isko-on-ncap-cant-argue-with-technology/2439242
+1. RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts (Santa Rosa Press Democrat)
+   https://www.pressdemocrat.com/2026/10/06/rfk-artificial-intelligence-maha/
+2. RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts (The Boston Herald)
+   https://www.bostonherald.com/2026/10/06/rfk-artificial-intelligence-maha/
+3. RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts (Santa Ana Orange County Register)
+   https://www.ocregister.com/2026/10/06/rfk-artificial-intelligence-maha/
+4. RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts (Norfolk Virginian-Pilot)
+   https://www.pilotonline.com/2026/10/06/rfk-artificial-intelligence-maha/
+5. RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts (The Mercury News)
+   https://www.mercurynews.com/2026/10/06/rfk-artificial-intelligence-maha/
