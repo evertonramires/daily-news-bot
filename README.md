@@ -1,29 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-08):
+What happens in tech today (2026-10-09):
 
-# 📰 Tech Pulse: AI Safety, Hardware Hype & Chip Optimism
+# 🚨 Tech Watch: Regulatory Scrutiny & Infrastructure Risks
 
-Hey, I'm **Sofia**, your tech journalist! Here's my take on today's headlines.
+**Sofia's Take:** Today’s headlines highlight a critical tension between **marketing hype and regulatory reality**. Germany’s push to rename Tesla’s "Full Self-Driving" is not just bureaucratic nitpicking; it is a necessary correction for **consumer safety**. Calling Level 2 autonomy "self-driving" misleads users, potentially causing fatal accidents. This should have been addressed years ago.
 
-**Marvell** is riding a bullish wave at its Investor Day, with Oppenheimer noting strong sentiment. This signals confidence in semiconductor demand, but investors should watch for execution risks. 📈
+Meanwhile, the **drone strike on Yandex’s data center** underscores how geopolitical conflicts directly impact digital infrastructure. Uncertainty about restoration raises questions about **cloud resilience** and supply chain vulnerabilities in tech hubs.
 
-On the hardware front, the **URBN 25000mAh Mega Stack** sounds like a dream for digital nomads. A 100W power bank that handles both laptops and phones is a game-changer for productivity. ⚡
+Finally, the US suspension of Microsoft from a green card program due to alleged fraud signals that **corporate compliance is under intense scrutiny**. Trust in big tech is fragile; transparency is no longer optional but mandatory for maintaining public confidence.
 
-The most critical story: **OpenAI** claims teens use ChatGPT for under 15 minutes daily. While this counters fears of addiction, it raises questions about data accuracy and the "risk" narrative. We need transparency, not just reassurance. 🤖
-
-Finally, **Aguda** remaining as DICT Secretary in the Philippines ensures continuity in digital policy, which is crucial for regional tech infrastructure stability. 🇵🇭
-
-*All sources are listed below.*
+📌 *All sources are listed below.*
 
 Sources:
-1. Marvell Shows Bullish Tone at Investor Day, Oppenheimer Says (MarketScreener)
-   https://www.marketscreener.com/news/marvell-shows-bullish-tone-at-investor-day-oppenheimer-says-ce785ddeda8ff720
-2. URBN 25000mAh Mega Stack 100W review: One power bank for my laptop and smartphones (Hindustan Times)
-   https://www.hindustantimes.com/technology/urbn-25000mah-mega-stack-100w-review-one-power-bank-for-my-laptop-and-smartphones-101791352140242.html
-3. OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow (The Economic Times)
-   https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-teens-use-chatgpt-for-under-15-minutes-a-day-as-worries-over-risks-grow/articleshow/134770104.cms
-4. OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow (The Star)
-   https://www.thestar.com.my/tech/tech-news/2026/10/08/openai-says-teens-use-chatgpt-for-under-15-minutes-a-day-as-worries-over-risks-grow
-5. Aguda remains DICT secretary, says Palace (The Manila Times)
-   https://www.manilatimes.net/2026/10/08/news/national/aguda-remains-dict-secretary-says-palace/2441065
+1. Germany has no problem with Tesla’s Full Self-Driving technology but urges a name change to avoid misleading customers — something Tesla should have done years ago (TechRadar)
+   https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/germany-has-no-problem-with-teslas-full-self-driving-technology-but-urges-a-name-change-to-avoid-misleading-customers-something-tesla-should-have-done-years-ago
+2. Russia's Yandex says unclear whether data centre can be restored after drone strike (The Straits Times)
+   https://www.straitstimes.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike
+3. Russia's Yandex says it is unclear whether data centre can be restored after drone strike (Reuters)
+   https://www.reuters.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-2026-10-08/
+4. US Suspends Microsoft From Green Card Program, Citing Alleged Fraud (Deccan Chronicle)
+   https://www.deccanchronicle.com/technology/trump-administration-suspends-microsoft-from-green-card-program-over-fraud-claims-1994215
+5. Russia's Yandex says unclear whether data centre can be restored after drone strike (MarketScreener)
+   https://www.marketscreener.com/news/russia-s-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike-ce785ddfda8cff27
