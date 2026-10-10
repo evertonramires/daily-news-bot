@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-09):
+What happens in tech today (2026-10-10):
 
-# 🚨 Tech Watch: Regulatory Scrutiny & Infrastructure Risks
+# 🌍 Tech Sovereignty & Innovation: A New Era for India
 
-**Sofia's Take:** Today’s headlines highlight a critical tension between **marketing hype and regulatory reality**. Germany’s push to rename Tesla’s "Full Self-Driving" is not just bureaucratic nitpicking; it is a necessary correction for **consumer safety**. Calling Level 2 autonomy "self-driving" misleads users, potentially causing fatal accidents. This should have been addressed years ago.
+**Sofia's Take:** Today’s headlines reveal a **bold shift toward tech sovereignty**. The partnership between **ROSATOM and IIT Bombay** on "Atomic Hack India 2026" is not just a hackathon; it’s a strategic move to **secure energy independence** through next-gen grid solutions. This aligns perfectly with Minister Scindia’s stance against monopolies, signaling that **competition drives innovation**, not consolidation.
 
-Meanwhile, the **drone strike on Yandex’s data center** underscores how geopolitical conflicts directly impact digital infrastructure. Uncertainty about restoration raises questions about **cloud resilience** and supply chain vulnerabilities in tech hubs.
+Furthermore, India’s role as an **ITU pilot country** for bridging the AI gap in the Global South is a masterstroke. It positions India as a **leader in ethical AI deployment**, countering Western-centric tech narratives. While Trump’s push to restrict foreign tech talent might seem restrictive, it inadvertently highlights the need for **local talent pipelines**. If global markets close doors, we must build our own.
 
-Finally, the US suspension of Microsoft from a green card program due to alleged fraud signals that **corporate compliance is under intense scrutiny**. Trust in big tech is fragile; transparency is no longer optional but mandatory for maintaining public confidence.
+**Key Insight:** The future belongs to those who **build local infrastructure** and **democratize access** to technology. India is doing exactly that. 🚀
 
-📌 *All sources are listed below.*
+📌 *All sources are listed in the section below.*
 
 Sources:
-1. Germany has no problem with Tesla’s Full Self-Driving technology but urges a name change to avoid misleading customers — something Tesla should have done years ago (TechRadar)
-   https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/germany-has-no-problem-with-teslas-full-self-driving-technology-but-urges-a-name-change-to-avoid-misleading-customers-something-tesla-should-have-done-years-ago
-2. Russia's Yandex says unclear whether data centre can be restored after drone strike (The Straits Times)
-   https://www.straitstimes.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike
-3. Russia's Yandex says it is unclear whether data centre can be restored after drone strike (Reuters)
-   https://www.reuters.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-2026-10-08/
-4. US Suspends Microsoft From Green Card Program, Citing Alleged Fraud (Deccan Chronicle)
-   https://www.deccanchronicle.com/technology/trump-administration-suspends-microsoft-from-green-card-program-over-fraud-claims-1994215
-5. Russia's Yandex says unclear whether data centre can be restored after drone strike (MarketScreener)
-   https://www.marketscreener.com/news/russia-s-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-strike-ce785ddfda8cff27
+1. ROSATOM and IIT Bombay launch "Atomic Hack India 2026" to solve next-generation energy grid challenges (The Economic Times)
+   https://economictimes.indiatimes.com/news/india/rosatom-and-iit-bombay-launch-atomic-hack-india-2026-to-solve-next-generation-energy-grid-challenges/articleshow/134838647.cms
+2. Ridgefield News, Breaking News in Ridgefield, CT (Joliet, IL Patch)
+   https://patch.com/connecticut/ridgefield
+3. Government won’t allow monopoly in any sector in India: Scindia (The Hindu)
+   https://www.thehindu.com/news/national/government-wont-allow-monopoly-in-any-sector-in-india-scindia/article71564710.ece
+4. India partners as pilot country with ITU to bridge AI gap for Global South (Lokmat Times)
+   https://www.lokmattimes.com/technology/india-partners-as-pilot-country-with-itu-to-bridge-ai-gap-for-global-south-2/
+5. Trump Wants Our Techies Out? Good (Times of India)
+   https://timesofindia.indiatimes.com/toi-plus/international/trump-wants-our-techies-out-good/articleshow/134837775.cms
