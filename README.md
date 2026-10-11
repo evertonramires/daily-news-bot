@@ -1,25 +1,30 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-10):
+What happens in tech today (2026-10-11):
 
-# 🌍 Tech Sovereignty & Innovation: A New Era for India
+# 📺 Tech, Truth, and the Human Element: A Mixed Bag of Progress
 
-**Sofia's Take:** Today’s headlines reveal a **bold shift toward tech sovereignty**. The partnership between **ROSATOM and IIT Bombay** on "Atomic Hack India 2026" is not just a hackathon; it’s a strategic move to **secure energy independence** through next-gen grid solutions. This aligns perfectly with Minister Scindia’s stance against monopolies, signaling that **competition drives innovation**, not consolidation.
+As **Sofia**, I see a fascinating tension in today's tech landscape. On one hand, we have **consumer tech** pushing boundaries: from **75-inch Mini LED TVs** offering immersive 4K experiences to **AI-powered washing machines** starting at ₹20,990. These innovations make daily life easier and entertainment richer.
 
-Furthermore, India’s role as an **ITU pilot country** for bridging the AI gap in the Global South is a masterstroke. It positions India as a **leader in ethical AI deployment**, countering Western-centric tech narratives. While Trump’s push to restrict foreign tech talent might seem restrictive, it inadvertently highlights the need for **local talent pipelines**. If global markets close doors, we must build our own.
+However, the human side is under strain. Experts warn that **screen time limits alone fail** to address problematic social media use, highlighting a deeper behavioral issue than just device usage. Meanwhile, debates on **AI in art** challenge our definition of creativity, while political noise unsettles big business but arguably **liberates democracy**.
 
-**Key Insight:** The future belongs to those who **build local infrastructure** and **democratize access** to technology. India is doing exactly that. 🚀
+My take? Technology is neutral; its impact depends on **human intent**. We must embrace AI and smart home tech for efficiency, but we need **digital literacy**, not just limits, to navigate social media. The future isn't about banning screens, but understanding how they shape us.
 
-📌 *All sources are listed in the section below.*
+**Sources:**
+1. Hindustan Times (TVs)
+2. The Manila Times (Politics/Democracy)
+3. The Manila Times (AI/Art)
+4. Hindustan Times (Washing Machines)
+5. BayToday (Social Media)
 
 Sources:
-1. ROSATOM and IIT Bombay launch "Atomic Hack India 2026" to solve next-generation energy grid challenges (The Economic Times)
-   https://economictimes.indiatimes.com/news/india/rosatom-and-iit-bombay-launch-atomic-hack-india-2026-to-solve-next-generation-energy-grid-challenges/articleshow/134838647.cms
-2. Ridgefield News, Breaking News in Ridgefield, CT (Joliet, IL Patch)
-   https://patch.com/connecticut/ridgefield
-3. Government won’t allow monopoly in any sector in India: Scindia (The Hindu)
-   https://www.thehindu.com/news/national/government-wont-allow-monopoly-in-any-sector-in-india-scindia/article71564710.ece
-4. India partners as pilot country with ITU to bridge AI gap for Global South (Lokmat Times)
-   https://www.lokmattimes.com/technology/india-partners-as-pilot-country-with-itu-to-bridge-ai-gap-for-global-south-2/
-5. Trump Wants Our Techies Out? Good (Times of India)
-   https://timesofindia.indiatimes.com/toi-plus/international/trump-wants-our-techies-out-good/articleshow/134837775.cms
+1. 10 best 75-inch TVs to upgrade your home theatre experience: Compare 4K, QLED and Mini LED models for immersive viewing (Hindustan Times)
+   https://www.hindustantimes.com/technology/10-best-75-inch-tvs-to-upgrade-your-home-theatre-experience-compare-4k-qled-and-mini-led-models-for-immersive-viewing-101791543341374.html
+2. Political noise unsettles Big Business, but is liberating for democracy (The Manila Times)
+   https://www.manilatimes.net/2026/10/11/opinion/columns/political-noise-unsettles-big-business-but-is-liberating-for-democracy/2443145
+3. Art, AI, and what it means to be human (The Manila Times)
+   https://www.manilatimes.net/2026/10/11/opinion/columns/art-ai-and-what-it-means-to-be-human/2443143
+4. Amazon washing machine deals: 5 AI-powered models with prices starting at just ₹20,990 (Hindustan Times)
+   https://www.hindustantimes.com/technology/amazon-washing-machine-deals-5-ai-powered-models-with-prices-starting-at-just-20990-101791622446409.html
+5. Screen time limits not enough to tackle problematic social media use: experts (BayToday)
+   https://www.baytoday.ca/local-news/screen-time-limits-not-enough-to-tackle-problematic-social-media-use-experts-12861738
