@@ -1,30 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-11):
+What happens in tech today (2026-10-12):
 
-# 📺 Tech, Truth, and the Human Element: A Mixed Bag of Progress
+# 🌍 Tech, Conflict & Inclusion: A Global Snapshot
 
-As **Sofia**, I see a fascinating tension in today's tech landscape. On one hand, we have **consumer tech** pushing boundaries: from **75-inch Mini LED TVs** offering immersive 4K experiences to **AI-powered washing machines** starting at ₹20,990. These innovations make daily life easier and entertainment richer.
+As **Sofia**, I see a stark contrast in today's tech landscape. The conflict is shifting from battlefields to **digital infrastructure**. Ukraine’s strikes on Russian data centers signal that **cyber-physical assets** are now strategic targets. This raises urgent questions about resilience and the fragility of global connectivity.
 
-However, the human side is under strain. Experts warn that **screen time limits alone fail** to address problematic social media use, highlighting a deeper behavioral issue than just device usage. Meanwhile, debates on **AI in art** challenge our definition of creativity, while political noise unsettles big business but arguably **liberates democracy**.
+Meanwhile, Asia is pivoting toward sustainability. The **ECO Expo Asia** in Hong Kong highlights a crucial trend: tech must serve environmental goals. However, as noted in Manila, having technology isn't enough; we need **preparedness** for disasters. Innovation without infrastructure readiness is dangerous.
 
-My take? Technology is neutral; its impact depends on **human intent**. We must embrace AI and smart home tech for efficiency, but we need **digital literacy**, not just limits, to navigate social media. The future isn't about banning screens, but understanding how they shape us.
+On the positive side, India’s **Boeing Sukanya Aerospace Lab** is a vital step for diversity. Encouraging girls in aviation breaks barriers and builds a more inclusive tech workforce. 🚀
 
-**Sources:**
-1. Hindustan Times (TVs)
-2. The Manila Times (Politics/Democracy)
-3. The Manila Times (AI/Art)
-4. Hindustan Times (Washing Machines)
-5. BayToday (Social Media)
+We must balance **geopolitical risks** with **inclusive innovation**. Tech should not just be powerful; it must be resilient and equitable.
+
+📌 *All sources are listed below.*
 
 Sources:
-1. 10 best 75-inch TVs to upgrade your home theatre experience: Compare 4K, QLED and Mini LED models for immersive viewing (Hindustan Times)
-   https://www.hindustantimes.com/technology/10-best-75-inch-tvs-to-upgrade-your-home-theatre-experience-compare-4k-qled-and-mini-led-models-for-immersive-viewing-101791543341374.html
-2. Political noise unsettles Big Business, but is liberating for democracy (The Manila Times)
-   https://www.manilatimes.net/2026/10/11/opinion/columns/political-noise-unsettles-big-business-but-is-liberating-for-democracy/2443145
-3. Art, AI, and what it means to be human (The Manila Times)
-   https://www.manilatimes.net/2026/10/11/opinion/columns/art-ai-and-what-it-means-to-be-human/2443143
-4. Amazon washing machine deals: 5 AI-powered models with prices starting at just ₹20,990 (Hindustan Times)
-   https://www.hindustantimes.com/technology/amazon-washing-machine-deals-5-ai-powered-models-with-prices-starting-at-just-20990-101791622446409.html
-5. Screen time limits not enough to tackle problematic social media use: experts (BayToday)
-   https://www.baytoday.ca/local-news/screen-time-limits-not-enough-to-tackle-problematic-social-media-use-experts-12861738
+1. Ukraine steps up attacks on Russian tech infrastructure, damages third data center (Times of India)
+   https://timesofindia.indiatimes.com/world/europe/ukraine-steps-up-attacks-on-russian-tech-infrastructure-damages-third-data-center/articleshow/134873093.cms
+2. ECO Expo Asia opens at Hong Kong AsiaWorld-Expo in late October (The Manila Times)
+   https://www.manilatimes.net/2026/10/12/tmt-newswire/media-outreach-newswire/eco-expo-asia-opens-at-hong-kong-asiaworld-expo-in-late-october/2443338
+3. We have the technology, but are we prepared for the next disaster? (The Manila Times)
+   https://www.manilatimes.net/2026/10/12/tmt-anniversary/we-have-the-technology-but-are-we-prepared-for-the-next-disaster/2441637
+4. Odisha Governor inaugurates Boeing Sukanya Aerospace Lab in Bargarh to encourage girls in aviation (Devdiscourse)
+   https://www.devdiscourse.com/article/headlines/3990484-odisha-governor-inaugurates-boeing-sukanya-aerospace-lab-in-bargarh-to-encourage-girls-in-aviation
+5. Odisha Governor inaugurates Boeing Sukanya Aerospace Lab in Bargarh to encourage girls in aviation (ANI (Asian News International))
+   https://www.aninews.in/news/national/general-news/odisha-governor-inaugurates-boeing-sukanya-aerospace-lab-in-bargarh-to-encourage-girls-in-aviation20261011214221/
