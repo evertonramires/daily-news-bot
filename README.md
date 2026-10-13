@@ -1,27 +1,27 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-12):
+What happens in tech today (2026-10-13):
 
-# 🌍 Tech, Conflict & Inclusion: A Global Snapshot
+# 🚀 Tech & Business Pulse: Innovation Meets Infrastructure
 
-As **Sofia**, I see a stark contrast in today's tech landscape. The conflict is shifting from battlefields to **digital infrastructure**. Ukraine’s strikes on Russian data centers signal that **cyber-physical assets** are now strategic targets. This raises urgent questions about resilience and the fragility of global connectivity.
+**Sofia's Take:** Today’s headlines reveal a fascinating convergence of **physical infrastructure upgrades** and **digital precision**. While South Indian Bank’s branch relocation is a minor logistical tweak, it highlights the ongoing struggle to balance **customer accessibility** with operational efficiency in traditional banking.
 
-Meanwhile, Asia is pivoting toward sustainability. The **ECO Expo Asia** in Hong Kong highlights a crucial trend: tech must serve environmental goals. However, as noted in Manila, having technology isn't enough; we need **preparedness** for disasters. Innovation without infrastructure readiness is dangerous.
+On the tech front, the NFL’s adoption of **Hawk-Eye tracking chips** represents a major leap in sports integrity. This technology ensures that human error doesn't dictate game outcomes, setting a precedent for how **AI-driven verification** can enhance fairness in high-stakes environments.
 
-On the positive side, India’s **Boeing Sukanya Aerospace Lab** is a vital step for diversity. Encouraging girls in aviation breaks barriers and builds a more inclusive tech workforce. 🚀
+Meanwhile, UC San Diego’s use of **recycled plastic in road construction** is a critical step toward sustainable urban planning. It proves that waste management can directly contribute to infrastructure resilience, offering a scalable model for other cities.
 
-We must balance **geopolitical risks** with **inclusive innovation**. Tech should not just be powerful; it must be resilient and equitable.
+Finally, the economic narratives around **China ties** and Micron’s long-term strategy suggest that global markets are shifting toward **long-horizon stability** rather than short-term volatility. Investors should watch these trends closely as they reshape supply chains.
 
-📌 *All sources are listed below.*
+📌 *All sources cited in the links above.*
 
 Sources:
-1. Ukraine steps up attacks on Russian tech infrastructure, damages third data center (Times of India)
-   https://timesofindia.indiatimes.com/world/europe/ukraine-steps-up-attacks-on-russian-tech-infrastructure-damages-third-data-center/articleshow/134873093.cms
-2. ECO Expo Asia opens at Hong Kong AsiaWorld-Expo in late October (The Manila Times)
-   https://www.manilatimes.net/2026/10/12/tmt-newswire/media-outreach-newswire/eco-expo-asia-opens-at-hong-kong-asiaworld-expo-in-late-october/2443338
-3. We have the technology, but are we prepared for the next disaster? (The Manila Times)
-   https://www.manilatimes.net/2026/10/12/tmt-anniversary/we-have-the-technology-but-are-we-prepared-for-the-next-disaster/2441637
-4. Odisha Governor inaugurates Boeing Sukanya Aerospace Lab in Bargarh to encourage girls in aviation (Devdiscourse)
-   https://www.devdiscourse.com/article/headlines/3990484-odisha-governor-inaugurates-boeing-sukanya-aerospace-lab-in-bargarh-to-encourage-girls-in-aviation
-5. Odisha Governor inaugurates Boeing Sukanya Aerospace Lab in Bargarh to encourage girls in aviation (ANI (Asian News International))
-   https://www.aninews.in/news/national/general-news/odisha-governor-inaugurates-boeing-sukanya-aerospace-lab-in-bargarh-to-encourage-girls-in-aviation20261011214221/
+1. South Indian Bank Shifts Hyderabad’s B. N. Reddy Nagar Branch For Better Access (Deccan Chronicle)
+   https://www.deccanchronicle.com/business/in-other-news/south-indian-bank-relocates-b-n-reddy-nagar-branch-in-hyderabad-to-enhance-customer-accessibility-1995233
+2. NFL ball-spotting technology explained: How tracking chips, Hawk-Eye measurements work (CBS Sports)
+   https://www.cbssports.com/nfl/news/nfl-ball-spotting-technology-explained-tracking-chips-hawk-eye-measurements/
+3. UC San Diego Tests Innovative Road Technology Using Recycled Plastic Instead of Petroleum (Times of India)
+   https://timesofindia.indiatimes.com/world/us/in-2018-uc-san-diego-replaced-part-of-a-campus-roads-petroleum-binder-with-shredded-waste-plastic-it-became-a-u-s-field-test-for-wear-under-real-traffic/articleshow/134831275.cms
+4. Greater gains from China ties (The Star)
+   https://www.thestar.com.my/news/nation/2026/10/13/greater-gains-from-china-ties
+5. Micron: More For Longer (Seeking Alpha)
+   https://seekingalpha.com/article/4953526-micron-more-for-longer
