@@ -1,27 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-13):
+What happens in tech today (2026-10-14):
 
-# 🚀 Tech & Business Pulse: Innovation Meets Infrastructure
+# 🌏 Tech & Geopolitics Pulse: Chips, Diplomacy, and Hard Truths
 
-**Sofia's Take:** Today’s headlines reveal a fascinating convergence of **physical infrastructure upgrades** and **digital precision**. While South Indian Bank’s branch relocation is a minor logistical tweak, it highlights the ongoing struggle to balance **customer accessibility** with operational efficiency in traditional banking.
+**Sofia's Take:** Today’s headlines reveal a fascinating intersection of **geopolitical strategy** and **tech sovereignty**. PM Modi’s call with Canada’s Mark Carney signals a diplomatic thaw that could ease supply chain tensions for Indian tech firms. Meanwhile, DRDO leading the semiconductor session at ESTIC 2026 highlights India’s push for **self-reliance in critical chips**, a vital step against global dependency.
 
-On the tech front, the NFL’s adoption of **Hawk-Eye tracking chips** represents a major leap in sports integrity. This technology ensures that human error doesn't dictate game outcomes, setting a precedent for how **AI-driven verification** can enhance fairness in high-stakes environments.
+However, Sridhar Vembu’s warning to tech workers is a sobering reality check: **"Prepare for tough times."** It suggests that despite government incentives like the Andaman Sea mineral auctions (crucial for future battery tech), the sector faces headwinds. In the Philippines, Marcos’ appointment of an SSS president as DICT Secretary hints at prioritizing **social welfare over pure innovation**, a risky move for digital transformation.
 
-Meanwhile, UC San Diego’s use of **recycled plastic in road construction** is a critical step toward sustainable urban planning. It proves that waste management can directly contribute to infrastructure resilience, offering a scalable model for other cities.
+**Bottom line:** Tech progress requires more than just hardware; it demands stable diplomacy and realistic workforce planning. 📉🔧
 
-Finally, the economic narratives around **China ties** and Micron’s long-term strategy suggest that global markets are shifting toward **long-horizon stability** rather than short-term volatility. Investors should watch these trends closely as they reshape supply chains.
-
-📌 *All sources cited in the links above.*
+*All sources listed in the prompt.*
 
 Sources:
-1. South Indian Bank Shifts Hyderabad’s B. N. Reddy Nagar Branch For Better Access (Deccan Chronicle)
-   https://www.deccanchronicle.com/business/in-other-news/south-indian-bank-relocates-b-n-reddy-nagar-branch-in-hyderabad-to-enhance-customer-accessibility-1995233
-2. NFL ball-spotting technology explained: How tracking chips, Hawk-Eye measurements work (CBS Sports)
-   https://www.cbssports.com/nfl/news/nfl-ball-spotting-technology-explained-tracking-chips-hawk-eye-measurements/
-3. UC San Diego Tests Innovative Road Technology Using Recycled Plastic Instead of Petroleum (Times of India)
-   https://timesofindia.indiatimes.com/world/us/in-2018-uc-san-diego-replaced-part-of-a-campus-roads-petroleum-binder-with-shredded-waste-plastic-it-became-a-u-s-field-test-for-wear-under-real-traffic/articleshow/134831275.cms
-4. Greater gains from China ties (The Star)
-   https://www.thestar.com.my/news/nation/2026/10/13/greater-gains-from-china-ties
-5. Micron: More For Longer (Seeking Alpha)
-   https://seekingalpha.com/article/4953526-micron-more-for-longer
+1. 'Agreed To Build On Positive Momentum In Ties': PM Modi Speaks With Canada PM Mark Carney (Republic World)
+   https://www.republicworld.com/india/agreed-to-build-on-positive-momentum-in-ties-pm-modi-speaks-with-canada-pm-mark-carney-2026-10-13-138886
+2. DRDO to lead thematic session on Semiconductors & Next (Lokmat Times)
+   https://www.lokmattimes.com/technology/drdo-to-lead-thematic-session-on-semiconductors-next-gen-chips-at-estic-2026-2/
+3. From ‘Come back to India’ to ‘Prepare for tough times’: Sridhar Vembu’s warning to tech workers (CNBC TV18)
+   https://www.cnbctv18.com/business/companies/from-come-back-to-india-to-prepare-for-tough-times-sridhar-vembus-warning-to-tech-workers-20011197.htm
+4. Centre holds outreach session on auction of mineral blocks in Andaman Sea (Lokmat Times)
+   https://www.lokmattimes.com/technology/centre-holds-outreach-session-on-auction-of-mineral-blocks-in-andaman-sea-2/
+5. Marcos appoints SSS president as DICT secretary (The Manila Times)
+   https://www.manilatimes.net/2026/10/14/news/national/marcos-appoints-sss-president-as-dict-secretary/2444849
