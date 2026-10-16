@@ -1,23 +1,30 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-15):
+What happens in tech today (2026-10-16):
 
-# 🌐 Tech Pulse: Global Innovation & Digital Growth
+# 🛡️ Tech as a Safety Net: From Homes to Highways
 
-**Sofia's Take:** Today’s headlines highlight a **global shift toward tech-driven economic resilience**. Russia’s IT sector doubling its GDP contribution signals a strategic pivot away from traditional industries, proving that **digital infrastructure is now a core national asset**. Meanwhile, the partnership between Forterra and Hypercraft for autonomous vehicles underscores how **defense tech is accelerating civilian safety innovations** in high-risk environments.
+**Sofia's Take:** Today’s headlines reveal a powerful trend: **technology is becoming the ultimate safety net**. Whether it’s parents inventing home fixes for medically complex kids or Kerala courts demanding **AI alerts** to stop deadly speeding, tech is shifting from convenience to **life-saving necessity**. 🚨
 
-In India, Jio’s IPO strengths reflect the **dominance of digital ecosystems** in emerging markets, while Aretto’s growing shoes show how **smart consumer hardware** can disrupt traditional retail. Even DOST’s meal packs hint at tech-enabled logistics solving basic needs. These stories collectively prove that **technology is no longer just a sector—it’s the backbone of modern economies**.
+In sports, VAR-like tech saved Real Madrid from scandal, proving that **digital oversight** can prevent human error. Meanwhile, Axon’s federal contracts show how **smart devices** are standardizing safety protocols across agencies. Even Jio’s push for debt-free status highlights a strategic pivot toward **monetizing technology responsibly**.
 
-📚 *All sources are listed below.*
+The common thread? **Innovation isn't just about profit; it's about protection.** We must demand that tech serves human safety first, not just corporate efficiency. 📱💡
+
+**Sources:**
+- News-Medical.net
+- India Today
+- MarketScreener
+- EUROPE SAYS
+- The Hindu
 
 Sources:
-1. Russia’s IT sector contribution to GDP more than doubles in six years (ANI (Asian News International))
-   https://www.aninews.in/news/world/europe/russia8217s-it-sector-contribution-to-gdp-more-than-doubles-in-six-years20261014220051/
-2. Forterra partners with Hypercraft on autonomous vehicle for high-risk missions (DefenseNews.com)
-   https://www.defensenews.com/industry/techwatch/2026/10/14/forterra-partners-with-hypercraft-on-autonomous-vehicle-for-high-risk-missions/
-3. Jio IPO: 5 strengths that put the Reliance-backed digital giant in spotlight (The Economic Times)
-   https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-5-strengths-that-put-the-reliance-backed-digital-giant-in-spotlight/articleshow/134946580.cms
-4. DOST eyes commercialization of ready-to-eat meal packs (The Manila Times)
-   https://www.manilatimes.net/2026/10/15/news/national/dost-eyes-commercialization-of-ready-to-eat-meal-packs/2445831
-5. Shoes that grow with kids: Aretto eyes Rs 100 crore revenue by FY27 (Business Standard)
-   https://www.business-standard.com/companies/start-ups/shoes-that-grow-with-kids-aretto-eyes-rs-100-crore-revenue-by-fy27-126101401319_1.html
+1. Parents invent home safety fixes for medically complex children (News-Medical.net)
+   https://www.news-medical.net/news/20261015/Parents-invent-home-safety-fixes-for-medically-complex-children.aspx
+2. Kerala High Court urges AI alerts to curb deadly speeding crashes (India Today)
+   https://www.indiatoday.in/india/story/kerala-high-court-seeks-ai-camera-alerts-after-kochi-luxury-car-crash-ptag-3018354-2026-10-15
+3. Axon Enterprise, Inc. Announces Recent Contract Awards Across Federal Agencies (MarketScreener)
+   https://www.marketscreener.com/news/axon-enterprise-inc-announces-recent-contract-awards-across-federal-agencies-ce785dd3de8ff727
+4. After the Egypt and Argentina controversy: technology saves Letexier from a scandal in the Real Madrid v Roma match (EUROPE SAYS)
+   https://www.europesays.com/3312413/
+5. Jio to focus on technology monetisation, targets debt-free status (The Hindu)
+   https://www.thehindu.com/business/Industry/jio-to-focus-on-technology-monetisation-targets-debt-free-status/article71589447.ece
