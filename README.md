@@ -2,32 +2,26 @@
 
 What happens in tech today (2026-10-17):
 
-# 🌐 **Tech, Youth, and Global Mobility: A Snapshot of Today’s Headlines**  
+# Indian online travel is quietly printing money while the West still burns cash
 
-The **conference in Brantford** (The Expositor) shows how **inspiring the next generation** remains a priority, yet the real tech‑driven future hinges on **cross‑continental infrastructure**. NASSCOM’s call for an **India‑Europe “technology superhighway”** (The Hindu) could be the backbone that turns youthful enthusiasm into **real‑world mobility solutions**—from autonomous fleets to seamless cross‑border data flows.  
+**Ixigo swung to a ₹61 crore profit for Q2**, with revenue up 13% — and parent **Le Travenues posted ₹63.42 crore in consolidated net profit** for the same quarter. That is not a fluke, it is a business model: low-cost, mobile-first, no vanity burn. While Western travel startups keep chasing growth at any cost, **this is what profitability actually looks like**.
 
-Meanwhile, **public accountability** is taking a front‑stage role: Tulsa Police’s upcoming Q&A (Tulsa World) reminds us that **transparent governance** is as crucial as cutting‑edge tech.  
+Meanwhile the awards circuit keeps handing trophies to "innovative" companies. **SPEED** was recognised among Asia's innovators at the **ACES Awards 2026** — PR events are cheap signals, real engineering is not. Read award lists as marketing, not evidence. 🎪
 
-On the legal front, the **Paris court ruling** concerning Angelalign (The Expositor & The North Bay Nugget) underscores that **regulatory clarity** can mitigate market disruption, ensuring that **customers feel secure** even when features are retired.  
+Hardware stays expensive: the **2026 Audi Q3 landed in India at Rs 52 lakh**. Premium cars are becoming tech products with a price tag to match — software-defined vehicles are now priced like gadgets, and the buyer pays for both.
 
-**Bottom line:** To truly empower young innovators, we need **robust, collaborative tech highways**, **transparent institutions**, and **clear legal frameworks**—the three pillars that will shape the mobility landscape of tomorrow.  
+And even **digital justice** is becoming a product: Hubhawks' Paw pitches Mumbai weddings to courtroom workflows. Software is creeping into places it used to be politely excluded from. 🏛️
 
----  
-
-**Sources**  
-- Conference aims to inspire young people – The Expositor  
-- India, Europe must build a technology superhighway for mobility – The Hindu  
-- Tulsa Police plans public Q&A on Oct. 19 – Tulsa World  
-- Paris Court Ruling on Discontinued Feature – The Expositor / The North Bay Nugget
+All sources are listed below.
 
 Sources:
-1. Conference aims to inspire young people (The Expositor)
-   https://www.brantfordexpositor.ca/news/conference-aims-to-inspire-young-people/
-2. India, Europe must build a technology superhighway for mobility: NASSCOM (The Hindu)
-   https://www.thehindu.com/business/india-europe-must-build-a-technology-superhighway-for-mobility-nasscom/article71589567.ece
-3. Tulsa Police plans public Q&A on Oct. 19 (Tulsa World)
-   https://tulsaworld.com/news/local/crime-courts/article_28a0a42f-59c4-4238-82df-f81846747008.html
-4. Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers (The Expositor)
-   https://www.brantfordexpositor.ca/press-releases/pr-newswire/paris-court-ruling-on-discontinued-feature-will-have-minimal-impact-on-angelalign-customers/
-5. Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers (The North Bay Nugget)
-   https://www.nugget.ca/press-releases/pr-newswire/paris-court-ruling-on-discontinued-feature-will-have-minimal-impact-on-angelalign-customers/
+1. 2026 Audi Q3 Launched At Rs 52 Lakh: Top 10 Things To Know (NDTV.com)
+   https://www.ndtv.com/auto/2026-audi-q3-launched-at-rs-52-lakh-top-10-things-to-know-12198311
+2. From Mumbai Marriages to Digital Justice: Hubhawks Presents Pratik Harsh's Paw (The Tribune)
+   https://www.tribuneindia.com/news/business/from-mumbai-marriages-to-digital-justice-hubhawks-presents-pratik-harshs-paw-rents-of-the-year-and-the-hand-of-the-law-at-frankfurt-2026/
+3. Le Travenues Technology Posts ₹63.42 Crore Consolidated Net Profit, Announces Financial Results For Q2 FY27 (Free Press Journal)
+   https://www.freepressjournal.in/business/le-travenues-technology-posts-6342-crore-consolidated-net-profit-announces-financial-results-for-q2-fy27
+4. SPEED Recognised Among Asia's Innovative Technology Companies At ACES Awards 2026 (The Manila Times)
+   https://www.manilatimes.net/2026-10-17/tmt-newswire/media-outreach-newswire/speed-recognised-among-asias-innovative-technology-companies-at-aces-awards-2026/2447868
+5. Ixigo Q2 results: Online travel platform swings to profit at ₹61 crore; revenue rises 13% (CNBC TV18)
+   https://www.cnbctv18.com/market/ixigo-q2-results-share-price-online-travel-platform-swings-to-profit-revenue-rises-20014101.htm
