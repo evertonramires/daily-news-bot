@@ -1,30 +1,33 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-16):
+What happens in tech today (2026-10-17):
 
-# 🛡️ Tech as a Safety Net: From Homes to Highways
+# 🌐 **Tech, Youth, and Global Mobility: A Snapshot of Today’s Headlines**  
 
-**Sofia's Take:** Today’s headlines reveal a powerful trend: **technology is becoming the ultimate safety net**. Whether it’s parents inventing home fixes for medically complex kids or Kerala courts demanding **AI alerts** to stop deadly speeding, tech is shifting from convenience to **life-saving necessity**. 🚨
+The **conference in Brantford** (The Expositor) shows how **inspiring the next generation** remains a priority, yet the real tech‑driven future hinges on **cross‑continental infrastructure**. NASSCOM’s call for an **India‑Europe “technology superhighway”** (The Hindu) could be the backbone that turns youthful enthusiasm into **real‑world mobility solutions**—from autonomous fleets to seamless cross‑border data flows.  
 
-In sports, VAR-like tech saved Real Madrid from scandal, proving that **digital oversight** can prevent human error. Meanwhile, Axon’s federal contracts show how **smart devices** are standardizing safety protocols across agencies. Even Jio’s push for debt-free status highlights a strategic pivot toward **monetizing technology responsibly**.
+Meanwhile, **public accountability** is taking a front‑stage role: Tulsa Police’s upcoming Q&A (Tulsa World) reminds us that **transparent governance** is as crucial as cutting‑edge tech.  
 
-The common thread? **Innovation isn't just about profit; it's about protection.** We must demand that tech serves human safety first, not just corporate efficiency. 📱💡
+On the legal front, the **Paris court ruling** concerning Angelalign (The Expositor & The North Bay Nugget) underscores that **regulatory clarity** can mitigate market disruption, ensuring that **customers feel secure** even when features are retired.  
 
-**Sources:**
-- News-Medical.net
-- India Today
-- MarketScreener
-- EUROPE SAYS
-- The Hindu
+**Bottom line:** To truly empower young innovators, we need **robust, collaborative tech highways**, **transparent institutions**, and **clear legal frameworks**—the three pillars that will shape the mobility landscape of tomorrow.  
+
+---  
+
+**Sources**  
+- Conference aims to inspire young people – The Expositor  
+- India, Europe must build a technology superhighway for mobility – The Hindu  
+- Tulsa Police plans public Q&A on Oct. 19 – Tulsa World  
+- Paris Court Ruling on Discontinued Feature – The Expositor / The North Bay Nugget
 
 Sources:
-1. Parents invent home safety fixes for medically complex children (News-Medical.net)
-   https://www.news-medical.net/news/20261015/Parents-invent-home-safety-fixes-for-medically-complex-children.aspx
-2. Kerala High Court urges AI alerts to curb deadly speeding crashes (India Today)
-   https://www.indiatoday.in/india/story/kerala-high-court-seeks-ai-camera-alerts-after-kochi-luxury-car-crash-ptag-3018354-2026-10-15
-3. Axon Enterprise, Inc. Announces Recent Contract Awards Across Federal Agencies (MarketScreener)
-   https://www.marketscreener.com/news/axon-enterprise-inc-announces-recent-contract-awards-across-federal-agencies-ce785dd3de8ff727
-4. After the Egypt and Argentina controversy: technology saves Letexier from a scandal in the Real Madrid v Roma match (EUROPE SAYS)
-   https://www.europesays.com/3312413/
-5. Jio to focus on technology monetisation, targets debt-free status (The Hindu)
-   https://www.thehindu.com/business/Industry/jio-to-focus-on-technology-monetisation-targets-debt-free-status/article71589447.ece
+1. Conference aims to inspire young people (The Expositor)
+   https://www.brantfordexpositor.ca/news/conference-aims-to-inspire-young-people/
+2. India, Europe must build a technology superhighway for mobility: NASSCOM (The Hindu)
+   https://www.thehindu.com/business/india-europe-must-build-a-technology-superhighway-for-mobility-nasscom/article71589567.ece
+3. Tulsa Police plans public Q&A on Oct. 19 (Tulsa World)
+   https://tulsaworld.com/news/local/crime-courts/article_28a0a42f-59c4-4238-82df-f81846747008.html
+4. Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers (The Expositor)
+   https://www.brantfordexpositor.ca/press-releases/pr-newswire/paris-court-ruling-on-discontinued-feature-will-have-minimal-impact-on-angelalign-customers/
+5. Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers (The North Bay Nugget)
+   https://www.nugget.ca/press-releases/pr-newswire/paris-court-ruling-on-discontinued-feature-will-have-minimal-impact-on-angelalign-customers/
