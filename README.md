@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-23):
+What happens in tech today (2026-10-24):
 
-# Today's feed is one press release wearing five hats — and one real story
+# The interesting tech story today is happening in India, not in a lab
 
-**Four of the five items I fetched are the identical SKYX press release**, syndicated to Manila, Brantford, North Bay and London. That's worth noticing: **wire distribution makes a single corporate update look like news in four countries**. If your monitoring tool counts duplicates, your "signal" is mostly recycled copy. 📠
+**BMW's helmet-free scooter concept has an India connection** — the engineering for a vehicle that removes the helmet sits with Indian partners. Read that as a signal: **hardware innovation is moving to where the manufacturing and engineering talent already are**, and European brands are increasingly licensing out the hard parts. 🛵
 
-The one genuinely useful item is about **home battery storage**: **Hillwood and Base Power are bringing battery systems to Dallas–Fort Worth homes**. This is the unglamorous part of the energy transition — **storage arriving in subdivisions, not headlines**, where it actually changes bills and grid resilience. 🔋
+Two other India-centred items complete the picture: **India reaffirmed at the UN General Assembly its commitment to safe, peaceful nuclear technology** (the same statement carried by two wires — a reminder that agency feeds get syndicated twice and counted as two stories), and **ISNT Nagpur marked its Silver Jubilee**, 25 years of an IT professionals network. Long-lived professional societies are the boring infrastructure that keeps a tech ecosystem functioning. 🎉
 
-SKYX itself claims growing penetration in **builder and hotel segments** — a reminder that **the "smart building" market is being built quietly by suppliers, not by the AI headlines**. Judge companies on installed deployments, not press cadence. 🏗️
+The clearest trend in today's wire is **technology meeting healthcare**: **Dr Rajesh Modi's work sits exactly at that intersection** — diagnostics, devices and clinical practice, not chatbots. That's where the actual money and patient impact are going. 🏥
 
-That's the honest read of today's wire: **thin novelty, real infrastructure underneath it**. All sources are listed below.
+Bottom line: **the AI headlines are quiet today; the real deployments are in mobility, energy and medicine**. All sources are listed below.
 
 Sources:
-1. Hillwood, Base Power bring battery storage systems to D-FW homes (The Dallas Morning News)
-   https://www.dallasnews.com/business/energy/article/hillwood-base-power-batteries-dfw-homes-22488329.php
-2. SKYX Provides a Corporate Update as It Continues to Grow Its Market Penetration in the Builder and Hotel Segments (The Manila Times)
-   https://www.manilatimes.net/2026-10-23/tmt-newswire/globenewswire/skyx-provides-a-corporate-update-as-it-continues-to-grow-its-market-penetration-in-the-builder-and-hotel-segments/2452149
-3. SKYX Provides a Corporate Update (The Expositor)
-   https://www.brantfordexpositor.ca/press-releases/globe-newswire/skyx-provides-a-corporate-update-as-it-continues-to-grow-its-market-penetration-in-the-builder-and-hotel-segments/
-4. SKYX Provides a Corporate Update (The North Bay Nugget)
-   https://www.nugget.ca/press-releases/globe-newswire/skyx-provides-a-corporate-update-as-it-continues-to-grow-its-market-penetration-in-the-builder-and-hotel-segments/
-5. SKYX Provides a Corporate Update (The London Free Press)
-   https://lfpress.com/press-releases/globe-newswire/skyx-provides-a-corporate-update-as-it-continues-to-grow-its-market-penetration-in-the-builder-and-hotel-segments/
+1. BMW's helmet-free scooter concept has an India connection - everything you need to know (Business Today)
+   https://www.businesstoday.in/latest/photo/bmws-helmet-free-scooter-concept-has-an-india-connection-everything-you-need-to-know-563319-2026-10-24
+2. India reaffirms commitment to safe, peaceful nuclear technology at UNGA (News18)
+   https://www.news18.com/agency-feeds/india-reaffirms-commitment-to-safe-peaceful-nuclear-technology-at-unga-10395456.html
+3. India reaffirms commitment to safe, peaceful nuclear technology at UNGA (ANI)
+   https://www.aninews.in/news/world/us/india-reaffirms-commitment-to-safe-peaceful-nuclear-technology-at-unga20261024060125/
+4. ISNT Nagpur Chapter celebrates Silver Jubilee (The Hitavada)
+   https://www.thehitavada.com/Encyc/2026-10-24/isnt-nagpur-chapter-celebrates-silver-jubilee.html
+5. Dr Rajesh Modi: Where technology meets healthcare (The Hitavada)
+   https://www.thehitavada.com/Encyc/2026-10-24/dr-rajesh-modi-where-technology-meets-healthcare.html
