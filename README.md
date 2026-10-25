@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-24):
+What happens in tech today (2026-10-25):
 
-# The interesting tech story today is happening in India, not in a lab
+# Small modules, clean air, and regulators tightening the screws
 
-**BMW's helmet-free scooter concept has an India connection** — the engineering for a vehicle that removes the helmet sits with Indian partners. Read that as a signal: **hardware innovation is moving to where the manufacturing and engineering talent already are**, and European brands are increasingly licensing out the hard parts. 🛵
+**Turkish refiner Tüpraş signed a US-backed deal to assess SMR (small modular reactor) technology.** That's the energy story nobody is shouting about: **heavy industry is shopping for compact nuclear** because grid-scale decarbonisation has no cheap path. Watch who signs these assessment deals — they precede real capacity by years. ⚛️
 
-Two other India-centred items complete the picture: **India reaffirmed at the UN General Assembly its commitment to safe, peaceful nuclear technology** (the same statement carried by two wires — a reminder that agency feeds get syndicated twice and counted as two stories), and **ISNT Nagpur marked its Silver Jubilee**, 25 years of an IT professionals network. Long-lived professional societies are the boring infrastructure that keeps a tech ecosystem functioning. 🎉
+Delhi got a **first-of-its-kind air pollution analysis facility**, inaugurated by Union Minister Jitendra Singh. Sensing infrastructure is unglamorous but decisive: **you cannot regulate pollution you cannot measure**, and this is the kind of project that turns environmental policy into data. 🌫️
 
-The clearest trend in today's wire is **technology meeting healthcare**: **Dr Rajesh Modi's work sits exactly at that intersection** — diagnostics, devices and clinical practice, not chatbots. That's where the actual money and patient impact are going. 🏥
+Regulators are closing gaps in market tech: **SEBI will draft rules to prevent broker terminal misuse**, according to Chairman Pandey. Trading platforms are now a compliance surface, not just a UI — **if your terminal can be abused, someone will write a rule about it**. 📊
 
-Bottom line: **the AI headlines are quiet today; the real deployments are in mobility, energy and medicine**. All sources are listed below.
+Elsewhere, **FICCI is pushing Dutch investors toward manufacturing and tech projects with project-level follow-up**, and **a Birmingham library opened an upgraded learning lab for kids and adults**. Skills and capital flows are the two slow levers that decide which countries actually benefit from the AI wave. All sources are listed below.
 
 Sources:
-1. BMW's helmet-free scooter concept has an India connection - everything you need to know (Business Today)
-   https://www.businesstoday.in/latest/photo/bmws-helmet-free-scooter-concept-has-an-india-connection-everything-you-need-to-know-563319-2026-10-24
-2. India reaffirms commitment to safe, peaceful nuclear technology at UNGA (News18)
-   https://www.news18.com/agency-feeds/india-reaffirms-commitment-to-safe-peaceful-nuclear-technology-at-unga-10395456.html
-3. India reaffirms commitment to safe, peaceful nuclear technology at UNGA (ANI)
-   https://www.aninews.in/news/world/us/india-reaffirms-commitment-to-safe-peaceful-nuclear-technology-at-unga20261024060125/
-4. ISNT Nagpur Chapter celebrates Silver Jubilee (The Hitavada)
-   https://www.thehitavada.com/Encyc/2026-10-24/isnt-nagpur-chapter-celebrates-silver-jubilee.html
-5. Dr Rajesh Modi: Where technology meets healthcare (The Hitavada)
-   https://www.thehitavada.com/Encyc/2026-10-24/dr-rajesh-modi-where-technology-meets-healthcare.html
+1. Turkish refiner Tupras signs US-backed deal to assess SMR technology (MarketScreener)
+   https://www.marketscreener.com/news/turkish-refiner-tupras-signs-us-backed-deal-to-assess-smr-technology-ce785cdfde8ef121
+2. Union Minister Jitendra Singh inaugurates first-of-its-kind air pollution analysis facility for Delhi-NCR (ANI)
+   https://www.aninews.in/news/national/general-news/union-minister-jitendra-singh-inaugurates-first-of-its-kind-air-pollution-analysis-facility-for-delhi-ncr20261024225838/
+3. SEBI To Come Up With Rules To Prevent Broker Terminal Misuse, Says Chairman Pandey (NDTV Profit)
+   https://www.ndtvprofit.com/markets/sebi-to-come-up-with-rules-to-prevent-broker-terminal-misuse-says-chairman-pandey-12231183
+4. FICCI seeks Dutch investment in mfg, tech; calls for project-level follow-up (Daily Excelsior)
+   https://www.dailyexcelsior.com/ficci-seeks-dutch-investment-in-mfg-tech-calls-for-project-level-follow-up/
+5. Birmingham library opens upgraded learning lab for kids, adults (AL.com)
+   https://www.al.com/news/2026/10/birmingham-library-opens-upgraded-learning-lab-for-kids-adults.html
