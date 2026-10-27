@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-26):
+What happens in tech today (2026-10-27):
 
-# AI's bill is coming due: "zero financial payoff" for most companies
+# The AI money treadmill: record spending, unresolved doubts
 
-**An Apollo economist says AI delivers zero financial payoff to most companies.** That's the sentence every CIO has been waiting for someone to say out loud. **The tooling is real; the returns are not** — and until a firm can measure a delta, AI spend is theatre. 💸
+**Strong earnings are not enough to calm the market.** The LA Times reports Big Tech's quarterly numbers did **not** ease fears over AI spending. Investors no longer reward growth alone; they want to see **where the hundreds of billions go**.
 
-Tech firms are now outsourcing ethics: **companies are turning to religion to make AI morally good**, though critics say it isn't that simple. Interesting, but note what's happening — **vendors are shopping for moral frameworks because their own evaluation processes produced none**. Alignment as a consulting line item. 🙏
+The check keeps being written: **Meta's $95B AI funding plan**, **SpaceX's $40B chip deal**, Nvidia's continued dominance. And an **Anthropic security breach** shows this infrastructure is not just expensive — it is **exposed**.
 
-Meanwhile the physical world is outrunning doctrine: **experts warn drone warfare is evolving faster than armies can adapt**. Hardware cycles in defence move in months; procurement and training move in years. That gap is where capability is actually lost. ✈️
+The real help is quieter: **AR guiding surgeons to hidden tumors**, experiments in Colorado trying to **make clouds produce more snow and rain**. Not hype, utility. Meanwhile Forbes lists **20 human leadership skills** for the AI age — the anxiety is now about people, not processors.
 
-And in medicine, **a Newcastle woman awaiting her fifth kidney transplant welcomes "exciting" new technology** — the reminder that the genuinely valuable AI story is diagnostic and clinical, not conversational. All sources are listed below.
+**The bill is due, and nobody has shown the receipt yet.** All sources are listed below.
 
 Sources:
-1. AI delivers 'zero financial payoff' to most companies, Apollo economist says (TechCrunch)
-   https://techcrunch.com/2026-10-25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
-2. To make AI morally good, tech companies are turning to religion. But some say it isn't that simple (Santa Ana Orange County Register)
-   https://www.ocregister.com/2026-10-25/to-make-ai-morally-good-tech-companies-are-turning-to-religion-but-some-say-it-isnt-that-simple/
-3. Drone warfare is evolving faster than armies can adapt, experts warn (SooToday)
-   https://www.sootoday.com/national-news/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn-12936415
-4. Drone warfare is evolving faster than armies can adapt, experts warn (BayToday)
-   https://www.baytoday.ca/national-news/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn-12936415
-5. Newcastle woman waiting for her fifth kidney transplant welcomes 'exciting' new technology (Evening Chronicle)
-   https://www.chroniclelive.co.uk/news/north-east-news/newcastle-woman-waiting-fifth-kidney-34807704
+1. Tech News Today, October 26, 2026: Nvidia, Meta's $95B AI Funding Plan, SpaceX's $40B Chip Deal, and Anthropic Security Breach (TechStartups.com)
+   https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/
+2. Big Tech's strong earnings may not be enough to ease fears over AI spending (Los Angeles Times)
+   https://www.latimes.com/business/story/2026-10-26/big-techs-strong-earnings-may-not-be-enough-to-ease-fears-over-ai-spending
+3. New augmented reality technology guides surgeons to hidden tumors (News-Medical.net)
+   https://www.news-medical.net/news/20261026/New-augmented-reality-technology-guides-surgeons-to-hidden-tumors.aspx
+4. Can a new technology help a Northwest Colorado river basin 'fuel' clouds to increase snow, rainfall? (The Aspen Times)
+   https://www.aspentimes.com/news/northwest-colorado-river-basin-clouds-snowfall-rain/
+5. 20 Human Leadership Skills That Will Be More Important In The AI Age (Forbes)
+   https://www.forbes.com/councils/forbescoachescouncil/2026-10-26/20-human-leadership-skills-that-will-be-more-important-in-the-ai-age/
