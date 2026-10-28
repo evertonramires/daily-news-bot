@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-10-27):
+What happens in tech today (2026-10-28):
 
-# The AI money treadmill: record spending, unresolved doubts
+# Anthropic goes public-courts, Microsoft cuts 60,000 people: AI is now a balance-sheet problem
 
-**Strong earnings are not enough to calm the market.** The LA Times reports Big Tech's quarterly numbers did **not** ease fears over AI spending. Investors no longer reward growth alone; they want to see **where the hundreds of billions go**.
+**Anthropic has filed for an IPO.** That is the signal of this week: AI labs are no longer research ventures, they are **companies answerable to shareholders**. Meanwhile **Microsoft is offering buyouts to 60,000 employees** — the workforce is being restructured around AI, not with it.
 
-The check keeps being written: **Meta's $95B AI funding plan**, **SpaceX's $40B chip deal**, Nvidia's continued dominance. And an **Anthropic security breach** shows this infrastructure is not just expensive — it is **exposed**.
+The money keeps moving: a **$63B AI chip deal**, Apple's new **14-inch MacBook Pro with the M6 chip** pushing graphics and on-device AI. Hardware is where the AI story becomes tangible.
 
-The real help is quieter: **AR guiding surgeons to hidden tumors**, experiments in Colorado trying to **make clouds produce more snow and rain**. Not hype, utility. Meanwhile Forbes lists **20 human leadership skills** for the AI age — the anxiety is now about people, not processors.
+The friction is political: **Russia's Arctic LNG tech could open US cooperation, but only if sanctions go**; **Modi told India to lead in creating** future technologies, not just consuming them; UK **heat pump installers fear subsidy cuts** — "no one saves the planet if it hits their pocket." Decarbonisation is a wallet decision.
 
-**The bill is due, and nobody has shown the receipt yet.** All sources are listed below.
+Bottom line: **capital, chips and politics are now the same story.** All sources are listed below.
 
 Sources:
-1. Tech News Today, October 26, 2026: Nvidia, Meta's $95B AI Funding Plan, SpaceX's $40B Chip Deal, and Anthropic Security Breach (TechStartups.com)
-   https://techstartups.com/2026/10/26/tech-news-today-october-26-2026-nvidia-metas-95b-ai-funding-plan-spacexs-40b-chip-deal-and-anthropic-security-breach/
-2. Big Tech's strong earnings may not be enough to ease fears over AI spending (Los Angeles Times)
-   https://www.latimes.com/business/story/2026-10-26/big-techs-strong-earnings-may-not-be-enough-to-ease-fears-over-ai-spending
-3. New augmented reality technology guides surgeons to hidden tumors (News-Medical.net)
-   https://www.news-medical.net/news/20261026/New-augmented-reality-technology-guides-surgeons-to-hidden-tumors.aspx
-4. Can a new technology help a Northwest Colorado river basin 'fuel' clouds to increase snow, rainfall? (The Aspen Times)
-   https://www.aspentimes.com/news/northwest-colorado-river-basin-clouds-snowfall-rain/
-5. 20 Human Leadership Skills That Will Be More Important In The AI Age (Forbes)
-   https://www.forbes.com/councils/forbescoachescouncil/2026-10-26/20-human-leadership-skills-that-will-be-more-important-in-the-ai-age/
+1. Tech News Today, October 27, 2026: Apple, Anthropic Files for IPO, $63B AI Chip Deal, Microsoft's 60,000 Employee Buyouts, OpenAI & More (TechStartups.com)
+   https://techstartups.com/2026-10-27/tech-news-today-october-27-2026-anthropic-files-for-ipo-63b-ai-chip-deal-microsofts-60000-employee-buyouts-and-openais-new-gpt-6-1-terra/
+2. Russia's Arctic LNG Technology Could Open the Door to US Cooperation, but Sanctions Must Go - Expert (Sputnik News)
+   https://sputnikglobe.com/20261027/russias-arctic-lng-technology-could-open-the-door-to-us-cooperation-but-sanctions-must-go--expert-1124956826.html
+3. 14-inch MacBook Pro with M6 Chip: Faster Graphics, AI for Students and Professionals (Lokmat Times)
+   https://www.lokmattimes.com/technology/apple-unveils-new-14-inch-macbook-pro-with-m6-chip-faster-graphics-ai-for-students-and-professionals-a001-w02/
+4. India must embrace future technologies, lead world in creating them: PM Modi at ESTIC (The New Indian Express)
+   https://www.newindianexpress.com/india/2026/Oct/27/india-must-embrace-future-technologies-lead-world-in-creating-them-pm-modi-at-estic
+5. 'No one saves the planet if it hits their pocket': UK heat pump installers fear planned subsidy cuts (EUROPE SAYS)
+   https://www.europesays.com/3335590/
