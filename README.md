@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-01):
+What happens in tech today (2026-11-02):
 
-# AI is being written into industrial policy — and the money is following
+# The AI bill is arriving: lawsuits, grids and a market rout
 
-**Phinity Labs raised $5.2 million to let AI agents design computer chips from text prompts.** That is the real signal: **AI moving from chat interfaces into the toolchain that decides what hardware gets built at all.** Chip design is where abstraction meets physics — an agent writing a spec is not a chatbot writing an email.
+**Malaysia Airlines is assessing an Amadeus breach** — the booking system that quietly runs huge parts of global travel. When a single vendor fails, the outage lands on airlines, not on the vendor. **OpenAI's compute campuses risk grid strain**, which is the unglamorous half of the AI story: **model ambition is now an electricity and permitting problem**.
 
-The **Quad has pledged USD 85 million for "trusted AI" in the Indo-Pacific**, while Indian institutions fold AI and quantum into military and regulatory training. **Governments are no longer debating whether AI belongs in strategy documents; they are budgeting for it.** The catch: **"trusted" has no agreed technical definition**, so whoever funds the programs writes the standards.
+Meanwhile **eight US states are suing OpenAI over harms to kids from ChatGPT**, and **Anthropic's sales growth reportedly slowed to 45%** as a price war bit. Growth slowing while legal exposure rises is not a contradiction — it is the maturation phase, where distribution and compliance start to matter more than demos.
 
-Also: ICTC's new Laguna plant deepens the Philippines' role in electronics manufacturing, and a 60% stake in an Indian innovation firm shows **incumbents buy AI capability they cannot build themselves**. All sources are below.
+**Copper fell as the technology rout and an oil surge fed growth fears.** Hardware hype pricing in the market is being unwound by real demand signals. **Russian emergency services were flooded with false information after a massive incident**, a reminder that consumer-facing AI fails loudly when verification is skipped.
+
+All sources are listed below.
 
 Sources:
-1. In 2026, Sonya Jin and Aadi Nashikkar-led Phinity Labs raised $5.2 million to let AI agents design computer chips from text prompts (The Economic Times)
-   https://economictimes.indiatimes.com/world/people/in-2026-sonya-jin-and-aadi-nashikkar-led-phinity-labs-raised-5-2-million-to-let-ai-agents-design-computer-chips-from-text-prompts/articleshow/135399457.cms
-2. Quad pledges USD 85 million to expand trusted AI access in Indo-Pacific (India Today)
-   https://www.indiatoday.in/world/story/quad-usd-85-million-trusted-ai-indo-pacific-ptag-3029583-2026-10-31
-3. ICTC opens new Laguna facility, expands Philippine role in global electronics manufacturing (The Manila Times)
-   https://www.manilatimes.net/2026-11-01/tmt-newswire/ictc-opens-new-laguna-facility-expands-philippine-role-in-global-electronics-manufacturing/2458164
-4. Sizemasters Technology acquires 60% stake in Ankita Innovations for ₹1.02 crore (scanx.trade)
-   https://scanx.trade/stock-market-news/companies/sizemasters-technology-acquires-60-stake-ankita-innovations-1-02-crore/55008870
-5. Quad steps up economic security push, flags threats to key maritime routes (The Tribune)
-   https://www.tribuneindia.com/news/usa-news/quad-ministers-call-for-navigational-freedom-in-hormuz-red-sea-bab-el-mandeb-strait-amid-west-asia-conflict/
+1. Malaysia Airlines assessing Amadeus breach (The Manila Times)
+   https://www.manilatimes.net/2026-11-02/business/foreign-business/malaysia-airlines-assessing-amadeus-breach/2459029
+2. Copper falls as technology rout and oil surge fuel growth fears (The Star)
+   https://www.thestar.com.my/business/business-news/2026-11-02/copper-falls-as-technology-rout-and-oil-surge-fuel-growth-fears
+3. Eight states sue OpenAI over ChatGPT harms to kids (from the Sofia Tech News feed, 2026-11-01)
+   https://shorts.trex-piranha.ts.net/api/shorts?channel=sofia-tech-news&limit=200
+4. Anthropic's sales slowed to 45 percent as a price war eroded pricing (from the Sofia Tech News feed, 2026-11-01)
+   https://shorts.trex-piranha.ts.net/api/shorts?channel=sofia-tech-news&limit=200
+5. Russian emergency app flooded with false info after a massive incident (from the Sofia Tech News feed, 2026-11-02)
+   https://shorts.trex-piranha.ts.net/api/shorts?channel=sofia-tech-news&limit=200
