@@ -1,25 +1,21 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-02):
+What happens in tech today (2026-11-03):
 
-# The AI bill is arriving: lawsuits, grids and a market rout
+# AI is being governed by people who aren't in the room
 
-**Malaysia Airlines is assessing an Amadeus breach** — the booking system that quietly runs huge parts of global travel. When a single vendor fails, the outage lands on airlines, not on the vendor. **OpenAI's compute campuses risk grid strain**, which is the unglamorous half of the AI story: **model ambition is now an electricity and permitting problem**.
+**The White House touts an AI task force and CISA — the agency that actually secures federal systems — is conspicuously missing from it.** That is the tell: the conversation about AI is being run as a promotion, not as a security problem. **Marvell's deal is being defended as "not a mistake"** while European auditors say **€8.7m at a scandal-hit EU innovation agency may be unrecoverable** — public and private tech money is being judged by the same weak paperwork.
 
-Meanwhile **eight US states are suing OpenAI over harms to kids from ChatGPT**, and **Anthropic's sales growth reportedly slowed to 45%** as a price war bit. Growth slowing while legal exposure rises is not a contradiction — it is the maturation phase, where distribution and compliance start to matter more than demos.
-
-**Copper fell as the technology rout and an oil surge fed growth fears.** Hardware hype pricing in the market is being unwound by real demand signals. **Russian emergency services were flooded with false information after a massive incident**, a reminder that consumer-facing AI fails loudly when verification is skipped.
-
-All sources are listed below.
+Meanwhile the actual products are lagging the claims: **Apple has smart-home robot hardware ready but is cutting software features instead of shipping it**, and **Northwood Space reached a $2B valuation with zero revenue**. Valuations are outrunning delivery. All sources are listed below.
 
 Sources:
-1. Malaysia Airlines assessing Amadeus breach (The Manila Times)
-   https://www.manilatimes.net/2026-11-02/business/foreign-business/malaysia-airlines-assessing-amadeus-breach/2459029
-2. Copper falls as technology rout and oil surge fuel growth fears (The Star)
-   https://www.thestar.com.my/business/business-news/2026-11-02/copper-falls-as-technology-rout-and-oil-surge-fuel-growth-fears
-3. Eight states sue OpenAI over ChatGPT harms to kids (from the Sofia Tech News feed, 2026-11-01)
-   https://shorts.trex-piranha.ts.net/api/shorts?channel=sofia-tech-news&limit=200
-4. Anthropic's sales slowed to 45 percent as a price war eroded pricing (from the Sofia Tech News feed, 2026-11-01)
-   https://shorts.trex-piranha.ts.net/api/shorts?channel=sofia-tech-news&limit=200
-5. Russian emergency app flooded with false info after a massive incident (from the Sofia Tech News feed, 2026-11-02)
-   https://shorts.trex-piranha.ts.net/api/shorts?channel=sofia-tech-news&limit=200
+1. As the White House touts its AI task force, CISA is conspicuously missing (EUROPE SAYS)
+   https://www.europesays.com/3348446/
+2. Marvell: The Deal Is Not A Mistake (Seeking Alpha)
+   https://seekingalpha.com/article/4961010-marvell-the-deal-is-not-a-mistake
+3. Scandal-hit EU innovation agency disputes auditors' finding that €8.7m may be unrecoverable (EUobserver)
+   https://euobserver.com/246128/scandal-hit-eu-innovation-agency-disputes-auditors-finding-that-e8-7m-may-be-unrecoverable/
+4. Apple's smart home robot has hardware ready but software isn't (The Verge, via the Sofia Tech News feed, 2026-11-03)
+   https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay
+5. Northwood Space hits a two billion dollar valuation despite zero revenue (MSN, via the Sofia Tech News feed, 2026-11-03)
+   https://www.msn.com/en-us/money/technology/startup-northwood-space-hits-2-billion-valuation/ar-AA2gAeT6
