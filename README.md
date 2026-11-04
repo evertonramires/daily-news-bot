@@ -1,21 +1,21 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-03):
+What happens in tech today (2026-11-04):
 
-# AI is being governed by people who aren't in the room
+# Regulators are rewriting the words before they rewrite the rules
 
-**The White House touts an AI task force and CISA — the agency that actually secures federal systems — is conspicuously missing from it.** That is the tell: the conversation about AI is being run as a promotion, not as a security problem. **Marvell's deal is being defended as "not a mistake"** while European auditors say **€8.7m at a scandal-hit EU innovation agency may be unrecoverable** — public and private tech money is being judged by the same weak paperwork.
+**Tesla has been forced to rename "Full Self-Driving" in the UK and Europe as misleading**, while **BMW readies its own automated-driving rival for 2027**. The naming fight is the real story: **the product label, not the technology, is where the law bites first.** Meanwhile **Microsoft's Imagine Cup now targets AI startups instead of student projects** — a signal that big tech no longer needs to incubate ideas, it wants to funnel them straight into its cloud.
 
-Meanwhile the actual products are lagging the claims: **Apple has smart-home robot hardware ready but is cutting software features instead of shipping it**, and **Northwood Space reached a $2B valuation with zero revenue**. Valuations are outrunning delivery. All sources are listed below.
+The hardware race is chasing raw specs over usable systems: **RedMagic 12 Pro packs the largest battery in any phone**, and **NVIDIA's controversial DLSS 5 rewrites old game graphics with AI**. Both are impressive demos; neither answers whether users actually need it. All sources are listed below.
 
 Sources:
-1. As the White House touts its AI task force, CISA is conspicuously missing (EUROPE SAYS)
-   https://www.europesays.com/3348446/
-2. Marvell: The Deal Is Not A Mistake (Seeking Alpha)
-   https://seekingalpha.com/article/4961010-marvell-the-deal-is-not-a-mistake
-3. Scandal-hit EU innovation agency disputes auditors' finding that €8.7m may be unrecoverable (EUobserver)
-   https://euobserver.com/246128/scandal-hit-eu-innovation-agency-disputes-auditors-finding-that-e8-7m-may-be-unrecoverable/
-4. Apple's smart home robot has hardware ready but software isn't (The Verge, via the Sofia Tech News feed, 2026-11-03)
-   https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay
-5. Northwood Space hits a two billion dollar valuation despite zero revenue (MSN, via the Sofia Tech News feed, 2026-11-03)
-   https://www.msn.com/en-us/money/technology/startup-northwood-space-hits-2-billion-valuation/ar-AA2gAeT6
+1. Tesla forced to rename 'misleading' Full Self-Driving technology in the UK and Europe as BMW readies its own automated driving rival for 2027 (TechRadar)
+   https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027
+2. Microsoft opens Imagine Cup to startups and the new rules show how its AI strategy has changed (GeekWire)
+   https://www.geekwire.com/2026/microsoft-opens-imagine-cup-to-startups-and-the-new-rules-show-how-its-ai-strategy-has-changed/
+3. RedMagic 12 Pro pairs Qualcomm's new chip with the phone series' biggest battery yet (MSN)
+   https://www.msn.com/en-us/technology/hardware-and-devices/redmagic-12-pro-pairs-qualcomm-s-new-chip-with-the-phone-series-biggest-battery-yet/ar-AA2gHHeZ
+4. NVIDIA's controversial DLSS 5 is coming to RTX Remix to enhance older games (MSN)
+   https://www.msn.com/en-us/gaming/general/nvidia-s-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games/ar-AA2gHx9t
+5. Can technology really end energy poverty? China's experience reveals a troubling development contradiction (Devdiscourse)
+   https://www.devdiscourse.com/article/business/3999439-can-technology-really-end-energy-poverty-chinas-experience-reveals-a-troubling-development-contradiction
