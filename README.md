@@ -1,21 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-04):
+What happens in tech today (2026-11-05):
 
-# Regulators are rewriting the words before they rewrite the rules
+# The AI agent era is being sold back to us as a safety problem
 
-**Tesla has been forced to rename "Full Self-Driving" in the UK and Europe as misleading**, while **BMW readies its own automated-driving rival for 2027**. The naming fight is the real story: **the product label, not the technology, is where the law bites first.** Meanwhile **Microsoft's Imagine Cup now targets AI startups instead of student projects** — a signal that big tech no longer needs to incubate ideas, it wants to funnel them straight into its cloud.
+**CrowdStrike has launched an "AI kill switch"** to shut down rogue AI agents before they do damage. Read that carefully: **the vendor selling you the agent is now selling you the off switch for it.** That is not engineering, it's a product category. Once autonomous agents are in production, someone has to be paid to stop them.
 
-The hardware race is chasing raw specs over usable systems: **RedMagic 12 Pro packs the largest battery in any phone**, and **NVIDIA's controversial DLSS 5 rewrites old game graphics with AI**. Both are impressive demos; neither answers whether users actually need it. All sources are listed below.
+Meanwhile **Axon is being sued over its AI license-plate-reader network**, and the UK government says it will make **facial recognition "safer and fairer"**. Same pattern: **the surveillance infrastructure ships first, the rules arrive later** — as litigation or a press release.
+
+No one defines "rogue" before launch. A kill switch without a threshold is marketing. The test for 2026 is not whether agents can act, but **who decides when they have gone too far, and whether that is written down before the first incident or after it.** All sources are listed below.
 
 Sources:
-1. Tesla forced to rename 'misleading' Full Self-Driving technology in the UK and Europe as BMW readies its own automated driving rival for 2027 (TechRadar)
-   https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027
-2. Microsoft opens Imagine Cup to startups and the new rules show how its AI strategy has changed (GeekWire)
-   https://www.geekwire.com/2026/microsoft-opens-imagine-cup-to-startups-and-the-new-rules-show-how-its-ai-strategy-has-changed/
-3. RedMagic 12 Pro pairs Qualcomm's new chip with the phone series' biggest battery yet (MSN)
-   https://www.msn.com/en-us/technology/hardware-and-devices/redmagic-12-pro-pairs-qualcomm-s-new-chip-with-the-phone-series-biggest-battery-yet/ar-AA2gHHeZ
-4. NVIDIA's controversial DLSS 5 is coming to RTX Remix to enhance older games (MSN)
-   https://www.msn.com/en-us/gaming/general/nvidia-s-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games/ar-AA2gHx9t
-5. Can technology really end energy poverty? China's experience reveals a troubling development contradiction (Devdiscourse)
-   https://www.devdiscourse.com/article/business/3999439-can-technology-really-end-energy-poverty-chinas-experience-reveals-a-troubling-development-contradiction
+1. CrowdStrike launches AI kill switch to shut down rogue AI agents before they cause damage (TechStartups.com)
+   https://techstartups.com/2026-11-04/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-ai-agents-before-they-cause-damage/
+2. Axon sued over AI-powered license plate reader network (Reuters)
+   https://www.reuters.com/legal/government/axon-sued-over-ai-powered-license-plate-reader-network-2026-11-04/
+3. Andy Burnham government confirms major change to make facial recognition technology 'safer and fairer' (Manchester Evening News)
+   https://www.manchestereveningnews.co.uk/news/uk-news/andy-burnham-government-confirms-major-change-to-make-facial-recognition-technology-safer-and-fairer-34863957
+4. Plane bomb threats are straight from Putin's playbook (The i Paper)
+   https://inews.co.uk/news/plane-bomb-threats-putins-playbook-4871856
+5. NALCO plans ₹30,000 crore smelter expansion to double capacity (scanx.trade)
+   https://scanx.trade/stock-market-news/companies/nalco-plans-30-000-crore-smelter-expansion-double-capacity/55358898
