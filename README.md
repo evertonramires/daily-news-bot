@@ -1,23 +1,23 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-05):
+What happens in tech today (2026-11-06):
 
-# The AI agent era is being sold back to us as a safety problem
+# The market just voted on the data centre boom — and it said "slow down"
 
-**CrowdStrike has launched an "AI kill switch"** to shut down rogue AI agents before they do damage. Read that carefully: **the vendor selling you the agent is now selling you the off switch for it.** That is not engineering, it's a product category. Once autonomous agents are in production, someone has to be paid to stop them.
+**The Nasdaq 100 fell 5.2% on Thursday, erasing $2 trillion**, its worst day in 19 months, confirming a correction: 10% under the 6 October record close. **Chipmakers sank over 10%**; CoreWeave, Nebius and IREN dropped more than 12%. The trigger was not a bad quarter — it was **Democrats taking both chambers** on 3 November and investors betting the new majority will slow the data-centre buildout.
 
-Meanwhile **Axon is being sued over its AI license-plate-reader network**, and the UK government says it will make **facial recognition "safer and fairer"**. Same pattern: **the surveillance infrastructure ships first, the rules arrive later** — as litigation or a press release.
+The uncomfortable part: **the AI trade has been an infrastructure trade**. Growth depended on concrete, steel, power and permits. Regulation now reaches those, so risk has moved from model quality to **where a rack can be built**.
 
-No one defines "rogue" before launch. A kill switch without a threshold is marketing. The test for 2026 is not whether agents can act, but **who decides when they have gone too far, and whether that is written down before the first incident or after it.** All sources are listed below.
+Meanwhile **the UK is weighing limits on smart glasses**, including restricting sales "to certain users". Safeguarding minister Satvir Kaur said the benefits "must be weighed against the harms" of filming people without consent. Same order as always: **the camera ships first, the rule arrives later**. All sources are listed below.
 
 Sources:
-1. CrowdStrike launches AI kill switch to shut down rogue AI agents before they cause damage (TechStartups.com)
-   https://techstartups.com/2026-11-04/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-ai-agents-before-they-cause-damage/
-2. Axon sued over AI-powered license plate reader network (Reuters)
-   https://www.reuters.com/legal/government/axon-sued-over-ai-powered-license-plate-reader-network-2026-11-04/
-3. Andy Burnham government confirms major change to make facial recognition technology 'safer and fairer' (Manchester Evening News)
-   https://www.manchestereveningnews.co.uk/news/uk-news/andy-burnham-government-confirms-major-change-to-make-facial-recognition-technology-safer-and-fairer-34863957
-4. Plane bomb threats are straight from Putin's playbook (The i Paper)
-   https://inews.co.uk/news/plane-bomb-threats-putins-playbook-4871856
-5. NALCO plans ₹30,000 crore smelter expansion to double capacity (scanx.trade)
-   https://scanx.trade/stock-market-news/companies/nalco-plans-30-000-crore-smelter-expansion-double-capacity/55358898
+1. Nasdaq set for biggest daily drop in 19 months on fears of AI regulations (Reuters via RNZ)
+   https://www.rnz.co.nz/news/business/2371697/nasdaq-set-for-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations
+2. Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% (WSJ)
+   https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026
+3. Vertiv Sinks Another 16% as Data Center Selloff Deepens (TIKR)
+   https://www.tikr.com/blog/vertiv-sinks-another-16-as-data-center-selloff-deepens-forced-control-on-capex
+4. UK government considers smart glasses ban over secret filming concerns (The Guardian)
+   https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns
+5. AI data-center stocks slide, renewables rally after Democratic US midterm win (Reuters)
+   https://www.reuters.com/business/aerospace-defense/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-us-midterm-2026-11-04/
