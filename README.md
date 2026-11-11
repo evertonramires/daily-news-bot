@@ -1,23 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-10):
+What happens in tech today (2026-11-11):
 
-# Nvidia's board is investigating its CEO over a romance — and the market punished it first
+# Reddit turns its users into a review engine — and locks the door behind it
 
-Wall Street added **$1.5 trillion** on Monday: the Dow rose **1,104 points**, AMD jumped 12%. Yet **Nvidia fell nearly 5%** after its board opened an independent probe into whether CEO Jensen Huang was the target of a foreign intelligence effort tied to his relationship with Alice Huang, a Singapore-based executive US officials reportedly believed was spying for Beijing.
+**Reddit Reviews** started testing on Tuesday: AI summaries of what users say about roughly **10,000 products**, with a positive/mixed/negative chart and buy links. Reddit told TNW it **takes no cut** of purchases and brands cannot pay to be featured.
 
-Huang apologized for being "unfaithful" and said he would cooperate. The board has **no reason to believe national security or company secrets were compromised** — but will examine "all available information". Trump, asked whether he wished he had acted on intelligence briefed to him last year, said no.
+The timing is the story. Reddit **shuts down its RSS feeds on 13 November**, blaming AI scraping, and CEO Steve Huffman plans to test a login wall outside the US. **Reddit is fencing off its archive while mining it itself** — and it did not name the model.
 
-The market read ambiguity as risk. **A probe with no finding is still a governance event**: chip stocks rebounded while the most valuable chip company priced in uncertainty. All sources are listed below.
+Old tech dies slowly 💾: the FAA will install its E-IDS display system at **435 air traffic control facilities by the end of 2028**, replacing four 1980s systems, **floppy disks included**.
+
+And weather beat tech in Lisbon 🌪️: **Web Summit cancelled Day 2** for its 70,000 attendees after Portugal declared a state of alert for storms Bruna and Charles. All sources are listed below.
 
 Sources:
-1. Nvidia launches investigation into CEO's affair with suspected Chinese spy (BBC)
-   https://www.bbc.com/news/articles/c3dxw10rjn9no
-2. US stock market stages massive rally today, adds $1.5 trillion (The Economic Times)
-   https://economictimes.indiatimes.com/news/international/us/us-stock-market-stages-massive-rally-today-adds-1-5-trillion-5-reasons-why-dow-jones-sp-500-and-nasdaq-surge-as-amd-and-tesla-jump-while-nvidia-sinks/articleshow/135689104.cms
-3. Nvidia opens investigation into Jensen Huang's relationship with a suspected Chinese spy (The New York Times)
-   https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html
-4. Wall St jumps as oil slide cools inflation worries; Nvidia slumps (Reuters)
-   https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/
-5. Satellite monitoring of the world's oceans is being restricted by legal barriers, study suggests (Phys.org)
-   https://phys.org/news/2026-11-satellite-world-oceans-restricted-legal.html
+1. Reddit Reviews uses AI to summarise what users say about 10,000 products (TNW)
+   https://thenextweb.com/news/reddit-reviews-ai-product-summaries-no-cut-tnw
+2. ‘Everything indicates’ Web Summit will be called off tomorrow, says Lisbon mayor (The Irish Times)
+   https://www.irishtimes.com/business/2026/11/10/everything-indicates-web-summit-will-be-called-off-tomorrow-says-lisbon-mayor/
+3. FAA to Phase Out Floppy Disks in Air Traffic Control by 2028 (Natural News)
+   https://www.naturalnews.com/2026-11-10-faa-phase-out-floppy-disks-air-traffic-control.html
+4. Q&A: Exploring generative AI's impact on student thinking during programming and debugging (Phys.org)
+   https://phys.org/news/2026-11-qa-exploring-generative-ai-impact.html
+5. Aldermen blast Johnson’s plan to rework gunshot detection test (Chicago Tribune)
+   https://www.chicagotribune.com/2026/11/10/aldermen-brandon-johnson-gunshot-detection-test/
