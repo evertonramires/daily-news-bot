@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-12):
+What happens in tech today (2026-11-13):
 
-# The AI trade is back — but it no longer buys Nvidia on autopilot
+# Jensen Huang is out — and Nvidia reports earnings in four days
 
-**The Nasdaq 100 rose 2.6% on Wednesday and briefly erased its post-midterm losses.** CoreWeave jumped **as much as 25%** on better-than-expected revenue, and Anthropic's IPO has drawn orders for multiple times the shares available, Bloomberg reports. 📈
+**Jensen Huang resigned as Nvidia CEO, effective immediately**, amid a board investigation into national security risks tied to his relationship with a suspected Chinese intelligence asset. CFO **Colette Kress is interim CEO**, and Harvey C. Jones becomes Nvidia's **first-ever board chair**.
 
-The rally is picky. **Baird cut Nvidia to neutral and slashed its price target to $200 from $500**; Morgan Stanley removed it as a Top Pick, amid scrutiny of CEO Jensen Huang. Money is returning to AI, not automatically to its biggest name.
+The timing is brutal: **Q3 results land on 17 November.** The Economic Times counts **$600 billion in investor losses this week**; Nvidia peaked at $5.6 trillion before the scandal broke.
 
-🇬🇧 Britain gets a chip contender: **Fractile hit a $7 billion valuation** building accelerators for running AI models in London and Bristol.
+Washington is already writing the job description. House China panel chair John Moolenaar called it a "firing" and wants a successor who makes **national security the top priority**, plus export-control legislation in the year-end defence bill. Trump's pick: **Tim Cook**. "A Legend replaces a Legend!" 🍏
 
-And a reality check from IBM: **87% of executives say their AI is under control; only 27% can prove it to an auditor.** Confidence is cheap, evidence is not. All sources are listed below.
+**Nvidia's next CEO will be chosen with Congress in the room.** That is the real change. All sources are listed below.
 
 Sources:
-1. U.S. Tech Stocks Poised to Erase Midterm Loss as AI Trade Returns (Spokane Spokesman-Review)
-   https://www.spokesman.com/stories/2026/nov/11/us-tech-stocks-poised-to-erase-midterm-loss-as-ai-/
-2. UK AI chip startup fractile hits $7 billion valuation after major funding round (The News International)
-   https://www.thenews.com.pk/latest/1423295-uk-ai-chip-startup-fractile-hits-7-billion-valuation-after-major-funding-round
-3. IBM sounds alarm over AI governance at British firms (City A.M.)
-   https://www.cityam.com/ibm-sounds-alarm-over-ai-governance-at-british-firms/
-4. Fraud through calls, messages a global threat: MoS Telecom (The Economic Times)
-   https://economictimes.indiatimes.com/industry/telecom/telecom-news/fraud-through-calls-messages-a-global-threat-mos-telecom/articleshow/135745374.cms
-5. Hazeltree: CORRECTING and REPLACING Hedge Funds Shift Positioning in October Amid Sharp Rotation Out of Large Technology Stocks, Data Insights Reports (FinanzNachrichten)
-   https://www.finanznachrichten.de/nachrichten-2026-11/70102578-hazeltree-correcting-and-replacing-hedge-funds-shift-positioning-in-october-amid-sharp-rotation-out-of-large-technology-stocks-data-insights-reports-004.htm
+1. US House China panel chair calls Jensen Huang’s resignation "unfortunate end," urges Nvidia to prioritise national security (ANI)
+   https://www.aninews.in/news/world/us/us-house-china-panel-chair-calls-jensen-huang8217s-resignation-unfortunate-end-urges-nvidia-to-prioritise-national-security20261112223808/
+2. Gen Jensen Nvidia: A smooth leadership transition needed (The Economic Times)
+   https://economictimes.indiatimes.com/opinion/et-editorial/post-gen-jensen-nvidia-a-smooth-leadership-transition-needed/articleshow/135778855.cms
+3. Why Former Apple CEO Tim Cook's Name Has Surfaced For Nvidia's Top Job After Jensen Huang (Times Now)
+   https://www.timesnownews.com/technology-science/why-former-apple-ceo-tim-cooks-name-has-surfaced-for-nvidias-top-job-after-jensen-huang-article-156500295
+4. Nvidia caught in China’s tech game (The Financial Express)
+   https://www.financialexpress.com/opinion/nvidia-caught-in-chinas-tech-game/4383011/
+5. Nvidia's Rise Under Jensen Huang: How A Gaming Chipmaker Became An AI Giant (Outlook India)
+   https://www.outlookindia.com/international/nvidias-rise-under-jensen-huang-how-a-gaming-chipmaker-became-an-ai-giant
