@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-13):
+What happens in tech today (2026-11-15):
 
-# Jensen Huang is out — and Nvidia reports earnings in four days
+# One router grounded America — and Washington wants $50 billion to stop the next one
 
-**Jensen Huang resigned as Nvidia CEO, effective immediately**, amid a board investigation into national security risks tied to his relationship with a suspected Chinese intelligence asset. CFO **Colette Kress is interim CEO**, and Harvey C. Jones becomes Nvidia's **first-ever board chair**.
+Friday's **nationwide FAA ground stop**, only the second since 9/11, delayed about **7,500 flights and cancelled over 9,000**; nearly 6,000 more were cancelled Saturday. Transportation Secretary Sean Duffy blamed a copper-to-fiber swap at a remote FAA facility: **"incompetence or a faulty router"**. ✈️
 
-The timing is brutal: **Q3 results land on 17 November.** The Economic Times counts **$600 billion in investor losses this week**; Nvidia peaked at $5.6 trillion before the scandal broke.
+His fix is money: **$50 billion from Congress before year end**. But TIME notes cash won't cure controller shortages, weak planning or cyber risk. **Legacy infrastructure fails at the seams, not the centre.**
 
-Washington is already writing the job description. House China panel chair John Moolenaar called it a "firing" and wants a successor who makes **national security the top priority**, plus export-control legislation in the year-end defence bill. Trump's pick: **Tim Cook**. "A Legend replaces a Legend!" 🍏
+🇬🇷 Greece bans social media for **under-15s from 1 January**. Google and YouTube must name a compliance chief by early December and **prove their age checks work**.
 
-**Nvidia's next CEO will be chosen with Congress in the room.** That is the real change. All sources are listed below.
+And the Nvidia scandal now feeds the chip war: lawmakers want **tighter export controls** as Trump meets Xi next week. All sources are listed below.
 
 Sources:
-1. US House China panel chair calls Jensen Huang’s resignation "unfortunate end," urges Nvidia to prioritise national security (ANI)
-   https://www.aninews.in/news/world/us/us-house-china-panel-chair-calls-jensen-huang8217s-resignation-unfortunate-end-urges-nvidia-to-prioritise-national-security20261112223808/
-2. Gen Jensen Nvidia: A smooth leadership transition needed (The Economic Times)
-   https://economictimes.indiatimes.com/opinion/et-editorial/post-gen-jensen-nvidia-a-smooth-leadership-transition-needed/articleshow/135778855.cms
-3. Why Former Apple CEO Tim Cook's Name Has Surfaced For Nvidia's Top Job After Jensen Huang (Times Now)
-   https://www.timesnownews.com/technology-science/why-former-apple-ceo-tim-cooks-name-has-surfaced-for-nvidias-top-job-after-jensen-huang-article-156500295
-4. Nvidia caught in China’s tech game (The Financial Express)
-   https://www.financialexpress.com/opinion/nvidia-caught-in-chinas-tech-game/4383011/
-5. Nvidia's Rise Under Jensen Huang: How A Gaming Chipmaker Became An AI Giant (Outlook India)
-   https://www.outlookindia.com/international/nvidias-rise-under-jensen-huang-how-a-gaming-chipmaker-became-an-ai-giant
+1. Air Traffic Control Systems Are Outdated. What’s Being Done to Prevent Another Outage? (TIME)
+   https://time.com/article/2026/11/14/air-traffic-control-systems-are-outdated-what-s-being-done-to-prevent-another-outage-/
+2. Greece Gives Tech Giants Weeks to Prove They Can Keep Children Under 15 Off Social Media (iefimerida)
+   https://www.iefimerida.gr/english/greece-gives-tech-giants-weeks-prove-they-can-keep-children-under-15-social-media
+3. The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit (Anchorage Daily News)
+   https://www.adn.com/nation-world/2026/11/14/the-nvidia-scandal-is-heightening-americas-ai-rivalry-with-china-ahead-of-trumps-visit/
+4. FAA Ground Stop Blamed On Router Overload And Old Technology (Artvoice)
+   https://artvoice.com/faa-ground-stop-blamed-on-router-overload-and-old-technology
+5. Why can problems on ground affect flights thousands of miles away? (The Dallas Morning News)
+   https://www.dallasnews.com/business/airlines/article/air-traffic-control-22530883.php
