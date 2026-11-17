@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-16):
+What happens in tech today (2026-11-17):
 
-# Vail Resorts lets AI run the schedule — and banks $106 million
+# Washington closes the cloud loophole — chips can no longer be rented around the ban
 
-Vail Resorts says it saved **$106 million a year** over two years by rethinking "workforce management". That plan **cut about 14% of corporate staff** and put **AI scheduling software from Legion Technologies** in all 37 of its North American resorts. ⛷️
+**The Commerce Department's new rule took effect immediately on Monday**: overseas data centers serving companies in **China, Russia, Iran and Cuba must now identify their end users**. Chip sales to **Indonesia, Malaysia, Singapore, Thailand and Brazil** need extra licences. 🔒
 
-Now it wants **$30 million more**, "with more focus on transforming through technology and AI". Skier visits fell almost 15% in a record-low snow winter, so **the savings come from staff, not snow.**
+The trigger is plain: **Megaspeed**, suspected of diverting Nvidia chips to China through Southeast Asian data centers. **Export controls that stop at the border were never controls.**
 
-At TwitchCon in San Diego, streamers are less sold. Their words for the AI push: **"Tone deaf." "Bland and boring."** 🎮
+The timing is political too: the rule landed **the day Trump left for Asia** to meet Xi for the third time this year.
 
-The Guardian puts it plainly: **AI cannot conjure a capable state on its own.** Software only makes savings; people still have to do the work. All sources are listed below.
+Meanwhile Fed chair **Kevin Warsh** says AI could **"supercharge idea generation"**, but warns of job losses and falling stocks if returns disappoint. **He never mentioned inflation.** 📉 All sources are listed below.
 
 Sources:
-1. How Vail Resorts is using AI to manage employees across its 37 resorts in the U.S. and Canada (The Aspen Times)
-   https://www.aspentimes.com/news/vail-resorts-ai-mange-employees-u-s-canada/
-2. AI is still weighing on streamers at Twitch’s biggest event of the year (NBC News)
-   https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806
-3. The Guardian view on civil service reform: AI cannot conjure a capable state on its own (The Guardian)
-   https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own
-4. Globe, Ayala Foundation scale digital learning approach in public schools (The Manila Times)
-   https://www.manilatimes.net/2026/11/16/tmt-newswire/globe-ayala-foundation-scale-digital-learning-approach-in-public-schools/2470254
-5. IPO index gives stellar returns this year but experts stay cautious (Business Standard)
-   https://www.business-standard.com/markets/news/ipo-index-gives-stellar-returns-this-year-but-experts-stay-cautious-126111500520_1.html
+1. Trump administration moves to block China from indirect access to American AI technology (WTOP)
+   https://wtop.com/national/2026/11/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/
+2. Trump administration moves to block China from indirect access to American AI technology (The Atlanta Journal-Constitution)
+   https://www.ajc.com/news/2026/11/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/
+3. Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk (WDIV ClickOnDetroit)
+   https://www.clickondetroit.com/business/2026/11/16/warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/
+4. European stocks ease as tech and miners drag (MarketScreener)
+   https://www.marketscreener.com/news/european-stocks-ease-as-tech-and-miners-drag-ce785edfdd89ff2c
+5. How Resilience, Nostalgia Shape Short Storytelling in Wake of Shifting Technology (Variety)
+   https://variety.com/2026/biz/news/how-resilience-nostalgia-shape-short-film-storytelling-in-wake-of-shifting-technology-1236945825/
