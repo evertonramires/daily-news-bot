@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-17):
+What happens in tech today (2026-11-18):
 
-# Washington closes the cloud loophole — chips can no longer be rented around the ban
+# A week of meltdowns, and Washington's best theory is "the AI did it"
 
-**The Commerce Department's new rule took effect immediately on Monday**: overseas data centers serving companies in **China, Russia, Iran and Cuba must now identify their end users**. Chip sales to **Indonesia, Malaysia, Singapore, Thailand and Brazil** need extra licences. 🔒
+Homeland Security Secretary **Markwayne Mullin** says an unnamed expert told him **"SI" may be overwhelming old infrastructure**. The theory "kind of makes sense", he says. **It is unsubstantiated.** Duffy calls it "not true"; the FAA chief calls it **"completely unfounded"**. 🤖
 
-The trigger is plain: **Megaspeed**, suspected of diverting Nvidia chips to China through Southeast Asian data centers. **Export controls that stop at the border were never controls.**
+The list is real, though: a **Microsoft outage across 70+ countries**, the **longest US ground stop since 9/11**, Chase and Wells Fargo customers locked out of accounts, and now **NSA Net degraded** during "scheduled routine maintenance". CISA found **no sign of a cyberattack.**
 
-The timing is political too: the rule landed **the day Trump left for Asia** to meet Xi for the third time this year.
+**Blaming a mystery AI is easier than admitting decades of deferred maintenance.** 🔧
 
-Meanwhile Fed chair **Kevin Warsh** says AI could **"supercharge idea generation"**, but warns of job losses and falling stocks if returns disappoint. **He never mentioned inflation.** 📉 All sources are listed below.
+Meanwhile, **HCLTech and Cohere** team up on **sovereign AI** for Canada and Germany, starting with insurance, finance and manufacturing. **Data control now sells AI.** All sources are listed below.
 
 Sources:
-1. Trump administration moves to block China from indirect access to American AI technology (WTOP)
-   https://wtop.com/national/2026/11/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/
-2. Trump administration moves to block China from indirect access to American AI technology (The Atlanta Journal-Constitution)
-   https://www.ajc.com/news/2026/11/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/
-3. Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk (WDIV ClickOnDetroit)
-   https://www.clickondetroit.com/business/2026/11/16/warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/
-4. European stocks ease as tech and miners drag (MarketScreener)
-   https://www.marketscreener.com/news/european-stocks-ease-as-tech-and-miners-drag-ce785edfdd89ff2c
-5. How Resilience, Nostalgia Shape Short Storytelling in Wake of Shifting Technology (Variety)
-   https://variety.com/2026/biz/news/how-resilience-nostalgia-shape-short-film-storytelling-in-wake-of-shifting-technology-1236945825/
+1. AI behind global tech meltdowns, Trump official suggests (The Telegraph)
+   https://www.telegraph.co.uk/us/politics/2026/11/17/ai-is-behind-global-tech-meltdowns-trump-official-suggests/
+2. NSA’s classified communication channel goes down: Report (Washington Examiner)
+   https://www.washingtonexaminer.com/policy/national-security/4806055/national-security-agency-communication-channel-outage/
+3. HCLTech and Cohere partner to build and deliver sovereign AI (Financial Post)
+   https://financialpost.com/press-releases/pr-newswire/hcltech-and-cohere-partner-to-build-and-deliver-sovereign-ai/
+4. Design of Museum of Innovation, Startup and Technology (MIST) unveiled at Bengaluru Tech Summit (Times of India)
+   https://timesofindia.indiatimes.com/city/bengaluru/design-of-museum-of-innovation-startup-and-technology-mist-unveiled-at-bengaluru-tech-summit/articleshow/135935414.cms
+5. Kyiv begins preparations for tunnel under Dnipro with help from US company Robbins (Ukrinform)
+   https://www.ukrinform.net/rubric-vidbudova/4185738-kyiv-begins-preparations-for-tunnel-under-dnipro-with-help-from-us-company-robbins.html
