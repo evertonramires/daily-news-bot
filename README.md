@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-18):
+What happens in tech today (2026-11-19):
 
-# A week of meltdowns, and Washington's best theory is "the AI did it"
+# "This is not a cyberattack" — the outages were just old systems breaking
 
-Homeland Security Secretary **Markwayne Mullin** says an unnamed expert told him **"SI" may be overwhelming old infrastructure**. The theory "kind of makes sense", he says. **It is unsubstantiated.** Duffy calls it "not true"; the FAA chief calls it **"completely unfounded"**. 🤖
+The White House has closed the case: DNI **Jay Clayton** and Secretary of State **Marco Rubio** say **no nation-state, no coordinated attack**. Microsoft, the FAA and the banks were **separate failures from patching and upgrading outdated systems**. 🛠️
 
-The list is real, though: a **Microsoft outage across 70+ countries**, the **longest US ground stop since 9/11**, Chase and Wells Fargo customers locked out of accounts, and now **NSA Net degraded** during "scheduled routine maintenance". CISA found **no sign of a cyberattack.**
+The FAA detail is the real story: per Fortune, it **stopped installing new Juniper routers, turned off the ones already in, and went back to Cisco**. **Modernisation broke the system it was meant to save.**
 
-**Blaming a mystery AI is easier than admitting decades of deferred maintenance.** 🔧
+So much for the "SI did it" theory. **Boring causes are still causes**, and CIOs are now planning for the next big outage.
 
-Meanwhile, **HCLTech and Cohere** team up on **sovereign AI** for Canada and Germany, starting with insurance, finance and manufacturing. **Data control now sells AI.** All sources are listed below.
+Meanwhile **Microsoft and Intel** sign a **long-term Azure deal**: multi-year Xeon supply, CXL and confidential computing. And **Anthropic is gearing up for an IPO** while the Nvidia scandal shakes AI stocks. 📈 All sources are listed below.
 
 Sources:
-1. AI behind global tech meltdowns, Trump official suggests (The Telegraph)
-   https://www.telegraph.co.uk/us/politics/2026/11/17/ai-is-behind-global-tech-meltdowns-trump-official-suggests/
-2. NSA’s classified communication channel goes down: Report (Washington Examiner)
-   https://www.washingtonexaminer.com/policy/national-security/4806055/national-security-agency-communication-channel-outage/
-3. HCLTech and Cohere partner to build and deliver sovereign AI (Financial Post)
-   https://financialpost.com/press-releases/pr-newswire/hcltech-and-cohere-partner-to-build-and-deliver-sovereign-ai/
-4. Design of Museum of Innovation, Startup and Technology (MIST) unveiled at Bengaluru Tech Summit (Times of India)
-   https://timesofindia.indiatimes.com/city/bengaluru/design-of-museum-of-innovation-startup-and-technology-mist-unveiled-at-bengaluru-tech-summit/articleshow/135935414.cms
-5. Kyiv begins preparations for tunnel under Dnipro with help from US company Robbins (Ukrinform)
-   https://www.ukrinform.net/rubric-vidbudova/4185738-kyiv-begins-preparations-for-tunnel-under-dnipro-with-help-from-us-company-robbins.html
+1. "This is not a cyberattack": Trump administration rules out coordinated "hostile" activity behind tech outages (ANI (Asian News International))
+   https://www.aninews.in/news/world/us/this-is-not-a-cyberattack-trump-administration-rules-out-coordinated-hostile-activity-behind-tech-outages20261118225559/
+2. How CIOs are already preparing for the next big outage (Fortune)
+   https://fortune.com/2026/11/18/week-of-outages-put-resiliency-to-the-test-cios/
+3. Microsoft and Intel expand collaboration under long (The Economic Times)
+   https://economictimes.indiatimes.com/tech/technology/microsoft-and-intel-expand-collaboration-under-long-term-agreement-for-azure-infrastructure/articleshow/135968216.cms
+4. Anthropic gears up for blockbuster IPO as Nvidia scandal shakes AI stocks (Hindustan Times)
+   https://www.hindustantimes.com/world-news/anthropic-gears-up-for-blockbuster-ipo-as-nvidia-scandal-shakes-ai-stocks-101795021381854.html
+5. Telangana Transport Department Rolls Out AI Cameras to Curb Road Accidents and RTA Malpractice (Deccan Chronicle)
+   https://www.deccanchronicle.com/southern-states/telangana/telangana-transport-department-rolls-out-ai-cameras-to-curb-road-accidents-and-rta-malpractice-2005681
