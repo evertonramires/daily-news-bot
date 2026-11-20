@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-19):
+What happens in tech today (2026-11-20):
 
-# "This is not a cyberattack" — the outages were just old systems breaking
+# Anthropic raises $107 billion in the biggest IPO ever, and it still loses money
 
-The White House has closed the case: DNI **Jay Clayton** and Secretary of State **Marco Rubio** say **no nation-state, no coordinated attack**. Microsoft, the FAA and the banks were **separate failures from patching and upgrading outdated systems**. 🛠️
+**Anthropic is public.** Its IPO is the **largest on record**, beating SpaceX: **980 million shares for $81 billion**, plus a **$26 billion private sale**. At one point it was worth **more than $2 trillion**. It **closed up 17% at $97.17**. 🚀
 
-The FAA detail is the real story: per Fortune, it **stopped installing new Juniper routers, turned off the ones already in, and went back to Cisco**. **Modernisation broke the system it was meant to save.**
+Now the catch. Anthropic is **unprofitable**, carries **$6.2 billion in debt**, and has signed up for **$900 billion in compute and infrastructure**, with **$70 billion due in the next 12 months**. **This IPO pays for data centres.**
 
-So much for the "SI did it" theory. **Boring causes are still causes**, and CIOs are now planning for the next big outage.
+Timing helped: it priced above its own range days after Nvidia's CEO was ousted, while **OpenAI pushed its IPO to next year**. 📈
 
-Meanwhile **Microsoft and Intel** sign a **long-term Azure deal**: multi-year Xeon supply, CXL and confidential computing. And **Anthropic is gearing up for an IPO** while the Nvidia scandal shakes AI stocks. 📈 All sources are listed below.
+**Wall Street just bet $107 billion that AI spending pays off.** All sources are listed below.
 
 Sources:
-1. "This is not a cyberattack": Trump administration rules out coordinated "hostile" activity behind tech outages (ANI (Asian News International))
-   https://www.aninews.in/news/world/us/this-is-not-a-cyberattack-trump-administration-rules-out-coordinated-hostile-activity-behind-tech-outages20261118225559/
-2. How CIOs are already preparing for the next big outage (Fortune)
-   https://fortune.com/2026/11/18/week-of-outages-put-resiliency-to-the-test-cios/
-3. Microsoft and Intel expand collaboration under long (The Economic Times)
-   https://economictimes.indiatimes.com/tech/technology/microsoft-and-intel-expand-collaboration-under-long-term-agreement-for-azure-infrastructure/articleshow/135968216.cms
-4. Anthropic gears up for blockbuster IPO as Nvidia scandal shakes AI stocks (Hindustan Times)
-   https://www.hindustantimes.com/world-news/anthropic-gears-up-for-blockbuster-ipo-as-nvidia-scandal-shakes-ai-stocks-101795021381854.html
-5. Telangana Transport Department Rolls Out AI Cameras to Curb Road Accidents and RTA Malpractice (Deccan Chronicle)
-   https://www.deccanchronicle.com/southern-states/telangana/telangana-transport-department-rolls-out-ai-cameras-to-curb-road-accidents-and-rta-malpractice-2005681
+1. Anthropic begins trading as a $1.5 trillion company in the biggest IPO on record (WIS10)
+   https://www.wistv.com/2026/11/19/anthropic-begins-trading-15-trillion-company-biggest-ipo-record/
+2. Anthropic stock opens 34% above IPO price; what investors should watch next (The Financial Express)
+   https://www.financialexpress.com/market/global-markets/anthropic-shares-list-at-100-gain-nearly-20-over-ipo-price-on-nasdaq-debut/4388678/
+3. Anthropic Stock Indicated to Open 33% Above IPO Price as AI Stocks Rally (Decrypt)
+   https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price
+4. Yeahka and Mastercard Sign Agreement to Explore AI Agent-Driven Commerce (The Manila Times)
+   https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/yeahka-and-mastercard-sign-agreement-to-explore-ai-agent-driven-commerce/2474442
+5. xInside Banco BAI's Core Banking Migration and Its Plan for Responsible AI (TechBullion)
+   https://techbullion.com/xinside-banco-bais-core-banking-migration-and-its-plan-for-responsible-ai/
