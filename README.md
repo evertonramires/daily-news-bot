@@ -1,25 +1,25 @@
 [![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/evertonics)
 
-What happens in tech today (2026-11-21):
+What happens in tech today (2026-11-22):
 
-# One day after the biggest IPO ever, the Nasdaq dropped 1,261 points
+# A quiet Sunday: Google pays its CEO's old school, and an AC start-up sells the bill, not the box
 
-Thursday was the party: **Anthropic listed at a $2 trillion market cap** after raising **more than $81 billion**. Its president **Daniela Amodei is now worth $24 billion**, and at **39** she is the **15th richest woman in the world**. 🥂
+**Google is giving IIT Kharagpur $5 million** for advanced AI research and talent, focused on **Indic languages, agriculture and education**. Sundar Pichai says the institute **"shaped my own"** path. 🎓
 
-Friday was the hangover. The **Nasdaq fell 1,261.47 points to 22,617.73**, more than 5% in one day. The **S&P 500 lost 265 points** and the **Dow lost 949**. 📉
+**$5 million is a small cheque for Alphabet.** It buys goodwill and a talent pipeline more than breakthroughs, and that is fine.
 
-Canada is worse: the **TSX is down 8.8% since Nov. 11 after seven straight losing days**, with tech among the stocks that sank.
+The sharper story is **Optimist**, a Bengaluru AC start-up. It spent **two and a half years on R&D**, redesigned **heat exchangers and compressor control logic** for Indian heat and humidity, and says **80-85% of an AC's lifetime cost is electricity**. **Selling the power bill, not the box, is the right pitch.** ❄️
 
-**A record IPO does not prove the AI trade is safe. It may have been the moment everyone cashed out.** All sources are listed below.
+And after last week's outages, even BuzzFeed is telling readers how to **prepare for the next big internet outage**. 🔌 All sources are listed below.
 
 Sources:
-1. After Anthropic's IPO, Daniela Amodei is now the world's 15th richest woman (Fortune)
-   https://fortune.com/2026/11/20/daniela-amodei-anthropic-ipo-richest-woman-billionaire-safety/
-2. TSX today down more than 350 points, while U.S. stocks were mixed (Bnn Bloomberg)
-   https://www.bnnbloomberg.ca/markets/2026/11/20/sptsx-composite-down-more-than-350-points-as-tech-and-base-metal-stocks-sink/
-3. TSX today down more than 350 points, while U.S. stocks were mixed (CP24 Toronto)
-   https://www.cp24.com/news/money/2026/11/20/sptsx-composite-down-more-than-350-points-as-tech-and-base-metal-stocks-sink/
-4. Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle (Phys.org)
-   https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html
-5. RTÉ chief technology officer Richard Waghorn to step down (The Irish Times)
-   https://www.irishtimes.com/media/2026/11/20/rte-chief-technology-officer-richard-waghorn-to-step-down/
+1. Google offers $5 mn to IIT Kharagpur for AI research, talent development (The Hindu)
+   https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece
+2. Optimist bets on indigenous technology to take on established AC players (The Hindu Business Line)
+   https://www.thehindubusinessline.com/companies/optimist-bets-on-indigenous-technology-to-take-on-established-ac-players/article71729263.ece
+3. What To Do To Prepare For The Next Big Internet Outage (BuzzFeed)
+   https://www.buzzfeed.com/monicatorres2/cybersecurity-failures-expert-tips-prepare
+4. How dust entering her classroom inspired 17-year-old student to invent low-cost threshing machine, winning INSPIRE Award (Livemint)
+   https://www.livemint.com/news/india/how-dust-entering-her-classroom-inspired-17-year-old-student-to-invent-low-cost-threshing-machine-winning-inspire-award-11795279138346.html
+5. INNOVATECH Launching AI-Powered Motion Tracking System at CES, Bringing Intelligent Vision Technology to Interactive Experiences (The Manila Times)
+   https://www.manilatimes.net/2026/11/22/tmt-newswire/globenewswire/innovatech-launching-ai-powered-motion-tracking-system-at-ces-bringing-intelligent-vision-technology-to-interactive-experiences/2475568
